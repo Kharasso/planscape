@@ -1,0 +1,12 @@
+  Cluster  0: 6826 plans
+  Cluster  1: 7260 plans
+  Cluster  2: 4896 plans
+  Cluster  3: 7140 plans
+  Cluster  4: 5974 plans
+  Cluster  5: 516 plans
+  Cluster  6: 6249 plans
+  Cluster  7: 213 plans
+  Cluster  8: 496 plans
+  Cluster  9: 89 plans
+  Cluster 10: 235 plans
+  Cluster 11: 106 plans

@@ -1,0 +1,481 @@
+Cluster 0 — top 10 features (feature_name, z‐score):
+  balcony_1_y                       0.50
+  balcony_1_area                    0.39
+  common_room_1_y                   0.38
+  common_room_1_area                0.36
+  balcony_1_x                       0.31
+  kitchen_1_area                    0.19
+  common_room_1_x                   0.15
+  bathroom_1_area                   0.14
+  master_room_1_area                0.13
+  kitchen_1_y                       0.11
+
+Cluster 1 — top 10 features (feature_name, z‐score):
+  bathroom_2_y                      1.95
+  bathroom_2_area                   1.86
+  bathroom_2_x                      1.82
+  common_room_2_area                1.03
+  common_room_2_x                   0.96
+  common_room_2_y                   0.94
+  living_room_1_area                0.53
+  balcony_1_y                       0.25
+  master_room_1_y                   0.18
+  master_room_1_area                0.17
+
+Cluster 2 — top 10 features (feature_name, z‐score):
+  kitchen_1_area                    0.22
+  bathroom_1_y                      0.19
+  kitchen_1_y                       0.17
+  living_room_1_y                   0.16
+  bathroom_1_area                   0.15
+  common_room_1_y                   0.14
+  common_room_1_area                0.13
+  master_room_1_area                0.12
+  master_room_1_x                   0.11
+  kitchen_1_x                       0.08
+
+Cluster 3 — top 10 features (feature_name, z‐score):
+  common_room_2_x                   0.97
+  common_room_2_area                0.95
+  balcony_1_y                       0.91
+  common_room_2_y                   0.90
+  master_room_1_y                   0.50
+  balcony_1_x                       0.34
+  balcony_1_area                    0.31
+  kitchen_1_x                       0.13
+  bathroom_1_x                      0.04
+  master_room_1_x                   0.02
+
+Cluster 4 — top 10 features (feature_name, z‐score):
+  storage_1_x                       4.64
+  storage_1_y                       4.57
+  storage_1_area                    3.79
+  living_room_1_area                0.21
+  kitchen_1_area                    0.19
+  bathroom_1_area                   0.19
+  master_room_1_area                0.16
+  common_room_1_area                0.16
+  living_room_1_y                   0.07
+  common_room_1_y                   0.06
+
+Cluster 5 — top 10 features (feature_name, z‐score):
+  bathroom_3_x                     26.29
+  bathroom_3_y                     26.26
+  bathroom_3_area                  25.83
+  bathroom_2_area                   1.69
+  bathroom_2_x                      1.68
+  bathroom_2_y                      1.48
+  living_room_1_area                0.82
+  common_room_2_x                   0.41
+  common_room_2_area                0.39
+  common_room_2_y                   0.25
+
+Cluster 6 — top 10 features (feature_name, z‐score):
+  kitchen_1_y                       1.08
+  common_room_2_y                   1.08
+  common_room_2_x                   0.90
+  common_room_2_area                0.88
+  bathroom_1_y                      0.69
+  living_room_1_y                   0.44
+  balcony_1_x                       0.32
+  balcony_1_area                    0.25
+  common_room_1_y                   0.13
+  common_room_1_x                   0.06
+
+Cluster 7 — top 10 features (feature_name, z‐score):
+  balcony_2_y                       1.89
+  balcony_2_x                       1.80
+  balcony_2_area                    1.51
+  common_room_2_y                   0.93
+  common_room_2_x                   0.90
+  common_room_2_area                0.88
+  balcony_1_x                       0.33
+  master_room_1_y                   0.20
+  kitchen_1_x                       0.16
+  bathroom_1_y                      0.11
+
+Cluster 8 — top 10 features (feature_name, z‐score):
+  common_room_3_y                   8.23
+  common_room_3_x                   8.00
+  common_room_3_area                7.81
+  common_room_2_x                   0.91
+  common_room_2_area                0.87
+  common_room_2_y                   0.74
+  living_room_1_area                0.32
+  bathroom_2_y                      0.20
+  bathroom_2_x                      0.17
+  kitchen_1_y                       0.17
+
+Cluster 9 — top 10 features (feature_name, z‐score):
+  bathroom_2_y                      1.96
+  bathroom_2_x                      1.89
+  bathroom_2_area                   1.87
+  living_room_1_area                0.42
+  master_room_1_area                0.40
+  common_room_1_area                0.38
+  common_room_1_y                   0.31
+  balcony_2_y                       0.28
+  balcony_2_area                    0.27
+  balcony_2_x                       0.27
+
+Cluster 10 — top 10 features (feature_name, z‐score):
+  kitchen_2_x                      23.25
+  kitchen_2_area                   22.74
+  kitchen_2_y                      20.16
+  master_room_1_area                0.30
+  master_room_1_x                   0.26
+  master_room_1_y                   0.17
+  dining_1_area                     0.09
+  common_room_3_x                   0.06
+  common_room_3_y                   0.03
+  dining_1_y                        0.03
+
+Cluster 11 — top 10 features (feature_name, z‐score):
+  balcony_2_y                       1.81
+  balcony_2_x                       1.76
+  balcony_2_area                    1.69
+  balcony_1_x                       0.30
+  common_room_1_y                   0.29
+  common_room_1_x                   0.16
+  bathroom_1_y                      0.14
+  kitchen_1_x                       0.11
+  common_room_1_area                0.10
+  kitchen_1_y                       0.08
+
+Cluster 12 — top 10 features (feature_name, z‐score):
+  storage_2_y                      42.90
+  storage_2_x                      40.25
+  storage_2_area                   14.98
+  storage_1_x                       4.61
+  storage_1_y                       4.03
+  storage_1_area                    1.93
+  living_room_1_area                0.70
+  bathroom_1_area                   0.39
+  dining_1_area                     0.37
+  bathroom_1_y                      0.30
+
+Cluster 13 — top 10 features (feature_name, z‐score):
+  master_room_3_area               62.99
+  master_room_3_y                  62.35
+  master_room_3_x                  55.28
+  master_room_2_x                   8.99
+  master_room_2_area                8.94
+  master_room_2_y                   7.74
+  storage_1_x                       0.56
+  living_room_1_area                0.53
+  bathroom_2_y                      0.44
+  living_room_1_x                   0.34
+
+Cluster 14 — top 10 features (feature_name, z‐score):
+  living_room_1_area                0.71
+  bathroom_2_y                      0.53
+  bathroom_2_x                      0.51
+  bathroom_2_area                   0.50
+  balcony_2_y                       0.44
+  balcony_2_x                       0.38
+  balcony_2_area                    0.32
+  master_room_1_y                   0.27
+  common_room_2_y                   0.22
+  common_room_2_area                0.20
+
+Cluster 15 — top 10 features (feature_name, z‐score):
+  storage_2_area                   69.75
+  storage_2_x                      34.05
+  storage_2_y                      31.74
+  storage_1_area                   10.42
+  storage_1_x                       3.65
+  storage_1_y                       2.73
+  dining_1_area                     1.59
+  dining_1_y                        0.85
+  bathroom_1_area                   0.69
+  living_room_1_area                0.69
+
+Cluster 16 — top 10 features (feature_name, z‐score):
+  balcony_3_y                      11.24
+  balcony_3_x                      10.99
+  balcony_3_area                    9.48
+  balcony_2_area                    1.76
+  balcony_2_x                       1.63
+  balcony_2_y                       1.08
+  balcony_1_x                       0.32
+  balcony_1_area                    0.19
+  common_room_1_y                   0.12
+  living_room_1_x                   0.11
+
+Cluster 17 — top 10 features (feature_name, z‐score):
+  master_room_1_area                1.39
+  bathroom_1_area                   1.09
+  kitchen_1_area                    0.86
+  balcony_1_area                    0.64
+  kitchen_1_y                       0.34
+  bathroom_1_y                      0.23
+  balcony_2_area                    0.15
+  living_room_1_x                   0.11
+  balcony_2_x                       0.11
+  balcony_2_y                       0.07
+
+Cluster 18 — top 10 features (feature_name, z‐score):
+  dining_1_x                        7.52
+  dining_1_y                        7.27
+  dining_1_area                     7.02
+  bathroom_1_area                   0.35
+  bathroom_1_y                      0.22
+  common_room_1_area                0.21
+  master_room_1_area                0.19
+  common_room_1_y                   0.18
+  living_room_1_y                   0.18
+  storage_1_y                       0.09
+
+Cluster 19 — top 10 features (feature_name, z‐score):
+  master_room_2_y                   9.29
+  master_room_2_area                9.23
+  master_room_2_x                   9.11
+  kitchen_1_area                    0.17
+  dining_1_area                     0.13
+  dining_1_x                        0.13
+  bathroom_2_x                      0.12
+  storage_1_y                       0.12
+  bathroom_2_area                   0.11
+  bathroom_2_y                      0.11
+
+
+
+  Cluster 0 — top 10 under‐represented features (name, z‐score):
+  common_room_2_area              -0.90
+  common_room_2_x                 -0.89
+  common_room_2_y                 -0.88
+  balcony_2_y                     -0.50
+  balcony_2_x                     -0.49
+  bathroom_2_y                    -0.47
+  balcony_2_area                  -0.45
+  bathroom_2_area                 -0.45
+  bathroom_2_x                    -0.44
+  living_room_1_area              -0.28
+
+Cluster 1 — top 10 under‐represented features (name, z‐score):
+  balcony_2_y                     -0.53
+  balcony_2_x                     -0.51
+  balcony_2_area                  -0.47
+  bathroom_1_y                    -0.46
+  common_room_1_y                 -0.30
+  bathroom_1_area                 -0.22
+  storage_1_y                     -0.19
+  storage_1_x                     -0.19
+  storage_1_area                  -0.16
+  dining_1_x                      -0.12
+
+Cluster 2 — top 10 under‐represented features (name, z‐score):
+  balcony_1_x                     -1.68
+  balcony_1_y                     -1.41
+  balcony_1_area                  -1.31
+  balcony_2_y                     -0.53
+  balcony_2_x                     -0.51
+  bathroom_2_y                    -0.49
+  balcony_2_area                  -0.47
+  bathroom_2_area                 -0.47
+  bathroom_2_x                    -0.46
+  storage_1_y                     -0.19
+
+Cluster 3 — top 10 under‐represented features (name, z‐score):
+  balcony_2_y                     -0.53
+  balcony_2_x                     -0.51
+  bathroom_2_y                    -0.49
+  balcony_2_area                  -0.47
+  bathroom_2_area                 -0.47
+  bathroom_2_x                    -0.46
+  common_room_1_y                 -0.41
+  kitchen_1_y                     -0.40
+  common_room_1_area              -0.31
+  living_room_1_y                 -0.25
+
+Cluster 4 — top 10 under‐represented features (name, z‐score):
+  balcony_2_y                     -0.26
+  balcony_2_x                     -0.26
+  common_room_2_x                 -0.24
+  balcony_2_area                  -0.24
+  common_room_2_area              -0.22
+  balcony_1_x                     -0.21
+  common_room_2_y                 -0.19
+  bathroom_2_y                    -0.19
+  bathroom_2_x                    -0.18
+  bathroom_2_area                 -0.17
+
+Cluster 5 — top 10 under‐represented features (name, z‐score):
+  bathroom_1_y                    -1.01
+  kitchen_1_x                     -0.97
+  kitchen_1_area                  -0.83
+  kitchen_1_y                     -0.76
+  balcony_1_x                     -0.71
+  balcony_2_y                     -0.53
+  balcony_2_x                     -0.51
+  balcony_2_area                  -0.47
+  balcony_1_area                  -0.42
+  living_room_1_x                 -0.31
+
+Cluster 6 — top 10 under‐represented features (name, z‐score):
+  master_room_1_y                 -1.58
+  master_room_1_area              -0.94
+  bathroom_2_y                    -0.46
+  master_room_1_x                 -0.45
+  bathroom_2_area                 -0.45
+  bathroom_2_x                    -0.44
+  balcony_2_y                     -0.39
+  balcony_2_x                     -0.39
+  balcony_2_area                  -0.35
+  storage_1_y                     -0.19
+
+Cluster 7 — top 10 under‐represented features (name, z‐score):
+  balcony_1_y                     -0.57
+  bathroom_2_y                    -0.49
+  bathroom_2_area                 -0.47
+  bathroom_2_x                    -0.46
+  common_room_1_y                 -0.27
+  common_room_1_area              -0.23
+  storage_1_y                     -0.19
+  storage_1_x                     -0.19
+  storage_1_area                  -0.16
+  dining_1_x                      -0.12
+
+Cluster 8 — top 10 under‐represented features (name, z‐score):
+  master_room_1_area              -1.77
+  master_room_1_y                 -1.63
+  master_room_1_x                 -1.16
+  balcony_1_x                     -0.45
+  common_room_1_y                 -0.40
+  balcony_2_y                     -0.37
+  balcony_2_x                     -0.36
+  balcony_2_area                  -0.33
+  balcony_1_y                     -0.28
+  common_room_1_area              -0.26
+
+Cluster 9 — top 10 under‐represented features (name, z‐score):
+  common_room_2_area              -0.90
+  common_room_2_x                 -0.90
+  common_room_2_y                 -0.89
+  bathroom_1_y                    -0.35
+  bathroom_1_area                 -0.20
+  storage_1_y                     -0.19
+  storage_1_x                     -0.19
+  storage_1_area                  -0.16
+  balcony_1_y                     -0.16
+  dining_1_x                      -0.12
+
+Cluster 10 — top 10 under‐represented features (name, z‐score):
+  bathroom_1_area                 -0.42
+  kitchen_1_area                  -0.35
+  balcony_2_x                     -0.30
+  balcony_2_y                     -0.30
+  living_room_1_y                 -0.27
+  common_room_2_x                 -0.26
+  bathroom_1_x                    -0.26
+  balcony_2_area                  -0.23
+  common_room_1_x                 -0.22
+  kitchen_1_y                     -0.22
+
+Cluster 11 — top 10 under‐represented features (name, z‐score):
+  common_room_2_area              -0.89
+  common_room_2_x                 -0.88
+  common_room_2_y                 -0.88
+  bathroom_2_y                    -0.48
+  bathroom_2_area                 -0.46
+  balcony_1_y                     -0.46
+  bathroom_2_x                    -0.45
+  living_room_1_area              -0.23
+  storage_1_y                     -0.19
+  storage_1_x                     -0.19
+
+Cluster 12 — top 10 under‐represented features (name, z‐score):
+  common_room_2_x                 -0.68
+  balcony_1_x                     -0.65
+  kitchen_1_x                     -0.59
+  common_room_2_y                 -0.58
+  common_room_2_area              -0.58
+  bathroom_2_y                    -0.49
+  bathroom_2_area                 -0.47
+  bathroom_2_x                    -0.46
+  balcony_2_x                     -0.39
+  balcony_2_y                     -0.38
+
+Cluster 13 — top 10 under‐represented features (name, z‐score):
+  common_room_1_area              -3.41
+  common_room_1_x                 -2.89
+  common_room_1_y                 -2.46
+  master_room_1_y                 -1.46
+  master_room_1_area              -0.99
+  common_room_2_area              -0.91
+  common_room_2_x                 -0.90
+  balcony_1_y                     -0.90
+  common_room_2_y                 -0.90
+  balcony_1_x                     -0.88
+
+Cluster 14 — top 10 under‐represented features (name, z‐score):
+  kitchen_1_x                     -2.59
+  kitchen_1_area                  -2.56
+  kitchen_1_y                     -1.85
+  living_room_1_y                 -0.24
+  balcony_1_y                     -0.22
+  storage_1_y                     -0.19
+  storage_1_x                     -0.19
+  storage_1_area                  -0.16
+  dining_1_x                      -0.12
+  common_room_3_y                 -0.12
+
+Cluster 15 — top 10 under‐represented features (name, z‐score):
+  common_room_2_x                 -0.57
+  balcony_1_x                     -0.56
+  balcony_2_y                     -0.53
+  balcony_2_x                     -0.51
+  balcony_2_area                  -0.47
+  common_room_2_y                 -0.45
+  kitchen_1_y                     -0.33
+  common_room_2_area              -0.31
+  bathroom_2_y                    -0.24
+  bathroom_2_area                 -0.23
+
+Cluster 16 — top 10 under‐represented features (name, z‐score):
+  common_room_2_x                 -0.78
+  common_room_2_area              -0.76
+  common_room_2_y                 -0.75
+  balcony_1_y                     -0.64
+  bathroom_2_y                    -0.43
+  bathroom_2_x                    -0.41
+  bathroom_2_area                 -0.41
+  kitchen_1_area                  -0.26
+  common_room_1_area              -0.25
+  kitchen_1_x                     -0.19
+
+Cluster 17 — top 10 under‐represented features (name, z‐score):
+  common_room_1_area              -3.41
+  common_room_1_x                 -2.89
+  common_room_1_y                 -2.46
+  common_room_2_area              -0.91
+  common_room_2_x                 -0.90
+  common_room_2_y                 -0.90
+  bathroom_2_y                    -0.38
+  bathroom_2_x                    -0.36
+  bathroom_2_area                 -0.35
+  master_room_1_y                 -0.24
+
+Cluster 18 — top 10 under‐represented features (name, z‐score):
+  living_room_1_area              -0.51
+  balcony_1_x                     -0.51
+  balcony_1_area                  -0.35
+  balcony_2_y                     -0.35
+  balcony_2_x                     -0.33
+  balcony_2_area                  -0.33
+  balcony_1_y                     -0.33
+  common_room_2_x                 -0.25
+  bathroom_2_y                    -0.24
+  common_room_2_y                 -0.22
+
+Cluster 19 — top 10 under‐represented features (name, z‐score):
+  common_room_1_area              -1.31
+  common_room_1_x                 -1.07
+  master_room_1_y                 -0.88
+  common_room_2_area              -0.86
+  common_room_2_x                 -0.83
+  common_room_2_y                 -0.83
+  common_room_1_y                 -0.70
+  master_room_1_x                 -0.20
+  master_room_1_area              -0.18
+  balcony_1_x                     -0.15

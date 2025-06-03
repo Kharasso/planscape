@@ -1,0 +1,144 @@
+
+Cluster 0 — top 10 features (feature_name, z‐score):
+  master_room_count_cell1           1.63
+  kitchen_count_cell2               1.60
+  master_room_area_cell1            1.59
+  kitchen_area_cell2                1.50
+  storage_count_cell3               0.42
+  storage_count_cell2               0.39
+  balcony_area_cell0                0.33
+  common_room_count_cell3           0.33
+  storage_area_cell3                0.31
+  bathroom_area_cell3               0.30
+
+Cluster 1 — top 10 features (feature_name, z‐score):
+  master_room_count_cell2           1.20
+  master_room_area_cell2            1.18
+  living_room_count_cell1           1.11
+  living_room_area_cell1            1.08
+  common_room_area_cell3            0.61
+  common_room_count_cell3           0.55
+  kitchen_count_cell1               0.43
+  kitchen_area_cell1                0.38
+  bathroom_count_cell0              0.33
+  bathroom_area_cell0               0.31
+
+Cluster 2 — top 10 features (feature_name, z‐score):
+  master_room_count_cell0           1.94
+  master_room_area_cell0            1.87
+  kitchen_count_cell3               1.85
+  kitchen_area_cell3                1.69
+  balcony_area_cell1                0.50
+  common_room_count_cell2           0.50
+  common_room_area_cell2            0.45
+  balcony_count_cell1               0.35
+  bathroom_count_cell2              0.29
+  bathroom_area_cell2               0.27
+
+Cluster 3 — top 10 features (feature_name, z‐score):
+  master_room_count_cell3           1.28
+  master_room_area_cell3            1.25
+  living_room_count_cell0           1.08
+  living_room_area_cell0            1.06
+  common_room_area_cell2            0.65
+  common_room_count_cell2           0.58
+  kitchen_count_cell0               0.45
+  kitchen_area_cell0                0.42
+  bathroom_count_cell1              0.38
+  bathroom_area_cell1               0.35
+
+Cluster 4 — top 10 features (feature_name, z‐score):
+  living_room_count_cell2           1.73
+  living_room_area_cell2            1.71
+  master_room_count_cell3           1.19
+  master_room_area_cell3            1.14
+  common_room_count_cell1           0.99
+  common_room_area_cell1            0.98
+  kitchen_count_cell0               0.87
+  kitchen_area_cell0                0.79
+  bathroom_count_cell1              0.57
+  bathroom_area_cell1               0.54
+
+Cluster 5 — top 10 features (feature_name, z‐score):
+  storage_count_cell0               8.76
+  storage_area_cell0                7.01
+  kitchen_area_cell1                0.19
+  balcony_area_cell3                0.17
+  master_room_area_cell2            0.17
+  master_room_count_cell2           0.17
+  living_room_area_cell3            0.15
+  kitchen_count_cell1               0.14
+  balcony_count_cell3               0.14
+  living_room_count_cell3           0.13
+
+Cluster 6 — top 10 features (feature_name, z‐score):
+  living_room_count_cell3           1.63
+  living_room_area_cell3            1.62
+  master_room_count_cell2           1.19
+  master_room_area_cell2            1.15
+  common_room_area_cell0            1.01
+  common_room_count_cell0           1.01
+  kitchen_count_cell1               0.85
+  kitchen_area_cell1                0.77
+  bathroom_count_cell0              0.55
+  bathroom_area_cell0               0.52
+
+Cluster 7 — top 10 features (feature_name, z‐score):
+  dining_count_cell0               13.30
+  dining_area_cell0                12.10
+  kitchen_count_cell0               0.62
+  master_room_area_cell3            0.62
+  master_room_count_cell3           0.58
+  kitchen_area_cell0                0.51
+  bathroom_area_cell1               0.34
+  living_room_count_cell2           0.33
+  common_room_area_cell1            0.24
+  bathroom_count_cell1              0.23
+
+Cluster 8 — top 10 features (feature_name, z‐score):
+  storage_count_cell1               8.84
+  storage_area_cell1                7.12
+  living_room_area_cell2            0.12
+  living_room_area_cell3            0.12
+  kitchen_area_cell0                0.11
+  master_room_area_cell3            0.11
+  master_room_count_cell3           0.10
+  kitchen_area_cell1                0.09
+  living_room_count_cell2           0.08
+  bathroom_area_cell0               0.07
+
+Cluster 9 — top 10 features (feature_name, z‐score):
+  dining_count_cell3               21.28
+  dining_area_cell3                17.75
+  kitchen_count_cell3               1.76
+  kitchen_area_cell3                1.64
+  master_room_area_cell0            1.39
+  master_room_count_cell0           1.33
+  bathroom_area_cell3               0.38
+  bathroom_area_cell2               0.32
+  storage_count_cell0               0.28
+  living_room_count_cell2           0.28
+
+Cluster 10 — top 10 features (feature_name, z‐score):
+  dining_count_cell1               13.06
+  dining_area_cell1                12.03
+  kitchen_count_cell1               0.55
+  kitchen_area_cell1                0.50
+  master_room_area_cell2            0.47
+  master_room_count_cell2           0.39
+  bathroom_area_cell0               0.25
+  living_room_count_cell3           0.22
+  common_room_area_cell0            0.21
+  storage_count_cell2               0.20
+
+Cluster 11 — top 10 features (feature_name, z‐score):
+  dining_count_cell2               19.68
+  dining_area_cell2                17.70
+  kitchen_count_cell2               1.77
+  kitchen_area_cell2                1.49
+  master_room_area_cell1            1.38
+  master_room_count_cell1           1.28
+  master_room_area_cell0            0.46
+  master_room_count_cell0           0.43
+  storage_area_cell0                0.42
+  storage_count_cell0               0.30
