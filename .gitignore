@@ -175,6 +175,7 @@ cython_debug/
 
 data/
 output/
+annotation/
 
 *.pkl
 *.csv

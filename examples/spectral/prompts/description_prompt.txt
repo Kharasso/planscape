@@ -1,0 +1,10 @@
+Analyze these {num_shots} verbal descriptions of apartments with similar layouts. 
+Identify common room types, spatial relationships, size patterns, and distinguishing features.
+
+Descriptions::
+
+Example {i}:
+
+{description}
+
+Provide a concise summary of typical room arrangements, proportions, and unique characteristics.

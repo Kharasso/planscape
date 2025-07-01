@@ -1,0 +1,11 @@
+Analyze these {num_shots} apartment graph representations. Note that  nodes=rooms, edges=adjacencies.
+Note that these representations also include graphs where nodes=rooms, edges=adjacencies. 
+Identify common room types, spatial relationships, size patterns, and distinguishing features.
+
+Graph Examples:
+
+Example {i}:
+
+{example_prettified_json}
+
+Provide a concise summary of typical room arrangements, proportions, and unique characteristics.
