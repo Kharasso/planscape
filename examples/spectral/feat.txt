@@ -1,0 +1,260 @@
+
+Top 10 features for cluster 0
+tri_1_2_4_avg_x            0.126840
+tri_1_2_4_area_ratio_jk    0.078693
+tri_1_2_4_count            0.072101
+tri_1_2_4_avg_y            0.068876
+bi_2_4_avg_x               0.050498
+bi_1_4_avg_x               0.047358
+tri_1_2_4_area_ratio_ij    0.046772
+bi_1_2_avg_x               0.034128
+tri_1_2_3_avg_x            0.026270
+bi_1_4_area_ratio          0.021547
+dtype: float64
+
+Top 10 features for cluster 1
+bi_1_6_avg_x       0.055791
+tri_2_3_5_avg_x    0.045650
+tri_1_3_6_avg_x    0.040050
+bi_2_5_avg_x       0.036547
+uni_6_avg_x        0.033176
+bi_3_4_avg_x       0.030596
+uni_2_avg_x        0.025357
+bi_1_6_avg_y       0.024769
+uni_1_avg_x        0.021594
+bi_2_3_avg_x       0.020977
+dtype: float64
+
+Top 10 features for cluster 2
+bi_1_6_avg_x       0.054605
+tri_1_3_6_avg_x    0.043819
+tri_2_3_5_avg_x    0.042796
+bi_2_5_avg_x       0.031780
+bi_3_4_avg_x       0.028585
+uni_2_avg_x        0.028085
+bi_1_6_avg_y       0.027694
+uni_6_avg_x        0.027160
+bi_2_3_avg_x       0.026925
+uni_4_avg_x        0.023404
+dtype: float64
+
+Top 10 features for cluster 3
+tri_2_3_6_count            0.133942
+bi_2_6_area_ratio          0.099911
+tri_2_3_6_area_ratio_jk    0.098316
+tri_2_3_6_area_ratio_ij    0.090313
+bi_2_6_count               0.080448
+tri_2_3_6_avg_y            0.058221
+bi_2_6_avg_y               0.057747
+tri_2_3_6_avg_x            0.033080
+bi_2_6_avg_x               0.032997
+tri_2_4_6_avg_y            0.020451
+dtype: float64
+
+Top 10 features for cluster 4
+tri_1_5_6_count            0.214860
+tri_1_5_6_area_ratio_ij    0.173891
+tri_1_5_6_area_ratio_jk    0.171630
+tri_1_5_6_avg_y            0.125553
+tri_1_5_6_avg_x            0.097819
+tri_1_3_6_area_ratio_jk    0.011113
+bi_1_5_area_ratio          0.007827
+bi_1_6_area_ratio          0.007671
+bi_5_6_area_ratio          0.006367
+bi_1_6_count               0.006265
+dtype: float64
+
+Top 10 features for cluster 5
+tri_1_2_5_count            0.163783
+tri_1_2_5_area_ratio_jk    0.152234
+tri_1_2_5_area_ratio_ij    0.148961
+tri_1_2_5_avg_y            0.131939
+tri_1_2_5_avg_x            0.080303
+bi_1_5_count               0.019734
+bi_1_2_count               0.014534
+uni_5_count                0.011452
+tri_1_2_3_count            0.009940
+tri_2_3_5_count            0.009207
+dtype: float64
+
+Top 10 features for cluster 6
+tri_2_3_4_avg_y            0.040482
+uni_4_avg_y                0.036865
+bi_3_4_avg_y               0.031215
+tri_2_3_4_area_ratio_jk    0.029429
+uni_4_aspect               0.028592
+bi_2_4_avg_y               0.025866
+uni_1_avg_y                0.021771
+tri_2_3_4_area_ratio_ij    0.020146
+tri_2_3_5_avg_y            0.018842
+tri_2_3_5_area_ratio_jk    0.018593
+dtype: float64
+
+Top 10 features for cluster 7
+tri_1_4_6_avg_x            0.148168
+tri_1_4_6_area_ratio_jk    0.080756
+tri_1_4_6_area_ratio_ij    0.069613
+tri_1_4_6_count            0.066139
+bi_4_6_avg_x               0.061312
+tri_1_4_6_avg_y            0.054410
+bi_1_4_avg_x               0.051948
+bi_1_6_avg_x               0.041514
+tri_1_3_6_avg_x            0.032386
+uni_6_avg_x                0.024110
+dtype: float64
+
+Top 10 features for cluster 8
+bi_4_6_area_ratio          0.029250
+tri_1_2_4_area_ratio_jk    0.023973
+tri_1_2_4_count            0.019869
+bi_4_6_avg_y               0.018851
+bi_4_6_count               0.018706
+tri_1_2_4_area_ratio_ij    0.018276
+tri_1_2_4_avg_y            0.018159
+tri_3_5_6_area_ratio_ij    0.016696
+tri_2_3_6_area_ratio_jk    0.015139
+tri_2_3_6_count            0.014967
+dtype: float64
+
+Top 10 features for cluster 9
+tri_1_4_5_count            0.188284
+tri_1_4_5_avg_y            0.137519
+tri_1_4_5_area_ratio_ij    0.129687
+tri_1_4_5_area_ratio_jk    0.110192
+tri_1_4_5_avg_x            0.085444
+bi_4_5_avg_y               0.019376
+bi_4_5_area_ratio          0.018200
+bi_1_4_count               0.016812
+bi_1_4_avg_y               0.016263
+bi_1_4_area_ratio          0.015055
+dtype: float64
+
+Top 10 features for cluster 10
+tri_2_4_6_area_ratio_jk    0.198396
+tri_2_4_6_avg_y            0.158954
+tri_2_4_6_area_ratio_ij    0.149848
+tri_2_4_6_count            0.146106
+tri_2_4_6_avg_x            0.090196
+bi_4_6_avg_x               0.022651
+tri_2_3_6_count            0.017124
+bi_4_6_area_ratio          0.016650
+bi_2_6_area_ratio          0.016533
+bi_4_6_count               0.014734
+dtype: float64
+
+Top 10 features for cluster 11
+tri_4_5_6_avg_x            0.075346
+bi_4_5_avg_x               0.059177
+tri_4_5_6_count            0.041060
+bi_4_6_avg_x               0.035049
+bi_5_6_avg_x               0.033234
+tri_4_5_6_area_ratio_jk    0.030565
+tri_4_5_6_avg_y            0.029725
+uni_6_avg_x                0.025012
+tri_1_4_5_area_ratio_jk    0.024859
+tri_2_4_5_area_ratio_ij    0.024666
+dtype: float64
+
+Top 10 features for cluster 12
+tri_2_5_6_area_ratio_ij    0.196322
+tri_2_5_6_count            0.175846
+tri_2_5_6_avg_y            0.142955
+tri_2_5_6_area_ratio_jk    0.114303
+tri_2_5_6_avg_x            0.085855
+bi_2_6_area_ratio          0.022872
+bi_5_6_area_ratio          0.020788
+bi_2_5_avg_y               0.018847
+bi_2_5_count               0.016257
+bi_5_6_avg_y               0.015186
+dtype: float64
+
+Top 10 features for cluster 13
+uni_2_total_area     0.174057
+uni_2_aspect         0.137910
+uni_2_count          0.121842
+bi_2_3_count         0.104949
+bi_2_3_area_ratio    0.078058
+bi_2_3_avg_y         0.066496
+uni_2_avg_y          0.034310
+bi_1_3_count         0.015637
+uni_1_total_area     0.013539
+uni_2_avg_x          0.012763
+dtype: float64
+
+Top 10 features for cluster 14
+tri_2_4_5_area_ratio_ij    0.181120
+tri_2_4_5_count            0.159533
+tri_2_4_5_area_ratio_jk    0.158403
+tri_2_4_5_avg_y            0.135662
+tri_2_4_5_avg_x            0.105991
+bi_2_4_count               0.027829
+bi_4_5_avg_y               0.016900
+bi_4_5_area_ratio          0.014458
+bi_4_5_count               0.010593
+bi_4_5_avg_x               0.008964
+dtype: float64
+
+Top 10 features for cluster 15
+uni_6_count                0.185220
+uni_6_aspect               0.141059
+bi_3_6_count               0.102776
+bi_3_6_area_ratio          0.098333
+uni_6_total_area           0.087719
+bi_3_6_avg_y               0.055524
+uni_6_avg_y                0.046998
+uni_6_avg_x                0.027806
+bi_3_6_avg_x               0.015492
+tri_1_2_5_area_ratio_jk    0.008789
+dtype: float64
+
+Top 10 features for cluster 16
+tri_4_5_6_avg_x            0.096342
+bi_4_5_avg_x               0.068527
+tri_4_5_6_area_ratio_jk    0.039878
+tri_4_5_6_avg_y            0.038367
+tri_4_5_6_area_ratio_ij    0.038238
+bi_4_6_avg_x               0.037695
+bi_5_6_avg_x               0.036573
+tri_4_5_6_count            0.033473
+tri_3_5_6_avg_x            0.030518
+tri_1_4_5_area_ratio_jk    0.028020
+dtype: float64
+
+Top 10 features for cluster 17
+tri_1_4_6_avg_x            0.140038
+tri_1_4_6_count            0.085314
+tri_1_4_6_area_ratio_ij    0.079253
+bi_1_4_avg_x               0.061690
+tri_1_4_6_area_ratio_jk    0.059858
+bi_4_6_avg_x               0.056921
+tri_1_4_6_avg_y            0.055203
+bi_1_6_avg_x               0.039739
+tri_1_3_6_avg_x            0.025194
+uni_6_avg_x                0.018835
+dtype: float64
+
+Top 10 features for cluster 18
+tri_1_2_4_avg_x            0.137108
+tri_1_2_4_area_ratio_ij    0.063045
+tri_1_2_4_count            0.062891
+bi_1_4_avg_x               0.060063
+bi_2_4_avg_x               0.055195
+uni_4_avg_x                0.052109
+tri_1_2_4_avg_y            0.049460
+tri_1_2_4_area_ratio_jk    0.048503
+bi_1_2_avg_x               0.041595
+tri_1_2_3_avg_x            0.033453
+dtype: float64
+
+Top 10 features for cluster 19
+tri_3_4_6_avg_y            0.120434
+tri_3_4_6_area_ratio_ij    0.094673
+tri_3_4_6_count            0.092802
+tri_3_4_6_area_ratio_jk    0.075442
+tri_3_4_6_avg_x            0.049553
+bi_4_6_area_ratio          0.043106
+bi_4_6_avg_y               0.030665
+bi_4_6_count               0.026924
+bi_3_4_count               0.022241
+bi_4_5_area_ratio          0.021281
+dtype: float64

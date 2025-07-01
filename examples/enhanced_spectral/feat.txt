@@ -1,0 +1,259 @@
+=== Top 10 features for cluster 0 ===
+uni_3_total_area           0.280427
+bi_1_3_area_ratio          0.066052
+uni_1_total_area           0.049453
+bi_2_3_area_ratio          0.032191
+uni_2_total_area           0.029864
+tri_1_3_5_area_ratio_ij    0.022142
+uni_6_total_area           0.021441
+uni_5_total_area           0.019069
+bi_1_3_count               0.016969
+uni_1_count                0.016009
+dtype: float64
+
+=== Top 10 features for cluster 1 ===
+uni_3_total_area           0.117560
+uni_4_total_area           0.063366
+uni_1_total_area           0.052094
+bi_1_3_area_ratio          0.032914
+bi_2_3_area_ratio          0.028133
+bi_3_4_area_ratio          0.023401
+uni_2_total_area           0.019417
+tri_1_3_5_area_ratio_ij    0.018410
+uni_4_count                0.018062
+uni_4_avg_y                0.017644
+dtype: float64
+
+=== Top 10 features for cluster 2 ===
+uni_3_total_area           0.121301
+bi_1_3_area_ratio          0.061962
+uni_1_total_area           0.058860
+uni_2_total_area           0.056156
+bi_2_3_area_ratio          0.041909
+uni_4_total_area           0.035909
+bi_3_4_area_ratio          0.028967
+tri_1_3_5_area_ratio_ij    0.022055
+uni_5_total_area           0.018373
+tri_2_3_5_area_ratio_ij    0.017870
+dtype: float64
+
+=== Top 10 features for cluster 3 ===
+uni_3_total_area           0.168721
+uni_1_total_area           0.062813
+bi_2_3_area_ratio          0.055127
+uni_2_total_area           0.053527
+bi_1_3_area_ratio          0.049002
+uni_4_total_area           0.045908
+bi_3_4_area_ratio          0.019201
+tri_1_3_5_area_ratio_ij    0.018322
+tri_1_2_3_area_ratio_jk    0.016902
+bi_1_3_count               0.016747
+dtype: float64
+
+=== Top 10 features for cluster 4 ===
+uni_1_total_area           0.103893
+uni_3_total_area           0.095878
+bi_1_3_area_ratio          0.090605
+tri_1_3_5_area_ratio_ij    0.053580
+tri_1_3_6_area_ratio_ij    0.032368
+uni_2_total_area           0.025408
+bi_2_3_area_ratio          0.023002
+bi_1_2_area_ratio          0.021366
+tri_1_2_3_area_ratio_ij    0.021104
+tri_1_2_3_area_ratio_jk    0.017266
+dtype: float64
+
+=== Top 10 features for cluster 5 ===
+uni_1_total_area           0.158178
+uni_3_total_area           0.109176
+bi_1_3_area_ratio          0.060257
+uni_2_total_area           0.046211
+tri_1_3_5_area_ratio_ij    0.033116
+bi_2_3_area_ratio          0.023435
+uni_5_total_area           0.023034
+uni_6_total_area           0.015888
+bi_1_2_area_ratio          0.015046
+tri_1_3_6_area_ratio_ij    0.014402
+dtype: float64
+
+=== Top 10 features for cluster 6 ===
+uni_3_total_area           0.174728
+bi_1_3_area_ratio          0.062326
+uni_1_total_area           0.050676
+bi_2_3_area_ratio          0.043684
+uni_2_total_area           0.031446
+tri_1_3_5_area_ratio_ij    0.023931
+uni_4_total_area           0.023459
+bi_1_3_count               0.018782
+uni_1_count                0.017085
+bi_3_4_area_ratio          0.016142
+dtype: float64
+
+=== Top 10 features for cluster 7 ===
+uni_2_total_area           0.109728
+bi_2_3_area_ratio          0.106659
+uni_1_total_area           0.075855
+uni_1_count                0.074668
+bi_1_3_area_ratio          0.052009
+bi_1_3_count               0.049707
+uni_1_aspect               0.047390
+tri_2_3_5_area_ratio_ij    0.047364
+bi_1_3_avg_y               0.033542
+bi_2_3_count               0.029671
+dtype: float64
+
+=== Top 10 features for cluster 8 ===
+uni_3_total_area           0.261844
+uni_1_total_area           0.058795
+bi_1_3_area_ratio          0.044473
+bi_2_3_area_ratio          0.038057
+uni_2_total_area           0.031149
+tri_1_3_5_area_ratio_ij    0.025445
+uni_5_total_area           0.019921
+bi_3_5_area_ratio          0.015520
+uni_4_total_area           0.014488
+bi_1_3_count               0.013150
+dtype: float64
+
+=== Top 10 features for cluster 9 ===
+uni_2_total_area     0.192864
+uni_2_aspect         0.147349
+uni_2_count          0.127537
+bi_2_3_count         0.099762
+bi_2_3_area_ratio    0.088266
+bi_2_3_avg_y         0.069802
+uni_2_avg_y          0.038989
+bi_1_3_count         0.019397
+uni_1_total_area     0.017561
+uni_2_avg_x          0.014577
+dtype: float64
+
+=== Top 10 features for cluster 10 ===
+bi_2_3_area_ratio          0.090012
+uni_1_count                0.086845
+uni_1_total_area           0.081185
+uni_1_aspect               0.071077
+uni_2_total_area           0.055519
+bi_1_3_area_ratio          0.054807
+bi_1_3_count               0.047211
+uni_3_total_area           0.042276
+bi_1_3_avg_y               0.036354
+tri_2_3_5_area_ratio_ij    0.031360
+dtype: float64
+
+=== Top 10 features for cluster 11 ===
+uni_3_total_area           0.103897
+uni_1_total_area           0.071790
+uni_4_total_area           0.050864
+uni_2_total_area           0.050289
+bi_1_3_area_ratio          0.048505
+bi_2_3_area_ratio          0.032103
+uni_5_total_area           0.022948
+uni_4_count                0.022460
+uni_4_aspect               0.020041
+tri_1_3_5_area_ratio_ij    0.019024
+dtype: float64
+
+=== Top 10 features for cluster 12 ===
+uni_3_total_area     0.106422
+uni_4_total_area     0.091112
+bi_3_4_area_ratio    0.055949
+uni_1_total_area     0.051677
+bi_4_6_area_ratio    0.039988
+uni_2_total_area     0.031417
+bi_2_4_area_ratio    0.025893
+bi_1_3_area_ratio    0.025696
+bi_2_3_area_ratio    0.019855
+uni_4_count          0.018252
+dtype: float64
+
+=== Top 10 features for cluster 13 ===
+uni_3_total_area           0.136996
+uni_1_total_area           0.100888
+bi_1_3_area_ratio          0.057757
+uni_2_total_area           0.044101
+tri_1_3_5_area_ratio_ij    0.028839
+bi_2_3_area_ratio          0.026498
+uni_4_total_area           0.025024
+tri_1_2_3_area_ratio_ij    0.023029
+uni_1_count                0.022458
+bi_1_2_area_ratio          0.021058
+dtype: float64
+
+=== Top 10 features for cluster 14 ===
+uni_4_total_area           0.250444
+bi_4_6_area_ratio          0.100129
+bi_3_4_area_ratio          0.070621
+tri_3_4_6_area_ratio_jk    0.033115
+bi_4_5_area_ratio          0.029266
+bi_2_4_area_ratio          0.027300
+bi_1_4_area_ratio          0.023549
+tri_2_3_4_area_ratio_jk    0.022831
+uni_1_total_area           0.014894
+tri_3_4_5_area_ratio_jk    0.014884
+dtype: float64
+
+=== Top 10 features for cluster 15 ===
+uni_3_total_area           0.161437
+bi_1_3_area_ratio          0.095425
+uni_1_total_area           0.068506
+tri_1_3_6_area_ratio_ij    0.044534
+bi_2_3_area_ratio          0.036850
+tri_1_3_5_area_ratio_ij    0.035585
+uni_2_total_area           0.030893
+bi_1_2_area_ratio          0.029567
+tri_1_2_3_area_ratio_jk    0.029380
+tri_1_2_3_area_ratio_ij    0.026765
+dtype: float64
+
+=== Top 10 features for cluster 16 ===
+uni_3_total_area           0.191790
+bi_2_3_area_ratio          0.106899
+tri_1_2_3_area_ratio_jk    0.074670
+bi_1_3_area_ratio          0.042006
+uni_1_total_area           0.037529
+uni_2_total_area           0.033356
+tri_2_3_5_area_ratio_ij    0.025400
+bi_3_6_area_ratio          0.023793
+uni_1_count                0.018397
+bi_1_3_count               0.017602
+dtype: float64
+
+=== Top 10 features for cluster 17 ===
+uni_1_total_area     0.096093
+uni_3_total_area     0.063661
+bi_1_3_area_ratio    0.062619
+uni_4_total_area     0.060727
+uni_2_total_area     0.048765
+bi_2_3_area_ratio    0.041812
+uni_4_count          0.038978
+bi_1_3_count         0.031379
+uni_4_aspect         0.029358
+uni_4_avg_y          0.027834
+dtype: float64
+
+=== Top 10 features for cluster 18 ===
+uni_3_total_area           0.132610
+uni_1_total_area           0.081918
+bi_1_3_area_ratio          0.056065
+uni_4_total_area           0.040758
+tri_1_3_5_area_ratio_ij    0.033700
+bi_2_3_area_ratio          0.026565
+bi_1_3_count               0.023505
+bi_3_4_area_ratio          0.022813
+uni_1_count                0.022423
+uni_2_total_area           0.021526
+dtype: float64
+
+=== Top 10 features for cluster 19 ===
+uni_2_total_area           0.109277
+uni_3_total_area           0.083918
+bi_2_3_area_ratio          0.071110
+uni_1_total_area           0.046720
+bi_1_3_area_ratio          0.039642
+tri_2_3_5_area_ratio_ij    0.028195
+tri_1_2_3_area_ratio_jk    0.024106
+uni_6_total_area           0.019315
+uni_1_count                0.018125
+tri_1_2_3_area_ratio_ij    0.017772
+dtype: float64
