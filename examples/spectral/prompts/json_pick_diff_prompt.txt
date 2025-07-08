@@ -1,0 +1,10 @@
+I am showing you {num_shots} examples of graph representations of apartments. {num_shots-1} out of these graphs share the same underlying floorplan pattern and 1 out of them has a different floorplan pattern.
+Note that in these graphs, nodes=rooms, links=adjacencies.
+
+Example {i}:
+
+{example_prettified_json}
+
+After looking at these graphs, pay attention to spatial relationships between the rooms, their types, and size. 
+Based on these examples, can you identify the example that has a different floorplan from the others? 
+Please also tell me why this one is picked, based on what features?
