@@ -1,0 +1,24 @@
+ID: 41154, description: balcony at south west corner downside of master room size 10*3 feet bathroom at west direction left side of living room upside of master room size 10*3 feet common room 1 at north east corner right side of kitchen upside of living room size 10*10 feet common room 2 at south east corner right side of master room  size 10*15 feet kitchen at north west corner of plan image upside of living room ,left side of common room 1 size 10*6 feet living room at centre of plan image upside of master room and common room 2 size 20*15 feet master room at south west direction left side of common room2 size 10*15 feet
+
+ID: 43375, description: Balcony  is in the south of house.it has master room in north.it's dimensions are 4 feet in length and 10 feet in breadth. Bathroom is in the west of house.it has living room in east, Master room is in the south.it's dimensions are 8 feet in length and 4 feet in breadth. Common room 1 is in the north east corner of house.it has kitchen in west and living room in south.it's dimensions are 10 feet in length and 8 feet in breadth. Common room 2 is in the south east corner of house.it has living room in north and master room in south.it's dimensions are 15 feet in length and 8 feet in breadth. Kitchen is in the north west corner of house.it has living room in south, Common room 1 east side.it dimensions are 15 feet in length and 6 feet in breadth. Living room is in center of house.it has bath room in east side and common room 1,kitchen in north side,mater room and common room 2 in south.it's dimensions are 15 feet in length and 15 feet in breadth in average. Master room is in the south west side of house.it has balcony in south bathroom and living room  in north.it's dimensions are 15 feet in length and 10 feet in breadth.
+
+ID: 25447, description: Location: Balcony 1 is to the south of the floor plan.
+Relationship: It is exactly to the south of the living room.
+Size: It is about 4 feet by 18 feet. Location: Balcony 2 is to the North of the floor plan.
+Relationship: The balcony_2 is exactly to the north of the master room.
+Size: It is about 4 feet by 18 feet. Location: The bathroom is on the East of the floor plan.
+Relationship: It is on the Southern side of the common room.
+Size: It is about 4 feet by 6 feet. Location: The common room is on the North east of the floor plan.
+Relationship: It is to the west of the master room.
+Size: It is about 18feet by 12 feet. Location: The kitchen is on the south-east of the floor plan.
+Relationship: It is on the west of the balcony_1
+Size: It is about 20 feet by 10 feet. Location:  The living room is on the southern-west central part of the floor plan.
+Relationship: It is to the south of the master room.
+Size: It is about 655 square feet. Location: The master room is on the North Western part of the floor plan.
+Relationship: It is exactly to the North of the floor plan.
+Size: It is about 18feet by18feet.
+
+ID: 59474, description: balcony is in the south east corner side. It is opposite of the master room. The size of the room is 3 * 10 bathroom is in the south west corner side. It is next to the living room. It is about the size of  10*5 common room is  in the north east corner side. It is next to the master room. The size of the room is  10 *12 kitchen is in the north west side corner. It is next to the  bathroom. The size of the room is 15 *10 living room is in between the kitchen and common room. It is facing to the north side. The size of the room is 20 *25 master room is in the south east side. It is next to the balcony. it is about the size of 10*10
+
+ID: 25618, description: balcony is in north side of the house, next to kitchen, living room, size is 120 sqft. bathroom is in west side of the house, next to master room, common room, size is 80 sqft. common room is in west side of the house, next to bathroom, living room, size is 150 sqft. kitchen is in north east corner of the house, next to living room and balcony, size is 108 sqft. living room is in north side of the house, next to balcony, common room and kitchen, size is 560 sqft. master room is in south west corner of the house, next to bathroom, living room, size is 210 sqft.
+

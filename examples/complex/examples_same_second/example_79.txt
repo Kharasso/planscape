@@ -1,0 +1,24 @@
+ID: 21543, description: Balcony 1 is located in the Mid northern area. It accesses the kitchen, common room 1 and common room 2. It's approximately 10 feet in width. Balcony 2 sits the furthest South. It reaches the living room, and the master bedroom. It's estimated to be about 10 ft wide. The bathroom is located in the Mid western area. It reaches the living room, common room 2 and master room. It's estimated to be about 10 ft wide. Common room 1 sits in the Mid northern area. It accesses the living room, kitchen, balcony 1 and common room 2. It's approximately 10 ft wide. Common room 2 is located in the northwest area. It reaches the living room, common room 1 and bathroom. It's estimated to be about 12 ft in width. The kitchen is located North east. It is the furthest north along with balcony 1. It accesses the living room, common room 1 and balcony 1. It's approximately 8 ft in width. The living room is mostly located in the Mid eastern area. It extends up north and south. It reaches every other room in the floor plan. It's approximately 20 feet in width. The master room is located South west. It's the furthest west alongside the bathroom. It's access the living room, bathroom and balcony 2. It's estimated to be about 12 ft wide.
+
+ID: 21408, description: Balcony 1 is in the northeast corner, north of common room 1. It is about 10 feet across and 3 feet deep. Balcony 2 is in the southwest corner, south of the master room. It is about 13 feet across and 5 feet deep. The bathroom is in the middle of the east side, north of the master room and south of common room 2. It is about 7 feet square. Common room 1 is in the northeast corner, south of the balcony and to the east of the kitchen. It is about 11 feet deep and 10 feet across. Common room 2 is in the northwest corner, north of the bathroom and west of the kitchen. It is about 13 feet across and 15 feet deep. The kitchen is in the middle of the north side of the floorplan, between common room 2 and common room 1. It is about 13 feet across and 6 feet deep. The living room is in the middle of the floorplan with the kitchen, balcony 1, and the common rooms to the north and the other rooms to the west. It is about 15 feet wide and 30 feet long. The master room is in the southwest part of the floorplan, north of balcony 2 and south of the bathroom. It is about 13 feet wide and 15 feet long.
+
+ID: 70105, description: Balcony 1 is located in South East corner. The room size is 10x8 Balcony 2 is located in West corner near to living room. The room size is 10x6 Bathroom is located in North East corner near to master room. The room size is 8x8 Common room 1 is located in East side and near to kitchen. The room size is 10x8 Common room 2 is located in South East near to balcony 1,The room size is 10x6 kitchen located in East middle corner next to living room. The room size is 10x8 South facing living room located in center of the house and connected with all rooms.The room size is 10 feet Master room is located in North corner between bath and balcony.The room size is 8x8.
+
+ID: 66935, description: Location: Balcony 1 is on the southern part of he floor plan.
+Relationship: The balcony1 is exactly to the south of the living room.
+Size: It is about 4feet by 14feet. Location: Balcony 2 is to the North of the floor plan.
+Relationship: It is exactly to the North of the kitchen.
+Size: It is about 4 feet by 8 feet. Location: The bathroom is on the western part of the floor plan.
+Relationship: It is on the North-west of the master room.
+Size: It is about 9feet by 7feet. Location: The common room is on the North-West of the floor plan.
+Relationship: The common room is to the west of the kitchen.
+Size: It is about 110 square feet. Location: The kitchen is on the Northern-central part of the plan.
+Relationship: It is exactly to the south of the balcony 2.
+Size: It is about 80 square feet. Location: The living room is on the Eastern side of the plan.
+Relationship: It is on the eastern side of the common room and the bathroom.
+Size: It is about 450 square feet. Location: The master room is on the south-west of the floor plan.
+Relationship: It is to the south west of the Living room.
+Size: It is about 13 feet by 14 feet.
+
+ID: 55086, description: the entire southern edge of the living area is bordered by the 14x3 balcony 2. Squeezed into the northwest corner adjacent to the kitchen the 6x3 balcony 1 sits just off the living area. situated between the common room and master bed, the 10x8 bathroom is on the western side. just off of the living room and to the north of the bath is the 10x12 common room. The 12x10 kitchen is located in the northeast corner and adjacent to the balcony 2 and living area. taking up most of the eastern wall, the 22x16 living area is bordered by the kitchen to the north and common room, master bed to the west. The 12x14 master bed takes up the entire southwest corner and is adjacent to bath 1 and the living area.
+
