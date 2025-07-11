@@ -9,3 +9,28 @@ Example {i}:
 {example_prettified_json}
 
 Provide a concise summary of typical room arrangements, proportions, and unique characteristics.
+
+
+
+i am showing xxx examples of apartments that I believe have the same underlying apartment plan pattern. 
+xxxx (explaining the graph) 
+
+Example {i}:
+
+{example_prettified_json}
+
+after looking at the graph, pay attention to spatial relationships between the rooms, their types, and size. 
+Based on these observations, can you verbally describe the underlying common plan, emphasizing the distinguishing patterns that will characterize this plan.
+
+
+
+i am showing xxx examples of apartments. n-1 out of them share the same underlying floorplan pattern and 1 out of them has a different floorplan pattern.
+xxxx (explaining the graph) 
+
+Example {i}:
+
+{example_prettified_json}
+
+after looking at the graph, pay attention to spatial relationships between the rooms, their types, and size. 
+Based on these  examples, can you identify the example that has a different floorplan from the others? (maybe ask why this one is picked, based on what features) incrementally giving more information.
+

@@ -1,0 +1,802 @@
+[
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "62071",
+    "predicted_id": "Certainly! Let's analyze the spatial relationships, room types, and sizes in each description to identify the unique floorplan.",
+    "raw_response": "Certainly! Let's analyze the spatial relationships, room types, and sizes in each description to identify the unique floorplan.\n\n### Example 1:\n- **Living Room**: North area, 25x20, connects to all other rooms.\n- **Kitchen**: East area, 10x10, connected to Living Room.\n- **Bathroom**: West area, 8x10, connected to Living Room.\n- **Common Room**: Northwest area, 12x14, connected to Living Room.\n- **Master Room**: Southwest corner, 12x15, connected to Living Room.\n- **Balcony**: Northeast area, 10x5, entered through Living Room.\n\n### Example 2:\n- **Living Room**: East side, 400 sq ft, between Balcony 1 and Kitchen.\n- **Kitchen**: North side, 70 sq ft, between Bathroom and Balcony 2.\n- **Bathroom**: North side, 60 sq ft, between Kitchen and Common Room 2.\n- **Common Room 1**: West side, 145 sq ft, near Master Room.\n- **Common Room 2**: North-east corner, 10"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "32569",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Lower part, under kitchen, master room, bathroom, common room 1 & 2.\n- **Master Room**: Upper right corner, above bathroom.\n- **Bathroom**: Upper edge, between master room and common room 2.\n- **Common Room 1**: Upper right corner, above balcony, above and to the right of the living room.\n- **Common Room 2**: Upper part, to the right of the bathroom.\n- **Kitchen**: Left region, below master room, above and to the left of the living room.\n\n### Example 2:\n- **Living Room**: South of the unit, along the entire south wall, with a balcony in the far southeast corner.\n- **Master Room**: North-west corner.\n- **Bathroom**: Western wall, southern part.\n- **Common Area**: North-east portion.\n- **Kitchen**: Center of the unit, slightly east from center.\n\n### Example 3:\n- **Balcony**: South-West corner.\n- **Bathroom**: North-East corner.\n- **Kitchen**: Between living room and master bedroom.\n- **Living Room**: North-West corner.\n- **Master Room"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "46039",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Central, spans north-south, touches multiple rooms.\n- **Kitchen**: Northeast corner, touches living room and balcony.\n- **Bathroom 1**: Center, western side, touches multiple rooms.\n- **Bathroom 2**: West of living room, touches common room, living room.\n- **Common Room**: Northwest corner, touches multiple rooms.\n- **Master Room**: Southwest corner, touches bathroom 1, living room.\n- **Balcony**: East of living room, touches kitchen.\n\n### Example 2:\n- **Living Room**: Central, rectangular, touches multiple rooms.\n- **Kitchen**: Northeast corner, touches living room and balcony.\n- **Bathroom**: North-west corner, touches living room and common room.\n- **Common Room**: North-west corner, touches living room and bathroom.\n- **Master Room**: South-west corner, touches living room and common room.\n- **Balconies**: Two balconies, one behind kitchen and one behind living room.\n\n### Example 3:\n- **Living Room**: Central, rectangular, touches multiple rooms.\n- **Kitchen**: Northeast corner, touches living room and balcony.\n- **"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "10526",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: South side, 500 sq ft, 25x20\n- **Master Room**: North side, 200 sq ft, 20x10\n- **Kitchen**: North-west corner, 50 sq ft, 5x10\n- **Common Room 1**: South side, 100 sq ft, 10x10\n- **Common Room 2**: South-east corner, 200 sq ft, 10x20\n- **Bathroom**: East side, 25 sq ft, 5x5\n- **Balconies**: South (50 sq ft) and North (30 sq ft)\n\n### Example 2:\n- **Living Room**: West side, 220 sq ft, 22x10\n- **Master Room**: South-east corner, 110 sq ft, 11x10\n- **Common Room**: North-east corner, 110 sq ft, 11x10\n- **Bathroom**: East side, 4"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "7489",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Bathroom**: North, next to kitchen (5' x 5')\n- **First Common Room**: West, next to living room (10' x 10')\n- **Second Common Room**: Southeast, next to master room (12' x 15')\n- **Kitchen**: North, next to bathroom (5' x 12')\n- **Living Room**: Southwest, next to kitchen (30' x 20')\n- **Master Room**: Northeast, next to kitchen (12' x 12')\n\n### Example 2:\n- **Balcony1**: Northernmost, next to living room (10' x 8')\n- **Balcony2**: South end, next to living room (20' x 4')\n- **Bathroom**: West, next to common room (10' x 8')\n- **Common Room**: Northwest, next to living room (16' x 16')\n- **Living Room**: East, next to bathroom (44' x 24')\n- **Master Room**: Southwest, next to living room (20'"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "3384",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: East side, 27' x 13', with a protrusion of 5' x 4' towards the west.\n- **Master Room**: South-west corner, 12' x 11'.\n- **Bathroom**: West side, 7' x 5'.\n- **Common Room**: North-west side, 10' x 9'.\n- **Kitchen**: North-east side, 9' x 5'.\n- **Balcony 1**: South-east corner, 14' x 6'.\n- **Balcony 2**: North-west corner, 5' x 4'.\n\n### Example 2:\n- **Living Room**: East side, 450 sq ft.\n- **Master Room**: South-west corner, 225 sq ft.\n- **Bathroom**: West side, 40 sq ft.\n- **Common Room**: West side, 150 sq ft.\n- **Kitchen**: Not specified but implied to be near the living room.\n- **Balcony 1**: North-west corner, 25 sq ft.\n-"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "1268",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: North-west, 15' x 30'\n- **Kitchen**: Left side of Living Room, 12' x 8'\n- **Common Room**: Right side of Living Room, 12' x 15', below Kitchen and Balcony\n- **Balcony**: Bottom, South side, 12' x 4'\n- **Master Bedroom**: North-east, 13' x 18', left of Bathroom, 8' x 5'\n- **Bathroom**: Top-right of Living Room, 8' x 5'\n\n### Example 2:\n- **Living Room**: North, 12' x 27'\n- **Kitchen**: East, 5' x 10'\n- **Common Room**: Northeast, 10' x 12'\n- **Master Bedroom**: Southeast, 10' x 11'\n- **Bathroom**: Northwest, 6' x 6'\n- **Balcony**: Southwest, 2' x 10'\n\n### Example 3:\n- **Living Room**: East,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "47834",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: South, 12x10 feet, above balcony (25x12 feet)\n- **Bathroom**: West, 6x3 feet, above common room (southwest corner, 12x10 feet)\n- **Common Room**: Southwest corner, 12x10 feet, above living room\n- **Kitchen**: Northeast corner, 10x8 feet, above common room\n- **Master Room**: Northwest corner, 12x10 feet, above kitchen\n\n### Example 2:\n- **Balcony**: Southeast corner, 4x10 feet\n- **Bathroom**: West, 4x6 feet\n- **Common Room**: Southwest corner, 9x10 feet\n- **Living Room**: Northeast corner, 15x18 feet\n- **Master Room**: South, 10x10 feet\n\n### Example 3:\n- **Balcony**: Southeast corner, 2x10 feet\n- **Bathroom**: West, 5x5 feet\n- **Common Room**: Southwest corner, 10"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "42226",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: West side (south to north), 220 sqft\n- **Common Room**: Northeast corner, 110 sqft\n- **Master Room**: Southeast corner, 110 sqft\n- **Bathroom**: East side, between common room and master room, 40 sqft\n- **Balcony**: Southwest corner, accessed from living room, 50 sqft\n\n### Example 2:\n- **Living Room**: West-facing, 16x42 (672 sqft)\n- **Common Room 1**: Northeast corner, 10x12 (120 sqft)\n- **Common Room 2**: Southwest corner, 14x14 (196 sqft)\n- **Master Room**: Southeast corner, 12x16 (192 sqft)\n- **Bathroom**: East side, between master room and common room 2, 8x10 (80 sqft)\n- **Balconies**: South and North sides, both attached to living room\n\n### Example 3:\n- **Living"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "53579",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Right side, under Balcony 1, 35' x 20'\n- **Common Room**: Upper left corner, above Bathroom, 12.5' x 15'\n- **Bathroom**: Below Common Room, Left of Living Room, 5' x 7.5'\n- **Master Room**: Lower left corner, below Bathroom, 12.5' x 12.5'\n- **Balconies**: Top (Balcony 1) and Bottom (Balcony 2)\n\n### Example 2:\n- **Living Room**: North side, next to Common Room 1, 35' x 20'\n- **Common Room 1**: North side, next to Common Room 2, 10' x 10'\n- **Common Room 2**: North side, next to Living Room, 10' x 10'\n- **Bathroom**: East side, next to Living Room, 5' x 5'\n- **Kitchen**: North side, next to Bathroom, 5' x 10'"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "27788",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Northwest corner, 10x25\n- **Master Room**: Southwest corner, 10x11\n- **Common Room**: West side, 10x10\n- **Kitchen**: West side, 6x9\n- **Bathroom**: Northeast corner, 5x8\n- **Balcony**: Northwest corner, 4x10\n\n### Example 2:\n- **Living Room**: Western wall, 15x45\n- **Master Room**: North-eastern room, 15x20\n- **Common Room**: Eastern wall, 10x15\n- **Kitchen**: Southern wall, 10x6\n- **Bathroom**: Center, 4x8\n- **Balconies**: Northern (12x5) and Southern (8x15)\n\n### Example 3:\n- **Living Room**: South side, 12x30\n- **Master Room**: Entrance from living room, 10x15\n- **Common Room**: Entrance from living room, 15x10"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "40679",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: South side, 20x16\n- **Master Room**: North East corner, 10x16\n- **Bathroom 1**: Middle of North, 5x5\n- **Bathroom 2**: Middle of South, 10x6\n- **Common Room 1**: North West corner, 10x8\n- **Common Room 2**: Middle of North, 10x10\n- **Kitchen**: South West corner, 10x5\n- **Balcony**: South East corner, 10x3\n\n### Example 2:\n- **Living Room**: Center-West, 30x20\n- **Master Room**: Southeast, 15x15\n- **Bathroom 1**: East, 5x5\n- **Bathroom 2**: North, 5x5\n- **Common Room 1**: Northwest, 15x10\n- **Common Room 2**: East, 10x10\n- **Kitchen**: Northwest, 15x10"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "46039",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Central, spans north-south, touches multiple rooms.\n- **Kitchen**: Northeast corner, touches living room and balcony.\n- **Bathroom 1**: Center, western side, touches multiple rooms.\n- **Bathroom 2**: West of living room, touches common room, living room.\n- **Common Room**: Northwest corner, touches multiple rooms.\n- **Master Room**: Southwest corner, touches bathroom 1, living room.\n- **Balcony**: East of living room, touches kitchen.\n\n### Example 2:\n- **Living Room**: Central, rectangular, touches multiple rooms.\n- **Kitchen**: Northeast corner, touches living room and balcony.\n- **Bathroom**: North-east corner, touches kitchen and common room.\n- **Common Room**: North-west corner, touches living room, bathroom.\n- **Master Room**: South-west corner, touches living room, common room.\n- **Balconies**: Two balconies, one near kitchen, one near living room.\n\n### Example 3:\n- **Living Room**: Central, rectangular, touches multiple rooms.\n- **Kitchen**: East side, touches balcony 2 and bathroom.\n- **"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "60915",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- Living room: East side, 10x22 feet\n- Master room: North-west corner, 10x10 feet\n- Common room: South-west corner, 10x10 feet\n- Kitchen: North-east corner, 7x8 feet\n- Bathroom: West side, 5x5 feet\n- Balcony: Southeast corner, 2x10 feet\n\n### Example 2:\n- Living room: Right side, 35x20 feet\n- Master room: Lower left corner, 12.5x12.5 feet\n- Common room: Upper left corner, 12.5x15 feet\n- Bathroom: Right side, 5x7.5 feet\n- Balconies: Top (5x10) and Bottom (2.5x15)\n\n### Example 3:\n- Living room: Northeast corner, 15x18 feet\n- Master room: South side, 10x10 feet\n- Common room: South-west corner, 9x10 feet\n- Bathroom: West side"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "4286",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**.",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**.\n\n### Reasons for Identification:\n\n1. **Balcony Location:**\n   - In Examples 1, 2, 3, and 4, the balconies are located in the southeast or northeast corners.\n   - Example 5 places the balcony in the southwest corner, which is different from the others.\n\n2. **Room Sizes and Layouts:**\n   - Examples 1, 2, 3, and 4 generally have more uniform room sizes (e.g., 10x10, 12x12, etc.), with some variations but still maintaining a relatively consistent scale.\n   - Example 5 has a mix of smaller and larger rooms, such as 12x2, 10x3, 8x8, 12x12, and 15x10, which is less uniform compared to the others.\n\n3. **Spatial Relationships:**\n   - Examples 1, 2, 3, and 4 describe a layout where rooms are typically aligned in a more linear or symmetrical manner.\n   - Example 5 describes a more complex arrangement with multiple rooms stacked vertically and horizontally"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "6777",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balconies**: South (1) and West (2)\n- **Living Room**: Center, North-East\n- **Kitchen**: West-North\n- **Bathroom**: West-Center\n- **Common Room**: North-East\n- **Master Room**: West-South\n\n### Example 2:\n- **Balconies**: South (1) and South-West (2)\n- **Living Room**: East-South\n- **Kitchen**: West-South\n- **Bathroom**: West-South\n- **Common Room**: East\n- **Master Room**: West-South\n\n### Example 3:\n- **Balconies**: East (1) and South-West (2)\n- **Living Room**: Center\n- **Kitchen**: North-East\n- **Bathroom**: Center\n- **Common Room**: North-West\n- **Master Room**: South-West\n\n### Example 4:\n- **Balconies**: South (1) and West (2)\n- **Living Room**: Center\n- **Kitchen**: North-West\n- **Bathroom**: Center\n- **Master Rooms**: North-East and South-West\n\n### Example 5"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "65801",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony 1** is in the middle-right, above the master room, left of the bathroom, and below the kitchen.\n- **Balcony 2** is in the top-left, below the common room, right of the master.\n- **Bathroom** is in the middle-right, above the master, right of balcony 1, and below the kitchen.\n- **Common Room** is in the top-left, below balcony 2, right of the master.\n- **Kitchen** is in the bottom-right, left of the living room, above the bathroom, and right of balcony 1.\n- **Living Room** is in the bottom-left, right of the kitchen, above the master, and left of the bathroom.\n- **Master Room** is in the top-right, below balcony 1, right of the bathroom.\n\n### Example 2:\n- **Balcony** is in the north, south of the master room.\n- **Bathroom** is in the north, south of the living room.\n- **Common Room** is in the southwest, east of the bathroom.\n- **Kitchen** is in the east,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "80219",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Large (10x30)\n- **Master Bedroom**: Medium (10x15)\n- **Common Rooms**: Two (10x10, 10x10)\n- **Bathrooms**: Two (5x10, 5x10)\n- **Balconies**: Two (5x5, 12x10)\n\n### Example 2:\n- **Living Room**: Large (18x22)\n- **Master Bedroom**: Medium (10x16)\n- **Common Rooms**: Three (10x10, 12x14, 10x12)\n- **Bathrooms**: Two (12x8, 6x6)\n- **Kitchen**: Small (14x4)\n\n### Example 3:\n- **Living Room**: Large (400 sq ft)\n- **Master Bedroom**: Medium (144 sq ft)\n- **Common Rooms**: Three (100 sq ft, 150 sq ft, 100 sq ft)\n- **Bathrooms**: Two"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "64671",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balloons**: North-east, South (next to living room), East (next to master bedroom)\n- **Bathroom**: East (next to master bedroom)\n- **Common Room**: East (next to bathroom)\n- **Kitchen**: Next to living room\n- **Living Room**: West (next to kitchen)\n- **Master Bedroom**: Southeast (next to bathroom)\n\n### Example 2:\n- **Balloons**: South (next to living room), North (next to kitchen)\n- **Bathroom**: East (next to master room)\n- **Common Room**: East (next to bathroom)\n- **Kitchen**: North (next to second balcony)\n- **Living Room**: West (next to first balcony)\n- **Master Room**: Southeast (next to bathroom)\n\n### Example 3:\n- **Balloons**: Southwest (near kitchen and common2)\n- **Bathroom**: West (between common1 and common2)\n- **Common Room 1**: Northwest (near bathroom and master room)\n- **Common Room 2**: West (near balcony and kitchen)\n- **Kitchen**: South (near balcony and common room2)\n- **Living"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "72266",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Central, 30 feet x 20 feet\n- **Master Room**: South side corner, 20 feet x 20 feet\n- **Common Room**: Entrance from living room, 15 feet x 10 feet\n- **Kitchen**: Small, near master room, 15 feet x 5 feet\n- **Bathroom**: East side corner, 15 feet x 10 feet\n\n### Example 2:\n- **Living Room**: North-west corner, 20 feet x 30 feet\n- **Master Room**: North-east corner, 12 feet x 12 feet\n- **Common Room**: Left side of master room, 10 feet x 12 feet\n- **Kitchen**: North-east corner, 12 feet x 5 feet\n- **Bathroom**: Downside of kitchen, 12 feet x 5 feet\n\n### Example 3:\n- **Living Room**: Central, 20 feet x 30 feet\n- **Master Room**: North-west corner, 15 feet x 15 feet\n-"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "74662",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: South-west corner, 3x8 ft, next to kitchen and bathroom.\n- **Bathroom**: Center, 5x8 ft, next to living room, common room, and kitchen.\n- **Common Room**: West side, 15x10 ft, next to living room and bathroom.\n- **Kitchen**: South-east corner, 10x10 ft, next to living room and balcony.\n- **Living Room**: North-east corner, 40x15 ft, largest room.\n- **Master Room**: North-west corner, 15x10 ft, next to living room and kitchen.\n\n### Example 2:\n- **Balcony**: North-east corner, 3x8 ft, next to living room.\n- **Bathroom**: Southeast corner, 5x7 ft, next to living room.\n- **Common Room**: South-west corner, 10x11 ft, next to kitchen and living room.\n- **Kitchen**: West, 6x6 ft, next to living room and master room.\n- **Living Room**: East, 14x"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "63514",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: NW corner, 3x3 ft\n- **Bathroom**: Center W, 5x5 ft\n- **Common Room**: N of balcony, 6x6 ft\n- **Kitchen**: Ctr N, 12x5 ft\n- **Living Room**: E, 38x12 ft\n- **Master Room**: S, 11x12 ft\n\n### Example 2:\n- **Balcony 1**: NW, 4x12 ft\n- **Balcony 2**: SE, 4x5 ft\n- **Bathroom**: E, 5x8 ft\n- **Common Room 1**: E, 9x12 ft\n- **Common Room 2**: E, 9x10 ft\n- **Kitchen**: S, 4x13 ft\n- **Living Room**: W, 30x12 ft\n- **Master Room**: NE, 9x12 ft\n\n### Example 3:\n- **Balcony**: TR, 5x2 ft\n- **B"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "54792",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balconies**: North (40 sq ft), South (90 sq ft)\n- **Bathrooms**: West (20 sq ft, 15 sq ft)\n- **Common Room**: NW corner (120 sq ft)\n- **Living Room**: East (500 sq ft)\n- **Master Room**: SW corner (150 sq ft)\n\n### Example 2:\n- **Balconies**: Top (5x10), Bottom (2.5x15)\n- **Bathroom**: Right side (5x7.5)\n- **Common Room**: Upper left (12.5x15)\n- **Living Room**: Right side (35x20)\n- **Master Room**: Lower left (12.5x12.5)\n\n### Example 3:\n- **Balcony**: North (6x3)\n- **Bathroom**: Middle (8x6)\n- **Common Room**: NW corner (20x10)\n- **Living Room**: Middle (50x10)\n- **Master Room**: SW corner (20x1"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "64671",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: Southwest corner, near kitchen and common2 (4x14)\n- **Bathroom**: West side, between common1 and common2 (7x7)\n- **Common Room 1**: Northwest corner, near bathroom and master room (16x16)\n- **Common Room 2**: West side, near balcony and kitchen (12x12)\n- **Kitchen**: South side, near balcony and common room2 (12x6)\n- **Living Room**: East side, south-facing, near kitchen, common2, and master room (20x22)\n- **Master Room**: Northeast corner, near common1 and living room (15x10)\n\n### Example 2:\n- **First Balcony**: North east corner (10x3)\n- **Second Balcony**: South side, next to living room (5x15)\n- **Bathroom**: East side, next to master bedroom (10x7)\n- **Common Room**: East side, next to bathroom (12x15)\n- **Kitchen**: Next to living room (1"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "1225",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Bathroom**: West side\n- **Living Room**: East of Bathroom\n- **Common Room**: Southwest corner\n- **Kitchen**: Northeast corner\n- **Master Room**: Northwest corner\n\n### Example 2:\n- **Bathroom**: Middle of West side\n- **Common Room**: North West corner\n- **Living Room**: Center (uneven shape)\n- **Master Room**: South West corner\n\n### Example 3:\n- **Bathroom**: West side\n- **Common Room 1**: North West corner\n- **Common Room 2**: North East corner\n- **Kitchen**: West side\n- **Living Room**: East side\n- **Master Room**: South West corner\n\n### Example 4:\n- **Balcony**: Southeast corner\n- **Bathroom**: West side\n- **Common Room**: South West corner\n- **Living Room**: Northeast corner\n- **Master Room**: South side\n\n### Example 5:\n- **Balcony**: Southeast corner\n- **Bathroom**: West side\n- **Common Room**: South West corner\n- **Kitchen**: North East corner\n- **Living Room**: East side"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "20590",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: South side, 20' x 40'\n- **Master Room**: North-west corner, 11' x 20'\n- **Bathrooms**: Both in the northeast corner of the master room (8' x 8')\n- **Common Rooms**: Northeast and northwest corners of the living room (13' x 13' and 10' x 8')\n- **Spatial Relationships**: Bathrooms are adjacent to the master room, common rooms are adjacent to the living room.\n\n### Example 2:\n- **Living Room**: West side, 10' x 40'\n- **Master Room**: Northeast and southeast corners (10' x 15')\n- **Bathrooms**: Entrance from living room (8' x 10')\n- **Common Room**: Northwest corner (10' x 15')\n- **Kitchen**: Southwest corner (5' x 15')\n- **Spatial Relationships**: Bathrooms and common rooms are adjacent to the living room, master room is split into two sections.\n\n### Example 3:\n- **Living Room**: West side"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "39894",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Central, open to multiple rooms (master, bathroom, kitchen, common rooms).\n- **Master Room**: Adjacent to the bathroom.\n- **Bathroom**: Between the living room and common rooms.\n- **Common Rooms**: Two, both between the living room and the kitchen.\n- **Kitchen**: Next to the living room and common rooms.\n- **Balconies**: Two, one north-facing and one east-facing.\n\n### Example 2:\n- **Living Room**: Central, open to multiple rooms (master, common rooms, kitchen, balcony).\n- **Master Room**: North-western corner.\n- **Bathroom**: Two, one in the south and one in the north-east.\n- **Common Rooms**: Two, both in the south.\n- **Kitchen**: North-eastern corner.\n- **Balcony**: South of the kitchen.\n\n### Example 3:\n- **Living Room**: Central, open to multiple rooms (master, bathroom, common room, kitchen).\n- **Master Room**: Front portion.\n- **Bathroom**: Between common room and master room.\n- **Common Room**: Between living room and bathroom.\n- **Kitchen"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "10526",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: South side, 10x20 feet\n- **Master Room**: East side, 10x12 feet\n- **Kitchen**: North side, 5x10 feet\n- **Common Room**: Southwest corner, 10x10 feet\n- **Bathroom**: West side, 5x6 feet\n\n### Example 2:\n- **Living Room**: South side, 25x20 feet\n- **Master Room**: North side, 20x10 feet\n- **Kitchen**: North-west corner, 5x10 feet\n- **Common Room 1**: South side, 10x10 feet\n- **Common Room 2**: South-east corner, 10x20 feet\n- **Bathroom**: East side, 5x5 feet\n- **Balconies**: South and North sides\n\n### Example 3:\n- **Living Room**: West side, 220 sqft\n- **Master Room**: South-east corner, 110 sqft\n- **Common Room**: North-east corner,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "13497",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Central, 12x20 feet, next to Master Bedroom and Kitchen.\n- **Kitchen**: North-east corner, 10x5 feet, next to Master Bedroom.\n- **Master Bedroom**: Northwest corner, 10x15 feet, next to Kitchen and Bathroom.\n- **Bathroom**: South of Master Bedroom, 8x4 feet.\n- **Common Room**: South of Bathroom, 10x15 feet.\n- **Balcony**: South of Living Room, 10x4 feet.\n\n### Example 2:\n- **Living Room**: East side, 10x19 feet, next to all other rooms.\n- **Common Room**: West side, 5x5 feet, between Bathroom and Balcony.\n- **Bathroom**: West side, 5x5 feet, between Common Room and Master Room.\n- **Balcony 1**: Southeast corner, 10x4 feet.\n- **Balcony 2**: Northwest corner, 7x10 feet.\n- **Master Room**: Southwest corner, 10x11 feet,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "65801",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Bathroom**: Centered in the northern portion, between the living room (west) and the kitchen (east).\n- **Common Room**: Southwest corner, south of the living room and east of the bathroom.\n- **Kitchen**: Northeast corner, en suite with the living room, common room, and bathroom.\n- **Living Room**: Northwest corner, entrance on the west side.\n- **Master Room**: Southeast corner, south of the kitchen and north of the common room.\n\n### Example 2:\n- **Bathroom**: West side, adjacent to the living room.\n- **Common Room**: Southwest corner, adjacent to the living room and bathroom.\n- **Kitchen**: South central, adjacent to the master room and living room.\n- **Living Room**: North side, centrally located.\n- **Master Room**: Southeast corner, adjacent to the kitchen and living room.\n\n### Example 3:\n- **Bathroom**: Southeast corner, adjacent to the living room and common room.\n- **Common Room**: Southwest corner, adjacent to the living room and bathroom.\n- **Kitchen**: Northeast corner, adjacent to the master room and living room.\n- **Living Room**: Central,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "40487",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: East to North, 10x3 feet balcony, 15x10 feet kitchen, 6x6 feet bathroom, 12x12 feet master room.\n- **Bathroom**: North-East corner, 6x6 feet.\n- **Kitchen**: West, 15x10 feet.\n- **Master Room**: South-West corner, 6x6 feet.\n- **Common Room**: North-West corner, 12x12 feet.\n- **Balcony**: South of living room, 25x12 feet.\n\n### Example 2:\n- **Living Room**: South, 30x20 feet.\n- **Kitchen**: East, 10x10 feet.\n- **Common Room**: North, 15x12 feet.\n- **Bathroom**: North, 5x5 feet.\n- **Master Room**: North-East corner, 12x15 feet.\n- **Balcony**: North-West corner, 12x3 feet.\n\n### Example 3:\n- **Living Room**: Central, 12x2"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "53064",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- Living room: East to North\n- Balcony: South of Living Room (10x3)\n- Bathroom: Northeast corner (6x6)\n- Common Room: Northwest corner (15x10)\n- Kitchen: West (15x10)\n- Master Room: Southwest corner (6x6)\n- Balcony: Upside of Living Room (25x12)\n- Left Side of Living Room: 12x12\n\n### Example 2:\n- Living Room: Center, North side (15x45)\n- Balcony 1: Bottom of Living Room (15x5)\n- Balcony 2: North side, Left of Kitchen (5x5)\n- Bathroom: Between Common 1 and Common 2 (10x6)\n- Common 1: Top of Bathroom (12x12)\n- Common 2: Bottom of Bathroom (10x10)\n- Kitchen: Top of Living Room (8x10)\n- Master Room: Left of Living Room (12x16), South West\n- Living Room:"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "30004",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: Southwest corner, 3x8 feet, borders kitchen and bathroom.\n- **Bathroom**: Center, 5x8 feet, borders living room, common room, and kitchen.\n- **Common Room**: Southeast corner, 15x10 feet, borders living room, bathroom, and master room.\n- **Kitchen**: Southeast corner, 10x10 feet, borders living room and balcony.\n- **Living Room**: Northeast corner, 40x15 feet, borders master room, kitchen, and common room.\n- **Master Room**: Northwest corner, 15x10 feet, borders living room and common room.\n\n### Example 2:\n- **Balcony**: Northwest corner, 4x3 feet, borders common room.\n- **Bathroom**: Northwest corner, 4x4 feet, borders kitchen.\n- **Common Room**: Southeast corner, 11x8 feet, borders master room.\n- **Kitchen**: Northeast corner, 10x3 feet, borders balcony.\n- **Living Room**: West side, 30x12 feet, borders kitchen.\n-"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "51393",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here's why:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here's why:\n\n### Key Differences:\n1. **Balconies' Locations and Sizes:**\n   - In Examples 1, 2, 3, and 4, balconies are typically located at specific corners or edges of the floor plan and have relatively small dimensions (e.g., 2x15 feet, 20x2 feet, etc.). Example 5 describes balconies in multiple locations with different sizes (6x6 feet and 9x7 feet), which is more varied and not consistent with the other examples.\n   \n2. **Room Layout and Orientation:**\n   - In Examples 1, 2, 3, and 4, the layout is generally linear or follows a standard rectangular pattern with rooms aligned along the edges or in a central area. Example 5 has a more complex and irregular layout with rooms positioned in various directions relative to each other, creating a less uniform and more scattered arrangement.\n\n3. **Room Dimensions and Proportions:**\n   - The dimensions provided in Examples 1, 2, 3, and 4 are relatively consistent and straightforward (e.g., 12x3 feet,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "25079",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room:** 10x10 (southeast)\n- **Master Room:** 15x12 (southwest)\n- **Bathroom 1:** 6x5 (west)\n- **Common Room 1:** 30x12 (northwest)\n- **Common Room 2:** 10x10 (southeast)\n- **Kitchen:** 8x3 (northeast)\n- **Balcony:** 3x3 (north)\n\n### Example 2:\n- **Living Room:** 10x40 (centrally located)\n- **Master Room:** 15x15 (southeast)\n- **Bathroom:** 10x10 (jack and jill access to master and corner room)\n- **Common Room 1:** 15x15 (northwest)\n- **Kitchen:** 10x20 (galley style)\n- **Balcony:** 15x5 (north east)\n\n### Example 3:\n- **Living Room:** 10x40 (east and south)\n- **"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "41277",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 3**.",
+    "raw_response": "The example that has a different floorplan from the others is **Example 3**.\n\n### Reasons for Identification:\n\n1. **Room Layout and Size**:\n   - **Example 3** describes a much larger and more complex layout compared to the others. It mentions a \"living room\" that is approximately 50 feet across at its widest and 30 feet in length (about 1500 square feet). This is significantly larger than the other examples, which describe rooms ranging from around 10-15 feet in width and length.\n   \n2. **Spatial Relationships**:\n   - In **Example 3**, the living room is described as being \"central in the apartment\" and extending \"up north and south,\" which suggests a very large and open space. The other examples describe more compact and interconnected spaces without such a large central room.\n   \n3. **Room Types and Access**:\n   - **Example 3** includes a variety of room types (living room, common room, master bedroom) but does not specify the exact locations or sizes of these rooms in relation to each other as clearly as the other examples do. The descriptions are less detailed and more vague, making it harder to infer the exact layout.\n   \n4. **"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "36396",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Center, between two master bedrooms.\n- **Master Bedrooms**: North-east and South-west corners.\n- **Bathroom**: Center, next to living room.\n- **Kitchen**: North-west corner, next to bathroom.\n- **Balconies**: South (next to living room) and West (next to bathroom).\n\n### Example 2:\n- **Living Room**: Northeast corner.\n- **Common Room**: Northeast corner.\n- **Kitchen**: Northwest corner.\n- **Master Bedroom**: Southwest corner.\n- **Bathroom**: Center, bordered by kitchen, living room, and master bedroom.\n- **Balconies**: South (next to kitchen) and West (next to bathroom).\n\n### Example 3:\n- **Living Room**: Center, east of bathroom.\n- **Common Room**: East of living room.\n- **Kitchen**: West of living room.\n- **Master Bedroom**: Southwest corner.\n- **Bathroom**: Center, extending into kitchen and living room.\n- **Balconies**: South (next to kitchen) and West (next to bathroom).\n\n### Example 4:\n- **Living Room**: Center.\n- **Common Room**: North-west"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "71082",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Center, between two master bedrooms.\n- **Master Bedrooms**: North-east and South-west corners.\n- **Bathroom**: Center, next to the living room.\n- **Kitchen**: North-west corner, next to the bathroom.\n- **Balconies**: South (12' x 5') and West (10' x 5').\n\n### Example 2:\n- **Living Room**: South side, center.\n- **Master Bedroom**: Northeast corner.\n- **Common Room**: Northeast corner.\n- **Kitchen**: Northwest corner.\n- **Bathroom**: Center, next to the living room.\n- **Balconies**: Entrance from living room (2' x 10' and 15' x 3').\n\n### Example 3:\n- **Living Room**: Center, north-east middle corner.\n- **Master Bedroom**: West-south middle corner.\n- **Common Room**: North-east middle corner.\n- **Kitchen**: West-north corner.\n- **Bathroom**: West side, center.\n- **Balconies**: South (10' x 6') and West (10' x 6"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "64671",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: North-west, 15' x 30'\n- **Kitchen**: Left side of Living Room, 12' x 8'\n- **Common Room**: Right side of Living Room, 12' x 15'\n- **Balcony**: Bottom, South side, 12' x 4'\n- **Master Bedroom**: North-east, 13' x 18'\n- **Bathroom**: Top-right of Living Room, 8' x 5'\n\n### Example 2:\n- **Living Room**: North, 12' x 27'\n- **Kitchen**: East, 5' x 10'\n- **Common Room**: Northeast, 10' x 12'\n- **Bathroom**: Northwest, 6' x 6'\n- **Master Bedroom**: Southeast, 10' x 11'\n- **Balcony**: Southwest, 2' x 10'\n\n### Example 3:\n- **Living Room**: Central, 350 sq ft\n- **Bathroom**: East of Common Room 1"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "994",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balloons:** North East (10' x 3'), South (5' x 15')\n- **Bathroom:** East (10' x 7')\n- **Common Room:** East (12' x 15')\n- **Kitchen:** Next to Living Room (10' x 7')\n- **Living Room:** West (20' x 25')\n- **Master Bedroom:** Southeast (15' x 15')\n\n### Example 2:\n- **Balloons:** South (12' x 5'), North (5' x 5')\n- **Bathroom:** East (5' x 5')\n- **Common Room:** East (20' x 15')\n- **Kitchen:** North (10' x 10')\n- **Living Room:** West (20' x 35')\n- **Master Room:** Southeast (12' x 15')\n\n### Example 3:\n- **Balloons:** Southwest (4' x 10')\n- **Bathroom:** South (5' x 10')\n- **"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "60915",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Right side, under balcony 1, 35' x 20'\n- **Bathroom**: Right side, below common room, 5' x 7.5'\n- **Common Room**: Upper left corner, above bathroom, 12.5' x 15'\n- **Master Room**: Lower left corner, below bathroom, 12.5' x 12.5'\n- **Balconies**: Top (5' x 10') and Bottom (2.5' x 15')\n\n### Example 2:\n- **Living Room**: North side, next to common room 1, 30' x 20'\n- **Bathroom**: East side, next to living room, kitchen, and common room 1, 5' x 5'\n- **Common Room 1**: North side, next to common room 2 and living room, 10' x 10'\n- **Common Room 2**: North side, next to living room, 10' x 10'\n- **Kitchen**: North side, next"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "25607",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Northwest corner, 30 ft x 20 ft\n- **Kitchen**: Northeast corner, 20 ft x 10 ft\n- **Master Room**: Southeast corner, 20 ft x 20 ft\n- **Common Room**: Southwest corner, 20 ft x 10 ft\n- **Bathroom**: Center of Northern portion, 10 ft x 5 ft\n\n### Example 2:\n- **Living Room**: Center, 30 ft x 20 ft\n- **Kitchen**: Right side of Master, 5 ft x 15 ft\n- **Master Room**: Bottom side, 15 ft x 15 ft\n- **Common Room**: Right side of Kitchen, 10 ft x 15 ft\n- **Bathroom**: North East corner, 5 ft x 8 ft\n\n### Example 3:\n- **Living Room**: South side, 20 ft x 30 ft\n- **Kitchen**: Entrance from Living Room, 15 ft x 3 ft\n- **Master Room**: Entrance from Living Room,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "66316",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Center, North-South orientation, 30' x 12'\n- **Balconies**: One in SE (4' x 12'), one in NE (4' x 7')\n- **Bathroom**: West-Center (7' x 10')\n- **Common Room 1**: NW Corner (10' x 10')\n- **Kitchen**: NE Corner (8' x 5')\n- **Master Room**: SW Corner (12' x 10')\n\n### Example 2:\n- **Living Room**: Far West (75% of plan), 30' x 600'\n- **Balconies**: Both in SE (12' x 16')\n- **Bathroom**: SE (12' x 16')\n- **Common Rooms**: Both in SE (12' x 16')\n- **Kitchen**: SE (12' x 16')\n\n### Example 3:\n- **Living Room**: East (600' x 50')\n- **Balconies**: Both in SE (5"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "46660",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Area**: 22x16 (eastern wall)\n- **Kitchen**: 12x10 (northeast corner)\n- **Common Room**: 10x12 (northwest corner)\n- **Bathroom**: 10x8 (western side)\n- **Master Bedroom**: 12x14 (southwest corner)\n- **Balconies**: 14x3 (southern edge), 6x3 (northwest corner)\n\n### Example 2:\n- **Living Room**: 12x30 (east side)\n- **Kitchen**: 6x10 (north-east corner)\n- **Common Room**: 10x14 (north-west corner)\n- **Bathroom**: 8x6 (west side)\n- **Master Bedroom**: 10x14 (south-west corner)\n- **Balconies**: 8x10 (north side), 12x2 (south side)\n\n### Example 3:\n- **Living Room**: 10x15 (east side)\n- **Kitchen**: 7x10 ("
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "42206",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: West side, 15' x 30'\n- **Bathroom**: East side, 5' x 5'\n- **Common Room**: East side, 12' x 12'\n- **Kitchen**: South side, 10' x 10'\n- **Master Bedroom**: Northeast corner, 12' x 12'\n- **Balconies**: North-west (12' x 10') and South-east (10' x 5')\n\n### Example 2:\n- **Living Room**: Center, 15' x 45'\n- **Bathroom**: Between Common 1 and Common 2, 10' x 6'\n- **Common Rooms**: Top (12' x 12') and Bottom (10' x 10')\n- **Kitchen**: North side, 8' x 10'\n- **Master Room**: South-west, 12' x 16'\n- **Balconies**: Bottom (15' x 5') and North (5' x 5')\n\n###"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "52721",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: 40 feet x 15 feet (center)\n- **Kitchen**: 10 feet x 5 feet (entrance from living room, near balcony)\n- **Bathroom**: 5 feet x 5 feet (entrance from living room)\n- **Common Room 1**: 10 feet x 15 feet (entrance from living room, near bathroom)\n- **Common Room 2**: 10 feet x 15 feet (entrance from living room, near bathroom)\n- **Master Room**: 12 feet x 15 feet (entrance from living room, southwest corner)\n\n### Example 2:\n- **Living Room**: 25 feet x 15 feet (center left)\n- **Kitchen**: 8 feet x 6 feet (far northwest corner, adjoining balcony)\n- **Bathroom**: 8 feet x 6 feet (east edge, adjoining master room and common room 2)\n- **Common Room 1**: 14 feet x 8 feet (southwest corner, adjoining living room)\n- **Common Room 2**: 12 feet"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "50510",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: Northeast corner, next to master room, 5+ feet.\n- **Bathroom**: South side, next to living room, 4 feet.\n- **Common Room**: Southeast corner, next to bathroom, 10 feet.\n- **Kitchen**: North side, next to living room, 4 feet.\n- **Living Room**: Southwest to northwest, next to kitchen, 12 feet.\n- **Master Room**: North side, between kitchen and balcony, 10 feet.\n- **Storage Room**: East side, next to common room, 5 feet.\n\n### Example 2:\n- **Balcony 1**: North front, below bathroom, 10x10 feet.\n- **Balcony 2**: Rear, south wall, 5x10 feet.\n- **Bathroom**: West of front entrance, left of living room, 5x5 feet.\n- **Common Room 1**: North-west corner, north of master bedroom, 15x10 feet.\n- **Common Room 2**: South wall, east of master bedroom, 10x10 feet"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "42226",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4**.",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4**.\n\n### Reasons for Identification:\n\n1. **Room Layout and Orientation:**\n   - In Examples 1, 2, 3, and 5, the living room is typically described as being on the west or south side of the house, and it often connects directly to the other rooms (common room, master room, etc.). The layout is more linear or rectangular.\n   - Example 4 describes the living room as being on the east side of the house, which is different from the other examples. This suggests a different orientation and possibly a different shape or layout.\n\n2. **Room Relationships:**\n   - In Examples 1, 2, 3, and 5, the common room and master room are generally described as being adjacent to each other and to the living room. There is a clear sequence of rooms leading from the living room to the other areas.\n   - Example 4 describes multiple rooms (kitchen, common room 1, common room 2, and balcony) as being adjacent to the living room, but the relationships between these rooms are not as clearly defined as in the other examples. For instance, the kitchen is described as being near the"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "43396",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Central, longways towards the north (50x15 feet).\n- **Master Bedroom**: West side, 12x12 feet.\n- **Bathroom**: North of the master, 5x10 feet.\n- **Common Room 1**: North of the bathroom, east of the living room, 10x12 feet.\n- **Common Room 2**: East of the floor, 10x12 feet.\n- **Balcony**: South of the master, 2x12 feet.\n\n### Example 2:\n- **Living Room**: East and south, 400 sq ft.\n- **Master Bedroom**: South west, 115 sq ft.\n- **Bathroom 1**: North west, 60 sq ft.\n- **Bathroom 2**: Center west, 45 sq ft.\n- **Common Room 1**: South east, 80 sq ft.\n- **Common Room 2**: North west corner, 85 sq ft.\n- **Balcony**: North east, 15 sq ft.\n\n### Example"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "47247",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balconies**: Two balconies (1 and 2), both rectangular, with Balcony 2 being larger and next to Common Room 2.\n- **Common Rooms**: Two common rooms (1 and 2), both rectangular, with Common Room 1 next to the kitchen and Common Room 2 next to the master room.\n- **Kitchen**: Narrow and next to Balcony 1.\n- **Living Room**: Central and large.\n- **Master Room**: Largest room, rectangular, and connected to the bathroom.\n- **Bathroom**: Small and connects Common Room 1 and Master Room.\n\n### Example 2:\n- **Balconies**: Two balconies (1 and 2), both rectangular, with Balcony 1 next to Common Room 1 and Balcony 2 next to the living room.\n- **Common Rooms**: Two common rooms (1 and 2), both rectangular, with Common Room 1 next to the balcony and Common Room 2 next to the kitchen.\n- **Kitchen**: Next to Common Room 2 and Balcony 2.\n- **Living Room**: Central and large.\n-"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "14914",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: 15 feet x 30 feet (northwest)\n- **Kitchen**: 12 feet x 8 feet (left of living room)\n- **Common Room**: 12 feet x 15 feet (below kitchen and balcony, right of living room)\n- **Balcony**: 12 feet x 4 feet (below common room, south side)\n- **Master Bedroom**: 13 feet x 18 feet (northeast)\n- **Bathroom**: 8 feet x 5 feet (top right of living room, left of master bedroom)\n\n### Example 2:\n- **Living Room**: 30 feet x 12 feet (west side, full area)\n- **Kitchen**: 10 feet x 3 feet (north-east corner, below balcony)\n- **Common Room**: 11 feet x 8 feet (south-east corner, below master bedroom)\n- **Balcony**: 4 feet x 3 feet (north-west corner)\n- **Master Bedroom**: 12 feet x 12 feet (south-east corner)\n- **Bathroom**:"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "80219",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: Southwest corner, attached to the master bedroom.\n- **Bathroom**: North side, between common area and living room.\n- **Common Area**: Northwest side, between master bathroom and kitchen.\n- **Kitchen**: West side, between master bedroom and common area.\n- **Living Room**: Southeast end, between master bedroom and bathroom.\n- **Master Bedroom**: South side, between living room and kitchen, with a balcony on the west side.\n\n### Example 2:\n- **Balcony**: Northern edge, north of the living room.\n- **Bathroom**: Southern edge, surrounded by living room and common room.\n- **Common Room**: Southeast corner, east of the bathroom.\n- **Kitchen**: Northern side, south and west of the living room, east of the master room.\n- **Living Room**: Western side, north of the kitchen, south of the master room.\n- **Master Room**: Northeast corner, east of the kitchen, south of the living room.\n\n### Example 3:\n- **Balcony 1**: North side, beside the kitchen and in front of the bathroom.\n- **Balcony 2**:"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "70560",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: Southwest corner, attached to the master bedroom.\n- **Bathroom**: North side, between common area and living room.\n- **Common Area**: Northwest side, between master bathroom and kitchen.\n- **Kitchen**: West side, between master bedroom and common area.\n- **Living Room**: Southeast end, between master bedroom and bathroom.\n- **Master Bedroom**: South side, between living room and kitchen, with a balcony on the west side.\n\n### Example 2:\n- **Balcony**: South of the living room.\n- **Bathroom**: Left of the living room, adjacent to the kitchen.\n- **Common Room 1**: South of the master bedroom and right of Common Room 2.\n- **Common Room 2**: Bottom left of the living room.\n- **Kitchen**: Left of the bathroom and living room, north of the second common room.\n- **Living Room**: Entrance from the front door, 15 x 25, with a 10-foot hallway leading to kitchen, master bedroom, and other rooms.\n- **Master Bedroom**: Right at the end of the hallway from the living room, 1"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "18887",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**.",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**.\n\n### Reasons for Identification:\n\n1. **Room Layout and Orientation:**\n   - **Examples 1, 2, 3, and 4** generally describe a layout where the living room is centrally or near-centrally located, with the master bedroom typically in a corner (usually southwest). The kitchen is often positioned in the north or northeast, and the bathrooms are usually in the south or southeast.\n   - **Example 5** describes a layout where the living room is in the northeastern portion, which is different from the central or near-central positioning seen in the other examples. Additionally, the master bedroom is described as being in the southern end, which is also different from the typical southwest corner placement.\n\n2. **Room Sizes and Proportions:**\n   - **Examples 1, 2, 3, and 4** tend to have more consistent room sizes and proportions, with some variation but generally maintaining a similar scale and relationship.\n   - **Example 5** provides specific room sizes and proportions that are quite different from the others. For instance, the living room is described as being approximately 480 square feet, which is significantly larger than the"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "61767",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: NW of the apartment, next to the master bedroom (12 x 5 ft)\n- **Bathroom**: SE of the apartment, next to the living room (10 x 5 ft)\n- **Common Room**: SW corner, next to the kitchen (12 x 15 ft)\n- **Kitchen**: W side, next to the living room (15 x 5 ft)\n- **Living Room**: E side, next to the kitchen (30 x 20 ft)\n- **Master Bedroom**: W side, next to the kitchen (12 x 12 ft)\n\n### Example 2:\n- **Balcony**: NE corner, next to the living room (3 x 8 ft)\n- **Bathroom**: SE corner, next to the living room (5 x 7 ft)\n- **Common Room**: SW corner, next to the kitchen (10 x 11 ft)\n- **Kitchen**: W side, next to the living room and master bedroom (6 x 6 ft)\n- **Living Room**: E side, next to the kitchen (14 x"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "47834",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: South, 12x10 feet, above balcony (25x12 feet)\n- **Bathroom**: West, 6x3 feet, above common room (12x10 feet)\n- **Common Room**: Southwest, 12x10 feet, above living room\n- **Kitchen**: Northeast, 10x8 feet, above common room\n- **Master Room**: Northwest, 12x10 feet, above kitchen\n\n### Example 2:\n- **Living Room**: East, 10x22 feet, above balcony (2x10 feet)\n- **Bathroom**: West, 5x5 feet, between master and common room (10x10 feet)\n- **Common Room**: Southwest, 10x10 feet, next to living room\n- **Kitchen**: Northeast, 7x8 feet, next to living room\n- **Master Room**: Northwest, 10x10 feet, next to living room\n\n### Example 3:\n- **Living Room**: Southeast, 20x30 feet, next"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "65801",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Bathroom** is between the kitchen and common room 1 (northeast).\n- **Common room 1** is on the northeast end.\n- **Common room 2** is on the southeast end.\n- **Kitchen** is on the northwest end.\n- **Living room** is in the center.\n- **Bedroom** is on the southwest end with a balcony.\n- **Center room** is 10x30.\n\n### Example 2:\n- **Bathroom** is in the northeast corner.\n- **Common room** is on the right side of the kitchen.\n- **Kitchen** is on the right side of the master room.\n- **Living room** is in the center.\n- **Master room** is in the bottom (southwest) side.\n- **Living room** is 30x20.\n\n### Example 3:\n- **Bathroom** is in the northern portion.\n- **Common room** is in the southwest corner.\n- **Kitchen** is in the northeast corner.\n- **Living room** is in the northwest corner.\n- **Master room** is in the southeast corner.\n- **Living room"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "72055",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Largest room, located in the left bottom to up, covering about 1/3 of the total house size.\n- **Master Room**: Located in the right side bottom to the living room, square-shaped, 12ft x 15ft.\n- **Kitchen**: Top right, 5ft wide and 10ft tall.\n- **Common Room 1**: Above the bathroom, 12ft x 12ft.\n- **Common Room 2**: Smaller than Common Room 1, 10ft x 10ft.\n- **Bathroom**: On the upside of the master, 5ft x 5ft.\n- **Balcony**: Top right, 5ft wide by 2ft tall.\n\n### Example 2:\n- **Living Room**: 450 sq ft, located on the east side and center, between the kitchen and balcony 1.\n- **Master Room**: 400 sq ft, located in the northwest, near the bathroom.\n- **Bathroom**: 64 sq ft, located in between the common room and master room.\n-"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "9795",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: West side, next to bathroom (15' x 30')\n- **Bathroom**: East side, next to common room (5' x 5')\n- **Common Room**: East side, next to bathroom (12' x 12')\n- **Kitchen**: South side, next to second balcony (10' x 10')\n- **Second Balcony**: South-east corner, next to kitchen (10' x 5')\n- **First Balcony**: North-west corner, next to living room (12' x 10')\n- **Master Bedroom**: Northeast corner, next to bathroom (12' x 12')\n\n### Example 2:\n- **Living Room**: East side, next to master room (450 sq ft)\n- **Bathroom**: West side, between master and common room (40 sq ft)\n- **Common Room**: West side, next to bathroom (150 sq ft)\n- **Master Room**: South-west corner, next to bathroom (225 sq ft)\n- **Balcony 1**: North-west corner"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "67483",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Bathroom**: West side, above the common room, 35 sq ft.\n- **Common Room**: South-west corner, left side of the kitchen, 169 sq ft.\n- **Kitchen**: South-central, left side of the master room, 7x11 ft.\n- **Living Room**: North side, spans from central to north, 28x13 ft (east) and 23x13 ft (west).\n- **Master Room**: South-east corner, right side of the kitchen, 210 sq ft.\n\n### Example 2:\n- **Balcony**: Bottom side of the master room, 15x5 ft.\n- **Bathroom**: North-east corner of the living room, 5x8 ft.\n- **Common Room**: Right side of the kitchen, 10x15 ft.\n- **Kitchen**: Right side of the master room, 5x15 ft.\n- **Living Room**: Center portion, 30x20 ft.\n- **Master Room**: Bottom side of the living room, 15x15 ft."
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "64781",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: South side\n- **Master Bedroom**: North side\n- **Living Room**: East, South, West sides\n- **Bathroom**: North side\n- **Common Room**: North side\n- **Kitchen**: East side\n\n### Example 2:\n- **First Balcony**: Northeast corner\n- **Second Balcony**: South side next to Living Room\n- **Bathroom**: East side next to Master Bedroom\n- **Common Room**: East side next to Bathroom\n- **Kitchen**: West side next to Living Room\n- **Living Room**: West side\n- **Master Bedroom**: Southeast corner\n\n### Example 3:\n- **Balcony**: South side\n- **Bathroom**: Top right side of Living Room and left side of Master Bedroom\n- **Common Room**: Below Kitchen and Balcony, right side of Living Room\n- **Kitchen**: Left side of Living Room\n- **Living Room**: Northwest side\n- **Master Bedroom**: Northeast corner\n\n### Example 4:\n- **Balcony**: South side\n- **Bathroom**: Northeast corner\n- **Common Room**: East side"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "64614",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Eastern wall, spans the entire eastern wall.\n- **Kitchen**: Northern wall, adjacent to the main entry way.\n- **Common Rooms**: \n  - Common Room #1: Southern wall, between the master bedroom and the living room.\n  - Common Room #2: Western wall, north of the master bedroom.\n- **Master Bedroom**: South-west corner.\n- **Bathrooms**:\n  - Bathroom #1: Center of the floor plan, south of the kitchen.\n  - Bathroom #2: North-west corner, west of the kitchen.\n- **Balconies**:\n  - Balcony #1: South wall of the living room.\n  - Balcony #2: North-west corner.\n\n### Example 2:\n- **Living Room**: Southeast corner, north-facing.\n- **Kitchen**: North corner, near the living room.\n- **Common Rooms**:\n  - Common Room #1: Center of the north side.\n  - Common Room #2: North-west corner, near the master bedroom.\n  - Common Room #3: Center of the south side.\n- **Master Bedroom**: South-west corner,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "19992",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: NE corner (20x2)\n- **Bathroom**: Between common room and living room (10x6)\n- **Common Room**: NW corner (15x15)\n- **Kitchen**: SE corner (5x10)\n- **Living Room**: Right of bathroom, down from common room (25x30)\n- **Master Bedroom**: Between balcony and living room (20x15)\n\n### Example 2:\n- **Balcony**: SE corner (12x3)\n- **Bathroom**: Down from kitchen (12x5)\n- **Common Room**: Left of master room (10x12)\n- **Kitchen**: NE corner (12x5)\n- **Living Room**: NW corner (20x9)\n- **Master Room**: Above balcony (12x12)\n\n### Example 3:\n- **Balcony**: SE corner (14x4)\n- **Bathroom**: NW middle (8x8)\n- **Common Room 1**: NE corner (14x14)\n- **Common Room 2**:"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "20839",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Bathroom**: North side, next to kitchen (5' x 5')\n- **First Common Room**: West side, next to living room (10' x 10')\n- **Second Common Room**: Southeast side, next to master room (12' x 15')\n- **Kitchen**: North side, next to bathroom (5' x 12')\n- **Living Room**: Southwest side, next to kitchen (30' x 20')\n- **Master Room**: Northeast corner, next to kitchen and bathroom (12' x 12')\n\n### Example 2:\n- **Balcony**: South-west corner, in front of living room (4' x 16')\n- **Bathroom**: North center, between master and common room (5' x 7')\n- **Common Room**: North-east corner, next to bathroom (14' x 14')\n- **Dining Room**: South-east corner, opposite common room (20' x 10')\n- **Living Room**: Center of south region, between balcony and dining room (25' x 16"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "10984",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: 20' x 20'\n- **Master Room**: 15' x 15'\n- **Bathroom**: 5' x 5'\n- **Common Room**: 10' x 10'\n- **Kitchen**: 10' x 5'\n- **Balcony**: 5' x 5'\n\n### Example 2:\n- **Living Room**: 20' x 20'\n- **Master Room**: 15' x 15'\n- **Bathroom**: 5' x 5'\n- **Kitchen**: 10' x 5'\n- **Balcony**: 10' x 10'\n\n### Example 3:\n- **Living Room**: 25' x 15'\n- **Master Room**: 15' x 10'\n- **Bathroom**: 10' x 3'\n- **Common Room 1**: 8' x 8'\n- **Common Room 2**: 12' x 12'\n- **Kitchen**: 10' x"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "4132",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balconies**: Two balconies (one north, one south).\n- **Rooms**:\n  - Kitchen (north-west)\n  - Living room (north)\n  - Common room (north-east)\n  - Master room (east-north)\n  - Bathroom (south-east)\n\n### Example 2:\n- **Balconies**: Two balconies (one south, one north).\n- **Rooms**:\n  - Living room (center)\n  - Kitchen (north)\n  - Common room 1 (south of living room, south of balcony 1)\n  - Common room 2 (north-east of living room, west of kitchen, south of balcony 2)\n  - Master room (south, east of common room 1)\n  - Bathroom (south-east of living room)\n\n### Example 3:\n- **Balconies**: One balcony (south-east).\n- **Rooms**:\n  - Living room (north-east)\n  - Kitchen (north)\n  - Common room 1 (south, near balcony)\n  - Common room 2 (north-west)\n  - Master room (south-west)\n  - Bathroom 1 (west"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "9383",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: Located on the southeast corner, near Common Room 2.\n- **Bathroom 1**: Located on the west side, between Master and Common Room 1.\n- **Common Room 1**: Located on the northwest corner, near Bathroom 2.\n- **Common Room 2**: Located on the south side, near the Master Room.\n- **Kitchen**: Located on the north side, near Bathroom 2.\n- **Living Room**: Located on the east side, near Common Room 2 and Bathroom 2.\n- **Master Room**: Located on the southwest corner, near Common Room 2.\n\n### Example 2:\n- **Bathroom 1**: Located in the middle of the south side, near Living Room and Master Room.\n- **Bathroom 2**: Located in the middle of the west side, near Master Room and Common Room 2.\n- **Common Room 1**: Located in the center of the north side, near Common Room 2 and Living Room.\n- **Common Room 2**: Located in the north and west corner, near Master Room and Common Room 1.\n- **Common Room 3"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "60915",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Central, largest room (18x28 sq ft)\n- **Master Room**: Southwest corner (18x12 sq ft)\n- **Kitchen**: Between bathroom and master room (10x6 sq ft)\n- **Bathroom**: Between kitchen and common room 1 (8x6 sq ft)\n- **Common Room 1**: Northwest corner (12x10 sq ft)\n- **Common Room 2**: Northeast corner (10x10 sq ft)\n- **Balcony**: Southeast corner (14x4 sq ft)\n\n### Example 2:\n- **Living Room**: Right side, largest room (35x20 sq ft)\n- **Master Room**: Left side (12.5x12.5 sq ft)\n- **Bathroom**: Below living room (5x7.5 sq ft)\n- **Common Room**: Upper left corner (12.5x15 sq ft)\n- **Balconies**: One above and one below the living room (10x10 and 2.5x15 sq ft)\n\n### Example"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "7474",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: North portion, 320-350 sqft\n- **Master Room**: South-east corner, 120 sqft\n- **Common Room**: South side, 120 sqft\n- **Kitchen**: West side, 110 sqft\n- **Balconies**: East (80-90 sqft) and South-West (35 sqft)\n- **Bathroom**: Central, 80 sqft\n\n### Example 2:\n- **Living Room**: Western side, 30x18 (540 sqft)\n- **Master Room**: South-east corner, 12x17 (204 sqft)\n- **Common Room**: Southeast corner, 12x9 (108 sqft)\n- **Kitchen**: Eastern side, 10x5 (50 sqft)\n- **Bathroom**: Southwest corner, 11x5 (55 sqft)\n\n### Example 3:\n- **Living Room**: Eastern region, 460 sqft\n- **Master Room**: South-west corner,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "64729",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: South West corner, Rear side of Common Room2\n- **Bathroom 1**: North West corner, Left to Kitchen, in-front of Living Room\n- **Bathroom 2**: East side, between Master Room and Living Room\n- **Common Room 1**: North East side, in-front of Living Room, Right to Kitchen\n- **Common Room 2**: South West side, between Living Room and Balcony, Left to Master Room\n- **Kitchen**: North side, between Common Room 1 and Bathroom 1, in-front of Living Room\n- **Living Room**: Middle of House, between Kitchen, Common Room 1, and Common Room 2, and Bathroom 2\n- **Master Room**: South East corner, Rear side of Bathroom 2, Right to Common Room 2\n\n### Example 2:\n- **Balcony**: North facing, accessible from Master Room\n- **Bathroom**: Accessible from Living Room, between Common Room 1 and 2\n- **Common Room 1**: Accessible from Living Room, next to Bathroom and Master Room\n- **Common"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "30721",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 2**.",
+    "raw_response": "The example that has a different floorplan from the others is **Example 2**.\n\n### Why Example 2 is Different:\n\n1. **Room Layout and Placement:**\n   - In Examples 1, 3, 4, and 5, the living room is typically placed in a prominent position, often covering a significant portion of the floor plan or being centrally located. However, in Example 2, the living room is described as covering only 75% of the entire plan and is located far to the west, which is not a common placement for such a large space.\n   \n2. **Balconies and Common Rooms:**\n   - All other examples (1, 3, 4, and 5) have multiple balconies and common rooms distributed in a way that they are generally smaller and more evenly spread throughout the floor plan. In Example 2, there are no explicit mentions of balconies or common rooms, and the rooms are described as being located in specific corners without much detail about their distribution or size.\n\n3. **Bathroom and Kitchen Placement:**\n   - In Examples 1, 3, 4, and 5, the bathrooms and kitchens are typically located in specific corners or along the edges of the floor"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "30004",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Central, largest room (12x27)\n- **Master Room**: Southeast corner (10x11)\n- **Common Room**: Northeast corner (10x12)\n- **Kitchen**: East side (5x10)\n- **Bathroom**: Northwest corner (6x6)\n- **Balcony**: Southwest corner (not specified dimensions)\n\n### Example 2:\n- **Living Room**: West side, largest room (30x12)\n- **Master Room**: Southeast corner (12x12)\n- **Common Room**: Southeast corner (11x8)\n- **Kitchen**: North-east corner (10x3)\n- **Bathroom**: North-west corner (4x4)\n- **Balcony**: North-west (4x3)\n\n### Example 3:\n- **Living Room**: West side, largest room (25x11 + 4x9 extension)\n- **Master Room**: Southeast corner (10x11)\n- **Common Room**: Central-east (11x9)\n- **Kitchen**: North-east corner (10x5"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "55090",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Central, West-facing, 10x25 feet.\n- **Balconies**: Two (10x3 feet each), opposite each other.\n- **Bathroom**: 10x5 feet, between kitchen and master bedroom.\n- **Kitchen**: 10x15 feet, North-East.\n- **Master Bedroom**: 10x12 feet, South-West.\n- **Common Room**: 10x15 feet, South-West.\n\n### Example 2:\n- **Living Room**: 12x40 feet, West-facing, central.\n- **Balconies**: Two (10x4 feet each), opposite each other.\n- **Bathroom**: 8x10 feet, West.\n- **Common Rooms**: Two (12x15 feet and 10x10 feet), North-East and South-West.\n- **Kitchen**: 8x8 feet, North-West.\n- **Master Bedroom**: 15x25 feet, South-East.\n\n### Example 3:\n- **Living Room**: 25x20 feet, South.\n-"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "47247",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: East side, largest room (10x16 feet)\n- **Master Room**: Southwest corner, next to living room (10x11 feet)\n- **Common Room 1**: Northwest corner, next to living room (10x12 feet)\n- **Common Room 2**: East side, next to living and balcony (10x12 feet)\n- **Kitchen**: North side, next to living room (6x9 feet)\n- **Bathroom 1**: West side, between master and common (5x5 feet)\n- **Bathroom 2**: Northeast corner, next to living and kitchen (5x8 feet)\n- **Balcony**: Southeast corner, next to master and common (not specified size)\n\n### Example 2:\n- **Living Room**: Center, largest room (400-450 sq ft)\n- **Master Room**: South side, next to common room 1 (150 sq ft)\n- **Common Room 1**: North-west, next to living room (100 sq ft), connected to balcony 1 (50 sq"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "75828",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: South East (next to Living Room)\n- **Bathroom**: West (next to Common Room)\n- **Common Room**: North West (next to Kitchen and Bathroom)\n- **Kitchen**: North (next to Master Room)\n- **Living Room**: South (next to Balcony)\n- **Master Room**: North East (next to Living Room)\n\n### Example 2:\n- **Balcony**: South (next to Living Room)\n- **Bathroom**: North (next to Common Room)\n- **Common Room**: North (next to Kitchen)\n- **Kitchen**: East (next to Common Room)\n- **Living Room**: West (next to Bathroom and Common Room)\n- **Master Room**: East (next to Kitchen and Living Room)\n\n### Example 3:\n- **Balcony**: Southwest (next to Kitchen and Common2)\n- **Bathroom**: West (between Common1 and Common2)\n- **Common Room 1**: Northwest (near Bathroom and Master Room)\n- **Common Room 2**: West (next to Balcony and Kitchen)\n- **Kitchen**: South (next to Balcony and Common"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "47060",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balconies**: South East (8x8), North West (5x12)\n- **Living Room**: West (250 sq ft)\n- **Kitchen**: South West (96 sq ft)\n- **Bathroom**: East (80 sq ft)\n- **Common Room**: South East (110 sq ft)\n- **Master Bedroom**: North East (150 sq ft)\n\n### Example 2:\n- **Balconies**: North West (12x10), South East (10x5)\n- **Living Room**: West (15x30)\n- **Kitchen**: South (10x10)\n- **Bathroom**: East (5x5)\n- **Common Room**: East (12x12)\n- **Master Bedroom**: Northeast (12x12)\n\n### Example 3:\n- **Balcony**: North West (12x3)\n- **Bathroom**: North (5x5)\n- **Common Room**: North (15x12)\n- **Kitchen**: East (10x10)\n- **Living Room**:"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "77045",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: 20' x 20'\n- **Master Room**: 15' x 15'\n- **Common Room**: 10' x 10'\n- **Kitchen**: 10' x 5'\n- **Bathroom**: 5' x 5'\n- **Balcony**: 5' x 5'\n\n### Example 2:\n- **Living Room**: 344 sq ft (20' x 17')\n- **Master Room**: 240 sq ft (15' x 16')\n- **Common Room**: 135 sq ft (15' x 9')\n- **Kitchen**: 140 sq ft (10' x 14')\n- **Bathroom**: 112 sq ft (8' x 14')\n\n### Example 3:\n- **Living Room**: 30' x 20'\n- **Master Room**: 20' x 20'\n- **Common Room**: 15' x 10'\n- **Kitchen**: 15'"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "50181",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Northwest corner, largest room (10x25)\n- **Master Room**: Southwest corner, next to living room (10x11)\n- **Common Room**: West side, between kitchen and living room (10x10)\n- **Kitchen**: West side, between common room and master room (6x9)\n- **Bathroom**: Northeast corner, next to living room (5x8)\n- **Balcony**: Southeast corner, next to living room (not specified dimensions)\n\n### Example 2:\n- **Living Room**: Center, largest room (15x35)\n- **Master Room**: Entrance from living room (10x10)\n- **Common Room**: Entrance from living room (10x10)\n- **Kitchen**: Entrance from living room (12x2)\n- **Balcony**: Entrance from living room (10x2)\n\n### Example 3:\n- **Living Room**: North side, center (15x30)\n- **Master Room**: Entrance from living room (10x15)\n- **Common Room**: Entrance from"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "55086",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balconies**: Northeast (1), Southwest (2)\n- **Common Rooms**: Northeast (1), Northwest (2)\n- **Kitchen**: Middle of the north side\n- **Living Room**: Center of the floorplan\n- **Master Room**: Southwest\n- **Bathroom**: Middle of the east side\n\n### Example 2:\n- **Balconies**: Southeast (1), West (2)\n- **Common Rooms**: East (1), Southeast (2)\n- **Kitchen**: East middle corner\n- **Living Room**: Center of the house\n- **Master Room**: North corner\n- **Bathroom**: North-east corner\n\n### Example 3:\n- **Balconies**: Northwest (1), Southern edge (2)\n- **Common Rooms**: Northwest (1), South-east (2)\n- **Kitchen**: Northeast corner\n- **Living Room**: Eastern side\n- **Master Room**: Southwest corner\n- **Bathroom**: Western side\n\n### Example 4:\n- **Balconies**: Southern part (1), Northern part (2)\n- **Common Rooms**: North-west (1), North-west (2)\n- **"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "40679",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room** (30x20 ft) in the center-west.\n- **Master Room** (15x15 ft) in the southeast.\n- **Bathroom 1** (5x5 ft) in the east.\n- **Bathroom 2** (5x5 ft) in the north.\n- **Common Room 1** (15x10 ft) in the northwest.\n- **Common Room 2** (10x10 ft) in the east.\n- **Kitchen** (15x10 ft) in the northwest.\n- **Balcony** in the lower edge.\n\n### Example 2:\n- **Living Room** (12x34 ft) in the west.\n- **Master Room** (12x16 ft) in the southwest.\n- **Bathroom 1** (6x4 ft) in the north.\n- **Bathroom 2** (8x6 ft) in the west.\n- **Common Room 1** (8x10 ft) in the northeast.\n- **Common Room 2** (10x"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "63514",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: NW corner, 3x3 ft\n- **Kitchen**: N side, 12x5 ft\n- **Bathroom**: W side, 5x5 ft\n- **Common Room**: N side, 6x6 ft\n- **Living Room**: E side, 38x12 ft\n- **Master Room**: S side, 11x12 ft\n\n### Example 2:\n- **Balcony**: N part, 10x2 ft\n- **Kitchen**: S of balcony, 10x7 ft\n- **Bathroom**: W of floor plan, 8x9 ft\n- **Common Room 1**: NW side, 12.5x12.5 ft\n- **Common Room 2**: Upright of bathroom, 7.5x10 ft\n- **Living Room**: SE side, 850 sq ft\n- **Master Room**: SW side, 12x20 ft\n\n### Example 3:\n- **Balcony**: Lower right, 12.5x"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "46660",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balconies**: North (near kitchen), South-East (near living room)\n- **Bathroom**: West (between comm room and master room)\n- **Comm Room**: South-West (near balcony 2)\n- **Kitchen**: North-East (near balcony 1)\n- **Living Room**: Middle (north-south and east-west)\n- **Master Room**: West (near bathroom)\n\n### Example 2:\n- **Balconies**: Northeast (near kitchen and common room 2), Southeast (near living room)\n- **Bathroom**: Center (north-south axis, west)\n- **Common Rooms**: Northwest (near bathroom, living room, common room 2), Northeast (near living room, kitchen, common room 2)\n- **Kitchen**: Northeast (near living room, common room 2)\n- **Living Room**: Center (north-south and east-west)\n- **Master Room**: Southwest (near bathroom)\n\n### Example 3:\n- **Balconies**: South (next to living room), North (next to living room)\n- **Bathroom**: West (between master and common room)\n- **Common Room**: North"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "1225",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: North side, 6x3 ft\n- **Bathroom**: Middle of common and master room, 8x6 ft\n- **Common Room**: North-west corner, 20x10 ft\n- **Living Room**: North-east corner, 50x10 ft\n- **Master Room**: South-west corner, 20x10 ft\n\n### Example 2:\n- **Balcony**: Southeast corner, 2x10 ft\n- **Bathroom**: West side, 5x5 ft\n- **Common Room**: South-west corner, 10x10 ft\n- **Kitchen**: North-east corner, 7x8 ft\n- **Living Room**: East side, 10x22 ft\n- **Master Room**: North-west corner, 10x10 ft\n\n### Example 3:\n- **Balcony**: Southeast corner, 4x10 ft\n- **Bathroom**: West side, 4x6 ft\n- **Common Room (1)**: South-west corner, 9x10 ft"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "50510",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: 30' x 15'\n- **Master Room**: 15' x 10'\n- **Common Room 1**: 15' x 10'\n- **Common Room 2**: 10' x 10'\n- **Bathroom 1**: 10' x 4'\n- **Bathroom 2**: 8' x 6'\n- **Kitchen**: 10' x 8'\n- **Balcony**: 12' x 3'\n\n### Example 2:\n- **Living Room**: 10' x 30'\n- **Master Room**: 10' x 15'\n- **Common Room 1**: 10' x 10'\n- **Common Room 2**: 10' x 10'\n- **Bathroom 1**: 5' x 10'\n- **Bathroom 2**: 5' x 10'\n- **Balcony 1**: 5' x 5'\n- **Balcony 2**: 12"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "26372",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony**: South of the kitchen, in the southern corner.\n- **Bathroom 1**: Southern corner, near the common rooms.\n- **Bathroom 2**: Northern section, near the master bedroom.\n- **Common Room 1**: Southern corner, near the master bedroom.\n- **Common Room 2**: Southern side, near the master bedroom.\n- **Kitchen**: Northeastern side.\n- **Living Room**: Center of the house.\n- **Master Bedroom**: Northwest corner.\n\n### Example 2:\n- **Balcony**: Southwest corner, rear side of Common Room 2.\n- **Bathroom 1**: Northwest corner, left of the kitchen, in front of the living room.\n- **Bathroom 2**: East side, between the master room and living room.\n- **Common Room 1**: Northeast side, in front of the living room, right of the kitchen.\n- **Common Room 2**: Southwest side, between the living room and balcony, left of the master room.\n- **Kitchen**: North side, between Common Room 1 and Bathroom 1, in front of the living room.\n- **Living"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "10984",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: 20' x 20'\n- **Kitchen**: 10' x 5'\n- **Common Room**: 10' x 10'\n- **Master Room**: 15' x 15'\n- **Bathroom**: 5' x 5'\n- **Balcony**: 5' x 5'\n\n### Example 2:\n- **Living Room**: 10' x 10' (suitable for living room)\n- **Kitchen**: Correct position\n- **Master Room**: In a corner\n- **Bathroom**: Between living room and balcony\n- **Balconies**: One in the back of the bathroom, one next to the living room\n\n### Example 3:\n- **Living Room**: 370 sq ft, 37' x 10'\n- **Kitchen**: 8' x 7'\n- **Common Room 1**: 15' x 10'\n- **Common Room 2**: 15' x 10'\n- **Master Room**: 15' x 12'"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "3282",
+    "predicted_id": "Certainly! Let's analyze the floorplans described in each example to identify the one that stands out.",
+    "raw_response": "Certainly! Let's analyze the floorplans described in each example to identify the one that stands out.\n\n### Example 1:\n- **Balconies**: Balcony 1 (South), Balcony 2 (Northwest)\n- **Common Rooms**: Common Room 1 (West), Common Room 2 (Northeast)\n- **Kitchen**: North\n- **Living Room**: East\n- **Master Room**: Southwest\n- **Bathroom**: North\n\n### Example 2:\n- **Balconies**: Balcony 1 (South), Balcony 2 (North)\n- **Common Rooms**: Common Room 1 (South), Common Room 2 (Northeast)\n- **Kitchen**: North\n- **Living Room**: Center\n- **Master Room**: South\n- **Bathroom**: Southeast\n\n### Example 3:\n- **Balconies**: Balcony 1 (North), Balcony 2 (South)\n- **Common Rooms**: Common Room (North East)\n- **Kitchen**: North West\n- **Living Room**: North\n- **Master Room**: East North\n- **Bathroom**: South East\n\n### Example 4:\n- **Balconies**: Balcony 1 (North),"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "72055",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: Central, Western half, 18ft x 30ft\n- **Master Bedroom**: Southeast corner, 15ft x 18ft\n- **Common Room**: Northwest corner, 18ft x 18ft\n- **Bathroom**: Central, Eastern wall, 6ft x 6ft\n- **Kitchen**: Northernmost, 12ft x 5ft\n- **Balconies**: Southernmost (18ft x 6ft) and Northwest corner (5ft x 4ft)\n\n### Example 2:\n- **Living Room**: East, 27ft x 14ft\n- **Master Bedroom**: Southwest corner, 13ft x 12ft\n- **Common Room**: Northwest corner, 12ft x 9ft\n- **Bathroom**: West, 6ft x 8ft\n- **Kitchen**: Northwest corner, 10ft x 6ft\n- **Balconies**: South (5ft x 13ft) and North (3ft x 8ft)\n\n### Example 3"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "50181",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: 15x30 (center)\n- **Kitchen**: 15x5 (near living room, smaller than other rooms)\n- **Bathroom**: 3x3 (entrance from living room, small)\n- **Common Room**: 15x15 (entrance from living room, same size as living room)\n- **Master Room**: 10x15 (entrance from living room, near common room)\n\n### Example 2:\n- **Living Room**: 30x18 (adjacent to all rooms, largest room)\n- **Kitchen**: 10x10 (eastern side, between master bedroom and common room)\n- **Bathroom**: 11x5 (southwest corner, adjacent to living room)\n- **Master Bedroom**: 11x14 (northeast corner, adjacent to kitchen and living room)\n\n### Example 3:\n- **Living Room**: 15x35 (center, largest room)\n- **Kitchen**: 12x2 (entrance from living room, near master room and common room)\n- **B"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "50510",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: 15 X 25\n- **Kitchen**: 7 X 10\n- **Master Bedroom**: 15 X 10\n- **Common Room 1**: 10 X 15\n- **Common Room 2**: 10 X 10\n- **Bathroom**: 8 X 5\n- **Balcony**: 10 X 5\n\n### Example 2:\n- **Living Room**: 10 X 50\n- **Kitchen**: 30 X 10\n- **Master Bedroom**: 20 X 20\n- **Common Room**: 30 X 20\n- **Bathroom**: 20 X 10\n- **Balcony**: 10 X 20\n\n### Example 3:\n- **Living Room**: 12 X (not specified)\n- **Kitchen**: 4 X (not specified)\n- **Master Bedroom**: 10 X (not specified)\n- **Common Room**: 10 X (not specified)\n- **Bathroom**: 4"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "46660",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balconies**: North (10x3), South-East (10x2)\n- **Bathroom**: West (10x5)\n- **Common Room**: South-West (10x12)\n- **Kitchen**: North-East (8x14)\n- **Living Room**: Middle (12x20)\n- **Master Room**: West (10x10)\n\n### Example 2:\n- **Balconies**: South (14x3), North (6x3)\n- **Bathroom**: West (10x8)\n- **Common Room**: North-East (10x12)\n- **Kitchen**: North-East (12x10)\n- **Living Room**: East (22x16)\n- **Master Room**: Southwest (12x14)\n\n### Example 3:\n- **Balconies**: North (8x2), South-East (10x3)\n- **Bathroom**: West (6x6)\n- **Common Room**: North-East (10x10), North-West (10x10)\n- **Kitchen"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "70105",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- Living Room: East, north of Balcony 1, south of Balcony 2 (600 sq ft)\n- Balcony 1: Southeast corner (50 sq ft)\n- Balcony 2: North of Living Room (40 sq ft)\n- Bathroom: West, south of Living Room, north of Master Bedroom (40 sq ft)\n- Common Room: Northwest corner (150 sq ft)\n- Kitchen: Northeast corner (90 sq ft)\n- Master Bedroom: Southwest corner (150 sq ft)\n\n### Example 2:\n- Living Room: Center, south-facing (10x8)\n- Balcony 1: Southeast corner (10x8)\n- Balcony 2: West corner (10x6)\n- Bathroom: Northeast corner (8x8)\n- Common Room 1: East (10x8)\n- Common Room 2: Southeast (10x6)\n- Kitchen: East (10x8)\n- Master Bedroom: North corner (8x8)\n\n### Example 3:\n- Living Room: Center (30"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "75828",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: 25 ft L X 11 ft W (north-south orientation)\n- **Balcony 1**: 11 ft L X 6 ft W (west-east orientation)\n- **Kitchen**: 10 ft L X 5 ft W (east-west orientation)\n- **Bathroom**: 6 ft W X 10 ft L (east-west orientation)\n- **Common Room**: 11 ft L X 9 ft W (east-west orientation)\n- **Master Room**: 10 ft W X 11 ft L (north-south orientation)\n\n### Example 2:\n- **Living Room**: 20 ft L X 22 ft W (south-facing, east-west orientation)\n- **Balcony**: 4 ft L X 14 ft W (north-south orientation)\n- **Kitchen**: 12 ft L X 6 ft W (east-west orientation)\n- **Bathroom**: 7 ft L X 7 ft W (north-south orientation)\n- **Common Room 1**: 16 ft L X 16 ft W (north"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "21543",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balconies**: Located in the northern and southern areas.\n- **Common Rooms**: Multiple common rooms in various locations (Mid northern, northwest, Mid eastern).\n- **Kitchen**: Northeastern corner.\n- **Living Room**: Central and largest space.\n- **Master Bedroom**: Southwest corner.\n- **Bathroom**: Midwestern.\n\n### Example 2:\n- **Balconies**: Southeast and south of the living room.\n- **Common Room**: Northwest corner.\n- **Kitchen**: Northeast corner.\n- **Living Room**: Central and largest space.\n- **Master Bedroom**: Southwest corner.\n- **Bathroom**: West of the living room.\n\n### Example 3:\n- **Balconies**: Southeast and northeast of the living room.\n- **Common Room**: Northwest corner.\n- **Kitchen**: Northeast corner.\n- **Living Room**: Central and largest space.\n- **Master Bedroom**: Southwest corner.\n- **Bathroom**: West of the living room.\n\n### Example 4:\n- **Balconies**: North and south of the living room.\n- **Common Room**: Northwest corner.\n- **Kitchen**: Northeast corner.\n- **Living Room**: Central and largest"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "48795",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: West, 10x20 ft\n- **Master Room**: Southeast, 10x12 ft\n- **Kitchen**: Northwest, 8x9 ft\n- **Common Room**: East, 9x9 ft\n- **Bathroom**: East, 5x5 ft\n- **Balconies**: Northeast (4x9 ft) and Southwest (3x10 ft)\n\n### Example 2:\n- **Living Room**: West, 12x34 ft\n- **Master Room**: Southwest, 12x16 ft\n- **Kitchen**: Northwest, 6x10 ft\n- **Common Room 1**: Northeast, 8x10 ft\n- **Common Room 2**: Northeast, 10x10 ft\n- **Bathroom 1**: North, 6x4 ft\n- **Bathroom 2**: West, 8x6 ft\n- **Balcony**: Southwest\n\n### Example 3:\n- **Living Room**: South, 13x30 ft\n- **Master Room**: Northeast,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "42226",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Balcony** in the northern edge.\n- **Kitchen** in the far northwest corner.\n- **Common Room 1** in the far southwest corner.\n- **Common Room 2** in the northeast corner.\n- **Living Room** in the center left.\n- **Master Room** in the southeast corner.\n- **Bathroom** in the east edge.\n\n### Example 2:\n- **Balcony 1** in the center of the south edge.\n- **Balcony 2** in the center of the north edge.\n- **Bathroom** in the center west edge.\n- **Common Room 1** in the north east corner.\n- **Common Room 2** in the south west corner.\n- **Kitchen** in the north west corner.\n- **Living Room** spanning the western side.\n- **Master Room** in the south east corner.\n\n### Example 3:\n- **Balcony 1** on the north center.\n- **Balcony 2** on the south center.\n- **Bathroom** on the east center.\n- **Common Room 1** in the south east corner.\n-"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "50181",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4**.",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4**.\n\n### Reasons for Identification:\n\n1. **Room Layout and Orientation**:\n   - In Examples 1, 2, 3, and 5, the living room is typically positioned centrally or near the north side, and the master bedroom is usually located near the living room, often in the northeast or northwest corner.\n   - Example 4 places the living room in the western region of the plan, which is different from the central or northern positioning in the other examples.\n\n2. **Balcony Location**:\n   - In Examples 1, 2, 3, and 5, the balcony is generally located near the master bedroom or in a corner.\n   - Example 4 places the balcony in the northwest corner and behind the living room, which is not consistent with the other examples where balconies are more commonly found in corners adjacent to the master bedroom.\n\n3. **Kitchen Positioning**:\n   - In Examples 1, 2, 3, and 5, the kitchen is usually located in the eastern or southern part of the plan.\n   - Example 4 positions the kitchen in the middle of the eastern part, which is different from the other"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "33045",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**.",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**.\n\n### Reasons for Identification:\n\n1. **Spatial Relationships and Layout:**\n   - **Examples 1, 2, 3, and 4** all describe a layout where the living room is centrally or predominantly located, often taking up a significant portion of the floor plan. In these examples, the living room is typically described as being in the center or near the center of the floor plan, with other rooms arranged around it.\n   - **Example 5** describes a different layout where the living room is described as extending from the southern wall to the northern wall, occupying the western half of the floor plan. This suggests a more elongated or rectangular layout with the living room dominating one side.\n\n2. **Room Arrangement:**\n   - **Examples 1, 2, 3, and 4** have a more symmetrical or balanced arrangement of rooms, with the living room often serving as a central hub.\n   - **Example 5** has a more linear or elongated arrangement, with the living room stretching from south to north and taking up a large portion of the western side.\n\n3. **Specific Room Descriptions:**\n   - **Examples"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "26703",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Living Room**: West and south middle position, 10x30 sq ft.\n- **Master Room**: South and east corner position, 14x17 sq ft.\n- **Common Room 1**: West and south middle position, 10x14 sq ft.\n- **Common Room 2**: North and east corner position, 14x14 sq ft.\n- **Kitchen**: North and west position, 14x8 sq ft.\n- **Bathroom**: East middle corner position, 8x8 sq ft.\n- **Balcony**: West and south corner position, 10x5 sq ft.\n\n### Example 2:\n- **Living Room**: Middle of House, 22x18 sq ft.\n- **Master Room**: South East corner, 12x16 sq ft.\n- **Common Room 1**: North East side, 10x10 sq ft.\n- **Common Room 2**: South West side, 10x16 sq ft.\n- **Kitchen**: North side, 8.6 sq ft.\n- **B"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "description",
+    "scenario": "same_second",
+    "outlier_id": "73164",
+    "predicted_id": "Certainly! Let's analyze each description to identify the unique floorplan pattern.",
+    "raw_response": "Certainly! Let's analyze each description to identify the unique floorplan pattern.\n\n### Example 1:\n- **Bathroom** is between the **living room** and **balcony 2**.\n- **Living room** is in front of **balcony 2**.\n- **Master room** is in a corner.\n- **Kitchen** is in the correct position.\n\n### Example 2:\n- **Bathroom** is north of the **living room** and between the **master room** and **common room**.\n- **Common room** is north of the **kitchen** and east of the **bathroom**.\n- **Kitchen** is east of the **living room** and south of the **common room**.\n- **Living room** is in the southernmost part.\n- **Master room** is north of the **living room** and west of the **bathroom**.\n\n### Example 3:\n- **Balcony** is in the northwest corner, adjacent to the **kitchen** and **master room**.\n- **Bathroom** is in the middle, adjacent to the **master room** and **living room**.\n- **Common room 1** is in the southwest corner, adjacent to **common"
+  }
+]

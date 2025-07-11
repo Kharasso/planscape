@@ -4,5 +4,8 @@ Note that in these graphs, nodes=rooms, links=adjacencies.
 {example_prettified_json}
 
 After looking at these graphs, pay attention to spatial relationships between the rooms, their types, and size. 
-Based on these examples, can you identify the example that has a different floorplan from the others? 
-Please also tell me why this one is picked, based on what features?
+Based on these examples, can you identify the example that has a different floorplan from the others? Please also tell me why this one is picked, based on what features?
+
+Please structure your reply exactly like below:
+1. **Different example:** <ID>  
+2. **Why:** <brief explain the most important features that set this example apart>

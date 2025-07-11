@@ -8,3 +8,13 @@ Example {i}:
 {description}
 
 Provide a concise summary of typical room arrangements, proportions, and unique characteristics.
+
+
+
+
+
+
+
+
+after looking at the graph, pay attention to spatial relationships between the rooms, their types, and size. 
+Based on these observations, can you verbally describe the underlying common plan, emphasizing the distinguishing patterns that will characterize this plan.

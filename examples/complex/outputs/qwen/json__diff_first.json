@@ -1,0 +1,802 @@
+[
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "27706",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Differences in Spatial Relationships and Room Layout:\n\n1. **Balconies Placement:**\n   - In Examples 1, 2, 3, and 4, balconies are typically placed along the perimeter of the apartment, often near the living room or common areas.\n   - In Example 5, there are two balconies, but they are placed in different locations:\n     - One balcony (ID 3) is located near the entrance area (between the common room and the master room).\n     - The other balcony (ID 4) is much further away, near the living room and kitchen area.\n\n2. **Living Room Size and Shape:**\n   - In Examples 1, 2, 3, and 4, the living room is generally larger and more centrally located, often connected to multiple other rooms.\n   - In Example 5, the living room (ID 2) is significantly larger and extends over a wider area, connecting to the common room, master room, and kitchen. It also has a more complex shape with additional segments.\n\n3. **Bathroom Placement:**\n   -"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "66935",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with additional rooms (common room, master room, living room, balcony, bathroom, kitchen) compared to the other examples. The other examples have a similar number of rooms but differ in their spatial arrangement and connections.\n  \n### Room Arrangement:\n- **Example 5** has a more intricate arrangement of rooms, particularly with the common room and master room being positioned differently relative to the living room and other spaces. The common room and master room are not directly adjacent to each other as they are in Examples 1, 2, and 3.\n  \n### Balconies:\n- **Example 5** has two balconies that are positioned differently. One is located near the living room, while the other is near the kitchen. This is unique among the other examples where balconies are often positioned similarly or in a more centralized location.\n\n### Centroids and Areas:\n- The centroids and areas of the rooms in **Example 5** are also distributed differently, which contributes to the overall distinct layout.\n\n### Summary:\n- **Example 5"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "43363",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 3**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 3**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Common Rooms**: Examples 1, 2, 4, and 5 all have common rooms that are typically rectangular or L-shaped, with one long side adjacent to another room. In Example 3, the common rooms are more irregularly shaped and do not follow a consistent pattern.\n  \n- **Master Room**: The master room in Example 3 is also more irregularly shaped compared to the others, which tend to be more rectangular or L-shaped.\n\n- **Living Room**: The living room in Example 3 is more complex and has multiple segments, whereas the living rooms in the other examples are generally simpler and more uniform in shape.\n\n- **Balconies**: Balconies in Examples 1, 2, 4, and 5 are typically small and rectangular, while the balcony in Example 3 is larger and more irregularly shaped.\n\n- **Bathroom and Kitchen**: The bathrooms and kitchens in Example 3 are also more irregularly shaped compared to the others, which tend to be more straightforward in their layout.\n\n### Summary:\n- **Irregular Shapes**: Example"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "24364",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Differences in Spatial Relationships and Room Layout:\n1. **Room Types and Distribution:**\n   - **Examples 1, 2, 3, and 4** all have a common room (or living area) that is typically larger and centrally located, with master bedrooms and other rooms arranged around it. The living room or common room is often connected to multiple other rooms.\n   - **Example 5** has a more complex layout where the living room is not as central and is connected to multiple other rooms, including a storage area. Additionally, there is a balcony that connects to the living room but not directly to the master bedroom.\n\n2. **Balconies:**\n   - **Examples 1, 2, and 4** have balconies that connect to the living room or common room, but they do not connect to the master bedroom.\n   - **Example 3** has two balconies, one connecting to the living room and another to the master bedroom.\n   - **Example 5** has two balconies, one connecting to the living room and another to the kitchen, which is a unique"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "66807",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 3**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 3**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Common Room**: In Examples 1, 2, 4, and 5, the common room is typically located towards the center or near the entrance of the apartment. However, in Example 3, the common room is positioned towards the top-right corner of the layout.\n  \n- **Master Room**: The master room in Examples 1, 2, 4, and 5 is usually placed centrally or near the entrance. In Example 3, the master room is located towards the bottom-left corner, which is different from the other examples.\n\n- **Living Room**: The living room in Examples 1, 2, 4, and 5 is generally placed towards the center or near the entrance. In Example 3, the living room is positioned towards the bottom-right corner.\n\n- **Balconies**: Balconies in Examples 1, 2, 4, and 5 are typically placed near the living room or master room. In Example 3, there are two balconies: one near the living room (bottom-right) and another near the"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "23274",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4** (ID 3282). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4** (ID 3282). Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 4** has a more complex layout with multiple balconies and a kitchen located in a different area compared to the other examples.\n- The other examples (Examples 1, 2, 3, and 5) have a more uniform layout where the common rooms, master room, living room, balcony, bathroom, and kitchen are typically arranged in a linear or rectangular fashion.\n\n### Specific Features:\n1. **Balconies:**\n   - Examples 1, 2, 3, and 5 each have only one balcony.\n   - Example 4 has two balconies, which is unique among the given examples.\n\n2. **Kitchen Location:**\n   - In Examples 1, 2, 3, and 5, the kitchen is usually placed near the living room or in a corner.\n   - In Example 4, the kitchen is located towards the top-right corner of the floor plan, far from the living room.\n\n3. **Living Room Layout:**\n   - The living room in Example 4 is"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "1268",
+    "predicted_id": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Common Rooms**: Examples 1, 2, 3, and 4 all have common rooms that are typically rectangular and aligned horizontally or vertically. In contrast, Example 5 has two common rooms that are also rectangular but are aligned vertically (one above the other).\n  \n- **Master Room**: The master room in Example 5 is much larger and occupies a significant portion of the top section of the floor plan, forming a large rectangle. This is different from the other examples where the master room is either smaller or not as prominently placed.\n\n- **Living Room**: The living room in Example 5 spans a wide area and is more complex in its layout compared to the other examples. It includes multiple segments and connections, making it more intricate.\n\n- **Bathrooms and Kitchen**: The bathrooms and kitchen in Example 5 are positioned differently and do not follow the same patterns seen in the other examples. Specifically, the bathroom in Example 5 is located at the top right corner, while the kitchen is below the living room, creating a unique layout.\n\n### Summary:\n- **Example 5**"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "40111",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has two balconies (IDs 4 and 5), while the other examples have only one balcony or none.\n- The layout of Example 5 is more complex with multiple interconnected spaces, particularly around the living room (ID 3) and master room (ID 2).\n\n### Specific Features:\n1. **Multiple Balconies:**\n   - Example 5 has two balconies, which is unique among the given examples. This adds an extra layer of complexity to the floor plan.\n   \n2. **Living Room Layout:**\n   - The living room in Example 5 (ID 3) is much larger and more intricately connected to other rooms compared to the living rooms in the other examples. It has a more extensive polygon and more connections to other rooms.\n   \n3. **Master Room Location:**\n   - The master room in Example 5 (ID 2) is located in a different part of the floor plan compared to the master rooms in the other examples. It is situated towards the top-left corner, whereas in the other examples, the"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "52457",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with multiple common rooms and a living room that spans across a larger area compared to the other examples. The living room in Example 5 is much larger and more intricately connected with other rooms.\n  \n- **Example 5** includes two common rooms (IDs 0 and 1) which are not present in the other examples. This additional common room adds complexity to the floor plan.\n\n- **Example 5** has a balcony (ID 4) that is directly connected to the master room (ID 2), but not to the living room or kitchen. This unique connection is not seen in the other examples.\n\n- **Example 5** has a bathroom (ID 5) that is connected to the living room (ID 3) and the kitchen (ID 6), forming a more interconnected network of rooms.\n\n### Comparison with Other Examples:\n- **Examples 1, 2, 3, and 4** all have a similar layout where there is one common room, one master room, one living room, one"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "48780",
+    "predicted_id": "The example that has a different floorplan from the others is Example 5 (ID 63485). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 5 (ID 63485). Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Common Rooms**: Examples 1, 2, 3, and 4 all have common rooms that are typically rectangular and aligned along the same axis (either horizontally or vertically). In contrast, Example 5 has two common rooms that are also rectangular but are not aligned in the same way as the others. The common rooms in Example 5 are positioned more diagonally relative to each other.\n\n- **Master Room**: In Examples 1, 2, 3, and 4, the master room is usually larger and often occupies a central or prominent position. However, in Example 5, the master room is much larger and occupies a significant portion of the space, spanning from one side of the floor plan to the other (from left to right).\n\n- **Living Room**: The living room in Examples 1, 2, 3, and 4 is generally smaller compared to the master room and is often adjacent to the common rooms. In Example 5, the living room is significantly larger and spans multiple rows of rooms, making it more"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "24364",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with multiple common rooms and a living room that spans across a larger area compared to the other examples. The living room in Example 5 is much larger and more intricately connected to other rooms.\n  \n- **Example 5** includes a balcony that is directly adjacent to the common room, which is not present in the other examples. This unique adjacency is a distinctive feature.\n\n- **Example 5** has a master room that is smaller and more centrally located compared to the other examples, which typically have larger master rooms.\n\n### Size and Centroids:\n- **Example 5** has a common room (ID 0) with an area of 2530.0 square units, which is significantly larger than the common rooms in the other examples (ranging from 1260.0 to 2116.0 square units).\n\n- The centroid of the common room in Example 5 (185.5, 74.0) is positioned differently compared to the centroids in the other examples,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "47834",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with rooms arranged in a way that differs significantly from the other examples. Specifically, the living room spans multiple floors (or levels) as indicated by its polygon coordinates, which include both lower and upper levels.\n  \n- **Examples 1, 2, 3, and 4** have simpler and more uniform layouts where rooms are generally confined to a single level or floor. The living rooms in these examples do not span multiple floors.\n\n### Room Arrangement:\n- In **Example 5**, the living room (`living_room` node with ID 2) has a polygon that includes both lower and upper levels, which is not present in the other examples. This indicates a multi-level living space.\n\n- In contrast, the living rooms in **Examples 1, 2, 3, and 4** are confined to a single level and do not span multiple floors.\n\n### Balconies and Common Rooms:\n- **Example 5** has balconies (`balcony` nodes with IDs 3 and 4) that are"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "72346",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5** (ID 62071). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5** (ID 62071). Here are the key reasons why it stands out:\n\n### Differences in Spatial Relationships and Room Layout:\n1. **Balcony Placement:**\n   - In Examples 1, 2, 3, and 4, the balconies are typically placed adjacent to the living room or master bedroom. However, in Example 5, the balcony is placed near the common room and master bedroom but not directly adjacent to the living room.\n   \n2. **Living Room Size and Shape:**\n   - The living room in Example 5 is significantly larger and more complex in shape compared to the other examples. It spans multiple floors and has a more intricate layout with multiple connections and adjacencies.\n\n3. **Bathroom Placement:**\n   - In Examples 1, 2, 3, and 4, bathrooms are usually placed near the master bedroom or living room. In Example 5, the bathroom is located near the entrance area (common room) rather than being adjacent to the master bedroom or living room.\n\n4. **Overall Layout Symmetry:**\n   - Examples 1, 2, 3, and 4 have"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "25607",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4** (ID 25607).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4** (ID 25607).\n\n### Key Differences:\n\n1. **Room Types and Layout:**\n   - **Examples 1, 2, 3, and 5** all have a common room, master room, living room, balcony, bathroom, and sometimes an additional room like a dining or kitchen.\n   - **Example 4** includes a common room, master room, living room, balcony, bathroom, and a kitchen. The presence of a kitchen is unique among the examples provided.\n\n2. **Spatial Relationships:**\n   - **Examples 1, 2, 3, and 5** have a consistent layout where the common room, master room, and living room are typically adjacent to each other, with balconies and bathrooms often connected to the living room.\n   - **Example 4** has a more complex layout with the kitchen being a separate entity, not directly connected to the common room, master room, or living room. This creates a distinct spatial relationship that sets it apart from the others.\n\n3. **Room Placement:**\n   - In **Examples 1, 2, 3, and 5**, the common room"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "77515",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 3** (ID 77515).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 3** (ID 77515).\n\n### Key Differences:\n\n1. **Room Types and Count:**\n   - Examples 1, 2, 4, and 5 all have the following room types: `common_room`, `master_room`, `living_room`, `balcony`, `bathroom`, and `kitchen`.\n   - Example 3 includes an additional room type called `storage`.\n\n2. **Layout Structure:**\n   - In Examples 1, 2, 4, and 5, the living room is typically connected to other rooms like the master room, common room, and kitchen. The layout is more symmetrical and interconnected.\n   - Example 3 has a more complex and less symmetrical layout. The living room is connected to multiple other rooms but also includes a separate storage area which is not present in the other examples.\n\n3. **Room Placement:**\n   - In Example 3, the `storage` room is placed in a way that it does not directly connect to the main living area as much as the other rooms do. This creates a more fragmented layout compared to the others.\n\n4. **Balconies:**"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "60915",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a balcony that is located much lower in the building compared to the other examples. In Examples 1, 2, 3, and 4, the balconies are typically placed higher up or adjacent to the living room/master room areas.\n- **Example 5** has a kitchen that is positioned much lower and more centrally compared to the other examples. The kitchen in Example 5 is closer to the living room and master room, whereas in the other examples, the kitchen is usually placed towards the bottom or side of the floor plan.\n\n### Room Layout and Arrangement:\n- **Example 5** has a more compact layout with the living room spanning from the top to the bottom of the building, which is not seen in the other examples. The living room in Example 5 extends vertically from the top (around 200 units) to the bottom (around 50 units), while in the other examples, the living room is more horizontally oriented.\n- The arrangement of the common rooms and bathrooms in Example 5 is also different. The common"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "33749",
+    "predicted_id": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:\n\n1. **Room Layout and Connections**:\n   - In Examples 1, 2, 3, and 4, the living room (node 2) is directly connected to the common room (node 0), master room (node 1), balcony (node 3), bathroom (node 4), and kitchen (node 5). This forms a more linear or branched structure.\n   - In Example 5, the living room (node 2) is only directly connected to the common room (node 0) and the bathroom (node 4). It is not directly connected to the master room (node 1), balcony (node 3), and kitchen (node 5).\n\n2. **Balcony Placement**:\n   - In Examples 1, 2, 3, and 4, the balcony is directly connected to the living room, forming a direct link between the two.\n   - In Example 5, the balcony (node 3) is not directly connected to the living room (node 2). Instead, it is connected to the kitchen (node 5).\n\n3"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "60915",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Differences in Room Types and Layout:\n1. **Number of Master Rooms**: Examples 1, 2, 3, and 4 each have only one master room, while Example 5 has two master rooms. This is a significant difference in the layout and structure of the floorplan.\n\n2. **Additional Room Types**: Example 5 includes an additional room type called \"storage,\" which is not present in the other examples. This adds another layer of complexity to the floorplan.\n\n3. **Balcony Placement**: In Example 5, there are two balconies, whereas the other examples have either one or none. The placement and number of balconies differ significantly.\n\n4. **Living Room Size and Shape**: The living room in Example 5 is much larger and more complex in shape compared to the living rooms in the other examples. It spans multiple sections and has a more intricate adjacency pattern.\n\n### Summary:\n- **Example 5** introduces a second master room and a storage area, which are not present in the other examples. Additionally, it has two balconies and a more extensive and complex living room layout"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "50181",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5** (ID 21765). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5** (ID 21765). Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with a larger number of rooms and a more intricate arrangement compared to the other examples. Specifically, it includes a **master_room** that spans across a wider area and connects multiple other rooms in a way that is not seen in the other examples.\n\n### Key Differences:\n1. **Master Room Span**: In Example 5, the master room (ID 2) spans from the bottom left to the top right of the floor plan, covering a large area (4500.0 square meters). This is significantly larger than the master rooms in the other examples, which are generally smaller and more contained within a specific section of the floor plan.\n\n2. **Living Room Layout**: The living room in Example 5 (ID 3) is much larger and more complex, with a more extensive polygon that includes multiple connections to other rooms. It also has a balcony (ID 4) that is connected to the living room, which is not present in the other examples.\n\n3. **Bathroom Placement"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "77515",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4** (ID 77515). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4** (ID 77515). Here are the key reasons why it stands out:\n\n### Differences in Room Layout and Connections:\n1. **Number of Master Rooms**: \n   - Examples 1, 2, 3, and 5 each have only one master room.\n   - Example 4 has two master rooms, which is unique among the other examples.\n\n2. **Room Arrangement**:\n   - In Examples 1, 2, 3, and 5, the living room is typically connected to the common room and possibly other rooms like the balcony or bathroom.\n   - In Example 4, the living room is connected to multiple rooms including both master rooms, the balcony, and the kitchen. This creates a more complex and interconnected layout.\n\n3. **Storage Room**:\n   - Example 4 includes a storage room, which is not present in the other examples.\n\n4. **Balcony Placement**:\n   - The balcony in Example 4 is placed differently compared to the other examples. It is connected to the living room and extends along the longer side of the building, creating a distinct L-shape.\n\n5. **Overall Structure**"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "63902",
+    "predicted_id": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:\n\n1. **Room Types**: While all other examples have a common room, master room, living room, balcony, bathroom, and kitchen, Example 5 has two master rooms instead of one common room. This is a significant difference in the layout structure.\n\n2. **Layout Structure**:\n   - In Examples 1, 2, 3, and 4, the common room is typically connected to the living room and other rooms, forming a more linear or rectangular layout with a central common area.\n   - Example 5 has a more complex layout with two master rooms, which suggests a different spatial arrangement where the master rooms are not directly connected to each other but are connected to the living room and other rooms.\n\n3. **Connections**:\n   - The connections (links) in Example 5 are different. It connects the two master rooms to the living room and other rooms, whereas in the other examples, the common room is often the central connecting node.\n\n4. **Room Placement**:\n   - The placement of the rooms in Example 5 is more spread out compared to the other examples. The two master rooms are placed further"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "38478",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a living room that spans a much larger area (5317.5 square units) compared to the other examples, which have living rooms ranging from 5775.5 to 6833 square units.\n- The living room in Example 5 is positioned in the top-left corner, while the common room is in the bottom-left corner. This arrangement is different from the other examples where the common room and living room are often adjacent or in similar positions.\n- The balcony in Example 5 is smaller (799 square units) compared to the other examples, which have balconies ranging from 1022 to 1406 square units.\n- The bathroom in Example 5 is located in the bottom-right corner, whereas in the other examples, the bathrooms are typically placed in the middle or near the common areas.\n\n### Graph Representation:\n- In the graph representation of Example 5, the connections between the rooms are different. Specifically, the living room (node 2) is connected to both the master room ("
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "75828",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4** (ID 75828). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4** (ID 75828). Here are the key reasons why it stands out:\n\n### Differences in Room Layout and Connections:\n1. **Number of Rooms:**\n   - Examples 1, 2, 3, and 5 all have 5 rooms.\n   - Example 4 has 7 rooms, which immediately sets it apart.\n\n2. **Room Types and Arrangement:**\n   - In Examples 1, 2, 3, and 5, the common room, master room, living room, bathroom, and kitchen are present.\n   - Example 4 includes an additional room type, \"balcony,\" and has a more complex arrangement with multiple connections between rooms.\n\n3. **Connections Between Rooms:**\n   - In Examples 1, 2, 3, and 5, the connections between rooms are relatively straightforward and consistent.\n   - Example 4 has a more intricate network of connections, including multiple paths between some rooms (e.g., common room to living room, common room to kitchen, etc.).\n\n4. **Spatial Relationships:**\n   - The layout in Example 4 is more fragmented and interconnected compared to the other"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "12376",
+    "predicted_id": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Common Room (Living Room):** In Examples 1, 2, 3, and 4, the common room/living room is typically larger and more centrally located, often connected to other rooms like the master bedroom or kitchen. In Example 5, the living room is much smaller and positioned towards the top-right corner of the floor plan, with a balcony directly adjacent to it.\n  \n- **Master Bedroom:** The master bedroom in Examples 1, 2, 3, and 4 is usually larger and centrally located, often connected to the common room and possibly the bathroom. In Example 5, the master bedroom is relatively small and positioned near the bottom-left corner, with a balcony directly adjacent to it.\n\n- **Balconies:** In Examples 1, 2, 3, and 4, balconies are typically placed in areas that do not disrupt the main flow of the floor plan, often near the living room or master bedroom. In Example 5, there are two balconies, one near the living room and another near the master bedroom, which is"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "66316",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a living room that spans across a larger area compared to the other examples. The living room in Example 5 is much more extensive, extending from the bottom left to the top right of the floor plan, covering a significant portion of the space. This is not as common in the other examples where the living room tends to be more centrally located or smaller in comparison.\n\n- **Room Layout:**\n  - In Examples 1, 2, 3, and 4, the living rooms are generally positioned in the center or near the center of the floor plan, with common rooms and other rooms surrounding it. However, in Example 5, the living room occupies a large rectangular area that stretches diagonally across the floor plan, which is unique among the other examples.\n\n- **Balconies:**\n  - All examples have balconies, but the placement and size of the balconies are similar. The balcony in Example 5 is relatively small and positioned in the top-right corner, which is consistent with the other examples.\n\n- **Bathrooms:**"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "43324",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex and irregular layout compared to the other examples. The rooms are not aligned in a straightforward manner like the common rooms, master room, living room, balcony, bathrooms, and kitchen in the other examples.\n- **Example 5** has two common rooms that are not aligned in a simple rectangular or square shape but have more irregular boundaries with multiple angles and curves. This makes the overall layout less symmetrical and more complex.\n- **Example 5** includes a master room that is also more irregularly shaped, with a non-rectangular polygon.\n\n### Comparison with Other Examples:\n- **Examples 1, 2, 3, and 4** all have relatively simpler and more regular layouts. Common rooms, master rooms, living rooms, balconies, bathrooms, and kitchens are typically represented by rectangles or simple polygons, which are easier to recognize and compare.\n- In **Example 5**, the common rooms and master room have more complex shapes, making the overall floor plan less uniform and more intricate.\n\n### Summary:\nThe irregular shapes and more"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "61914",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a living room that spans across a much larger area compared to the other examples. The living room in Example 5 is significantly larger and more complex in its shape, with multiple connections and adjacencies.\n- In contrast, the living rooms in Examples 1, 2, 3, and 4 are generally smaller and have simpler shapes.\n\n### Room Arrangement:\n- **Example 5** has a master bedroom that occupies a large rectangular space spanning from the bottom left to the top right of the floor plan. This arrangement is unique among the other examples.\n- The other examples have master bedrooms that are either smaller or positioned differently within the layout.\n\n### Balconies and Bathrooms:\n- **Example 5** has a balcony that is positioned at the top-right corner of the floor plan, which is not a common placement in the other examples.\n- The bathrooms in Example 5 are also positioned differently, with one being placed near the center and another near the bottom-left corner, whereas in the other examples, bathrooms are typically placed closer to the middle"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "43324",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Differences in Spatial Relationships and Room Layout:\n1. **Balconies and Bathrooms:**\n   - In Examples 1, 2, 3, and 4, there are two balconies and one bathroom, while in Example 5, there is only one balcony and one bathroom.\n   - The layout of the balconies and bathrooms in Example 5 is different. The balcony in Example 5 is much larger (1085.0 square units) compared to the smaller balconies in the other examples (e.g., 764.5, 639.5, 325.0, 646.0).\n\n2. **Living Room:**\n   - The living room in Example 5 is significantly larger (5964.0 square units) compared to the living rooms in the other examples (e.g., 5493.0, 6942.0, 5758.5).\n   - The shape and layout of the living room in Example 5 are more complex, with multiple connections to other"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "12683",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a balcony connected to the living room, which is not present in the other examples. This unique feature sets it apart.\n- The layout of Example 5 includes a balcony (node 4) that connects directly to the living room (node 3), whereas in the other examples, the balconies are either not present or do not connect to the living room in the same way.\n\n### Room Types and Sizes:\n- **Example 5** has a more diverse set of room types compared to the others. It includes a balcony, which is not present in Examples 1, 2, and 3. Additionally, the bathroom (node 5) in Example 5 is smaller and positioned differently relative to the other rooms.\n- In contrast, Examples 1, 2, and 3 have similar configurations with common rooms, master rooms, living rooms, bathrooms, and kitchens, but without the inclusion of a balcony.\n\n### Summary:\n- **Example 5** introduces a balcony as an additional room type and connects it directly to the living room, which"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "18711",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5** (ID 35479). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5** (ID 35479). Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with multiple bathrooms and a larger living room compared to the other examples. Specifically, it has two bathrooms, while the other examples have only one or none.\n- The living room in Example 5 spans a much wider area, extending from the left side of the floor plan to the right, which is not as common in the other examples.\n\n### Room Types and Sizes:\n- **Example 5** includes a **master_room** that is significantly larger (3306.5 square units) compared to the other examples, which typically have smaller master_rooms or no dedicated master_room.\n- The **living_room** in Example 5 is also notably large (8599 square units), spanning a wide area from left to right, which is unique among the other examples.\n\n### Graph Structure:\n- The **link structure** in Example 5 is slightly different. It connects the living room to both bathrooms and the kitchen, whereas in the other examples, the connections are more uniform and less varied."
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "72586",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4** (ID 72586). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4** (ID 72586). Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 4** has a more complex layout with several distinct features compared to the other examples:\n  - It includes a large living room that spans multiple rows of coordinates.\n  - The common room is relatively small and positioned differently.\n  - The master room is larger and more intricately shaped, with additional smaller rooms or spaces within it.\n  - The balconies are positioned differently and have unique shapes.\n\n### Comparison with Other Examples:\n- **Examples 1, 2, 3, and 5** all share similar patterns where:\n  - The common room is typically located near the entrance or central area.\n  - The master room is usually placed towards one end of the floor plan.\n  - Living rooms are often centrally located or near the entrance.\n  - Balconies are generally found on the outer edges of the floor plan.\n  - Bathrooms and kitchens are positioned in a way that they do not significantly alter the overall layout.\n\n### Specific Differences in Example 4:\n- **Living Room**: The living room in Example 4"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "39894",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Differences in Spatial Relationships and Room Layout:\n1. **Balconies Placement:**\n   - In Examples 1, 2, 3, and 4, balconies are typically placed along the outer edges or near the living room. However, in Example 5, there are two balconies, one near the living room (at the bottom) and another near the kitchen (on the right side). This placement is unique and not seen in the other examples.\n\n2. **Living Room Size and Shape:**\n   - The living room in Example 5 is significantly larger and more complex in shape compared to the living rooms in the other examples. It has multiple segments and a more intricate layout with additional smaller rooms (like the balcony) connected to it.\n\n3. **Master Room Location:**\n   - In Example 5, the master room is located in the top-left corner, while in the other examples, it is usually centrally located or near the common rooms. This positioning is different and adds to the distinctiveness of the floor plan.\n\n4. **Bathroom and Kitchen Placement:**\n   - The bathroom and"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "40550",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Differences in Spatial Relationships and Room Layout:\n1. **Balconies and Bathrooms:**\n   - In Examples 1, 2, 3, and 4, there is a consistent pattern where balconies and bathrooms are typically located near the living room or master bedroom. However, in Example 5, there are two bathrooms and two balconies, which are more dispersed and not as closely grouped with the living room or master bedroom.\n   \n2. **Living Room and Master Bedroom:**\n   - The living room and master bedroom in Examples 1, 2, 3, and 4 are generally larger and more centrally located, often forming a central hub with other rooms around them. In Example 5, the living room and master bedroom are still large but are not as dominant in terms of their placement relative to other rooms.\n\n3. **Room Types and Placement:**\n   - In Examples 1, 2, 3, and 4, the common room is usually placed in a way that it connects multiple other rooms, often forming a central area. In Example 5, the common room"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "51393",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has two bathrooms, while the other examples have only one bathroom each.\n- The layout of Example 5 is more complex and sprawling compared to the others. It has a larger living room that spans multiple floors (from 56 to 199), which is not seen in the other examples.\n- The common rooms in Example 5 are also larger and more spread out, with one common room extending from 23 to 67 on one side and another from 73 to 110 on the other side.\n\n### Specific Features:\n1. **Multiple Bathrooms**: Example 5 has two bathrooms, while the others have only one. This is a significant difference in terms of the number of bathrooms.\n2. **Larger Living Room**: The living room in Example 5 is much larger and spans a wider vertical range (from 56 to 199), indicating a more open and expansive design.\n3. **Complex Layout**: The layout of Example 5 is more complex, with rooms spread across a larger area and interconnected"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "55090",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with a balcony that is not directly connected to any other room except the master bedroom. This is unique compared to the other examples where balconies are often connected to living rooms or other common areas.\n  \n- The **living room** in Example 5 spans a much larger area and has a more intricate shape, extending vertically and horizontally, which is less common in the other examples.\n\n- The **bathroom** in Example 5 is positioned differently and does not share direct adjacency with other rooms as frequently seen in the other examples.\n\n### Summary of Differences:\n1. **Balcony Placement**: In Example 5, the balcony is directly connected only to the master bedroom, whereas in the other examples, balconies are often connected to multiple rooms (e.g., living room, master bedroom).\n2. **Living Room Size and Shape**: The living room in Example 5 is significantly larger and has a more complex shape, extending vertically and horizontally, which is not as common in the other examples.\n3. **Bathroom Positioning**: The bathroom"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "26506",
+    "predicted_id": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:\n\n1. **Room Types and Layout**:\n   - In Examples 1, 2, 3, and 4, there is a common room (or multiple common rooms) that are typically placed along the perimeter of the floor plan, often adjacent to the living room or master bedroom. This is not the case in Example 5.\n   - Example 5 has a master room that is centrally located and does not have a common room directly adjacent to it. Instead, the common room is placed near the bottom left corner, and the living room is positioned towards the top right corner.\n\n2. **Balcony Placement**:\n   - In Examples 1, 2, 3, and 4, the balconies are usually placed either near the living room or the master bedroom, often extending from the living room or master bedroom.\n   - In Example 5, the balcony is placed far from the living room and master bedroom, extending from the living room towards the top right corner of the floor plan.\n\n3. **Bathroom Placement**:\n   - In Examples 1, 2, 3, and 4"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "33045",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 4** has two common rooms, which is unique among the other examples. The other examples have either one common room or none.\n- The layout of Example 4 includes two rectangular common rooms side by side, which is not present in the other examples.\n\n### Room Types and Sizes:\n- **Example 4** has a master room, living room, balcony, bathroom, and kitchen, similar to the other examples. However, the presence of two common rooms is distinctive.\n- The sizes and shapes of the rooms in Example 4 are more varied compared to the others. For instance, the common rooms are relatively large and have complex shapes (with multiple corners).\n\n### Graph Representation:\n- In the graph representation, Example 4 has additional edges connecting the two common rooms, which is not seen in the other examples. This indicates a different adjacency relationship between the rooms.\n\n### Summary:\n- **Example 4** is picked because it is the only example with two common rooms, making its floorplan distinct from the others. The presence of two common rooms in a single floorplan is"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "42226",
+    "predicted_id": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:\n\n1. **Room Types and Distribution**:\n   - Examples 1, 2, 3, and 4 all have a common room (or multiple common rooms) and a master room, which are connected to a living room, balconies, bathroom, and kitchen. The distribution of these rooms is relatively similar across these examples.\n   - Example 5, however, does not have a master room. Instead, it has two common rooms and a master room, but the layout and connections are quite different.\n\n2. **Layout and Connections**:\n   - In Examples 1, 2, 3, and 4, there is a clear central living area (living room) that connects to other rooms like the master room, balconies, bathroom, and kitchen. This central living area is often a key feature in these floorplans.\n   - Example 5 has a more scattered layout with no single central living area. The living room is connected to the common rooms and kitchen but not directly to the master room or bathroom. Additionally, the connections between the rooms are less uniform and more varied.\n\n3. **Room Sizes and"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "59474",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout compared to the other examples. It includes a balcony that is not directly connected to the living room but instead connects to the kitchen, which is a unique feature among the examples.\n- The living room in Example 5 is much larger and more elongated, with a more intricate path connecting it to other rooms. This is different from the other examples where the living room is typically rectangular and directly connected to other rooms.\n\n### Room Types and Sizes:\n- In Example 5, the living room is significantly larger (5904.0 square units) compared to the other examples, which have living rooms ranging from 6139.5 to 7657.0 square units.\n- The master room in Example 5 is also relatively large (3249.0 square units), but it is still smaller than the living room.\n- The bathroom in Example 5 is the largest among all examples (735.0 square units).\n\n### Connections Between Rooms:\n- The connections between rooms in Example 5 are"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "40111",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Examples 1, 2, 3, and 4** all have a common room (or multiple common rooms) that are typically rectangular and located near the entrance or central part of the apartment. The master room is usually larger and positioned towards one end of the apartment, often adjacent to the living room. The living room is generally larger and centrally located, with balconies and bathrooms positioned around it. The kitchen is usually placed near the common room or master room.\n\n- **Example 5** deviates from this pattern in several ways:\n  - It has a **larger common room** (1972 sq ft) that spans across the width of the apartment, which is not typical.\n  - The **master room** (3770 sq ft) is significantly larger than the other examples and is positioned towards the center of the apartment rather than one end.\n  - The **living room** (5201 sq ft) is also quite large and is centrally located, but it's not as prominent as the common room.\n  - The **b"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "27706",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5** (ID 14038). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5** (ID 14038). Here are the key reasons why it stands out:\n\n### Differences in Room Types and Spatial Relationships:\n1. **Storage Room:**\n   - Example 5 includes a \"storage\" room, which is not present in any of the other examples. This introduces an additional type of room that changes the overall structure and layout of the floorplan.\n\n2. **Different Room Arrangements:**\n   - The arrangement of rooms in Example 5 is more complex compared to the others. For instance, the living room in Example 5 is much larger and more intricately connected with other rooms, including the storage room, which is not seen in the other examples.\n\n3. **Bathroom Location:**\n   - In Example 5, the bathroom is located in a different position relative to the other rooms, specifically adjacent to the kitchen. This is different from the other examples where bathrooms are typically placed in a more central or separate location.\n\n4. **Living Room Size and Shape:**\n   - The living room in Example 5 is significantly larger and has a more complex shape, with multiple connections to other rooms. This makes the overall layout more intricate"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "3258",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has two common rooms that are vertically stacked (one above the other), while all other examples have only one common room or have common rooms that are not vertically stacked.\n- The common rooms in Example 5 are located at the bottom and middle of the floor plan, whereas in the other examples, the common rooms are typically found at the bottom or near the center.\n\n### Room Layout and Balconies:\n- **Example 5** has a balcony that spans a larger area (2329.5 square units) compared to the other examples, which generally have smaller balconies (e.g., 450.0, 1008.0, 803.5, 341.0).\n- The layout of the balconies in Example 5 is more complex, with one large balcony that connects multiple rooms, while the other examples have simpler balcony arrangements.\n\n### Master Room Location:\n- In **Example 5**, the master room is located towards the top-left corner of the floor plan, surrounded by other rooms."
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "56017",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with multiple balconies and a living room that spans across a larger area compared to the other examples. The living room in Example 5 is much larger and more elongated, extending from the bottom left to the top right of the floor plan, which is not seen in the other examples.\n  \n- **Example 5** also has two balconies, one near the entrance (top-left) and another towards the back (bottom-right), which is unique among the other examples.\n\n### Room Types and Sizes:\n- **Common Room**: In all examples, the common room is relatively small and rectangular. However, in Example 5, the common room is still small but positioned differently within the layout.\n- **Master Room**: The master room in Example 5 is also large and rectangular, similar to the other examples, but its position is more central and it shares a link with the living room, which is not as prominent in the other examples.\n- **Living Room**: The living room in Example 5 is significantly larger and more complex in shape"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "21543",
+    "predicted_id": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Common Rooms**: Examples 1, 2, and 3 have common rooms that are typically rectangular or L-shaped, often connected to other rooms like living rooms or master rooms. In contrast, Example 5's common room (Node 0) is a more complex shape with multiple angles and a longer horizontal span, which is less typical for common rooms in these examples.\n  \n- **Master Room**: The master room in Example 5 (Node 2) is significantly larger and more irregularly shaped compared to the master rooms in the other examples. It includes a smaller section that extends upwards, creating a unique layout not seen in the others.\n\n- **Living Room**: The living room in Example 5 (Node 3) is much larger and more complex, with a more intricate polygonal shape that includes multiple angles and a large open space. This is notably different from the simpler, more rectangular living rooms in the other examples.\n\n- **Balconies**: Both Example 5 and Example 4 have two balconies, but the placement and shape of these balconies are different. In Example"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "30907",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with additional common rooms compared to the other examples. Specifically, it has three common rooms (IDs 0, 1, and 2) while the other examples have only two or one common room.\n- The living room in Example 5 (ID 4) is much larger and more intricately connected to other rooms, forming a more extensive network of adjacencies.\n\n### Room Types and Sizes:\n- **Example 5** includes a master room (ID 3) that is relatively small compared to the other examples. This master room is adjacent to the living room and other common rooms, which is not as prominent in the other examples.\n- The bathrooms in Example 5 (IDs 5 and 6) are smaller and positioned differently compared to those in the other examples. For instance, the bathroom at ID 6 is much smaller and located in a different part of the floor plan.\n\n### Graph Structure:\n- The adjacency structure in Example 5 is more intricate. It has more connections between the rooms, particularly between the common"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "32569",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 3**.",
+    "raw_response": "The example that has a different floorplan from the others is **Example 3**.\n\n### Why Example 3 is Picked:\n\n1. **Room Layout and Arrangement:**\n   - In Examples 1, 2, 4, and 5, the living room is typically placed centrally or near the center of the floor plan, with common rooms, master rooms, balconies, bathrooms, and kitchens arranged around it. The living room often connects multiple other rooms.\n   - In Example 3, the living room is not placed centrally but rather towards one end of the layout. It is connected to the common room and master room but does not have the same central role as in the other examples.\n\n2. **Balcony Placement:**\n   - In Examples 1, 2, 4, and 5, balconies are usually placed near the living room or common areas.\n   - In Example 3, there are two balconies, one near the master room and another near the kitchen, which is less common in the other examples where balconies are more uniformly distributed.\n\n3. **Room Types and Connections:**\n   - In Examples 1, 2, 4, and 5, the connections between rooms are more uniform"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "37989",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4** (ID 52721).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4** (ID 52721).\n\n### Key Differences:\n\n1. **Room Types and Layout:**\n   - In Examples 1, 2, 3, and 5, the common room is typically placed along the perimeter of the apartment, often near the entrance or towards the center. The master room is usually larger and centrally located, with the living room also being a significant space.\n   - In Example 4, the common room is placed in a more central position, while the master room is much larger and occupies a significant portion of the space. This layout is less common compared to the other examples.\n\n2. **Balconies:**\n   - In Examples 1, 2, 3, and 5, balconies are typically smaller and placed near the living room or master room.\n   - In Example 4, there are two balconies, one of which is significantly larger and placed near the living room. This is an unusual configuration where a large balcony is adjacent to the living room.\n\n3. **Living Room Size and Placement:**\n   - In Examples 1, 2, 3, and 5, the living room is"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "34449",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4** (ID 17291).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4** (ID 17291).\n\n### Key Differences:\n\n1. **Number of Rooms:**\n   - Examples 1, 2, 3, and 5 all have 7 rooms.\n   - Example 4 has 8 rooms.\n\n2. **Room Types:**\n   - Examples 1, 2, 3, and 5 have the following room types: common_room, master_room, living_room, balcony, bathroom, and kitchen.\n   - Example 4 includes an additional room type called \"storage\".\n\n3. **Spatial Arrangement:**\n   - The arrangement of rooms in Example 4 is more complex compared to the others. It has a more intricate layout with multiple interconnected rooms, particularly around the living room area.\n\n4. **Living Room Layout:**\n   - In Example 4, the living room is much larger and more complex, with multiple connections to other rooms. It has a more winding path through it, which is not as evident in the other examples.\n\n5. **Bathrooms:**\n   - Example 4 has two bathrooms, while the other examples have only one or none.\n\n### Summary:\n- **Example"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "56017",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Common Room**: In Examples 1, 2, 3, and 4, the common room is typically located in the middle or near the center of the floor plan. However, in Example 5, the common room is positioned towards the bottom-left corner of the floor plan.\n  \n- **Master Room**: The master room in Examples 1, 2, 3, and 4 is usually placed centrally or near the top-right corner. In Example 5, the master room is located in the top-left corner.\n\n- **Living Room**: The living room in Examples 1, 2, 3, and 4 is often found in the central or top-right part of the floor plan. In Example 5, the living room spans across the bottom and right sides of the floor plan, creating a more elongated layout.\n\n- **Balconies**: Balconies in Examples 1, 2, 3, and 4 are generally smaller and located near the edges. In Example 5, there is a larger balcony (209 square"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "80219",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5** (ID 73827). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5** (ID 73827). Here are the key reasons why it stands out:\n\n### Differences in Spatial Relationships and Room Layout:\n1. **Number of Bathrooms:**\n   - Examples 1, 2, 3, and 4 each have only one bathroom.\n   - Example 5 has two bathrooms, which is unique among the given examples.\n\n2. **Living Room Size and Position:**\n   - In Examples 1, 2, 3, and 4, the living room is typically larger and more centrally located.\n   - In Example 5, the living room is smaller and positioned towards the right side of the floor plan, with a balcony directly adjacent to it.\n\n3. **Balcony Placement:**\n   - In Examples 1, 2, 3, and 4, the balcony is usually connected to the common room or master room.\n   - In Example 5, the balcony is placed near the living room, which is not seen in the other examples.\n\n4. **Room Arrangement:**\n   - The arrangement of rooms in Example 5 is more complex and less symmetrical compared to the others. For"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "17291",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4** (ID 47060).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4** (ID 47060).\n\n### Key Differences:\n\n1. **Room Types and Layout:**\n   - **Examples 1, 2, 3, and 5** all have a common room, master room, living room, balcony, bathroom, and kitchen. The layout of these rooms is relatively similar, with the master room typically being larger and centrally located, and the living room often connected to other rooms.\n   - **Example 4** includes a master room, living room, balcony, bathroom, and kitchen, but it also includes a **common_room** which is not present in the other examples. This additional room type and its placement make the floorplan unique.\n\n2. **Spatial Relationships:**\n   - In **Examples 1, 2, 3, and 5**, the common room is usually smaller and positioned near the entrance or in a corner. It is often connected to the living room and other public areas.\n   - In **Example 4**, the common room is significantly larger and occupies a more central position, which is not typical in the other examples. Additionally, the connections between the rooms are slightly different, with the common"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "40487",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a living room that spans a much larger area compared to the other examples. The living room in Example 5 is significantly larger and more complex in shape, with multiple internal segments (e.g., the zigzag path through the room).\n  \n- **Example 5** also has two balconies, which are not present in the other examples. This adds an additional feature that is unique to this floorplan.\n\n- **Example 5** has a kitchen that is positioned differently relative to the other rooms. It is located towards the bottom-right corner of the floor plan, whereas in the other examples, the kitchen is typically placed closer to the center or along the perimeter.\n\n### Comparison with Other Examples:\n- **Examples 1, 2, 3, and 4** all have a common room, master room, living room, balcony(s), bathroom, and kitchen. However, the layout and positioning of these rooms are consistent across these examples.\n\n- In **Example 5**, the living room is much larger and more complex, and the kitchen is positioned differently"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "10526",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5** (ID 78534).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5** (ID 78534).\n\n### Key Differences:\n\n1. **Room Types and Arrangement:**\n   - In Examples 1, 2, 3, and 4, there are distinct room types such as `common_room`, `master_room`, `living_room`, `balcony`, `bathroom`, and `kitchen`. The arrangement of these rooms is more consistent across the examples.\n   - Example 5 includes two bathrooms (`bathroom` and another `bathroom`), which is not present in the other examples. This additional bathroom introduces a unique feature that sets it apart.\n\n2. **Balconies:**\n   - In Examples 1, 2, 3, and 4, there are typically one or two balconies, but they are often connected to the living room or master bedroom.\n   - Example 5 has two balconies, one larger (`balcony`) and one smaller (`balcony`). The placement and connection of these balconies are different from the others.\n\n3. **Living Room Size and Placement:**\n   - In Examples 1, 2, 3, and 4, the"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "33749",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5** (ID 59474). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5** (ID 59474). Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a living room that spans a much larger area compared to the other examples. The living room in Example 5 covers a significant portion of the floor plan, extending from the bottom left to the top right of the graph, whereas in the other examples, the living rooms are more compact and do not span as wide or long.\n  \n- **Balconies**: In Examples 1, 2, 3, and 4, balconies are typically placed near the living room or master bedroom, often in the upper-right corner. However, in Example 5, the balcony is located in the far right corner, which is less common among the other examples.\n\n- **Bathroom Location**: The bathroom in Example 5 is located in the lower-left corner, while in the other examples, bathrooms are usually found in the middle or near the center of the floor plan.\n\n### Summary:\n- **Example 5** has a more elongated and sprawling layout with a large living room that dominates the central part of the floor plan"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "28082",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with fewer common rooms and more specialized rooms (master room, living room, balcony, bathroom, kitchen). The other examples have a mix of common rooms and some specialized rooms but generally follow a similar pattern.\n  \n### Room Arrangement:\n- **Example 5** has a living room that spans a much larger area and is positioned differently compared to the other examples. It extends vertically from the bottom to the top of the floor plan, whereas the other examples have living rooms that are more centrally located or horizontally oriented.\n  \n### Balconies and Bathrooms:\n- **Example 5** has a single balcony and a single bathroom, which are both smaller in number compared to the other examples. The other examples typically have multiple balconies and bathrooms.\n  \n### Overall Layout:\n- **Example 5** has a more linear arrangement with the master room, living room, and other rooms arranged in a more elongated fashion. The other examples tend to have a more symmetrical or square-like layout with common rooms and specialized rooms distributed more evenly.\n\n###"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "8257",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4** (ID 8257).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4** (ID 8257).\n\n### Key Differences:\n\n1. **Room Layout and Arrangement:**\n   - In Examples 1, 2, 3, and 5, the living room is typically placed centrally or near the center of the floor plan, with other rooms arranged around it. The common rooms and bathrooms are often located towards the periphery.\n   - In Example 4, the living room is not centered but is instead placed towards the left side of the floor plan, while the common rooms and kitchen are more spread out and not as symmetrically arranged as in the other examples.\n\n2. **Balcony Placement:**\n   - In Examples 1, 2, 3, and 5, the balcony is usually placed adjacent to the master bedroom or living room.\n   - In Example 4, the balcony is placed separately and does not directly connect to the master bedroom or living room, which is a unique feature compared to the others.\n\n3. **Symmetry and Regularity:**\n   - Examples 1, 2, 3, and 5 exhibit a higher degree of symmetry and regularity in their layout, with rooms often"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "75880",
+    "predicted_id": "The example that has a different floorplan from the others is Example 4 (ID 46039). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 4 (ID 46039). Here are the key reasons why it stands out:\n\n1. **Room Types and Layout**:\n   - Examples 1, 2, 3, and 5 all have a common room, master room, living room, two balconies, bathroom, and kitchen. However, Example 4 does not include a common room. Instead, it includes a master room, living room, balcony, bathroom, and kitchen.\n   \n2. **Balcony Placement**:\n   - In Examples 1, 2, 3, and 5, the balconies are placed in a way that they are adjacent to the living room or other main living areas. In Example 4, the balconies are placed in different locations: one is adjacent to the living room, and the other is adjacent to the kitchen. This placement is unique compared to the others.\n\n3. **Living Room Shape and Size**:\n   - The living room in Example 4 is more elongated and has a more complex shape with multiple turns and corners, which is different from the relatively simpler and more rectangular living rooms in the other examples.\n\n4. **Overall Structure**"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "43324",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4** (ID 43324). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4** (ID 43324). Here are the key reasons why it stands out:\n\n### Key Differences:\n1. **Room Types and Count:**\n   - Examples 1, 2, 3, and 5 all have the same set of room types: `common_room`, `master_room`, `living_room`, `bathroom`, and `kitchen`.\n   - Example 4 includes an additional room type: `balcony`. This is unique among the other examples.\n\n2. **Number of Rooms:**\n   - Examples 1, 2, 3, and 5 each have 5 rooms.\n   - Example 4 has 7 rooms, which is more than the others.\n\n3. **Spatial Arrangement:**\n   - The spatial arrangement in Example 4 is more complex and includes multiple balconies, which are not present in the other examples.\n   - The living room in Example 4 is much larger and spans across multiple areas, including a balcony, which is not seen in the other examples.\n\n4. **Link Structure:**\n   - The link structure in Example 4 is more intricate, with connections between common rooms,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "62454",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5** (ID 21765). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5** (ID 21765). Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with a larger number of rooms and a more intricate arrangement compared to the other examples. Specifically, it includes a **master_room** that spans across a wider area and connects multiple other rooms, which is not as prominent in the other examples.\n  \n### Room Arrangement:\n- **Example 5** has a living room that spans a large area and connects several other rooms, including the master room, common rooms, and bathrooms. This creates a more interconnected and sprawling layout.\n  \n### Room Types and Sizes:\n- The **master_room** in Example 5 is significantly larger (4500.0 square units) and spans the entire width of the floor plan, connecting multiple other rooms. This is not as evident in the other examples where the master room is either smaller or does not span such a wide area.\n  \n### Balcony Placement:\n- In Example 5, the balcony is placed in a way that it connects two different areas of the floor plan, which is not as common in"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "23197",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a balcony that is directly connected to the master room (node 4 -> node 2), which is not present in the other examples. In Examples 1, 2, 3, and 4, the balconies are either separate or connected to the living room or other common areas but not directly to the master room.\n  \n- **Example 5** also has a kitchen that is adjacent to the common room (node 6 -> node 0) and the living room (node 6 -> node 3), while in the other examples, the kitchen is typically isolated or connected to the common area but not directly to both the common room and the living room.\n\n### Room Layout and Connections:\n- **Example 5** has a more complex layout with multiple connections between rooms, particularly involving the master room and the living room. The connections in Example 5 are more intricate compared to the simpler adjacency patterns seen in the other examples.\n\n### Summary:\n- **Example 5** is unique because it has a balcony directly connected to the master room and"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "9795",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with a balcony that spans across multiple rooms (common room, living room, and kitchen), which is not present in the other examples.\n- The other examples have simpler connections between rooms, typically with each room directly connected to only a few other rooms. In contrast, Example 5 has a more interconnected layout with the balcony linking multiple rooms.\n\n### Room Types and Sizes:\n- **Example 5** includes a **balcony** that is much larger (1452.5 square units) compared to the other examples, which do not have such large balconies or any balconies at all.\n- The other examples have smaller balconies or none at all, and the common rooms, master rooms, living rooms, bathrooms, and kitchens are generally of similar sizes and layouts.\n\n### Summary:\n- **Example 5** is unique because it includes a large balcony that spans across multiple rooms, creating a more complex and interconnected floor plan. This feature is not present in the other four examples, making it stand out as having a different floor"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "7913",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Common Room**: In Examples 1, 2, 3, and 4, the common room is typically located towards the center or near the entrance of the apartment. However, in Example 5, the common room is positioned towards the top-right corner of the layout.\n  \n- **Master Room**: The master room in Examples 1, 2, 3, and 4 is usually placed centrally or near the entrance. In Example 5, the master room is located towards the bottom-left corner.\n\n- **Living Room**: The living room in Examples 1, 2, 3, and 4 is generally placed centrally or near the entrance. In Example 5, the living room is positioned towards the bottom-right corner.\n\n- **Balconies**: Balconies in Examples 1, 2, 3, and 4 are often placed near the living room or master room. In Example 5, one balcony is near the living room (bottom-right) and another is near the kitchen (top-right).\n\n- **Bathroom and Kitchen**: The"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "33084",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with multiple common rooms and a larger master room, which is not present in the other examples. The other examples typically have a single common room and a single master room.\n  \n- **Example 5** includes two common rooms, which are not present in Examples 1, 2, 3, and 4. This additional common room changes the overall structure and flow of the floor plan.\n\n### Room Sizes and Placement:\n- **Example 5** has a larger master room (2714.0 square units) compared to the other examples, which generally have smaller master rooms (e.g., 1785.0, 2356.0, 1785.0, 2108.5 square units).\n\n- The placement of the living room in **Example 5** is more extensive and complex, covering a larger area and involving more connections with other rooms. The living room in Example 5 spans multiple segments and has a more intricate polygon shape, which is not as"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "10984",
+    "predicted_id": "The example that has a different floorplan from the others is Example 1. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 1. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 1** has a more complex layout with a common room that is not directly connected to the living room or master room, unlike the other examples where the common room is often adjacent to the living room or master room.\n- **Examples 2, 3, 4, and 5** all have a common room that is directly connected to the living room and/or master room, forming a more linear or rectangular layout. In contrast, Example 1 has a common room that is separated by other rooms (like the balcony) before connecting to the living room and master room.\n\n### Room Types and Size:\n- **Example 1** includes a balcony as a separate room type, which is not present in the other examples. The other examples only include common rooms, master rooms, living rooms, balconies, and bathrooms.\n- The sizes and positions of the rooms in Example 1 do not follow the same pattern as the other examples. For instance, the common room in Example 1 is positioned differently and does not share direct adjacency with the living room or master room in the same way"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "1225",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 3**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 3**. Here are the key reasons why it stands out:\n\n### Key Differences:\n1. **Room Types and Layout:**\n   - **Examples 1, 2, 4, and 5** all have a common room, master room, living room, balcony, bathroom, and kitchen. However, Example 3 only includes a common room, master room, living room, balcony, and bathroom. It does not include a kitchen, which is present in all other examples.\n\n2. **Balcony Placement:**\n   - In Examples 1, 2, 4, and 5, the balconies are typically placed along the outer edges of the floor plan, often near the living room or master room. In Example 3, there is only one balcony, and it is placed in a more central location relative to the other rooms.\n\n3. **Living Room Shape:**\n   - The living room in Example 3 is much larger and more complex compared to the living rooms in the other examples. It has a more irregular shape with multiple segments and connections, whereas the living rooms in the other examples are generally simpler and more rectangular.\n\n4. **Overall Floor Plan"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "10526",
+    "predicted_id": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:\n\n1. **Room Layout and Arrangement**:\n   - In Examples 1, 2, 3, and 4, the living room is typically placed centrally or towards one end of the floor plan, with other rooms (common room, master room, balcony, bathroom, kitchen) arranged around it. The living room often spans multiple rows or columns, creating a more open and central layout.\n   - In Example 5, the living room is much larger and spans multiple rows and columns, but it is not centered. Instead, it is positioned towards one side of the floor plan, with other rooms arranged around it in a more linear fashion.\n\n2. **Balcony Placement**:\n   - In Examples 1, 2, 3, and 4, the balcony is usually placed near the living room or master room, often as an extension or adjacent to these spaces.\n   - In Example 5, the balcony is placed near the common room and master room, which is less common compared to the other examples where the balcony is often closer to the living room.\n\n3. **Bathroom Placement**:\n   -"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "28082",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with multiple balconies and a bathroom that spans across several rooms, which is not as common in the other examples.\n- The living room in Example 5 is much larger and more elongated compared to the living rooms in the other examples, which are generally rectangular and smaller.\n- The master room in Example 5 is also more complex, with a unique shape and additional connections to other rooms.\n\n### Specific Features:\n1. **Multiple Balconies:**\n   - Example 5 has two balconies (IDs 3 and 4), while the other examples have either none or only one balcony.\n   \n2. **Complex Living Room:**\n   - The living room in Example 5 (ID 2) is significantly larger and more complex in its shape, with multiple connections to other rooms. It spans from the bottom left to the top right of the floor plan, creating a more open and expansive space.\n   \n3. **Master Room Layout:**\n   - The master room in Example 5 (ID 1) has a unique"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "10984",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with rooms arranged in a way that is distinct from the other examples. Specifically, the living room in Example 5 spans multiple rows and columns, creating a more open and interconnected space compared to the other examples.\n  \n### Room Arrangement:\n- **Example 5** has a living room that occupies a large area and connects several other rooms, forming a more linear or zigzag pattern. The living room is not just adjacent but also intersects with other rooms, creating a more intricate network of connections.\n  \n### Room Types and Sizes:\n- In **Example 5**, the common rooms and master rooms are positioned in a way that they form a more compact and interconnected layout. The living room, bathroom, and kitchen are all connected in a way that creates a more complex adjacency pattern.\n  \n### Comparison with Other Examples:\n- **Examples 1, 2, 3, and 4** have simpler and more straightforward layouts where rooms are typically arranged in a grid-like fashion with fewer interconnections. The living rooms in these examples are usually smaller"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "36396",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Common Room**: In Examples 1, 2, 3, and 4, the common room is typically located in a central or near-central position and often shares edges with multiple other rooms. However, in Example 5, the common room is positioned in a more peripheral location (top-left corner) and does not share as many edges with other rooms.\n  \n- **Master Room**: The master room in Example 5 is also positioned differently compared to the others. It is located in the top-right corner and shares edges with fewer rooms than in the other examples.\n\n- **Living Room**: The living room in Example 5 is significantly larger and more complex in shape compared to the living rooms in the other examples. It spans across a wider area and has a more intricate layout with multiple connections to other rooms.\n\n- **Balconies**: The balconies in Example 5 are positioned differently and have unique shapes and sizes. For instance, the balcony connected to the living room (ID 3) is much larger and extends further into the space compared to the other examples.\n\n- **"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "70239",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5** (ID 70239).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5** (ID 70239).\n\n### Key Differences:\n\n1. **Room Layout and Arrangement:**\n   - In Examples 1, 2, 3, and 4, the common rooms are typically placed along the perimeter of the apartment, with the master room often centrally located or near the entrance. The living room is usually larger and occupies a significant portion of the central area.\n   - In Example 5, the common rooms are placed in two distinct areas (one on the left and one on the right), while the master room is centrally located but smaller compared to the other examples. The living room is also centrally located but does not span as much area as in the other examples.\n\n2. **Balcony Placement:**\n   - In Examples 1, 2, 3, and 4, balconies are typically placed adjacent to the living room or master room.\n   - In Example 5, the balcony is placed adjacent to the master room, which is different from the other examples where balconies are more commonly found next to the living room.\n\n3. **Overall Symmetry and Structure:**\n   - Examples 1, 2,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "54792",
+    "predicted_id": "The example that has a different floorplan from the others is Example 4 (ID 31113). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 4 (ID 31113). Here are the key reasons why it stands out:\n\n1. **Room Types and Arrangement**:\n   - Examples 1, 2, 3, and 5 all have a common room, master room, living room, balcony, bathroom, and kitchen. However, Example 4 includes two common rooms instead of one.\n   - The presence of two common rooms in Example 4 is unique among the other examples.\n\n2. **Balconies**:\n   - In Examples 1, 2, 3, and 5, there is only one balcony per apartment.\n   - Example 4 has two balconies, which is not consistent with the other examples.\n\n3. **Living Room**:\n   - The living room in Example 4 is more complex in shape compared to the living rooms in the other examples. It has a more intricate polygon with multiple vertices, whereas the living rooms in the other examples are simpler and more rectangular.\n\n4. **Overall Layout**:\n   - The overall layout of Example 4 is more spread out and less symmetrical compared to the other examples. This is evident from the positioning and shapes of"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "66807",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has two common rooms (IDs 0 and 1) that are vertically aligned and separated by a master room (ID 2). The living room (ID 3) is located to the right of the common rooms, and the balcony (ID 4), bathroom (ID 5), and kitchen (ID 6) are all adjacent to the living room.\n  \n- **Examples 1, 2, 3, and 4** have a more centralized layout where the common room, master room, living room, and other rooms are more interwoven or connected in a way that doesn't follow a strict vertical alignment like Example 5.\n\n### Key Differences:\n1. **Vertical Alignment:**\n   - In **Example 5**, the common rooms are placed vertically, with the master room directly above or below them. This creates a distinct vertical stack.\n   - In **Examples 1, 2, 3, and 4**, the common rooms, master rooms, and living rooms are more horizontally aligned or mixed in a way that doesn"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "23197",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a living room that spans a much larger area (5612.5 square units) compared to the other examples, which have living rooms ranging from 5388.5 to 4779.0 square units.\n- The living room in Example 5 is also positioned differently, extending from the bottom left to the top right of the floor plan, whereas in the other examples, the living rooms are more centrally located or have a more compact shape.\n\n### Balconies and Bathrooms:\n- In Example 5, there is a balcony that is positioned vertically (from 155 to 178 on the y-axis), while the other examples have balconies that are either horizontal or more centrally located.\n- The bathroom in Example 5 is also positioned vertically (from 155 to 178 on the y-axis), which is different from the other examples where bathrooms are typically placed horizontally or more centrally.\n\n### Common Rooms and Master Rooms:\n- The common rooms and master rooms in Example 5 are relatively"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "26703",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 1**. Here are the key reasons why Example 1 stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 1**. Here are the key reasons why Example 1 stands out:\n\n### Key Differences:\n1. **Room Types and Layout:**\n   - **Example 1** includes a **common room** which is not present in the other examples. The other examples only have a **master room**, **living room**, **balcony**, **bathroom**, and **kitchen**.\n   \n2. **Room Placement and Adjacency:**\n   - In **Example 1**, the common room is placed in a way that it connects to multiple other rooms (living room, balcony, kitchen), while in the other examples, the master room is more central and connected to multiple rooms.\n   - The common room in **Example 1** is positioned such that it forms a larger open space with the living room, whereas in the other examples, the master room is often centrally located and connected to various other rooms.\n\n3. **Balconies:**\n   - **Example 1** has two balconies, one connected to the common room and another to the living room. The other examples have either no balconies or a single balcony connected to the living room.\n\n4. **Overall Structure"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "75828",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5** (ID 63508). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5** (ID 63508). Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has two bathrooms, while all other examples have only one bathroom.\n- The living room in Example 5 spans a much larger area and has a more complex shape compared to the living rooms in the other examples.\n- The common rooms in Example 5 are positioned differently relative to each other and the master room, creating a more irregular layout.\n\n### Specific Features:\n1. **Multiple Bathrooms:**\n   - Example 5 has two bathrooms, which is unique among the given examples. This is a significant difference in terms of the number and placement of bathrooms.\n\n2. **Living Room Size and Shape:**\n   - The living room in Example 5 is significantly larger and has a more complex polygon shape, with multiple segments and turns. This makes it stand out visually and structurally.\n\n3. **Common Room Placement:**\n   - The common rooms in Example 5 are positioned in a way that creates a more irregular layout compared to the other examples, where common rooms are typically placed in a more linear or symmetrical manner."
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "76431",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Common Room and Master Room Placement:**\n  - In Examples 1, 2, 3, and 4, the common room and master room are typically placed in opposite corners or adjacent to each other, often along the longer sides of the apartment.\n  - **Example 5:** The common room and master room are also placed in similar positions, but the living room is much larger and occupies a significant portion of the central area, which is not as prominent in the other examples.\n\n- **Living Room Size and Position:**\n  - In Examples 1, 2, 3, and 4, the living room is generally smaller and positioned towards one end of the apartment.\n  - **Example 5:** The living room is significantly larger and occupies a central position, spanning multiple floors (or levels) and connecting to other rooms through multiple balconies.\n\n- **Balconies:**\n  - In Examples 1, 2, 3, and 4, there are usually one or two balconies, often connected to the living room or master bedroom."
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "1225",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with fewer common rooms and a larger living room that spans multiple areas. The living room is much larger and more elongated compared to the other examples, which have more evenly distributed common rooms.\n- **Example 5** includes a balcony, which is not present in the other examples. This adds an additional element to the floor plan that is unique.\n- The living room in Example 5 is split into two distinct sections by the common room and master room, creating a more complex adjacency pattern.\n\n### Room Types and Sizes:\n- **Example 5** has a **master_room** that is significantly larger (2542.0 sq ft) compared to the other examples, where the largest common room is around 2254.0 sq ft.\n- The **living_room** in Example 5 is the largest among all examples, spanning over 7571.0 sq ft, which is notably larger than the next largest living room (6267.5 sq ft in Example 1).\n\n### Graph Representation"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "63317",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 3** (ID 63317).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 3** (ID 63317).\n\n### Why Example 3 is Picked:\n\n1. **Room Types and Count:**\n   - All other examples (Examples 1, 2, 4, and 5) have the following room types: common room, master room, living room, balcony, bathroom, kitchen, and storage.\n   - Example 3 includes an additional room type called \"storage,\" which is not present in the other examples.\n\n2. **Layout and Structure:**\n   - The layout of the rooms in Example 3 is more complex compared to the others. It includes a storage room, which adds an extra dimension to the floor plan.\n   - The living room in Example 3 is much larger and more intricate, with multiple segments and connections, making it stand out from the simpler layouts in the other examples.\n\n3. **Balconies:**\n   - While all examples include balconies, the placement and number of balconies are consistent across Examples 1, 2, 4, and 5. In Example 3, there are two balconies, but they are placed differently and serve different purposes within the layout.\n\n4."
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "16951",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a master room that spans across the entire width of the apartment (from 116.0 to 206.0), while the other examples have more evenly distributed common rooms and living areas.\n- The living room in Example 5 is much larger and more complex in shape compared to the living rooms in the other examples, which are generally rectangular and smaller.\n- The bathrooms in Example 5 are positioned differently and are not as uniformly placed as in the other examples.\n\n### Size and Layout:\n- **Example 5** has a significantly larger master room (4500.0 square units) compared to the other examples, which have master rooms ranging from 2817.5 to 3440.5 square units.\n- The common rooms in Example 5 are also larger (2050.0 and 3060.0 square units) compared to the other examples, which range from 1656.0 to 2679.0 square units.\n- The living room"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "7217",
+    "predicted_id": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Common Rooms**: Examples 1, 2, 3, and 4 each have two common rooms, while Example 5 has three common rooms. This is a significant difference in the number of common rooms.\n- **Living Room**: In Examples 1, 2, 3, and 4, the living room is connected to other rooms in a linear or semi-linear fashion. In Example 5, the living room is more isolated and connected to multiple other rooms (common rooms, master room, kitchen, and bathroom) in a more complex network.\n- **Balconies**: Examples 1, 2, and 4 each have two balconies, while Example 3 has only one. Example 5 has one balcony, which is connected to the living room.\n- **Bathrooms**: Examples 1, 2, and 4 each have two bathrooms, while Example 3 has only one. Example 5 has two bathrooms, but they are not as uniformly distributed as in the other examples.\n\n### Size and Layout:\n- **Room Sizes**: The sizes of"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "46039",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Differences in Spatial Relationships and Room Layout:\n1. **Balcony Placement:**\n   - In Examples 1, 2, 3, and 4, balconies are typically placed near the living room or master bedroom. However, in Example 5, the balcony is much larger and spans across multiple rooms (common room, living room, and kitchen), which is not seen in the other examples.\n\n2. **Room Types and Sizes:**\n   - The sizes and types of rooms in Example 5 are more varied compared to the others. For instance, the common room in Example 5 is significantly smaller (1485.0 sq ft) compared to the common rooms in Examples 1, 2, and 3 (1728.0 sq ft, 1909.0 sq ft, and 2500.5 sq ft respectively). Additionally, the master room in Example 5 is larger (2520.0 sq ft) than those in Examples 1, 2, and 3 (3885.5 sq ft,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "25618",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has two balconies, while all other examples have only one balcony or none.\n- The living room in Example 5 is much larger and more complex in shape compared to the living rooms in the other examples. It spans multiple rows and columns, creating a more intricate layout.\n- The common room in Example 5 is also larger and positioned differently relative to the other rooms.\n- The bathroom in Example 5 is smaller and positioned differently compared to the bathrooms in the other examples.\n\n### Summary of Differences:\n1. **Number of Balconies**: Example 5 has two balconies, while the others have either one or none.\n2. **Living Room Size and Shape**: The living room in Example 5 is significantly larger and more complex in shape, spanning multiple rows and columns.\n3. **Common Room Size and Position**: The common room in Example 5 is larger and positioned differently relative to the other rooms.\n4. **Bathroom Size and Position**: The bathroom in Example 5 is smaller and positioned differently compared to the others.\n\nThese differences in the spatial"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "49556",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 3** (ID 19246).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 3** (ID 19246).\n\n### Reasons for Picking Example 3:\n\n1. **Room Types and Count:**\n   - All other examples have the same set of room types: `common_room`, `master_room`, `living_room`, `bathroom`, and `kitchen`.\n   - Example 3 also includes these five room types, but the arrangement and adjacency patterns are different.\n\n2. **Balconies:**\n   - Examples 1, 2, 4, and 5 each have exactly two balconies.\n   - Example 3 has only one balcony, which is different from the others.\n\n3. **Living Room Positioning:**\n   - In Examples 1, 2, 4, and 5, the living room is typically positioned towards the center or near the top of the floor plan.\n   - In Example 3, the living room is positioned towards the bottom-left corner, which is different from the others.\n\n4. **Common Room and Kitchen Placement:**\n   - In Examples 1, 2, 4, and 5, the common room and kitchen are often placed adjacent to each other or near"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "50181",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5** (ID 59474). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5** (ID 59474). Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a living room that spans across a much larger area compared to the other examples. The living room in Example 5 is significantly larger and more complex in its shape, with multiple segments and a more irregular polygon compared to the other examples.\n  \n- **Example 5** also has a balcony that is positioned differently and is smaller in comparison to the other balconies, which are generally larger and more uniformly shaped.\n\n### Room Types and Layout:\n- **Example 5** includes a bathroom that is located in a more central position relative to the other rooms, whereas in the other examples, bathrooms are typically placed near the common room or master room.\n\n- **Example 5** has a kitchen that is positioned in a way that it connects directly to the living room, forming a more open layout. In contrast, the kitchens in the other examples are usually separate and do not have direct adjacency with the living room.\n\n### Summary:\nThe primary differences lie in the size and shape of the living room, the positioning of the balcony, and"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "26703",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 1** (ID 26703).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 1** (ID 26703).\n\n### Key Differences:\n\n1. **Room Layout and Arrangement:**\n   - In Examples 2, 3, 4, and 5, the common rooms are typically placed along the perimeter of the apartment, with the living room often centrally located or near the entrance. The master room is usually positioned towards one end of the layout.\n   - Example 1, however, has a more complex arrangement where the common rooms are not just along the perimeter but also have a more intricate connection with other rooms. The living room is also positioned differently, being much larger and spanning multiple areas.\n\n2. **Living Room Size and Shape:**\n   - In Examples 2, 3, 4, and 5, the living rooms are generally rectangular and occupy a central or near-central position.\n   - In Example 1, the living room is significantly larger and has a more irregular shape, extending across multiple areas and connecting with several other rooms.\n\n3. **Balconies and Bathrooms:**\n   - In Examples 2, 3, 4, and 5, balconies and bathrooms are typically smaller and positioned in"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "63902",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Differences in Spatial Relationships and Room Layout:\n1. **Balcony Placement:**\n   - In Examples 1, 2, 3, and 4, balconies are typically placed along the perimeter of the apartment, often near the living room or common area.\n   - In Example 5, the balcony is placed in the middle of the apartment, between the master room and the living room. This is unique compared to the other examples.\n\n2. **Room Types and Sizes:**\n   - The sizes and types of rooms in Example 5 are more varied and do not follow the typical layout seen in the other examples.\n   - For instance, the `common_room` in Example 5 is much larger (2111.0 square units) compared to the other examples, which have smaller `common_room` areas.\n   - The `master_room` in Example 5 is also significantly larger (2548.0 square units), and its placement is more central than in the other examples.\n\n3. **Living Room Layout:**\n   - The living room in Example 5 is much larger"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "80744",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with several balconies and a living room that spans multiple floors or levels, which is not present in the other examples.\n- The living room in Example 5 is much larger and extends over a significant vertical distance (from 98 to 198), suggesting a multi-level structure. This is not seen in the other examples where the living rooms are typically single-story and do not span such a large vertical range.\n\n### Room Types and Arrangement:\n- In Example 5, there are two balconies (one at the top and one at the bottom) and a bathroom that is positioned differently compared to the other examples. The arrangement of these rooms suggests a more complex and possibly multi-level structure.\n- The common room in Example 5 is also larger and has a more irregular shape, which is not consistent with the regular rectangular shapes seen in the other examples.\n\n### Summary:\n- **Example 5** has a more complex and potentially multi-level layout, with a living room spanning a large vertical range and multiple balconies. This makes"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "10017",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4** (ID 10017).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4** (ID 10017).\n\n### Key Differences:\n\n1. **Room Types and Layout:**\n   - In Examples 1, 2, 3, and 5, the layout includes a common room, master room, living room, two balconies, bathroom, and kitchen. The common room is typically located near the entrance or central area.\n   - Example 4 does not include a common room. Instead, it has a master room, living room, balcony, bathroom, and kitchen. This is a significant difference in the number and type of rooms.\n\n2. **Balcony Placement:**\n   - In Examples 1, 2, 3, and 5, there are two balconies, each connected to the living room.\n   - Example 4 has only one balcony, which is connected to the living room but not to any other room.\n\n3. **Living Room Size and Shape:**\n   - In Examples 1, 2, 3, and 5, the living room is relatively large and complex in shape, often with multiple connections to other rooms.\n   - Example 4's living room is also large but simpler"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "63514",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with a balcony that is not directly connected to the living room or kitchen, unlike the other examples where balconies are typically connected to the living room or master bedroom.\n- The living room in Example 5 is much larger and more complex in shape compared to the other examples, which have simpler and more uniform living room shapes.\n- The bathroom in Example 5 is positioned differently and does not share direct adjacency with the kitchen, whereas in the other examples, bathrooms often share direct adjacency with kitchens.\n\n### Specific Features:\n1. **Balcony Placement:**\n   - In Examples 1, 2, 3, and 4, the balconies are typically adjacent to the living room or master bedroom.\n   - In Example 5, the balcony is placed separately and does not directly connect to any other room.\n\n2. **Living Room Shape and Size:**\n   - The living room in Example 5 is significantly larger and more irregularly shaped (with multiple segments and angles).\n   - Other examples have more straightforward and uniform living room"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "77045",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a balcony that spans a much larger area compared to the other examples. The balcony in Example 5 covers a significant portion of the floor plan (3268.5 square units), whereas in the other examples, balconies are relatively smaller or absent.\n- **Example 5** also has a living room that is much larger and more complex in shape compared to the other living rooms. The living room in Example 5 extends vertically from the ground floor up to a higher level, which is not seen in the other examples.\n- **Example 5** has a bathroom that is positioned differently relative to the common room and master room. The bathroom in Example 5 is directly connected to the common room and master room, forming a more linear layout compared to the other examples where bathrooms are often isolated or have different adjacency patterns.\n\n### Summary:\n- **Example 5** has a significantly larger and more expansive balcony.\n- **Example 5** has a much larger and more vertically extended living room.\n- **Example 5** has a bathroom that is more"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "37907",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with multiple balconies and a larger number of rooms compared to the other examples. Specifically, it has two balconies (IDs 4 and 5) which are not present in Examples 1, 2, and 3.\n- The living room (ID 3) in Example 5 spans a much wider area and has a more intricate shape, connecting to multiple other rooms including the common rooms, master room, and kitchen. This is more complex than the living rooms in the other examples.\n- The common rooms in Example 5 are also more numerous and have a more varied layout, with one common room (ID 0) having a more irregular shape compared to the rectangular shapes in the other examples.\n\n### Summary of Differences:\n- **Number of Balconies**: Example 5 has two balconies, while Examples 1, 2, and 3 each have only one balcony.\n- **Living Room Size and Shape**: The living room in Example 5 is significantly larger and more complex in its shape, connecting to multiple"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "73023",
+    "predicted_id": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:\n\n1. **Room Types and Count**: All other examples have six rooms (common room, master room, living room, balcony, bathroom, and kitchen). However, Example 5 has an additional \"storage\" room, making it the only example with seven rooms.\n\n2. **Layout Structure**:\n   - In Examples 1, 2, 3, and 4, the common room, master room, living room, balcony, bathroom, and kitchen form a more linear or rectangular layout.\n   - Example 5 has a more complex layout with the addition of the storage room, which introduces a different spatial relationship and structure.\n\n3. **Balcony Placement**:\n   - In Examples 1, 2, and 4, the balcony is typically placed near the living room or master room.\n   - In Example 5, the balcony is placed near the living room but does not directly connect to the master room, creating a different flow and connectivity pattern.\n\n4. **Room Sizes and Shapes**:\n   - The sizes and shapes of the rooms in Example 5 are more varied compared to the others. For instance,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "37360",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 1** (ID 27821).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 1** (ID 27821).\n\n### Key Differences:\n\n1. **Room Layout and Arrangement:**\n   - In Examples 2, 3, 4, and 5, the common room, master room, living room, balcony, bathroom, and kitchen are generally arranged in a linear or rectangular fashion with some variations in the layout but maintaining a similar overall structure.\n   - Example 1 has a more complex arrangement where the common room, master room, and living room are not aligned in a straightforward linear or rectangular manner. The common room is split into two smaller rooms, and the living room has a more irregular shape with multiple segments.\n\n2. **Room Types and Sizes:**\n   - In Examples 2, 3, 4, and 5, the common room, master room, living room, balcony, bathroom, and kitchen are all present, and their sizes and positions are relatively consistent.\n   - Example 1 includes a common room that is split into two smaller rooms, which is not seen in the other examples. Additionally, the living room in Example 1 has a more complex polygonal shape with multiple segments, which is not present in"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "7474",
+    "predicted_id": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is Example 5. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Common Room**: In Examples 1, 2, 3, and 4, the common room is typically placed along the perimeter of the apartment, often adjacent to other rooms like the living room or master bedroom. However, in Example 5, the common room is positioned centrally, surrounded by other rooms (master bedroom, living room, balconies, bathroom, and kitchen).\n\n- **Master Bedroom**: The master bedroom in Examples 1, 2, 3, and 4 is usually located near the center or one corner of the apartment, often with direct access to the living room or balcony. In Example 5, the master bedroom is also centrally located but is not directly connected to the common room, which is a unique feature.\n\n- **Living Room**: The living room in Examples 1, 2, 3, and 4 is generally placed near the entrance or one end of the apartment, often adjacent to the common room. In Example 5, the living room is also centrally located but is not directly connected to the common room.\n\n- **Balconies**:"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "26678",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 2**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 2**. Here are the key reasons why it stands out:\n\n### Differences in Spatial Relationships and Room Layout:\n1. **Balconies Placement:**\n   - In Examples 1, 3, 4, and 5, balconies are typically placed near the living room or master bedroom.\n   - Example 2 has two balconies, one near the living room (at coordinates around 124, 62) and another near the kitchen (at coordinates around 51, 155). This placement is unique compared to the other examples.\n\n2. **Living Room Size and Shape:**\n   - The living room in Example 2 is significantly larger and more complex in shape compared to the living rooms in the other examples. It has multiple segments and a more intricate polygonal shape.\n\n3. **Master Bedroom Location:**\n   - In Examples 1, 3, 4, and 5, the master bedroom is usually located towards the center or one side of the floor plan.\n   - In Example 2, the master bedroom is located in a separate section from the living room and balconies, which is not consistent with the other examples."
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "67905",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4** (ID 50510). Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4** (ID 50510). Here are the key reasons why it stands out:\n\n### Differences in Spatial Relationships and Room Layout:\n1. **Balconies Placement:**\n   - In Examples 1, 2, 3, and 5, balconies are typically placed along the perimeter of the apartment, often near the living room or common areas.\n   - Example 4 has two balconies, but they are placed in more isolated positions: one near the entrance (between the common room and living room) and another towards the back (near the kitchen).\n\n2. **Living Room Size and Position:**\n   - The living room in Example 4 is significantly larger and positioned differently compared to the other examples. It spans a wider area and connects multiple rooms, including the common room and master room.\n   - In contrast, the living rooms in Examples 1, 2, 3, and 5 are generally smaller and more centrally located.\n\n3. **Master Room Location:**\n   - The master room in Example 4 is located in a different part of the apartment compared to the other examples. It is situated towards the right side of the layout,"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "23716",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** does not have a common room, which is present in all other examples (Examples 1, 2, 3, and 4).\n- The layout of Example 5 is more linear and elongated compared to the other examples, which generally have a more symmetrical or rectangular arrangement with multiple common rooms.\n\n### Room Types and Sizes:\n- **Example 5** only includes:\n  - Master Room\n  - Living Room\n  - Balcony\n  - Bathroom\n  - Kitchen\n\n- **Other Examples** include:\n  - Common Room (appears in Examples 1, 2, 3, and 4)\n  - Master Room\n  - Living Room\n  - Balcony\n  - Bathroom\n  - Kitchen\n\n### Specific Features:\n- **Common Room**: This type of room is notably absent in Example 5, making its floorplan distinct.\n- **Layout Symmetry**: While other examples show a more balanced and symmetrical distribution of rooms, Example 5 has a more linear and elongated layout.\n\n###"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "42272",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 4** (ID 11908).",
+    "raw_response": "The example that has a different floorplan from the others is **Example 4** (ID 11908).\n\n### Key Differences:\n\n1. **Room Types and Layout:**\n   - In Examples 1, 2, 3, and 5, the living room is typically connected to both the common room and the master room, and there are usually two balconies and two bathrooms.\n   - In Example 4, the layout includes a living room connected to both the common room and the master room, but it has three balconies and two bathrooms. The presence of an additional balcony and an extra bathroom makes the layout distinct.\n\n2. **Balconies:**\n   - Examples 1, 2, 3, and 5 each have exactly two balconies.\n   - Example 4 has three balconies, which is different from the other examples.\n\n3. **Bathrooms:**\n   - Examples 1, 2, 3, and 5 each have two bathrooms.\n   - Example 4 has two bathrooms, which is consistent with the others, but the addition of the third balcony makes it stand out.\n\n4. **Connections:**\n   - All examples connect the living room to both the common room and"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "58616",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has a more complex layout with multiple common rooms and a master room that is not directly adjacent to the living room as seen in the other examples. The master room is separated by a common room.\n- **Examples 1, 2, 3, and 4** all have a simpler layout where the master room is directly connected to the living room, often forming a linear or rectangular shape with the living room at one end and the master room at the other.\n\n### Specific Features:\n1. **Master Room Placement:**\n   - In **Examples 1, 2, 3, and 4**, the master room is typically placed next to the living room, either directly or through a single common room.\n   - In **Example 5**, the master room is separated by two common rooms (Room 0 and Room 1), which creates a more complex and less direct connection to the living room (Room 3).\n\n2. **Balcony Location:**\n   - In **Examples 1, 2, 3, and 4"
+  },
+  {
+    "model": "qwen2.5",
+    "input_type": "json",
+    "scenario": "diff_first",
+    "outlier_id": "53579",
+    "predicted_id": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:",
+    "raw_response": "The example that has a different floorplan from the others is **Example 5**. Here are the key reasons why it stands out:\n\n### Spatial Relationships and Room Types:\n- **Example 5** has two bathrooms, while Examples 1, 2, 3, and 4 each have only one bathroom.\n- The layout of Example 5 is more complex with multiple interconnected spaces, particularly around the living room and the master bedroom area. This complexity is not as pronounced in the other examples.\n\n### Room Types and Sizes:\n- In Example 5, the `master_room` (ID 2) is significantly larger and more intricately shaped compared to the other examples. It includes additional smaller rooms or areas within it, such as the area between the `master_room` and the `living_room`.\n- The `living_room` (ID 3) in Example 5 is also notably larger and more complex, with multiple connections to other rooms, including the `common_room`, `bathroom`, and `kitchen`.\n\n### Graph Structure:\n- The graph structure in Example 5 shows more complex interconnections between rooms, especially involving the `living_room`. For instance, there are multiple direct links between the `living_room` and other rooms, which is"
+  }
+]

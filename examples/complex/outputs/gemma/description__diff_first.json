@@ -1,0 +1,802 @@
+[
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "27706",
+    "predicted_id": "1. **Different example:** 31113",
+    "raw_response": "1. **Different example:** 31113  \n2. **Why:** This example describes a floorplan where the living room is in the southwest corner, while the other examples consistently place the living room on the west side of the plan."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "66935",
+    "predicted_id": "1. **Different example:** ID 30721",
+    "raw_response": "1. **Different example:** ID 30721  \n2. **Why:**  The spatial relationships described in ID 30721 are significantly different from the others. For example, it places the balcony 1 between the kitchen and common room, a placement not seen in the other examples. Additionally, the bathroom is described as being in the middle of the west side, between the master and common room, which is a unique arrangement compared to the other examples where the bathroom is typically located near the living room or master bedroom."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "43363",
+    "predicted_id": "1. **Different example:** 40487",
+    "raw_response": "1. **Different example:** 40487  \n2. **Why:** This example has a very different layout compared to the others. The living room is centrally located and extends towards the center of the apartment, while the other examples have the living room more towards the west side. Additionally, the kitchen is positioned in a unique way, sandwiched between the balcony and the living room protrusion. The bathroom is also centrally located, unlike the other examples where it's typically near the living room or master bedroom."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "24364",
+    "predicted_id": "1. **Different example:** 19346",
+    "raw_response": "1. **Different example:** 19346  \n2. **Why:** This example describes a floorplan with a central living room surrounded by other rooms, including two bathrooms, a kitchen, a common room, and a master bedroom. The other examples describe a floorplan with a living room, a master bedroom, a bathroom, a kitchen, and a balcony, arranged in a more linear or clustered fashion."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "66807",
+    "predicted_id": "1. **Different example:** 12376",
+    "raw_response": "1. **Different example:** 12376  \n2. **Why:**  The spatial relationships described in this example are significantly different from the others. For instance, the living room is described as being to the \"west direction left side of master room\", which implies a layout where the master bedroom is on the east side and the living room is on the west. This is contrary to the consistent layout of the other examples where the living room is typically on the west side and the master bedroom is on the southeast corner. Additionally, the sizes of the rooms in this example are often inconsistent with the typical sizes described in the other examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "23274",
+    "predicted_id": "1. **Different example:** ID 3282",
+    "raw_response": "1. **Different example:** ID 3282  \n2. **Why:** This example describes a floorplan with two balconies, which is not present in the other four examples. Additionally, the descriptions in ID 3282 are more vague and less detailed about the spatial relationships between rooms compared to the other examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "1268",
+    "predicted_id": "1. **Different example:** 51114",
+    "raw_response": "1. **Different example:** 51114  \n2. **Why:** This example describes a floorplan where the living room is on the east side, while the other examples consistently place the living room on the west side.  This fundamental difference in orientation suggests a distinct floorplan layout."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "40111",
+    "predicted_id": "1. **Different example:** 1181",
+    "raw_response": "1. **Different example:** 1181  \n2. **Why:** This example describes a floorplan with a central living room, with the master bedroom, kitchen, and two common rooms branching off of it. The other examples all describe a floorplan with a more linear layout, with the living room typically located in a corner and the other rooms arranged around it."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "52457",
+    "predicted_id": "1. **Different example:** 15613",
+    "raw_response": "1. **Different example:** 15613  \n2. **Why:** This example describes a floorplan with a central living room, surrounded by other rooms. The other examples describe a floorplan where the living room is typically located on one side, with other rooms branching off from it."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "48780",
+    "predicted_id": "1. **Different example:** ID 51114",
+    "raw_response": "1. **Different example:** ID 51114  \n2. **Why:** This example is the only one that describes the rooms using absolute and relative location in a very precise way, mentioning specific corners and directions. All other examples describe the spatial relationships in a more general and less precise manner."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "24364",
+    "predicted_id": "1. **Different example:** 52457",
+    "raw_response": "1. **Different example:** 52457  \n2. **Why:** This example describes a floorplan where rooms are arranged in a more circular or interconnected way, with multiple rooms sharing walls. The other examples describe more linear or rectangular floorplans with distinct, separate rooms."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "47834",
+    "predicted_id": "1. **Different example:** 47834",
+    "raw_response": "1. **Different example:** 47834  \n2. **Why:** This example describes a floorplan where the living room occupies the entire east side of the apartment, while the other examples have the living room located more centrally or towards the west side."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "72346",
+    "predicted_id": "1. **Different example:** 72346",
+    "raw_response": "1. **Different example:** 72346  \n2. **Why:** This example is different because it focuses on the area of each room instead of describing the spatial relationships between them. The other examples describe the location of each room relative to each other,  like \"next to\", \"on the south side\", \"in the center\", etc."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "25607",
+    "predicted_id": "1. **Different example:** 20839",
+    "raw_response": "1. **Different example:** 20839  \n2. **Why:** This example has a dining room, which is not present in the other four examples. The spatial arrangement of rooms, particularly the placement of the living room in the center of the south region, also differs significantly from the other examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "77515",
+    "predicted_id": "1. **Different example:** 77515",
+    "raw_response": "1. **Different example:** 77515  \n2. **Why:** This example describes a house with multiple bedrooms, a storage room, and a distinct L-shaped kitchen. The other examples focus on apartments with a living room, kitchen, bathroom, and one or two master bedrooms. The presence of a storage room and the emphasis on the kitchen's shape are key differences."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "60915",
+    "predicted_id": "1. **Different example:** 60915",
+    "raw_response": "1. **Different example:** 60915  \n2. **Why:** This example describes a multi-level floorplan with rooms stacked vertically on top of each other. The other examples describe single-story floorplans with rooms arranged horizontally."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "33749",
+    "predicted_id": "1. **Different example:** 22487",
+    "raw_response": "1. **Different example:** 22487  \n2. **Why:** This example describes a floorplan where rooms are arranged around a central core, with exterior walls on most sides. The other examples all describe a more traditional layout with rooms clustered around a central living area."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "60915",
+    "predicted_id": "1. **Different example:** 70239",
+    "raw_response": "1. **Different example:** 70239  \n2. **Why:** This example has a different floorplan because the common rooms are arranged in a linear fashion along the north side of the house, while the other examples have common rooms located in a more central or corner position."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "50181",
+    "predicted_id": "1. **Different example:** ID 52548",
+    "raw_response": "1. **Different example:** ID 52548  \n2. **Why:** This example describes a floorplan with a distinct layout. The living room is significantly larger than the other rooms, and the kitchen is unusually long and narrow. The spatial relationships between the rooms are also different from the other examples, particularly the placement of the common rooms and the master bedroom."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "77515",
+    "predicted_id": "1. **Different example:** ID 33045",
+    "raw_response": "1. **Different example:** ID 33045  \n2. **Why:** This example is different because it describes the rooms based on their location relative to cardinal directions (North, South, East, West) and their position relative to each other. The other examples describe the rooms based on their spatial relationships to each other and to features like balconies or doors."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "63902",
+    "predicted_id": "1. **Different example:** ID 63902",
+    "raw_response": "1. **Different example:** ID 63902  \n2. **Why:** This example has a different layout compared to the others. The common room and kitchen are both located in the northwest corner, sharing a wall. This is not the case in the other examples where the kitchen and common room are typically separated."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "38478",
+    "predicted_id": "1. **Different example:** 33749",
+    "raw_response": "1. **Different example:** 33749  \n2. **Why:**  This example describes a floorplan where all rooms are accessed through the living room. The other examples describe floorplans where rooms have direct access to each other or to balconies, without necessarily going through the living room."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "75828",
+    "predicted_id": "1. **Different example:** 19992",
+    "raw_response": "1. **Different example:** 19992  \n2. **Why:** This example describes a floorplan where the living room is in the center and all other rooms (kitchen, master, common room, bathroom) are accessed directly from the living room. The other examples describe a floorplan where the living room is typically in the center or a prominent position, but rooms like the kitchen and master bedroom are often connected to each other or share a wall, creating a more interconnected layout."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "12376",
+    "predicted_id": "1. **Different example:** ID 50510",
+    "raw_response": "1. **Different example:** ID 50510  \n2. **Why:** This example describes a floorplan where the living room is located directly above the second common room, and the master bedroom is located directly above the first common room. This stacked arrangement of rooms is not present in the other examples, which all feature more traditional side-by-side room layouts."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "66316",
+    "predicted_id": "1. **Different example:** ID 57316",
+    "raw_response": "1. **Different example:** ID 57316  \n2. **Why:** This example has a different layout compared to the others. The master bedroom is positioned in the southwest corner, sandwiched between the bathroom 1 and common room 2. This arrangement is unique and not present in the other descriptions."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "43324",
+    "predicted_id": "1. **Different example:** 54232",
+    "raw_response": "1. **Different example:** 54232  \n2. **Why:**  This example has a different layout compared to the others. The master bedroom is located in the southwest corner, while in the other examples, it's typically in the southeast or bottom right corner.  Additionally, the placement of the common rooms and bathrooms differs significantly."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "61914",
+    "predicted_id": "1. **Different example:** 61914",
+    "raw_response": "1. **Different example:** 61914  \n2. **Why:** This example describes a floorplan with a central hallway connecting all the rooms, while the other examples describe a more open layout with rooms directly adjacent to each other.  The presence of a central hallway is a key distinguishing feature."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "43324",
+    "predicted_id": "1. **Different example:** ID 43324",
+    "raw_response": "1. **Different example:** ID 43324  \n2. **Why:** This example has a very long living room (15 x 40 feet) compared to the others, which have more standard living room sizes. Additionally, the placement of the kitchen in the southwest corner and the master bedroom in the southeast corner is unique compared to the other examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "12683",
+    "predicted_id": "1. **Different example:** ID 12683",
+    "raw_response": "1. **Different example:** ID 12683  \n2. **Why:**  The master bedroom is in the Northwest corner, while in the other examples, it's located in the Southwest corner. This is a significant difference in the overall layout."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "18711",
+    "predicted_id": "1. **Different example:** 18711",
+    "raw_response": "1. **Different example:** 18711  \n2. **Why:** This example describes a floorplan where the living room is on the east side and the master bedroom is on the southwest corner. This is different from the other examples where the living room is centrally located and the master bedroom is typically adjacent to it."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "72586",
+    "predicted_id": "1. **Different example:** 8109",
+    "raw_response": "1. **Different example:** 8109  \n2. **Why:**  Example 5 describes a floorplan where all rooms are accessed directly from the living room, creating a central hub. This is unlike the other examples, which typically feature rooms branching off from a central hallway or a more defined layout."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "39894",
+    "predicted_id": "1. **Different example:** 39894",
+    "raw_response": "1. **Different example:** 39894  \n2. **Why:** This example has a different floorplan because the master bedroom is in the northeast corner, while in the other examples, it is in the southeast corner. Additionally, this example includes a storage room that is not present in the other examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "40550",
+    "predicted_id": "1. **Different example:** 40550",
+    "raw_response": "1. **Different example:** 40550  \n2. **Why:** This example has a central living room surrounded by common rooms, kitchen, and master bedroom. All other examples have the living room on one of the sides and other rooms arranged around it."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "51393",
+    "predicted_id": "1. **Different example:** 26372",
+    "raw_response": "1. **Different example:** 26372  \n2. **Why:** This example has two bathrooms, while all the other examples only have one.  The spatial relationships described also differ significantly from the other examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "55090",
+    "predicted_id": "1. **Different example:** ID 37989",
+    "raw_response": "1. **Different example:** ID 37989  \n2. **Why:** This example has a living room on the west side, while all other examples have the living room on the north or south side."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "26506",
+    "predicted_id": "1. **Different example:** 26506",
+    "raw_response": "1. **Different example:** 26506  \n2. **Why:** This example describes a kitchen, which is not present in the other four examples. Additionally, the spatial relationships described in this example are more complex and less consistent than in the other examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "33045",
+    "predicted_id": "1. **Different example:** ID 33045",
+    "raw_response": "1. **Different example:** ID 33045  \n2. **Why:** This example describes a floorplan where the living room is the largest room and is centrally located, with the other rooms radiating outwards from it. The other examples all describe floorplans where the living room is connected to multiple rooms and is not necessarily the largest room."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "42226",
+    "predicted_id": "1. **Different example:** 28694",
+    "raw_response": "1. **Different example:** 28694  \n2. **Why:** This example has two master bedrooms, while all the other examples only have one master bedroom."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "59474",
+    "predicted_id": "1. **Different example:** 59474",
+    "raw_response": "1. **Different example:** 59474  \n2. **Why:** This example has a different floorplan because the living room is located between the kitchen and common room, facing north. All other examples place the living room centrally or in a more central location."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "40111",
+    "predicted_id": "1. **Different example:** ID 4286",
+    "raw_response": "1. **Different example:** ID 4286\n2. **Why:**  This example has a very different layout compared to the others. The living room is described as being in the center of the apartment, with all other rooms (bathroom, common room, kitchen, master room) directly accessible from it. This central living room concept is not present in the other examples, where the living room is typically located on one side and rooms branch out from it."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "27706",
+    "predicted_id": "1. **Different example:** 57272",
+    "raw_response": "1. **Different example:** 57272  \n2. **Why:** This example has a different floorplan because it includes a storage room and the spatial relationships described are significantly different from the other examples. For example, the living room is described as being in the southeast corner, while in the other examples, it is centrally located or in a different position."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "3258",
+    "predicted_id": "1. **Different example:** 64671",
+    "raw_response": "1. **Different example:** 64671  \n2. **Why:** This example is the only one that provides the area of each room instead of just length and width. It also describes the rooms in relation to each other using directional terms like \"northmost\" and \"southmost\" rather than focusing on adjacency."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "56017",
+    "predicted_id": "1. **Different example:** 56017",
+    "raw_response": "1. **Different example:** 56017  \n2. **Why:** This example has a different layout because the living room is the central room connecting all other rooms, while the other examples have a different central room (like a common room or kitchen).  The kitchen and bathroom are also smaller in this example compared to the others."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "21543",
+    "predicted_id": "1. **Different example:** 64729",
+    "raw_response": "1. **Different example:** 64729  \n2. **Why:** This example describes a floorplan with a distinct central living room surrounded by other rooms, unlike the other examples which seem to have a more linear or interconnected layout.  The use of \"Midwest region\" and \"North Side\" for room locations also suggests a different orientation system compared to the other examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "30907",
+    "predicted_id": "1. **Different example:** ID 35725",
+    "raw_response": "1. **Different example:** ID 35725  \n2. **Why:** This example describes a floorplan with a central living room, with common rooms and the master bedroom branching off from it. The other examples all describe a floorplan with a living room in a corner position, with other rooms arranged around it."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "32569",
+    "predicted_id": "1. **Different example:** 32569",
+    "raw_response": "1. **Different example:** 32569  \n2. **Why:** This example has a different floorplan because it features two balconies, while the other examples only have one. Additionally, the spatial arrangement of rooms in this example is distinct from the others, with the living room positioned centrally and the master room in the southwest corner."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "37989",
+    "predicted_id": "1. **Different example:** 40111",
+    "raw_response": "1. **Different example:** 40111  \n2. **Why:** This example has a unique layout with the bathroom in the center west edge of the house, bordering the living room, master room, and common room 1. This central bathroom placement is not present in the other examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "34449",
+    "predicted_id": "1. **Different example:** 34449",
+    "raw_response": "1. **Different example:** 34449  \n2. **Why:** This example has a different layout because the kitchen is placed in the middle of the western side, between the common room and master room. This is unlike the other examples where the kitchen is typically located on the west end or adjacent to the living room."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "56017",
+    "predicted_id": "1. **Different example:** ID 21540",
+    "raw_response": "1. **Different example:** ID 21540  \n2. **Why:**  This example has a very different spatial arrangement compared to the others. All the rooms are described as being roughly the same size (10x6, 10x8, 10x10, etc.), and they are clustered together in a very symmetrical way around the central living room. The other examples have a more varied size distribution and a less symmetrical layout."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "80219",
+    "predicted_id": "1. **Different example:** 73827",
+    "raw_response": "1. **Different example:** 73827  \n2. **Why:** This example has a very different layout compared to the others. The rooms are arranged in a more linear fashion, with the living room acting as a central hub. The other examples feature a more open and interconnected layout, with the living room often situated in a corner or off-center position."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "17291",
+    "predicted_id": "1. **Different example:** ID 47060",
+    "raw_response": "1. **Different example:** ID 47060  \n2. **Why:**  The kitchen is on the east side of the apartment, while in all other examples, the kitchen is located on the south side."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "40487",
+    "predicted_id": "1. **Different example:** 74633",
+    "raw_response": "1. **Different example:** 74633  \n2. **Why:** This example has a different layout because the common room is in the northwest corner, while in the other examples, it's typically located in a different position (e.g., southwest, northeast).  Additionally, the kitchen in example 74633 is significantly smaller than in the other examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "10526",
+    "predicted_id": "1. **Different example:** 4186",
+    "raw_response": "1. **Different example:** 4186  \n2. **Why:** This example describes a floorplan where the living room is significantly larger than all other rooms and is located in the east direction.  The other examples describe floorplans where the living room is typically a central room, but not overwhelmingly larger than the other rooms."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "33749",
+    "predicted_id": "1. **Different example:** 43036",
+    "raw_response": "1. **Different example:** 43036  \n2. **Why:** This example describes a floorplan where the living room is in the center of the house, surrounded by other rooms. The other examples describe floorplans where the living room is typically located on one of the sides of the house, with other rooms branching out from it."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "28082",
+    "predicted_id": "1. **Different example:** 14914",
+    "raw_response": "1. **Different example:** 14914  \n2. **Why:** This example describes a floorplan where rooms are stacked vertically on top of each other, with a \"balcony room\" above a \"common room\" and a \"kitchen room\" above a \"balcony room\". The other examples describe a traditional horizontal floorplan with rooms arranged side-by-side."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "8257",
+    "predicted_id": "1. **Different example:** 48780",
+    "raw_response": "1. **Different example:** 48780  \n2. **Why:** This example describes an open floor plan with the kitchen integrated into the living room. It also mentions a balcony connected to a common room, suggesting a different layout compared to the others which describe more traditional, separated rooms."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "75880",
+    "predicted_id": "1. **Different example:** ID 28732",
+    "raw_response": "1. **Different example:** ID 28732  \n2. **Why:** This example describes a floorplan where the living room is in the center, surrounded by the kitchen, master bedroom, common room, and bathroom. The other examples all describe a floorplan where the living room is located on one side of the apartment, with the other rooms arranged around it."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "43324",
+    "predicted_id": "1. **Different example:** 37907",
+    "raw_response": "1. **Different example:** 37907  \n2. **Why:** This example is different because it describes a floorplan where the living room is in the center and the other rooms radiate outwards from it. The other examples all describe floorplans where the living room is located on one side of the floorplan, with other rooms arranged around it."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "62454",
+    "predicted_id": "1. **Different example:** ID 52548",
+    "raw_response": "1. **Different example:** ID 52548  \n2. **Why:** This example has a different layout because the living room is significantly larger than the other rooms, and the master bedroom is much wider than it is long. The other examples have a more balanced distribution of room sizes and shapes."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "23197",
+    "predicted_id": "1. **Different example:** 51831",
+    "raw_response": "1. **Different example:** 51831  \n2. **Why:** This example describes a floorplan where rooms are arranged around a central living room, with the balcony, bathroom, and common rooms all located on the perimeter. The other examples all describe a floorplan where the living room is in the center, with bedrooms and other rooms branching off from it."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "9795",
+    "predicted_id": "1. **Different example:** ID 9795",
+    "raw_response": "1. **Different example:** ID 9795  \n2. **Why:** This example has a unique layout with two balconies, one on the northwest corner and the other on the southeast corner. The other examples only describe a single balcony."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "7913",
+    "predicted_id": "1. **Different example:** ID 63902",
+    "raw_response": "1. **Different example:** ID 63902  \n2. **Why:**  This example has a different floorplan because the living room is significantly larger and occupies a larger portion of the floor plan compared to the other examples. Additionally, the kitchen and common room are both located in the northwest corner, which is not the case in the other examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "33084",
+    "predicted_id": "1. **Different example:** 52457",
+    "raw_response": "1. **Different example:** 52457  \n2. **Why:** This example describes a floorplan with a very different layout compared to the others. It lacks a clear, consistent orientation (e.g., north, south, east, west) and the rooms are described in a circular, overlapping manner, making it difficult to visualize a coherent spatial arrangement. The other examples, while varying in detail, generally follow a more linear and logical flow of room descriptions based on a defined orientation."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "10984",
+    "predicted_id": "1. **Different example:** ID 3384",
+    "raw_response": "1. **Different example:** ID 3384  \n2. **Why:** This example describes a floorplan with a distinct layout compared to the others. It features two balconies, one on the northwest corner and the other on the southeast corner, which is unusual in the other examples. Additionally, the room sizes are significantly different, with the living room being much larger than in the other examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "1225",
+    "predicted_id": "1. **Different example:** 1225",
+    "raw_response": "1. **Different example:** 1225  \n2. **Why:** This example describes a long, narrow living room that extends the length of the house, a feature not present in the other descriptions. Additionally, it mentions a balcony on the north side, while the other examples place balconies on the south or southwest. The overall layout and emphasis on the living room's unique shape distinguish it from the others."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "10526",
+    "predicted_id": "1. **Different example:** 72266",
+    "raw_response": "1. **Different example:** 72266  \n2. **Why:** This example has a living room that is significantly larger than the other rooms, and it is located in the northwest corner, which is different from the other examples where the living room is typically in the center or southeast corner."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "28082",
+    "predicted_id": "1. **Different example:** ID 61767",
+    "raw_response": "1. **Different example:** ID 61767  \n2. **Why:** This example has two balconies, while the other four examples only have one."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "10984",
+    "predicted_id": "1. **Different example:** 10984",
+    "raw_response": "1. **Different example:** 10984  \n2. **Why:** This example has a different arrangement of rooms compared to the others. For example, it places the bathrooms above the master bedroom and another bathroom, a configuration not seen in the other examples. Additionally, the kitchen is located directly above the living room, which is unusual."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "36396",
+    "predicted_id": "1. **Different example:** 26506",
+    "raw_response": "1. **Different example:** 26506  \n2. **Why:** This example describes a floorplan where rooms are arranged in a more linear fashion, with a strong emphasis on east-west and north-south orientation. The other examples describe a more central living room with rooms branching out from it, often with a focus on corner placements."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "70239",
+    "predicted_id": "1. **Different example:** 70239",
+    "raw_response": "1. **Different example:** 70239  \n2. **Why:** This example has a different layout because the living room is on the east side of the house, while in the other examples, it's located on the west side. Additionally, the kitchen is situated between the common rooms in this example, unlike the other examples where it's typically adjacent to the living room or balcony."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "54792",
+    "predicted_id": "1. **Different example:** 31113",
+    "raw_response": "1. **Different example:** 31113  \n2. **Why:** This example describes a floorplan with a central kitchen, while the other four examples describe floorplans with kitchens located in corners."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "66807",
+    "predicted_id": "1. **Different example:** ID 64781",
+    "raw_response": "1. **Different example:** ID 64781  \n2. **Why:** This example has two balconies, while the other four examples only have one.  The spatial arrangement of the rooms is also different, particularly the placement of the kitchen and living room."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "23197",
+    "predicted_id": "1. **Different example:** 74662",
+    "raw_response": "1. **Different example:** 74662  \n2. **Why:** This example describes a floorplan where the living room is the largest room and occupies most of the northeast corner. The other examples describe floorplans where the living room is centrally located and not as dominant in size.  Additionally, the spatial relationships between rooms in example 74662 are quite different from the others."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "26703",
+    "predicted_id": "1. **Different example:** 994",
+    "raw_response": "1. **Different example:** 994  \n2. **Why:**  Example 994 describes a floorplan where rooms are stacked vertically, with the balcony, common room, and kitchen on the lower level and the living room, master bedroom, and bathroom on the upper level. This vertical arrangement is distinct from the other examples, which all depict a single-level floorplan with rooms arranged horizontally."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "75828",
+    "predicted_id": "1. **Different example:** 48095",
+    "raw_response": "1. **Different example:** 48095  \n2. **Why:** This example has a different layout because the master bedroom is located on the east side of the building, behind the living room and next to living room 2. This placement is unusual compared to the other examples where the master bedroom is typically located on the west or southwest side of the unit."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "76431",
+    "predicted_id": "1. **Different example:** 3384",
+    "raw_response": "1. **Different example:** 3384  \n2. **Why:**  Example 5 describes a floorplan where the living room is on the east side and the master bedroom is on the southwest corner. This is different from the other examples where the living room is typically in the center or west side of the floorplan and the master bedroom is often in the southwest or southeast corner."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "1225",
+    "predicted_id": "1. **Different example:** ID 74418",
+    "raw_response": "1. **Different example:** ID 74418  \n2. **Why:** This example describes a floorplan where the living room is located on the north side of the house, while the other examples consistently place the living room on the west side."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "63317",
+    "predicted_id": "1. **Different example:** 63317",
+    "raw_response": "1. **Different example:** 63317  \n2. **Why:** This example has a unique layout with a centrally located living room and a storage room, features not present in the other descriptions. The other examples consistently describe a living room adjacent to a kitchen and a common room, with a master bedroom and balconies positioned in specific corners."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "16951",
+    "predicted_id": "1. **Different example:** ID 55950",
+    "raw_response": "1. **Different example:** ID 55950  \n2. **Why:** This example has a different floorplan because the living room is described as being on the east side, while in the other examples, the living room is typically located in a central or more western position. Additionally, the placement of the balconies and bathrooms in this example differs significantly from the other descriptions."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "7217",
+    "predicted_id": "1. **Different example:** 1225",
+    "raw_response": "1. **Different example:** 1225  \n2. **Why:**  Example 5 describes a living room with an uneven geometric shape and a length extending the entire length of the house. This is significantly different from the other examples, which all describe rectangular living rooms with more standard dimensions."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "46039",
+    "predicted_id": "1. **Different example:** 26703",
+    "raw_response": "1. **Different example:** 26703  \n2. **Why:** This example has a unique layout with two balconies, one accessible from the living room and the other from common room 1. The other examples do not mention two balconies. Additionally, the spatial relationships described in this example are different, with common rooms 1 and 2 being positioned between the living room and the kitchen."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "25618",
+    "predicted_id": "1. **Different example:** ID 59474",
+    "raw_response": "1. **Different example:** ID 59474  \n2. **Why:** This example describes a floorplan where the master bedroom is located in the southeast corner, directly adjacent to the balcony. This is inconsistent with the other examples, where the master bedroom is typically located in a different corner or position."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "49556",
+    "predicted_id": "1. **Different example:** 18887",
+    "raw_response": "1. **Different example:** 18887  \n2. **Why:** This example describes a floorplan where rooms are stacked vertically on top of each other, creating a multi-level layout. The other examples describe a single-level floorplan with rooms arranged horizontally."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "50181",
+    "predicted_id": "1. **Different example:** 59474",
+    "raw_response": "1. **Different example:** 59474  \n2. **Why:** This example has a different layout compared to the others. The living room is positioned in the center, surrounded by the kitchen, common room, and master bedroom. The other examples have the living room on the periphery, with other rooms branching out from it."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "26703",
+    "predicted_id": "1. **Different example:** 26703",
+    "raw_response": "1. **Different example:** 26703  \n2. **Why:** This example describes a floorplan with an open living room concept, multiple balconies, and specific access points between rooms. The other examples lack these features and describe a more traditional layout with separate rooms and a less defined living space."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "63902",
+    "predicted_id": "1. **Different example:** 18887",
+    "raw_response": "1. **Different example:** 18887  \n2. **Why:** This example describes a floorplan where rooms are stacked vertically on top of each other, creating a multi-level structure. The other examples describe single-level floorplans with rooms arranged horizontally."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "80744",
+    "predicted_id": "1. **Different example:** 9662",
+    "raw_response": "1. **Different example:** 9662  \n2. **Why:** This example is different because it describes a floorplan with a distinct \"L-shaped\" living room, extending eastward. The other examples do not mention this unique shape or feature."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "10017",
+    "predicted_id": "1. **Different example:** ID 10017",
+    "raw_response": "1. **Different example:** ID 10017  \n2. **Why:** This example has a different layout compared to the others. The master bedroom is inset into the living room, creating a unique spatial relationship not seen in the other examples. Additionally, the descriptions of the common room and kitchen in this example are less detailed and less focused on their precise location relative to other rooms."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "63514",
+    "predicted_id": "1. **Different example:** 33045",
+    "raw_response": "1. **Different example:** 33045  \n2. **Why:** This example describes a floorplan with a distinct layout where the living room is in the southeast corner, the balcony is in the north, and the master bedroom is in the southwest. The other examples consistently describe a layout with the living room in the lower part of the house, the master bedroom in the upper right corner, and the balcony in the lower right corner."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "77045",
+    "predicted_id": "1. **Different example:** ID 5222",
+    "raw_response": "1. **Different example:** ID 5222  \n2. **Why:** This example describes a floorplan where the common rooms are arranged in a linear fashion along the north side of the house, with the kitchen, common room 1, and common room 2 in a row. The other examples all feature a more central living room with other rooms branching off from it."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "37907",
+    "predicted_id": "1. **Different example:** 64729",
+    "raw_response": "1. **Different example:** 64729  \n2. **Why:** This example describes a floorplan with a central living room surrounded by other rooms, while the other examples describe a layout where the living room is typically adjacent to the kitchen and/or balcony.  The descriptions in 64729 also use different terminology and focus on area rather than spatial relationships."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "73023",
+    "predicted_id": "1. **Different example:** 9383",
+    "raw_response": "1. **Different example:** 9383\n2. **Why:**  This example describes a floorplan where the living room is the largest room and takes up most of the house. The other examples describe floorplans where the living room is a central room, but not necessarily the largest. Additionally, the kitchen in example 9383 is described as having three dimensions (30'x 10' x 30'), which is unusual and suggests a different layout than the other examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "37360",
+    "predicted_id": "1. **Different example:** 27821",
+    "raw_response": "1. **Different example:** 27821  \n2. **Why:** This example has a different floorplan because the living room has a distinct extension, a feature not present in the other descriptions.  Additionally, the spatial arrangement of the common rooms is unique compared to the others."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "7474",
+    "predicted_id": "1. **Different example:** 26994",
+    "raw_response": "1. **Different example:** 26994  \n2. **Why:** This example has a different layout compared to the others. The living room is described as being in the \"East facing\" position, which implies a different orientation than the other examples where rooms are described in relation to cardinal directions (North, South, East, West). Additionally, the descriptions of room sizes in this example are more specific and numerical, while the others tend to use more general terms like \"around\" or \"approximately\"."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "26678",
+    "predicted_id": "1. **Different example:** ID 57316",
+    "raw_response": "1. **Different example:** ID 57316  \n2. **Why:** This example has a different layout compared to the others. The placement of the bathrooms, particularly having two bathrooms, and their relationship to the common rooms and master bedroom, is unique. The other examples primarily feature a single bathroom located between the common room and master bedroom."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "67905",
+    "predicted_id": "1. **Different example:** ID 50510",
+    "raw_response": "1. **Different example:** ID 50510  \n2. **Why:** This example has a unique layout where the living room is situated above the balcony 2, and the bathroom is located below the balcony 1. This vertical arrangement of spaces is not present in the other descriptions, which all feature a more traditional horizontal floorplan."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "23716",
+    "predicted_id": "1. **Different example:** ID 74226",
+    "raw_response": "1. **Different example:** ID 74226  \n2. **Why:** This example describes a floorplan with a non-standard shape, particularly the kitchen and common room placement, and the irregular northern border. The other examples describe more rectangular floorplans with a consistent layout of rooms."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "42272",
+    "predicted_id": "1. **Different example:** ID 47834",
+    "raw_response": "1. **Different example:** ID 47834  \n2. **Why:** This example describes a floorplan where the living room occupies the entire east side of the house, while the other examples describe a living room that is located on the right side of the house."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "58616",
+    "predicted_id": "1. **Different example:** 1181",
+    "raw_response": "1. **Different example:** 1181  \n2. **Why:** This example describes a floorplan with a central living room, with the master bedroom, kitchen, and two common rooms branching off of it. The other examples all describe a floorplan with a more linear arrangement, with the living room typically located on one side and the other rooms arranged around it."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "description",
+    "scenario": "diff_first",
+    "outlier_id": "53579",
+    "predicted_id": "1. **Different example:** ID 35479",
+    "raw_response": "1. **Different example:** ID 35479  \n2. **Why:** This example has a different floorplan because the master bedroom is located on the southwest corner and shares a wall with the living room, while the other examples have the master bedroom located on the opposite side of the living room. Additionally, the bathroom 1 is partially inside the master bedroom in this example, which is not the case in the other examples."
+  }
+]
