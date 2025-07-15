@@ -1157,7 +1157,7 @@
     ],
     "outlier_id": "72055",
     "gemma_description_pick": "76431",
-    "llama_description_pick": "72055"
+    "llama_description_pick": null
   },
   {
     "base_cluster": [
@@ -1637,7 +1637,7 @@
     ],
     "outlier_id": "46660",
     "gemma_description_pick": "36535",
-    "llama_description_pick": "36535"
+    "llama_description_pick": null
   },
   {
     "base_cluster": [

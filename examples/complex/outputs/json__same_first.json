@@ -1,0 +1,802 @@
+[
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "43375",
+    "predicted_id": "159.0",
+    "raw_response": "159.0\n              ],\n              [\n                77.0,\n                159.0\n              ],\n              [\n                78.0,\n                160.0\n              ],\n              [\n                78.0,\n                161.0\n              ],\n              [\n                79.0,\n                162.0\n              ],\n              [\n                78.0,\n                163.0\n              ],\n              [\n                78.0,\n                203.0\n              ],\n              [\n                123.0,\n                203.0\n              ],\n              [\n                123.0,\n                99.0\n              ],\n              [\n                124.0,\n                98.0\n              ],\n              [\n                140.0,\n                98.0\n              ],\n              [\n                140.0,\n                86.0\n              ],\n              [\n                107.0,\n                86.0\n              ]\n            ]\n          ]"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "51211",
+    "predicted_id": "om_type\": \"living_room\",",
+    "raw_response": "om_type\": \"living_room\",\n        \"area\": 5421.0,\n        \"centroid\": [\n          134.87403923015432,\n          160.7774395867921\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                114.0,\n                109.0\n              ],\n              [\n                114.0,\n                125.0\n              ],\n              [\n                113.0,\n                126.0\n              ],\n              [\n                83.0,\n                126.0\n              ],\n              [\n                83.0,\n                178.0\n              ],\n              [\n                107.0,\n                178.0\n              ],\n              [\n                108.0,\n                179.0\n              ],\n              [\n                108.0,\n                181."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "42272",
+    "predicted_id": "[",
+    "raw_response": "[\n                57.0,\n                105.0\n              ],\n              [\n                58.0,\n                104.0\n              ],\n              [\n                62.0,\n                104.0\n              ],\n              [\n                63.0,\n                105.0\n              ],\n              [\n                63.0,\n                113.0\n              ],\n              [\n                118.0,\n                113.0\n              ],\n              [\n                118.0,\n                68.0\n              ],\n              [\n                63.0,\n                68.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 1\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 6045.5,\n        \"centroid\": [\n          127.63645135500234,\n          140.39894687508615"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "46039",
+    "predicted_id": "151.0",
+    "raw_response": "151.0\n              ],\n              [\n                123.0,\n                151.0\n              ],\n              [\n                124.0,\n                152.0\n              ],\n              [\n                124.0,\n                194.0\n              ],\n              [\n                205.0,\n                194.0\n              ],\n              [\n                205.0,\n                176.0\n              ],\n              [\n                182.0,\n                176.0\n              ],\n              [\n                181.0,\n                177.0\n              ],\n              [\n                179.0,\n                175.0\n              ],\n              [\n                179.0,\n                84.0\n              ],\n              [\n                124.0,\n                84.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 9"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "23132",
+    "predicted_id": "113.0",
+    "raw_response": "113.0\n              ],\n              [\n                200.0,\n                65.0\n              ],\n              [\n                147.0,\n                65.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 5583.5,\n        \"centroid\": [\n          141.6401301453688,\n          149.06363989134653\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                116.0,\n                90.0\n              ],\n              [\n                116.0,\n                159.0\n              ],\n              [\n                115.0,\n                160.0\n              ],\n              [\n                85.0,\n                160.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "75880",
+    "predicted_id": "\"source\": 0,",
+    "raw_response": "\"source\": 0,\n    \"target\": 1\n      },\n      {\n    \"source\": 0,\n    \"target\": 2\n      },\n      {\n    \"source\": 0,\n    \"target\": 3\n      },\n      {\n    \"source\": 1,\n    \"target\": 3\n      },\n      {\n    \"source\": 2,\n    \"target\": 3\n      },\n      {\n    \"source\": 2,\n    \"target\": 4\n      },\n      {\n    \"source\": 2,\n    \"target\": 5\n      },\n      {\n    \"source\": 3,\n    \"target\": 4\n      },\n      {\n    \"source\": 4,\n    \"target\": 5\n      }\n    ]\n  }\n}\n\n**Example 2, 3, 4:**\n\nThese examples will have the same graph structure as Example 1, but with different room dimensions and centroids.\n\n**Example 5:**\n\nThis example will have a different floorplan pattern. For instance, it could be a linear apartment with rooms arranged"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "54232",
+    "predicted_id": "91.0",
+    "raw_response": "91.0\n              ],\n              [\n                195.0,\n                45.0\n              ],\n              [\n                100.0,\n                45.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 5997.5,\n        \"centroid\": [\n          141.9189940252883,\n          171.56662498263165\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                130.0,\n                97.0\n              ],\n              [\n                130.0,\n                170.0\n              ],\n              [\n                129.0,\n                171.0\n              ],\n              [\n                83.0,\n                171.0\n              ],\n              [\n                83"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "57572",
+    "predicted_id": "\": \"living_room\",",
+    "raw_response": "\": \"living_room\",\n        \"area\": 6477.0,\n        \"centroid\": [\n          116.96860686531829,\n          173.36902372497556\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                117.0,\n                103.0\n              ],\n              [\n                117.0,\n                149.0\n              ],\n              [\n                116.0,\n                150.0\n              ],\n              [\n                66.0,\n                150.0\n              ],\n              [\n                66.0,\n                159.0\n              ],\n              [\n                65.0,\n                160.0\n              ],\n              [\n                57.0,\n                160.0\n              ],\n              [\n                57.0,\n                191.0\n              ],"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "8257",
+    "predicted_id": "[",
+    "raw_response": "[\n                124.0,\n                106.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 795.0,\n        \"centroid\": [\n          46.5,\n          151.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                39.0,\n                125.0\n              ],\n              [\n                39.0,\n                178.0\n              ],\n              [\n                54.0,\n                178.0\n              ],\n              [\n                54.0,\n                125.0\n              ],\n              [\n                39.0,\n                125.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 600.0,"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "79411",
+    "predicted_id": "37.0,",
+    "raw_response": "37.0,\n                102.0\n              ],\n              [\n                118.0,\n                102.0\n              ],\n              [\n                118.0,\n                169.0\n              ],\n              [\n                162.0,\n                169.0\n              ],\n              [\n                162.0,\n                118.0\n              ],\n              [\n                163.0,\n                117.0\n              ],\n              [\n                181.0,\n                117.0\n              ],\n              [\n                181.0,\n                49.0\n              ],\n              [\n                138.0,\n                49.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 559.0,\n        \"centroid\": [\n          159.5,\n          36.5\n        ],\n        \"polygon\": {"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "73827",
+    "predicted_id": "],",
+    "raw_response": "],\n            [\n              134.0,\n              158.0\n            ],\n            [\n              178.0,\n              158.0\n            ],\n            [\n              178.0,\n              79.0\n            ],\n            [\n              134.0,\n              79.0\n            ]\n          ]\n        ],\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 626.5,\n        \"centroid\": [\n          46.83054003724395,\n          152.99787177440808\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                37.0,\n                135.0\n              ],\n              [\n                37.0,\n                164.0\n              ],\n              [\n                46.0,\n                164.0"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "23132",
+    "predicted_id": "118.0,",
+    "raw_response": "118.0,\n                65.0\n              ],\n              [\n                117.0,\n                64.0\n              ],\n              [\n                117.0,\n                58.0\n              ],\n              [\n                93.0,\n                58.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 1\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 6292.5,\n        \"centroid\": [\n          157.053873659118,\n          127.08910078135345\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                133.0,\n                65.0\n              ],\n              [\n                133.0,\n                123.0\n              ],\n              [\n                132.0,\n                124.0\n              ],"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "75880",
+    "predicted_id": "}",
+    "raw_response": "}\n    ]\n  }\n}\n\n**Example 2:**\nID 48781\n{\n  \"rooms\": [\n    {\n      \"type\": \"common_room\",\n      \"polygon\": {\n        \"type\": \"Polygon\",\n        \"coordinates\": [\n          [\n            [\n              58.0,\n              47.0\n            ],\n            [\n              58.0,\n              55.0\n            ],\n            [\n              57.0,\n              56.0\n            ],\n            [\n              50.0,\n              56.0\n            ],\n            [\n              50.0,\n              78.0\n            ],\n            [\n              57.0,\n              78.0\n            ],\n            [\n              58.0,\n              79.0\n            ],\n            [\n              58.0,\n              90.0\n            ],\n            [\n              94.0,\n              90.0\n            ],\n            [\n              94.0,\n              47.0"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "1261",
+    "predicted_id": "97.0,",
+    "raw_response": "97.0,\n                191.0\n              ],\n              [\n                125.0,\n                191.0\n              ],\n              [\n                125.0,\n                99.0\n              ],\n              [\n                126.0,\n                98.0\n              ],\n              [\n                143.0,\n                98.0\n              ],\n              [\n                143.0,\n                83.0\n              ],\n              [\n                107.0,\n                83.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 820.0,\n        \"centroid\": [\n          208.0,\n          124.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                198.0,\n                104.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "74633",
+    "predicted_id": "[",
+    "raw_response": "[\n                139.0,\n                128.0\n              ],\n              [\n                138.0,\n                127.0\n              ],\n              [\n                138.0,\n                100.0\n              ],\n              [\n                118.0,\n                100.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 546.0,\n        \"centroid\": [\n          43.5,\n          149.0\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                37.0,\n                128.0\n              ],\n              [\n                37.0,\n                170.0\n              ],\n              [\n                50.0,\n                170.0\n              ],\n              [\n                50.0,\n                128.0\n              ],"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "55589",
+    "predicted_id": "177.0",
+    "raw_response": "177.0\n              ],\n              [\n                132.0,\n                194.0\n              ],\n              [\n                182.0,\n                194.0\n              ],\n              [\n                182.0,\n                163.0\n              ],\n              [\n                128.0,\n                163.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 1\n      },\n      {\n        \"room_type\": \"master_room\",\n        \"area\": 1924.5,\n        \"centroid\": [\n          75.975058456742,\n          84.65826621633325\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                54.0,\n                62.0\n              ],\n              [\n                54.0,\n                106.0\n              ],\n              [\n                103."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "28732",
+    "predicted_id": "151.0",
+    "raw_response": "151.0\n              ],\n              [\n                123.0,\n                151.0\n              ],\n              [\n                124.0,\n                152.0\n              ],\n              [\n                124.0,\n                194.0\n              ],\n              [\n                205.0,\n                194.0\n              ],\n              [\n                205.0,\n                176.0\n              ],\n              [\n                182.0,\n                176.0\n              ],\n              [\n                181.0,\n                177.0\n              ],\n              [\n                179.0,\n                175.0\n              ],\n              [\n                179.0,\n                84.0\n              ],\n              [\n                124.0,\n                84.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 9"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "7217",
+    "predicted_id": "[",
+    "raw_response": "[\n                126.0,\n                51.0\n              ],\n              [\n                126.0,\n                83.0\n              ],\n              [\n                125.0,\n                84.0\n              ],\n              [\n                100.0,\n                84.0\n              ],\n              [\n                100.0,\n                98.0\n              ],\n              [\n                173.0,\n                98.0\n              ],\n              [\n                173.0,\n                51.0\n              ],\n              [\n                126.0,\n                51.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 7873.5,\n        \"centroid\": [\n          134.42300120657904,\n          154.2461632903622\n        ],"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "39708",
+    "predicted_id": "]",
+    "raw_response": "]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 1566.0,\n        \"centroid\": [\n          94.0,\n          66.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                65.0,\n                53.0\n              ],\n              [\n                65.0,\n                80.0\n              ],\n              [\n                123.0,\n                80.0\n              ],\n              [\n                123.0,\n                53.0\n              ],\n              [\n                65.0,\n                53.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 528.0,\n        \"centroid\": [\n          55.5,\n          147.0\n        ],\n        \""
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "64247",
+    "predicted_id": "175.0,",
+    "raw_response": "175.0,\n                169.0\n              ],\n              [\n                184.0,\n                169.0\n              ],\n              [\n                184.0,\n                114.0\n              ],\n              [\n                139.0,\n                114.0\n              ],\n              [\n                138.0,\n                113.0\n              ],\n              [\n                138.0,\n                82.0\n              ],\n              [\n                107.0,\n                82.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 630.0,\n        \"centroid\": [\n          58.0,\n          125.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                51.0,\n                103.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "14834",
+    "predicted_id": "\"source\": 0,",
+    "raw_response": "\"source\": 0,\n    \"target\": 1\n      },\n      {\n    \"source\": 0,\n    \"target\": 2\n      },\n      {\n    \"source\": 0,\n    \"target\": 3\n      },\n      {\n    \"source\": 1,\n    \"target\": 3\n      },\n      {\n    \"source\": 2,\n    \"target\": 3\n      },\n      {\n    \"source\": 2,\n    \"target\": 4\n      },\n      {\n    \"source\": 2,\n    \"target\": 5\n      },\n      {\n    \"source\": 3,\n    \"target\": 4\n      },\n      {\n    \"source\": 4,\n    \"target\": 5\n      }\n    ]\n  }\n}\n\n**Example 2, 3, 4:**\n\nThese examples will have the same graph structure as Example 1, but with different room dimensions and centroids.\n\n**Example 5:**\n\nThis example will have a different floorplan pattern. For instance, it could be a linear apartment with rooms arranged"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "11746",
+    "predicted_id": "[",
+    "raw_response": "[\n                124.0,\n                106.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 795.0,\n        \"centroid\": [\n          46.5,\n          151.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                39.0,\n                125.0\n              ],\n              [\n                39.0,\n                178.0\n              ],\n              [\n                54.0,\n                178.0\n              ],\n              [\n                54.0,\n                125.0\n              ],\n              [\n                39.0,\n                125.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 600.0,"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "50906",
+    "predicted_id": "[",
+    "raw_response": "[\n              [\n                127.0,\n                85.0\n              ],\n              [\n                127.0,\n                122.0\n              ],\n              [\n                155.0,\n                122.0\n              ],\n              [\n                155.0,\n                85.0\n              ],\n              [\n                127.0,\n                85.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 5\n      }\n    ],\n    \"edges\": [\n      {\n        \"source\": 0,\n        \"target\": 1\n      },\n      {\n        \"source\": 0,\n        \"target\": 2\n      },\n      {\n        \"source\": 0,\n        \"target\": 3\n      },\n      {\n        \"source\": 0,\n        \"target\": 4\n      },\n      {\n        \"source\": 0,\n        \"target\": 5\n      },\n      {\n        \"source\": 1,\n        \"target\": 2"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "47247",
+    "predicted_id": "},",
+    "raw_response": "},\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 6822.5,\n        \"centroid\": [\n          144.17249297667033,\n          130.878832295102\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                123.0,\n                85.0\n              ],\n              [\n                123.0,\n                105.0\n              ],\n              [\n                122.0,\n                106.0\n              ],\n              [\n                85.0,\n                106.0\n              ],\n              [\n                85.0,\n                158.0\n              ],\n              [\n                119.0,\n                158.0\n              ],\n              [\n                120.0,\n                159.0\n              ],\n              [\n                120.0"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "4132",
+    "predicted_id": "[",
+    "raw_response": "[\n              182.0,\n              79.0\n            ],\n            [\n              182.0,\n              101.0\n            ],\n            [\n              229.0,\n              101.0\n            ],\n            [\n              229.0,\n              79.0\n            ],\n            [\n              182.0,\n              79.0\n            ]\n          ]\n        ],\n        \"id\": 4\n      },\n      {\n        \"room_type\": \"kitchen\",\n        \"area\": 1612.0,\n        \"centroid\": [\n          213.5,\n          131.0\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                198.0,\n                105.0\n              ],\n              [\n                198.0,\n                157.0\n              ],\n              [\n                229.0,\n                157.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "21540",
+    "predicted_id": "\"type\": \"Polygon\",",
+    "raw_response": "\"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                42.0,\n                53.0\n              ],\n              [\n                42.0,\n                98.0\n              ],\n              [\n                61.0,\n                98.0\n              ],\n              [\n                61.0,\n                53.0\n              ],\n              [\n                42.0,\n                53.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 495.0,\n        \"centroid\": [\n          206.5,\n          198.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                199.0,\n                182.0\n              ],\n              [\n                199.0,\n                215.0\n              ],\n              [\n                214.0,"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "55791",
+    "predicted_id": "33.0,",
+    "raw_response": "33.0,\n                50.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 1386.0,\n        \"centroid\": [\n          213.0,\n          135.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                204.0,\n                97.0\n              ],\n              [\n                204.0,\n                174.0\n              ],\n              [\n                222.0,\n                174.0\n              ],\n              [\n                222.0,\n                97.0\n              ],\n              [\n                204.0,\n                97.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 4\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 552.0,\n        \""
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "7489",
+    "predicted_id": "133.0,",
+    "raw_response": "133.0,\n                155.0\n              ],\n              [\n                195.0,\n                155.0\n              ],\n              [\n                195.0,\n                107.0\n              ],\n              [\n                132.0,\n                107.0\n              ],\n              [\n                131.0,\n                106.0\n              ],\n              [\n                131.0,\n                88.0\n              ],\n              [\n                103.0,\n                88.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 1008.0,\n        \"centroid\": [\n          211.5,\n          131.0\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                201.0,\n                107.0\n              ],"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "26678",
+    "predicted_id": "151.0",
+    "raw_response": "151.0\n              ],\n              [\n                123.0,\n                151.0\n              ],\n              [\n                124.0,\n                152.0\n              ],\n              [\n                124.0,\n                194.0\n              ],\n              [\n                205.0,\n                194.0\n              ],\n              [\n                205.0,\n                176.0\n              ],\n              [\n                182.0,\n                176.0\n              ],\n              [\n                181.0,\n                177.0\n              ],\n              [\n                179.0,\n                175.0\n              ],\n              [\n                179.0,\n                84.0\n              ],\n              [\n                124.0,\n                84.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 9"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "27821",
+    "predicted_id": "25719,",
+    "raw_response": "25719,\n          97.3470756157472\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                46.0,\n                76.0\n              ],\n              [\n                46.0,\n                119.0\n              ],\n              [\n                102.0,\n                119.0\n              ],\n              [\n                102.0,\n                100.0\n              ],\n              [\n                103.0,\n                99.0\n              ],\n              [\n                107.0,\n                99.0\n              ],\n              [\n                108.0,\n                100.0\n              ],\n              [\n                111.0,\n                100.0\n              ],\n              [\n                111.0,\n                88.0\n              ],\n              [\n                106.0,\n                88.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "48795",
+    "predicted_id": "91.0",
+    "raw_response": "91.0\n              ],\n              [\n                195.0,\n                45.0\n              ],\n              [\n                100.0,\n                45.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 5997.5,\n        \"centroid\": [\n          141.9189940252883,\n          171.56662498263165\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                130.0,\n                97.0\n              ],\n              [\n                130.0,\n                170.0\n              ],\n              [\n                129.0,\n                171.0\n              ],\n              [\n                83.0,\n                171.0\n              ],\n              [\n                83"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "20671",
+    "predicted_id": "],",
+    "raw_response": "],\n              [\n                78.0,\n                33.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 384.0,\n        \"centroid\": [\n          178.0,\n          156.0\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                170.0,\n                144.0\n              ],\n              [\n                170.0,\n                168.0\n              ],\n              [\n                186.0,\n                168.0\n              ],\n              [\n                186.0,\n                144.0\n              ],\n              [\n                170.0,\n                144.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 4\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 7"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "69704",
+    "predicted_id": "71.0",
+    "raw_response": "71.0\n              ],\n              [\n                146.0,\n                172.0\n              ],\n              [\n                146.0,\n                190.0\n              ],\n              [\n                181.0,\n                190.0\n              ],\n              [\n                181.0,\n                154.0\n              ],\n              [\n                141.0,\n                154.0\n              ],\n              [\n                140.0,\n                153.0\n              ],\n              [\n                140.0,\n                99.0\n              ],\n              [\n                126.0,\n                99.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 1134.0,\n        \"centroid\": [\n          63.5,\n          144.0\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\","
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "8176",
+    "predicted_id": "30.0,",
+    "raw_response": "30.0,\n                98.0\n              ],\n              [\n                22.0,\n                98.0\n              ],\n              [\n                22.0,\n                118.0\n              ],\n              [\n                75.0,\n                118.0\n              ],\n              [\n                75.0,\n                87.0\n              ],\n              [\n                31.0,\n                87.0\n              ]\n            ]\n          ]\n        }\n      },\n      {\n        \"room_type\": \"common_room\",\n        \"area\": 2467.5,\n        \"centroid\": [\n          174.1016548463357,\n          165.29699425869637\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                159.0,\n                140.0\n              ],\n              [\n                159.0,"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "64",
+    "predicted_id": "125.0",
+    "raw_response": "125.0\n              ],\n              [\n                160.0,\n                110.0\n              ],\n              [\n                139.0,\n                110.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 500.5,\n        \"centroid\": [\n          149.89377289377288,\n          93.991674991675\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                144.0,\n                81.0\n              ],\n              [\n                144.0,\n                85.0\n              ],\n              [\n                143.0,\n                86.0\n              ],\n              [\n                139.0,\n                86.0\n              ],\n              [\n                139.0,"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "7474",
+    "predicted_id": "],",
+    "raw_response": "],\n              [\n                115.0,\n                142.0\n              ],\n              [\n                141.0,\n                142.0\n              ],\n              [\n                141.0,\n                131.0\n              ],\n              [\n                115.0,\n                131.0\n              ],\n              [\n                114.0,\n                130.0\n              ],\n              [\n                114.0,\n                80.0\n              ],\n              [\n                87.0,\n                80.0\n              ],\n              [\n                86.0,\n                79.0\n              ],\n              [\n                86.0,\n                69.0\n              ],\n              [\n                66.0,\n                69.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 966.0,\n        \"centroid\": ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "28732",
+    "predicted_id": "\": {",
+    "raw_response": "\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                77.0,\n                83.0\n              ],\n              [\n                77.0,\n                150.0\n              ],\n              [\n                122.0,\n                150.0\n              ],\n              [\n                122.0,\n                95.0\n              ],\n              [\n                100.0,\n                95.0\n              ],\n              [\n                99.0,\n                94.0\n              ],\n              [\n                99.0,\n                83.0\n              ],\n              [\n                77.0,\n                83.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 4972.5,\n        \"centroid\": [\n          145.89669850846323,\n          144."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "42226",
+    "predicted_id": "0,",
+    "raw_response": "0,\n                66.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 6070.5,\n        \"centroid\": [\n          124.91617933723197,\n          149.05114899925871\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                104.0,\n                108.0\n              ],\n              [\n                104.0,\n                125.0\n              ],\n              [\n                103.0,\n                126.0\n              ],\n              [\n                91.0,\n                126.0\n              ],\n              [\n                91.0,\n                156.0\n              ],\n              [\n                90.0,\n                157.0\n              ],"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "43396",
+    "predicted_id": "90.0",
+    "raw_response": "90.0\n              ],\n              [\n                212.0,\n                44.0\n              ],\n              [\n                154.0,\n                44.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 7036.5,\n        \"centroid\": [\n          122.96236291716998,\n          125.26971268859992\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                120.0,\n                80.0\n              ],\n              [\n                120.0,\n                106.0\n              ],\n              [\n                119.0,\n                107.0\n              ],\n              [\n                61.0,\n                107.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "21765",
+    "predicted_id": "86.0",
+    "raw_response": "86.0\n              ],\n              [\n                108.0,\n                86.0\n              ],\n              [\n                108.0,\n                100.0\n              ],\n              [\n                182.0,\n                100.0\n              ],\n              [\n                182.0,\n                55.0\n              ],\n              [\n                142.0,\n                55.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 6979.0,\n        \"centroid\": [\n          120.78315900081195,\n          165.86831924344463\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                88.0,\n                104.0\n              ],\n              [\n                88"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "39691",
+    "predicted_id": "[",
+    "raw_response": "[\n                184.0,\n                81.0\n              ],\n              [\n                129.0,\n                81.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 825.0,\n        \"centroid\": [\n          156.5,\n          69.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                129.0,\n                62.0\n              ],\n              [\n                129.0,\n                77.0\n              ],\n              [\n                184.0,\n                77.0\n              ],\n              [\n                184.0,\n                62.0\n              ],\n              [\n                129.0,\n                62.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \""
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "37914",
+    "predicted_id": "\"type\": \"Polygon\",",
+    "raw_response": "\"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                42.0,\n                53.0\n              ],\n              [\n                42.0,\n                98.0\n              ],\n              [\n                61.0,\n                98.0\n              ],\n              [\n                61.0,\n                53.0\n              ],\n              [\n                42.0,\n                53.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 495.0,\n        \"centroid\": [\n          206.5,\n          198.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                199.0,\n                182.0\n              ],\n              [\n                199.0,\n                215.0\n              ],\n              [\n                214.0,"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "19346",
+    "predicted_id": "],",
+    "raw_response": "],\n              [\n                146.0,\n                121.0\n              ],\n              [\n                147.0,\n                120.0\n              ],\n              [\n                180.0,\n                120.0\n              ],\n              [\n                180.0,\n                62.0\n              ],\n              [\n                171.0,\n                62.0\n              ],\n              [\n                170.0,\n                61.0\n              ],\n              [\n                170.0,\n                52.0\n              ],\n              [\n                136.0,\n                52.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 1\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 7866.5,\n        \"centroid\": [\n          108.5156041441556,\n          129.07803131422"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "51240",
+    "predicted_id": "115.0",
+    "raw_response": "115.0\n              ],\n              [\n                144.0,\n                115.0\n              ],\n              [\n                144.0,\n                113.0\n              ],\n              [\n                145.0,\n                112.0\n              ],\n              [\n                178.0,\n                112.0\n              ],\n              [\n                178.0,\n                63.0\n              ],\n              [\n                132.0,\n                63.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 1\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 5371.5,\n        \"centroid\": [\n          102.75981259114462,\n          131.2447174904589\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "47247",
+    "predicted_id": ",",
+    "raw_response": ",\n                51.0\n              ],\n              [\n                116.0,\n                125.0\n              ],\n              [\n                151.0,\n                125.0\n              ],\n              [\n                152.0,\n                124.0\n              ],\n              [\n                154.0,\n                126.0\n              ],\n              [\n                154.0,\n                205.0\n              ],\n              [\n                170.0,\n                205.0\n              ],\n              [\n                170.0,\n                126.0\n              ],\n              [\n                172.0,\n                124.0\n              ],\n              [\n                173.0,\n                125.0\n              ],\n              [\n                192.0,\n                125.0\n              ],\n              [\n                192.0,\n                51.0\n              ],\n              [\n                116.0,\n                51."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "28694",
+    "predicted_id": "[",
+    "raw_response": "[\n              [\n                74.0,\n                164.0\n              ],\n              [\n                74.0,\n                200.0\n              ],\n              [\n                112.0,\n                200.0\n              ],\n              [\n                112.0,\n                164.0\n              ],\n              [\n                74.0,\n                164.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 5\n      }\n    ],\n    \"edges\": [\n      {\n        \"source\": 0,\n        \"target\": 1\n      },\n      {\n        \"source\": 1,\n        \"target\": 2\n      },\n      {\n        \"source\": 1,\n        \"target\": 3\n      },\n      {\n        \"source\": 1,\n        \"target\": 4\n      },\n      {\n        \"source\": 4,\n        \"target\": 5\n      }\n    ]\n  }\n}\n\n**Example 2:**\nID 6"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "63485",
+    "predicted_id": "\": \"living_room\",",
+    "raw_response": "\": \"living_room\",\n        \"area\": 6477.0,\n        \"centroid\": [\n          116.96860686531829,\n          173.36902372497556\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                117.0,\n                103.0\n              ],\n              [\n                117.0,\n                149.0\n              ],\n              [\n                116.0,\n                150.0\n              ],\n              [\n                66.0,\n                150.0\n              ],\n              [\n                66.0,\n                159.0\n              ],\n              [\n                65.0,\n                160.0\n              ],\n              [\n                57.0,\n                160.0\n              ],\n              [\n                57.0,\n                191.0\n              ],"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "27788",
+    "predicted_id": "\"type\": \"Polygon\",",
+    "raw_response": "\"type\": \"Polygon\",\n       \"coordinates\": [\n         [\n           [\n             112.0,\n             171.0\n           ],\n           [\n             112.0,\n             201.0\n           ],\n           [\n             127.0,\n             201.0\n           ],\n           [\n             127.0,\n             171.0\n           ],\n           [\n             112.0,\n             171.0\n           ]\n         ]\n       ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 660.0,\n        \"centroid\": [\n          123.0,\n          152.0\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                112.0,\n                137.0\n              ],\n              [\n                112.0,\n                167.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "11746",
+    "predicted_id": "148.0,",
+    "raw_response": "148.0,\n                126.0\n              ],\n              [\n                147.0,\n                125.0\n              ],\n              [\n                147.0,\n                124.0\n              ],\n              [\n                146.0,\n                123.0\n              ],\n              [\n                147.0,\n                122.0\n              ],\n              [\n                147.0,\n                103.0\n              ],\n              [\n                126.0,\n                103.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 765.0,\n        \"centroid\": [\n          44.5,\n          151.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                37.0,\n                126.0\n              ],"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "73823",
+    "predicted_id": "]",
+    "raw_response": "]\n          ]\n        },\n        \"id\": 4\n      },\n      {\n        \"room_type\": \"kitchen\",\n        \"area\": 627.0,\n        \"centroid\": [\n          116.5,\n          107.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                100.0,\n                98.0\n              ],\n              [\n                100.0,\n                117.0\n              ],\n              [\n                133.0,\n                117.0\n              ],\n              [\n                133.0,\n                98.0\n              ],\n              [\n                100.0,\n                98.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 5\n      }\n    ],\n    \"edges\": [\n      {\n        \"source\": 0,\n        \"target\": 2\n      },\n      {\n        \"source\": 1,\n        \""
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "16951",
+    "predicted_id": "113.0",
+    "raw_response": "113.0\n              ],\n              [\n                200.0,\n                65.0\n              ],\n              [\n                147.0,\n                65.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 5583.5,\n        \"centroid\": [\n          141.6401301453688,\n          149.06363989134653\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                116.0,\n                90.0\n              ],\n              [\n                116.0,\n                159.0\n              ],\n              [\n                115.0,\n                160.0\n              ],\n              [\n                85.0,\n                160.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "9383",
+    "predicted_id": "3",
+    "raw_response": "3\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 1485.0,\n        \"centroid\": [\n          94.5,\n          191.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                78.0,\n                169.0\n              ],\n              [\n                78.0,\n                214.0\n              ],\n              [\n                111.0,\n                214.0\n              ],\n              [\n                111.0,\n                169.0\n              ],\n              [\n                78.0,\n                169.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 4\n      },\n      {\n        \"room_type\": \"kitchen\",\n        \"area\": 950.0,\n        \"centroid\": [\n          159.0,\n          129.5\n        ],\n        \"polygon\": {\n          \""
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "14102",
+    "predicted_id": "[",
+    "raw_response": "[\n                184.0,\n                81.0\n              ],\n              [\n                129.0,\n                81.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 825.0,\n        \"centroid\": [\n          156.5,\n          69.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                129.0,\n                62.0\n              ],\n              [\n                129.0,\n                77.0\n              ],\n              [\n                184.0,\n                77.0\n              ],\n              [\n                184.0,\n                62.0\n              ],\n              [\n                129.0,\n                62.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \""
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "55950",
+    "predicted_id": "],",
+    "raw_response": "],\n              [\n                57.0,\n                174.0\n              ],\n              [\n                117.0,\n                174.0\n              ],\n              [\n                117.0,\n                98.0\n              ],\n              [\n                118.0,\n                97.0\n              ],\n              [\n                124.0,\n                97.0\n              ],\n              [\n                124.0,\n                86.0\n              ],\n              [\n                98.0,\n                86.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 728.0,\n        \"centroid\": [\n          111.0,\n          68.0\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                98.0,\n                54.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "10984",
+    "predicted_id": "[",
+    "raw_response": "[\n                104.0,\n                82.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 952.0,\n        \"centroid\": [\n          188.5,\n          74.0\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                180.0,\n                46.0\n              ],\n              [\n                180.0,\n                102.0\n              ],\n              [\n                197.0,\n                102.0\n              ],\n              [\n                197.0,\n                46.0\n              ],\n              [\n                180.0,\n                46.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 4\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 576.0"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "43036",
+    "predicted_id": "30.0,",
+    "raw_response": "30.0,\n                98.0\n              ],\n              [\n                22.0,\n                98.0\n              ],\n              [\n                22.0,\n                118.0\n              ],\n              [\n                75.0,\n                118.0\n              ],\n              [\n                75.0,\n                87.0\n              ],\n              [\n                31.0,\n                87.0\n              ]\n            ]\n          ]\n        }\n      },\n      {\n        \"room_type\": \"common_room\",\n        \"area\": 2467.5,\n        \"centroid\": [\n          174.1016548463357,\n          165.29699425869637\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                159.0,\n                140.0\n              ],\n              [\n                159.0,"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "26703",
+    "predicted_id": "[",
+    "raw_response": "[\n                146.0,\n                116.0\n              ],\n              [\n                147.0,\n                115.0\n              ],\n              [\n                172.0,\n                115.0\n              ],\n              [\n                172.0,\n                71.0\n              ],\n              [\n                169.0,\n                71.0\n              ],\n              [\n                168.0,\n                70.0\n              ],\n              [\n                168.0,\n                59.0\n              ],\n              [\n                150.0,\n                59.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 1\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 5062.5,\n        \"centroid\": [\n          106.51618106995885,\n          141.0514897119341"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "49189",
+    "predicted_id": "147.0,",
+    "raw_response": "147.0,\n                125.0\n              ],\n              [\n                147.0,\n                86.0\n              ],\n              [\n                137.0,\n                86.0\n              ],\n              [\n                136.0,\n                85.0\n              ],\n              [\n                136.0,\n                76.0\n              ],\n              [\n                116.0,\n                76.0\n              ]\n            ]\n          ]\n        },\n        \"id\": \"53032_0\"\n      },\n      {\n        \"room_type\": \"common_room\",\n        \"area\": 1496.0,\n        \"centroid\": [\n          155.0,\n          161.0\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                133.0,\n                144.0\n              ],\n              [\n                133.0,\n                178."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "52758",
+    "predicted_id": "186.0,",
+    "raw_response": "186.0,\n                198.0\n              ],\n              [\n                186.0,\n                98.0\n              ],\n              [\n                138.0,\n                98.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 1008.0,\n        \"centroid\": [\n          162.0,\n          81.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                138.0,\n                71.0\n              ],\n              [\n                138.0,\n                92.0\n              ],\n              [\n                186.0,\n                92.0\n              ],\n              [\n                186.0,\n                71.0\n              ],\n              [\n                138.0,\n                71.0\n              ]\n            ]\n          ]"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "49189",
+    "predicted_id": "133.0",
+    "raw_response": "133.0\n              ],\n              [\n                203.0,\n                84.0\n              ],\n              [\n                164.0,\n                84.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 5864.5,\n        \"centroid\": [\n          143.1004916588513,\n          152.8285730525478\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                75.0,\n                115.0\n              ],\n              [\n                75.0,\n                136.0\n              ],\n              [\n                98.0,\n                136.0\n              ],\n              [\n                99.0,\n                137.0\n              ],\n              [\n                99."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "42612",
+    "predicted_id": "\"room_type\": \"living_room\",",
+    "raw_response": "\"room_type\": \"living_room\",\n        \"area\": 6911.0,\n        \"centroid\": [\n          116.22071094390586,\n          135.06098972652293\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                82.0,\n                69.0\n              ],\n              [\n                82.0,\n                122.0\n              ],\n              [\n                81.0,\n                123.0\n              ],\n              [\n                81.0,\n                143.0\n              ],\n              [\n                98.0,\n                143.0\n              ],\n              [\n                100.0,\n                145.0\n              ],\n              [\n                99.0,\n                146.0\n              ],\n              [\n                99.0,\n                192.0\n              ],"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "2277",
+    "predicted_id": "154.0",
+    "raw_response": "154.0\n              ],\n              [\n                106.0,\n                112.0\n              ],\n              [\n                99.0,\n                112.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 1\n      },\n      {\n        \"room_type\": \"master_room\",\n        \"area\": 3343.5,\n        \"centroid\": [\n          165.1702806440357,\n          83.07771297542494\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                131.0,\n                59.0\n              ],\n              [\n                131.0,\n                75.0\n              ],\n              [\n                130.0,\n                76.0\n              ],\n              [\n                130.0,\n                107.0\n              ],\n              [\n                200"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "66935",
+    "predicted_id": "91.0",
+    "raw_response": "91.0\n              ],\n              [\n                176.0,\n                91.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 690.0,\n        \"centroid\": [\n          121.5,\n          93.0\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                110.0,\n                78.0\n              ],\n              [\n                110.0,\n                108.0\n              ],\n              [\n                133.0,\n                108.0\n              ],\n              [\n                133.0,\n                78.0\n              ],\n              [\n                110.0,\n                78.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 4\n      },\n      {\n        \"room_type\": \"kitchen\",\n        \"area\":"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "8257",
+    "predicted_id": "],",
+    "raw_response": "],\n              [\n                119.0,\n                148.0\n              ],\n              [\n                118.0,\n                149.0\n              ],\n              [\n                76.0,\n                149.0\n              ],\n              [\n                76.0,\n                186.0\n              ],\n              [\n                105.0,\n                186.0\n              ],\n              [\n                106.0,\n                187.0\n              ],\n              [\n                106.0,\n                225.0\n              ],\n              [\n                180.0,\n                225.0\n              ],\n              [\n                180.0,\n                163.0\n              ],\n              [\n                133.0,\n                163.0\n              ],\n              [\n                132.0,\n                162.0\n              ],\n              [\n                132.0,\n                91.0\n              ],\n              [\n                1"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "57272",
+    "predicted_id": ".0,",
+    "raw_response": ".0,\n                135.0\n              ],\n              [\n                130.0,\n                134.0\n              ],\n              [\n                130.0,\n                95.0\n              ],\n              [\n                117.0,\n                95.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 860.5,\n        \"centroid\": [\n          185.53960875460004,\n          160.68894053844664\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                184.0,\n                135.0\n              ],\n              [\n                183.0,\n                136.0\n              ],\n              [\n                177.0,\n                136.0\n              ],"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "3536",
+    "predicted_id": "[",
+    "raw_response": "[\n                47.0,\n                74.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 770.0,\n        \"centroid\": [\n          209.0,\n          154.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                202.0,\n                127.0\n              ],\n              [\n                202.0,\n                182.0\n              ],\n              [\n                216.0,\n                182.0\n              ],\n              [\n                216.0,\n                127.0\n              ],\n              [\n                202.0,\n                127.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 4\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 69"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "14038",
+    "predicted_id": "125.0",
+    "raw_response": "125.0\n              ],\n              [\n                160.0,\n                110.0\n              ],\n              [\n                139.0,\n                110.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 500.5,\n        \"centroid\": [\n          149.89377289377288,\n          93.991674991675\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                144.0,\n                81.0\n              ],\n              [\n                144.0,\n                85.0\n              ],\n              [\n                143.0,\n                86.0\n              ],\n              [\n                139.0,\n                86.0\n              ],\n              [\n                139.0,"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "78147",
+    "predicted_id": "\"room_type\": \"living_room\",",
+    "raw_response": "\"room_type\": \"living_room\",\n        \"area\": 4974.5,\n        \"centroid\": [\n          111.35779140282106,\n          144.4763962877341\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                137.0,\n                98.0\n              ],\n              [\n                137.0,\n                119.0\n              ],\n              [\n                136.0,\n                120.0\n              ],\n              [\n                66.0,\n                120.0\n              ],\n              [\n                66.0,\n                174.0\n              ],\n              [\n                152.0,\n                174.0\n              ],\n              [\n                152.0,\n                98.0\n              ],\n              [\n                137.0,\n                98.0"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "61353",
+    "predicted_id": "175.0,",
+    "raw_response": "175.0,\n                169.0\n              ],\n              [\n                184.0,\n                169.0\n              ],\n              [\n                184.0,\n                114.0\n              ],\n              [\n                139.0,\n                114.0\n              ],\n              [\n                138.0,\n                113.0\n              ],\n              [\n                138.0,\n                82.0\n              ],\n              [\n                107.0,\n                82.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 630.0,\n        \"centroid\": [\n          58.0,\n          125.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                51.0,\n                103.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "69704",
+    "predicted_id": "172.0,",
+    "raw_response": "172.0,\n                108.0\n              ],\n              [\n                172.0,\n                51.0\n              ],\n              [\n                142.0,\n                51.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 1\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 5365.0,\n        \"centroid\": [\n          100.85498602050326,\n          126.70503261882573\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                75.0,\n                74.0\n              ],\n              [\n                75.0,\n                179.0\n              ],\n              [\n                124.0,\n                179.0\n              ],\n              [\n                124.0,\n                141.0"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "43396",
+    "predicted_id": "90.0",
+    "raw_response": "90.0\n              ],\n              [\n                212.0,\n                44.0\n              ],\n              [\n                154.0,\n                44.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 7036.5,\n        \"centroid\": [\n          122.96236291716998,\n          125.26971268859992\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                120.0,\n                80.0\n              ],\n              [\n                120.0,\n                106.0\n              ],\n              [\n                119.0,\n                107.0\n              ],\n              [\n                61.0,\n                107.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "25607",
+    "predicted_id": "[",
+    "raw_response": "[\n                63.0,\n                195.0\n              ],\n              [\n                193.0,\n                195.0\n              ],\n              [\n                193.0,\n                182.0\n              ],\n              [\n                160.0,\n                182.0\n              ],\n              [\n                159.0,\n                181.0\n              ],\n              [\n                159.0,\n                146.0\n              ],\n              [\n                121.0,\n                146.0\n              ],\n              [\n                120.0,\n                145.0\n              ],\n              [\n                120.0,\n                104.0\n              ],\n              [\n                106.0,\n                104.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 1607.5,"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "2277",
+    "predicted_id": "154.0",
+    "raw_response": "154.0\n              ],\n              [\n                106.0,\n                112.0\n              ],\n              [\n                99.0,\n                112.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 1\n      },\n      {\n        \"room_type\": \"master_room\",\n        \"area\": 3343.5,\n        \"centroid\": [\n          165.1702806440357,\n          83.07771297542494\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                131.0,\n                59.0\n              ],\n              [\n                131.0,\n                75.0\n              ],\n              [\n                130.0,\n                76.0\n              ],\n              [\n                130.0,\n                107.0\n              ],\n              [\n                200"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "40863",
+    "predicted_id": "}",
+    "raw_response": "}\n      },\n      {\n        \"room_type\": \"common_room\",\n        \"area\": 1368.0,\n        \"centroid\": [\n          149.0,\n          163.0\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                130.0,\n                145.0\n              ],\n              [\n                130.0,\n                181.0\n              ],\n              [\n                168.0,\n                181.0\n              ],\n              [\n                168.0,\n                145.0\n              ],\n              [\n                130.0,\n                145.0\n              ]\n            ]\n          ]\n        }\n      },\n      {\n        \"room_type\": \"master_room\",\n        \"area\": 3232.0,\n        \"centroid\": [\n          172.53083745874585,\n          8"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "40550",
+    "predicted_id": "154.0,",
+    "raw_response": "154.0,\n                139.0\n              ],\n              [\n                137.0,\n                139.0\n              ],\n              [\n                136.0,\n                138.0\n              ],\n              [\n                136.0,\n                82.0\n              ],\n              [\n                85.0,\n                82.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 953.5,\n        \"centroid\": [\n          104.7311658800909,\n          64.43121831847579\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                84.0,\n                53.0\n              ],\n              [\n                84.0,\n                76.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "4286",
+    "predicted_id": "[",
+    "raw_response": "[\n            [\n              [\n                161.0,\n                112.0\n              ],\n              [\n                161.0,\n                151.0\n              ],\n              [\n                193.0,\n                151.0\n              ],\n              [\n                193.0,\n                112.0\n              ],\n              [\n                161.0,\n                112.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 5\n      }\n    ],\n    \"edges\": [\n      {\n        \"source\": 0,\n        \"target\": 1\n      },\n      {\n        \"source\": 0,\n        \"target\": 2\n      },\n      {\n        \"source\": 1,\n        \"target\": 3\n      },\n      {\n        \"source\": 2,\n        \"target\": 4\n      },\n      {\n        \"source\": 2,\n        \"target\": 5\n      }\n    ]\n  }\n}\n\n**Example"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "23274",
+    "predicted_id": "128.2785807197572",
+    "raw_response": "128.2785807197572\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                96.0,\n                86.0\n              ],\n              [\n                96.0,\n                101.0\n              ],\n              [\n                95.0,\n                102.0\n              ],\n              [\n                52.0,\n                102.0\n              ],\n              [\n                52.0,\n                140.0\n              ],\n              [\n                103.0,\n                140.0\n              ],\n              [\n                104.0,\n                141.0\n              ],\n              [\n                104.0,\n                168.0\n              ],\n              [\n                119.0,\n                168.0\n              ],\n              [\n                119.0,\n                162.0\n              ],\n              [\n                12"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "17017",
+    "predicted_id": "121.0,",
+    "raw_response": "121.0,\n                114.0\n              ],\n              [\n                71.0,\n                114.0\n              ],\n              [\n                71.0,\n                174.0\n              ],\n              [\n                123.0,\n                174.0\n              ],\n              [\n                124.0,\n                175.0\n              ],\n              [\n                124.0,\n                194.0\n              ],\n              [\n                140.0,\n                194.0\n              ],\n              [\n                140.0,\n                164.0\n              ],\n              [\n                142.0,\n                162.0\n              ],\n              [\n                143.0,\n                163.0\n              ],\n              [\n                189.0,\n                163.0\n              ],\n              [\n                189.0,\n                115.0\n              ],\n              [\n                141.0"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "21765",
+    "predicted_id": "118.45413537755529,",
+    "raw_response": "118.45413537755529,\n          175.31873174801834\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                116.0,\n                102.0\n              ],\n              [\n                116.0,\n                152.0\n              ],\n              [\n                115.0,\n                153.0\n              ],\n              [\n                111.0,\n                153.0\n              ],\n              [\n                110.0,\n                152.0\n              ],\n              [\n                69.0,\n                152.0\n              ],\n              [\n                69.0,\n                210.0\n              ],\n              [\n                178.0,\n                210.0\n              ],\n              [\n                178.0,\n                193.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "40031",
+    "predicted_id": "25719,",
+    "raw_response": "25719,\n          97.3470756157472\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                46.0,\n                76.0\n              ],\n              [\n                46.0,\n                119.0\n              ],\n              [\n                102.0,\n                119.0\n              ],\n              [\n                102.0,\n                100.0\n              ],\n              [\n                103.0,\n                99.0\n              ],\n              [\n                107.0,\n                99.0\n              ],\n              [\n                108.0,\n                100.0\n              ],\n              [\n                111.0,\n                100.0\n              ],\n              [\n                111.0,\n                88.0\n              ],\n              [\n                106.0,\n                88.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "22002",
+    "predicted_id": "ourse\": 1,",
+    "raw_response": "ourse\": 1,\n        \"target\": 2\n      },\n      {\n        \"source\": 1,\n        \"target\": 3\n      },\n      {\n        \"source\": 1,\n        \"target\": 4\n      }\n    ]\n  }\n}\n\n**Example 2, 3, 4:**\n\nThese examples will have the same underlying floorplan pattern as Example 1.\n\n**Example 5:**\n\nThis example will have a different floorplan pattern.\n\n**Your task:**\n\nBased on the information provided, can you deduce the underlying floorplan pattern shared by Examples 1, 2, 3, and 4?\n\n\nLet me know if you need more details or examples."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "69704",
+    "predicted_id": "115.0,",
+    "raw_response": "115.0,\n                112.0\n              ],\n              [\n                60.0,\n                112.0\n              ],\n              [\n                60.0,\n                165.0\n              ],\n              [\n                128.0,\n                165.0\n              ],\n              [\n                129.0,\n                166.0\n              ],\n              [\n                129.0,\n                194.0\n              ],\n              [\n                144.0,\n                194.0\n              ],\n              [\n                144.0,\n                95.0\n              ],\n              [\n                116.0,\n                95.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 736.0,\n        \"centroid\": [\n          48.0,\n          85.0\n        ],\n        \"polygon\": {\n          \""
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "1181",
+    "predicted_id": "],",
+    "raw_response": "],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                191.0,\n                125.0\n              ],\n              [\n                191.0,\n                155.0\n              ],\n              [\n                215.0,\n                155.0\n              ],\n              [\n                215.0,\n                125.0\n              ],\n              [\n                191.0,\n                125.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 4\n      }\n    ],\n    \"edges\": [\n      {\n        \"source\": 0,\n        \"target\": 2\n      },\n      {\n        \"source\": 1,\n        \"target\": 2\n      },\n      {\n        \"source\": 2,\n        \"target\": 3\n      },\n      {\n        \"source\": 2,\n        \"target\": 4\n      }\n    ]\n  }\n}\n\n**Question:**"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "33045",
+    "predicted_id": "106.0",
+    "raw_response": "106.0\n              ],\n              [\n                144.0,\n                78.0\n              ],\n              [\n                112.0,\n                78.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 4\n      },\n      {\n        \"room_type\": \"kitchen\",\n        \"area\": 1400.0,\n        \"centroid\": [\n          183.5,\n          154.0\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                171.0,\n                126.0\n              ],\n              [\n                171.0,\n                182.0\n              ],\n              [\n                196.0,\n                182.0\n              ],\n              [\n                196.0,\n                126.0\n              ],\n              [\n                171.0,\n                126.0\n              ]\n            ]\n          ]\n        },"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "78147",
+    "predicted_id": "61.0,",
+    "raw_response": "61.0,\n                122.0\n              ],\n              [\n                120.0,\n                122.0\n              ],\n              [\n                120.0,\n                80.0\n              ],\n              [\n                61.0,\n                80.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 6594.0,\n        \"centroid\": [\n          108.05626326963906,\n          146.3346982104944\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                124.0,\n                104.0\n              ],\n              [\n                124.0,\n                125.0\n              ],\n              [\n                123.0,\n                126.0"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "64047",
+    "predicted_id": "]",
+    "raw_response": "]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 935.0,\n        \"centroid\": [\n          42.5,\n          151.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                34.0,\n                124.0\n              ],\n              [\n                34.0,\n                179.0\n              ],\n              [\n                51.0,\n                179.0\n              ],\n              [\n                51.0,\n                124.0\n              ],\n              [\n                34.0,\n                124.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 4\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 580.0,\n        \"centroid\": [\n          168.0,\n          91.5\n        ],"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "40550",
+    "predicted_id": "\": {",
+    "raw_response": "\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                77.0,\n                83.0\n              ],\n              [\n                77.0,\n                150.0\n              ],\n              [\n                122.0,\n                150.0\n              ],\n              [\n                122.0,\n                95.0\n              ],\n              [\n                100.0,\n                95.0\n              ],\n              [\n                99.0,\n                94.0\n              ],\n              [\n                99.0,\n                83.0\n              ],\n              [\n                77.0,\n                83.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 4972.5,\n        \"centroid\": [\n          145.89669850846323,\n          144."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "42272",
+    "predicted_id": "9.0",
+    "raw_response": "9.0\n              ],\n              [\n                131.0,\n                82.0\n              ],\n              [\n                114.0,\n                82.0\n              ],\n              [\n                113.0,\n                81.0\n              ],\n              [\n                113.0,\n                49.0\n              ],\n              [\n                53.0,\n                49.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 8599.0,\n        \"centroid\": [\n          109.53796953134085,\n          132.287358995232\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                135.0,\n                82.0\n              ],\n              [\n                135.0,"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "77045",
+    "predicted_id": "\": {",
+    "raw_response": "\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                77.0,\n                83.0\n              ],\n              [\n                77.0,\n                150.0\n              ],\n              [\n                122.0,\n                150.0\n              ],\n              [\n                122.0,\n                95.0\n              ],\n              [\n                100.0,\n                95.0\n              ],\n              [\n                99.0,\n                94.0\n              ],\n              [\n                99.0,\n                83.0\n              ],\n              [\n                77.0,\n                83.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 4972.5,\n        \"centroid\": [\n          145.89669850846323,\n          144."
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "64047",
+    "predicted_id": "],",
+    "raw_response": "],\n            [\n              171.0,\n              95.0\n            ],\n            [\n              134.0,\n              95.0\n            ]\n          ]\n        ]\n      },\n      \"area\": 2997.0,\n      \"centroid\": [\n        152.5,\n        113.0\n      ]\n    },\n    {\n      \"type\": \"master_room\",\n      \"polygon\": {\n        \"type\": \"Polygon\",\n        \"coordinates\": [\n          [\n            [\n              134.0,\n              62.0\n            ],\n            [\n              134.0,\n              95.0\n            ],\n            [\n              171.0,\n              95.0\n            ],\n            [\n              171.0,\n              62.0\n            ],\n            [\n              134.0,\n              62.0\n            ]\n          ]\n        ]\n      },\n      \"area\": 3288.0,\n      \"centroid\": ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "64781",
+    "predicted_id": "],",
+    "raw_response": "],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                115.0,\n                99.0\n              ],\n              [\n                115.0,\n                115.0\n              ],\n              [\n                114.0,\n                116.0\n              ],\n              [\n                73.0,\n                116.0\n              ],\n              [\n                73.0,\n                153.0\n              ],\n              [\n                102.0,\n                153.0\n              ],\n              [\n                103.0,\n                154.0\n              ],\n              [\n                103.0,\n                160.0\n              ],\n              [\n                127.0,\n                160.0\n              ],\n              [\n                128.0,\n                161.0\n              ],\n              [\n                128.0,\n                183.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "335",
+    "predicted_id": "169.0,",
+    "raw_response": "169.0,\n                88.0\n              ],\n              [\n                169.0,\n                37.0\n              ],\n              [\n                122.0,\n                37.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"living_room\",\n        \"area\": 7211.5,\n        \"centroid\": [\n          96.84561695440154,\n          128.05666874667776\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                65.0,\n                65.0\n              ],\n              [\n                65.0,\n                175.0\n              ],\n              [\n                97.0,\n                175.0\n              ],\n              [\n                98.0,\n                176.0\n              ],"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "28694",
+    "predicted_id": "],",
+    "raw_response": "],\n              [\n                130.0,\n                146.0\n              ],\n              [\n                69.0,\n                146.0\n              ],\n              [\n                69.0,\n                193.0\n              ],\n              [\n                187.0,\n                193.0\n              ],\n              [\n                187.0,\n                176.0\n              ],\n              [\n                154.0,\n                176.0\n              ],\n              [\n                153.0,\n                175.0\n              ],\n              [\n                153.0,\n                145.0\n              ],\n              [\n                142.0,\n                145.0\n              ],\n              [\n                141.0,\n                144.0\n              ],\n              [\n                141.0,\n                101.0\n              ],\n              [\n                131.0,\n                101.0\n              ]\n            ]"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "12421",
+    "predicted_id": "],",
+    "raw_response": "],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                115.0,\n                99.0\n              ],\n              [\n                115.0,\n                115.0\n              ],\n              [\n                114.0,\n                116.0\n              ],\n              [\n                73.0,\n                116.0\n              ],\n              [\n                73.0,\n                153.0\n              ],\n              [\n                102.0,\n                153.0\n              ],\n              [\n                103.0,\n                154.0\n              ],\n              [\n                103.0,\n                160.0\n              ],\n              [\n                127.0,\n                160.0\n              ],\n              [\n                128.0,\n                161.0\n              ],\n              [\n                128.0,\n                183.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "30004",
+    "predicted_id": "[",
+    "raw_response": "[\n                124.0,\n                106.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 795.0,\n        \"centroid\": [\n          46.5,\n          151.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                39.0,\n                125.0\n              ],\n              [\n                39.0,\n                178.0\n              ],\n              [\n                54.0,\n                178.0\n              ],\n              [\n                54.0,\n                125.0\n              ],\n              [\n                39.0,\n                125.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"bathroom\",\n        \"area\": 600.0,"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "67905",
+    "predicted_id": "],",
+    "raw_response": "],\n              [\n                112.0,\n                109.0\n              ],\n              [\n                111.0,\n                110.0\n              ],\n              [\n                55.0,\n                110.0\n              ],\n              [\n                55.0,\n                137.0\n              ],\n              [\n                152.0,\n                137.0\n              ],\n              [\n                153.0,\n                138.0\n              ],\n              [\n                153.0,\n                153.0\n              ],\n              [\n                201.0,\n                153.0\n              ],\n              [\n                201.0,\n                104.0\n              ],\n              [\n                142.0,\n                104.0\n              ],\n              [\n                141.0,\n                103.0\n              ],\n              [\n                141.0,\n                84.0\n              ],\n              ["
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "55305",
+    "predicted_id": "\": [",
+    "raw_response": "\": [\n          151.0,\n          53.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                129.0,\n                45.0\n              ],\n              [\n                129.0,\n                62.0\n              ],\n              [\n                173.0,\n                62.0\n              ],\n              [\n                173.0,\n                45.0\n              ],\n              [\n                129.0,\n                45.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 407.0,\n        \"centroid\": [\n          104.5,\n          205.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                86.0,\n                200.0\n              ],"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "3384",
+    "predicted_id": "],",
+    "raw_response": "],\n              [\n                128.0,\n                60.0\n              ],\n              [\n                128.0,\n                37.0\n              ],\n              [\n                73.0,\n                37.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 378.0,\n        \"centroid\": [\n          143.0,\n          208.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                134.0,\n                198.0\n              ],\n              [\n                134.0,\n                219.0\n              ],\n              [\n                152.0,\n                219.0\n              ],\n              [\n                152.0,\n                198.0\n              ],\n              [\n                134.0,\n                198.0"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "26678",
+    "predicted_id": "151.0",
+    "raw_response": "151.0\n              ],\n              [\n                123.0,\n                151.0\n              ],\n              [\n                124.0,\n                152.0\n              ],\n              [\n                124.0,\n                194.0\n              ],\n              [\n                205.0,\n                194.0\n              ],\n              [\n                205.0,\n                176.0\n              ],\n              [\n                182.0,\n                176.0\n              ],\n              [\n                181.0,\n                177.0\n              ],\n              [\n                179.0,\n                175.0\n              ],\n              [\n                179.0,\n                84.0\n              ],\n              [\n                124.0,\n                84.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 2\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 9"
+  },
+  {
+    "model": "gemma2",
+    "input_type": "json",
+    "scenario": "same_first",
+    "outlier_id": "6955",
+    "predicted_id": "\": [",
+    "raw_response": "\": [\n          102.5,\n          62.0\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                77.0,\n                46.0\n              ],\n              [\n                77.0,\n                78.0\n              ],\n              [\n                128.0,\n                78.0\n              ],\n              [\n                128.0,\n                46.0\n              ],\n              [\n                77.0,\n                46.0\n              ]\n            ]\n          ]\n        },\n        \"id\": 3\n      },\n      {\n        \"room_type\": \"balcony\",\n        \"area\": 450.0,\n        \"centroid\": [\n          145.0,\n          197.5\n        ],\n        \"polygon\": {\n          \"type\": \"Polygon\",\n          \"coordinates\": [\n            [\n              [\n                136.0,\n                185.0\n              ],\n              ["
+  }
+]

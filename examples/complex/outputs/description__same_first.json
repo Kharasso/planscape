@@ -1,0 +1,802 @@
+[
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "43375",
+    "predicted_id": "**Different example:** ID 48780",
+    "raw_response": "**Different example:** ID 48780  \n2. **Why:** This example has a different floorplan from the others because the kitchen is not a separate room, but rather an open area within the living room, and the living room is significantly larger than the other living rooms in the other examples. Additionally, the master bedroom is located in the back corner of the house, which is not a common feature in the other examples. The spatial relationships between the rooms are also different, with the balcony being connected to common room 2, and the bathrooms being shared between each other and the master bedroom.  The size of the rooms and their dimensions are also different from the other examples.  The overall layout and design of the floorplan is distinct from the others.  The other examples have a more traditional layout with separate rooms for each function, while this example has a more open and integrated design.  The size of the living room is also significantly larger than the other living rooms in the other examples.  The overall design of the floorplan is more modern and open compared to the other examples.  The other examples have a more traditional and separate layout for each room.  The size of the master bedroom is also different from the other examples.  The overall"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "51211",
+    "predicted_id": "1. **Different example:** ID 51743",
+    "raw_response": "1. **Different example:** ID 51743  \n2. **Why:** The most notable difference is the kitchen's location, which is adjacent only to the kitchen to the north, and the fact that the kitchen is located on the southern tip of the unit. In contrast, the other examples have the kitchen located on the north-western or north-eastern corner of the unit, and it is not isolated from the other rooms. This suggests a different floorplan pattern. Additionally, the size and layout of the rooms in ID 51743 are not consistent with the other examples, which have a more uniform size and layout.  The living room in ID 51743 is also much smaller than the others, which are typically around 15 by 45 feet.  The master room in ID 51743 is also much smaller than the others, which are typically around 15 by 25 feet.  The common rooms in ID 51743 are also smaller and more irregularly shaped than the others.  Overall, ID 51743 has a distinct floorplan pattern that is different from the others.  The other examples have a more consistent and uniform layout, with the kitchen, living room, and master room all located in a specific pattern, and the common"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "42272",
+    "predicted_id": "1. **Different example:** ID 30721",
+    "raw_response": "1. **Different example:** ID 30721  \n2. **Why:** The most notable difference is the location of the balcony 2, which is described as being \"behind the living room\" in ID 30721, whereas in the other examples, balcony 2 is either on the same side as balcony 1, or on the opposite side, but never described as being \"behind\" the living room. This suggests a different spatial relationship between the living room and balcony 2, which is a key feature of the floorplan. Additionally, the size of the balcony 2 in ID 30721 is also different from the others, being 12x2, whereas the others are all 10x3. These differences suggest that ID 30721 has a different floorplan from the others."
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "46039",
+    "predicted_id": ". **Different example:** ID 39708",
+    "raw_response": ". **Different example:** ID 39708  \n2. **Why:** This example has a different floorplan from the others because it has three balconies, whereas the other examples have only two balconies. Additionally, the spatial relationships between the rooms in this example are not consistent with the others, with the living room being located at the center of the house and the master bedroom being bordered by the living room on the west, bathroom on the north, and balcony 3 on the south. The size and aspect ratios of the rooms in this example also do not match the patterns observed in the other examples.  The other examples have a more symmetrical and balanced layout, with the living room and master bedroom typically located on opposite sides of the house, and the kitchen and bathroom located in a more central position. In contrast, the layout of ID 39708 is more complex and irregular, with the living room and master bedroom located in a more central position and the kitchen and bathroom located on opposite sides of the house.  The other examples also have a more consistent and predictable pattern of room sizes and aspect ratios, whereas ID 39708 has a more varied and unpredictable pattern.  Overall, the layout of ID 39708 is more complex and irregular than the"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "23132",
+    "predicted_id": "es:** <list the key differences between this example and the others>",
+    "raw_response": "es:** <list the key differences between this example and the others>  \n\n1. **Different example:** ID 2277  \n2. **Why:** This example has a different floorplan pattern due to its unique spatial relationships between the rooms, such as the kitchen being a corner room, the living room being a large central room, and the master bedroom being a square room in front of the bathroom.  \n3. **Key differences:** \n* The kitchen is a corner room, whereas in the other examples, it is either a separate room or part of a larger room.\n* The living room is a large central room, whereas in the other examples, it is either a separate room or part of a larger room.\n* The master bedroom is a square room in front of the bathroom, whereas in the other examples, the bathroom is either a separate room or part of a larger room.\n* The balcony sizes and locations are different in this example compared to the others.  \n* The room sizes and shapes are more uniform in this example compared to the others.  \n* The spatial relationships between the rooms are more rigid in this example compared to the others.  \n* The example has a more symmetrical floorplan compared to the others.  \n* The"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "75880",
+    "predicted_id": "1. **Different example:** ID 80744",
+    "raw_response": "1. **Different example:** ID 80744  \n2. **Why:** This example is picked because it has a different floorplan pattern. The most notable difference is that the bathroom is almost completely encompassed by the kitchen, which is not the case in the other examples. Additionally, the common room and master room are located behind the living room, which is not the case in the other examples. The spatial relationships between the rooms are also different, with the living room being centrally located and the other rooms being arranged around it. This is in contrast to the other examples, where the living room is often located in a corner or on one side of the floorplan.  The kitchen is also described as an odd-shaped room, which is not the case in the other examples. Overall, the floorplan of ID 80744 is more compact and has a different spatial arrangement than the other examples.  The other examples have a more open floorplan with the living room and common room being larger and more central.  The kitchen and bathroom are also more integrated into the living room in the other examples.  In ID 80744, the kitchen and bathroom are more separate and have their own distinct spaces.  The balcony is also described as an abutment attached"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "54232",
+    "predicted_id": "1. **Different example:** ID 54232",
+    "raw_response": "1. **Different example:** ID 54232  \n2. **Why:** The most notable difference is the placement of the common rooms. In all other examples, the common rooms are placed in a way that they are either adjacent to each other or one is placed in the northwest corner and the other in the southeast corner. However, in ID 54232, the common rooms are placed in a way that they are adjacent to each other but on the same wall, which is not the case in the other examples. Additionally, the kitchen is placed on the southern wall, which is not the case in the other examples where the kitchen is placed on the northeast or northwest corner. These differences indicate that ID 54232 has a different floorplan pattern. \n\n\n\n\n\nPlease let me know if you need any further clarification or changes. \n\nBest regards,\n[Your Name] \n\n\n\n\n\nHere is the response in the requested format:\n\n1. **Different example:** ID 54232  \n2. **Why:** The most notable difference is the placement of the common rooms. In all other examples, the common rooms are placed in a way that they are either adjacent to each other or one is placed in the northwest corner and the other in the southeast corner. However, in ID"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "57572",
+    "predicted_id": "1. **Different example:** ID 10743",
+    "raw_response": "1. **Different example:** ID 10743  \n2. **Why:** This example is picked because it has a different floorplan pattern. The other examples have a living room in the south-west corner, a master room in the south-east corner, and a kitchen in the north-west corner. However, in this example, the living room is in the south-west corner, the master room is in the south-east corner, but the kitchen is in the north-west corner, and the common room 1 is in the north side, which is not consistent with the other examples. Also, the size of the rooms is given in square root feet, which is not consistent with the other examples.  The other examples have a more complex layout with multiple rooms and corridors, while this example has a very simple layout with all rooms being adjacent to each other. \n\nNote: The other examples have a more complex layout with multiple rooms and corridors, while this example has a very simple layout with all rooms being adjacent to each other. This is a key feature that sets this example apart from the others. \n\nAlso, note that the other examples have a more complex layout with multiple rooms and corridors, while this example has a very simple layout with all rooms being adjacent to each other"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "8257",
+    "predicted_id": "mple:** ID 8257",
+    "raw_response": "mple:** ID 8257  \n2. **Why:** The living room is located on the south side, while in all other examples it is located on the east side. This is the most significant difference in the spatial relationships between the rooms.  Additionally, the kitchen is located on the north side, while in all other examples it is located on the northeast corner. These differences in spatial relationships between the rooms indicate that ID 8257 has a different floorplan pattern.  The size of the rooms also varies, but the spatial relationships are the most important feature to consider when identifying the floorplan pattern.  The other examples have a consistent pattern of the living room being on the east side, the kitchen on the northeast corner, and the master room on the north or northwest corner. ID 8257 does not follow this pattern.  The balcony location also varies, but the spatial relationships between the rooms are the most important feature to consider when identifying the floorplan pattern.  The other examples have a consistent pattern of the balcony being on the southeast corner, while ID 8257 does not have a balcony.  However, the most significant difference is the location of the living room and the kitchen.  The other examples have a consistent pattern of"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "79411",
+    "predicted_id": "ferent example:** ID 79411",
+    "raw_response": "ferent example:** ID 79411  \n2. **Why:** This example is picked because it has a different spatial relationship between the rooms, specifically the kitchen is located in the south west corner of the house, while in the other examples, the kitchen is located in the north east corner. This is a significant deviation from the common pattern of the other examples. Additionally, the description of ID 79411 is more detailed and includes specific dimensions for each room, which is not the case in the other examples. This suggests that ID 79411 may be a different floorplan or a more detailed description of the same floorplan.  Also, the layout of the rooms in ID 79411 is more complex and has more rooms in the same area, which is not the case in the other examples.  The other examples have a more straightforward layout with fewer rooms in the same area.  The layout of ID 79411 is more complex and has more rooms in the same area, which is not the case in the other examples.  The other examples have a more straightforward layout with fewer rooms in the same area.  The layout of ID 79411 is more complex and has more rooms in the same area, which is not the case in the"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "73827",
+    "predicted_id": "**Different example:** ID 12104",
+    "raw_response": "**Different example:** ID 12104  \n2. **Why:** This example is picked because it has a different layout of rooms and their spatial relationships. The most notable difference is that the living room is central to the house, and the other rooms are arranged around it, while in the other examples, the living room is either in the southwest corner or in the east side of the house. Additionally, the balcony is L-shaped and protrudes from the south wall of the house, which is not the case in the other examples. The other rooms also have different spatial relationships with each other, such as the bathroom being on the west side of the house, and common room 2 being on the east side of the house. These differences in layout and spatial relationships set this example apart from the others. 3. **Additional note:** The other examples have a more symmetrical layout, with the living room and master bedroom being on opposite sides of the house, and the other rooms being arranged in a more balanced way. ID 12104 has a more asymmetrical layout, with the living room being central and the other rooms being arranged around it. This asymmetry is a key feature that sets it apart from the other examples. 4. **Additional note"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "23132",
+    "predicted_id": "1. **Different example:** ID 53652",
+    "raw_response": "1. **Different example:** ID 53652  \n2. **Why:** The most distinctive feature of this example is the use of \"above\" and \"below\" to describe the spatial relationships between rooms, which is not present in the other examples. This suggests a different floorplan structure, possibly with multiple levels or a different layout. Additionally, the room sizes and shapes are not as consistent with the other examples, with some rooms having unusual dimensions (e.g. 4 x 3 feet for the bathroom). This suggests a different design approach or a different type of apartment.  The other examples have a more consistent and symmetrical layout, with rooms arranged in a more traditional way.  In contrast, ID 53652 has a more complex and asymmetrical layout, with rooms stacked on top of each other and unusual spatial relationships. This suggests a different floorplan pattern.  The other examples have a more traditional layout, with rooms arranged in a more linear and symmetrical way.  In contrast, ID 53652 has a more complex and asymmetrical layout, with rooms stacked on top of each other and unusual spatial relationships. This suggests a different floorplan pattern.  The other examples have a more traditional layout, with rooms arranged in a more linear and"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "75880",
+    "predicted_id": "**Different example:** ID 31926",
+    "raw_response": "**Different example:** ID 31926  \n2. **Why:** This example has a different floorplan from the others because it has a kitchen located in the north east corner of the house, which is not a common location for the kitchen in the other examples. In the other examples, the kitchen is usually located on the north side of the house, often between the living room and the master room. Additionally, the living room in this example is located in the east of the house, which is not a common location for the living room in the other examples. The other examples usually have the living room located on the north side of the house. These differences in spatial relationships between the rooms indicate that this example has a different floorplan from the others."
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "1261",
+    "predicted_id": "**Different example:** ID 48780",
+    "raw_response": "**Different example:** ID 48780  \n2. **Why:** This example is picked because it has a different floorplan pattern. The most notable difference is that the kitchen is \"basically included in the living room area\" and the living room is the largest area of the house, which is not the case in the other examples. Additionally, the master bedroom is located in the back corner of the house, which is not a common feature in the other examples. The spatial relationships between the rooms are also different, with the bathrooms sharing walls with each other and the master bedroom, and the common rooms having different relationships with the other rooms. Overall, the layout of this example is more open and less compartmentalized compared to the other examples."
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "74633",
+    "predicted_id": "1. **Different example:** ID 64729",
+    "raw_response": "1. **Different example:** ID 64729  \n2. **Why:** This example is picked because it has a different spatial relationship between the rooms, specifically the kitchen is located between the kitchen and master room, which is not the case in the other examples. Also, the living room is located in the \"midwest region\", which is a vague description and does not provide a clear spatial relationship with the other rooms. Furthermore, the size of the rooms is described in terms of area (in square feet) rather than length and width, which is different from the other examples.  Additionally, the balcony is located on the north side, which is different from the other examples where the balcony is located between the living room and kitchen or on the south side.  The master room is also located on the south side, which is different from the other examples where the master room is located in the front portion of the plan or in the north western corner.  Overall, this example has a different floorplan pattern compared to the other examples.  The other examples have a more consistent and clear spatial relationship between the rooms, with the living room at the center, the kitchen and balcony on one side, and the master room and bathroom on the other side.  In contrast"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "55589",
+    "predicted_id": "*Different example:** ID 47247",
+    "raw_response": "*Different example:** ID 47247  \n2. **Why:** This example has a different floorplan from the others because it has a unique layout where the living room is almost centered, and the rooms are arranged in a more symmetrical and balanced way, unlike the other examples where the living room is typically located in a corner or along a wall. Additionally, the size of the rooms and their spatial relationships are also different, with larger rooms and more complex connections between them.  The other examples have a more traditional and linear layout, with the living room often being the central hub and the other rooms branching off from it. In contrast, ID 47247 has a more open and airy feel, with the living room being surrounded by other rooms and balconies.  The other examples also have a more consistent and predictable pattern of room sizes and spatial relationships, whereas ID 47247 has a more varied and complex layout.  The other examples also have a more consistent and predictable pattern of room sizes and spatial relationships, whereas ID 47247 has a more varied and complex layout.  The other examples also have a more consistent and predictable pattern of room sizes and spatial relationships, whereas ID 47247 has a more varied and complex layout.  The other"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "28732",
+    "predicted_id": "ent example:** ID 26678",
+    "raw_response": "ent example:** ID 26678  \n2. **Why:** This example has a different floorplan from the others because the kitchen is located on the east side, while in the other examples, the kitchen is located on the north east corner. Also, the living room is located on the south side, while in the other examples, it is located at the center of the house. Furthermore, the master room is described as being between balcony and living room, but also as being east side and near to kitchen, which is a contradictory description. The other examples have a more consistent and clear description of the spatial relationships between the rooms.  The size of the rooms also varies significantly in this example, which is not the case in the other examples.  The other examples have a more consistent and clear description of the spatial relationships between the rooms.  The size of the rooms also varies significantly in this example, which is not the case in the other examples.  The other examples have a more consistent and clear description of the spatial relationships between the rooms.  The size of the rooms also varies significantly in this example, which is not the case in the other examples.  The other examples have a more consistent and clear description of the spatial relationships between the rooms"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "7217",
+    "predicted_id": ". **Different example:** ID 60473",
+    "raw_response": ". **Different example:** ID 60473  \n2. **Why:** This example has a different floorplan from the others because it has a different spatial relationship between the rooms, specifically the balcony is on the southern edge and the living room is to the west, which is opposite to the other examples where the balcony is on the northern edge and the living room is to the east. Additionally, the size of the living room is significantly larger than the others, which is 38 feet by 28 feet, while the others have a living room size of 20 feet by 20 feet. The master room is also located in the south eastern corner, which is different from the other examples where it is located in the north western corner.  The kitchen is also located in the north western corner, which is different from the other examples where it is located in the south western corner.  The common room 2 is central with the balcony to the south, the master room to the east and the living room is to the north and west, which is different from the other examples where common room 2 is located in the south western corner.  The size of common room 2 is also different from the other examples, which is 10 feet by 16 feet"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "39708",
+    "predicted_id": "*Different example:** ID 51393",
+    "raw_response": "*Different example:** ID 51393  \n2. **Why:** This example is picked because it has a different layout of rooms, with the balcony and master room being directly above each other, and the kitchen and bathroom being directly below each other, which is not seen in the other examples. Additionally, the common room is located in the left side of the floor plan, while in the other examples it is located in the southwest corner. The living room is also located in the bottom half of the floor plan, while in the other examples it is located in the south side. The spatial relationships between the rooms are different in this example.  The other examples have a more symmetrical layout, with the living room in the south, the kitchen in the north, and the master room in the northwest. This example has a more asymmetrical layout.  The size of the rooms also varies in this example, with the living room being much larger than in the other examples.  The balcony and master room are also much larger than in the other examples.  The common room is also much larger than in the other examples.  The kitchen and bathroom are also much larger than in the other examples.  The master room is also much larger than in the other examples"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "64247",
+    "predicted_id": "*Different example:** ID 4132",
+    "raw_response": "*Different example:** ID 4132  \n2. **Why:** This example is picked because it has a different floorplan pattern. The most notable difference is that the living room is located at the north east corner, while in the other examples, the living room is located at the north east corner, but it is not the central room. In the other examples, the living room is the central room, and the other rooms are located around it. In ID 4132, the living room is the largest room, and it is located at the north east corner, but it is not the central room. The other rooms are located around it, but they are not as large as the living room. Additionally, the size of the rooms in ID 4132 is significantly larger than the other examples, which suggests a different floorplan pattern.  The other examples have a more balanced distribution of room sizes, while ID 4132 has a clear distinction between the large living room and the smaller rooms. \n\nNote: The other examples have a more balanced distribution of room sizes, while ID 4132 has a clear distinction between the large living room and the smaller rooms. This is a key feature that sets ID 4132 apart from the other examples."
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "14834",
+    "predicted_id": "1. **Different example:** ID 43375",
+    "raw_response": "1. **Different example:** ID 43375  \n2. **Why:** The most important feature that sets this example apart is that the rooms are described in terms of their cardinal directions (north, south, east, west) rather than their spatial relationships to each other. This is in contrast to the other examples, which describe the rooms in terms of their spatial relationships to each other (e.g. \"opposite of the master room\", \"next to the living room\", etc.). This difference in description style suggests a different underlying floorplan pattern. Additionally, the room sizes and dimensions are also described in a more abstract way, without clear reference to the overall layout of the apartment. This further supports the idea that this example has a different floorplan pattern. 3. **Additional note:** The other examples all describe the rooms in a way that suggests a consistent and coherent overall layout, with clear relationships between the rooms and a clear sense of how they fit together. ID 43375, on the other hand, seems to be describing a more abstract or conceptual layout, without a clear sense of how the rooms fit together in space. This suggests that the underlying floorplan pattern may be different. 4. **Additional note:** The other examples all describe the rooms"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "11746",
+    "predicted_id": "example:** ID 64047",
+    "raw_response": "example:** ID 64047  \n2. **Why:** The most important features that set this example apart are the spatial relationships between the rooms, specifically the location of the living room in the middle of the east side, the kitchen in the middle of the west side, and the master room in the corner of the west and south side. These relationships are different from the other examples, where the living room is typically located on the east side, the kitchen on the north east corner, and the master room on the east or north west corner. Additionally, the size of the rooms and their spatial arrangement are also different from the other examples.  The other examples have a more symmetrical and balanced floor plan, while ID 64047 has a more asymmetrical and irregular floor plan.  The other examples have a more symmetrical and balanced floor plan, while ID 64047 has a more asymmetrical and irregular floor plan.  The other examples have a more symmetrical and balanced floor plan, while ID 64047 has a more asymmetrical and irregular floor plan.  The other examples have a more symmetrical and balanced floor plan, while ID 64047 has a more asymmetrical and irregular floor plan.  The other examples have a more"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "50906",
+    "predicted_id": "xample:** ID 54792",
+    "raw_response": "xample:** ID 54792  \n2. **Why:** The most notable difference is the living room's location and size, which is at the southeast direction upside of the balcony, and its size is 25*12 feet, while the other examples have the living room at the northeast corner, and its size is significantly larger than the other examples. Additionally, the kitchen's location and size are also different from the other examples.  The kitchen is at the north east corner upside of the kitchen, which is not a typical location for a kitchen, and its size is 10*8 feet, which is smaller than the other examples. These differences indicate that ID 54792 has a different floorplan pattern from the others.  The other examples have a more symmetrical and balanced floorplan, while ID 54792 has a more asymmetrical and unbalanced floorplan.  The other examples also have a more typical and conventional layout for a living room and kitchen, while ID 54792 has a more unusual and unconventional layout.  Therefore, ID 54792 is the example that has a different floorplan from the others.  The other examples have a more typical and conventional layout for a living room and kitchen, while ID 54792"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "47247",
+    "predicted_id": "3. **Specifically:** <list the specific features that support the claim>",
+    "raw_response": "3. **Specifically:** <list the specific features that support the claim>  \n4. **In contrast:** <list the features that are common among the other examples>  \n5. **Conclusion:** <briefly summarize the key points>  \n\n1. **Different example:** ID 23197  \n2. **Why:** The floorplan of ID 23197 is different from the others because it has a more irregularly shaped living room and a different spatial arrangement of rooms.  \n3. **Specifically:** \n* The living room is irregularly shaped and has a different size and orientation compared to the other examples.\n* The balcony 1 and balcony 2 are located at the center bottom and top center of the floorplan, respectively, which is different from the other examples where the balconies are located at the sides of the floorplan.\n* The bathroom is located on the right side of the floorplan, which is different from the other examples where the bathroom is located on the east or south side of the floorplan.\n* The common rooms are located in different positions and have different sizes compared to the other examples.\n4. **In contrast:** \n* The other examples have a more symmetrical and regular floorplan with a central living room and balcon"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "4132",
+    "predicted_id": "1. **Different example:** ID 5909",
+    "raw_response": "1. **Different example:** ID 5909  \n2. **Why:** This example has a different floorplan from the others because it has a vertical layout, with rooms stacked on top of each other, whereas the other examples have a horizontal layout, with rooms arranged side by side. This is evident from the descriptions, where rooms are described as being \"above\" or \"below\" each other, and the use of words like \"top left\" and \"bottom right\" to describe their locations. In contrast, the other examples use words like \"north\", \"south\", \"east\", and \"west\" to describe the locations of rooms, indicating a horizontal layout. Additionally, the size and shape of the rooms in ID 5909 are also different from the others, with longer and narrower rooms that are not typical of the other examples.  The other examples have rooms that are more square or rectangular in shape, with similar dimensions.  The layout of ID 5909 is more like a multi-story house, whereas the other examples are more like single-story apartments.  The balcony in ID 5909 is also located at the bottom of the plan, which is different from the other examples where the balcony is located on the side of the house.  The"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "21540",
+    "predicted_id": "1. **Different example:** ID 72517",
+    "raw_response": "1. **Different example:** ID 72517  \n2. **Why:** This example is picked because it has a different floorplan pattern from the others. The most important features that set this example apart are: \n- The balcony is located between the living room and kitchen, whereas in the other examples, the balcony is located on the south side of the kitchen or on the north side of the living room.\n- The bathroom is located between the common room and master room, but it is also located near the living room, which is not the case in the other examples.\n- The common room is located between the living room and bathroom, which is a unique feature among the other examples.\n- The kitchen is located between the living room and balcony, which is a different spatial relationship compared to the other examples.\n- The living room is located between all the rooms, which is a unique feature among the other examples.\n- The master room is located in the front portion of the plan, which is different from the other examples where the master room is located in the northwestern or southwestern corner of the plan. \n- The spatial relationships between the rooms are not as clear and consistent as in the other examples, which suggests a different floorplan pattern.  The other examples have"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "55791",
+    "predicted_id": ". **Different example:** ID 23197",
+    "raw_response": ". **Different example:** ID 23197  \n2. **Why:** The living room is irregularly shaped, and the spatial relationships between the rooms are not consistent with the others, where the living room is typically a long rectangular room that spans the western side of the house, and the other rooms are arranged around it in a more symmetrical and consistent pattern.  The other examples have a more consistent and symmetrical layout, while ID 23197 has a more irregular and asymmetrical layout.  Additionally, the balcony locations and sizes are also not consistent with the others.  The other examples have balconies that are typically 4-5 feet by 10 feet, while ID 23197 has balconies that are 15 feet wide and 5 feet deep.  The other examples also have a more consistent and symmetrical arrangement of rooms, while ID 23197 has a more irregular and asymmetrical arrangement.  The other examples have a more consistent and symmetrical arrangement of rooms, while ID 23197 has a more irregular and asymmetrical arrangement.  The other examples have a more consistent and symmetrical arrangement of rooms, while ID 23197 has a more irregular and asymmetrical arrangement.  The other examples have a more consistent and sym"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "7489",
+    "predicted_id": "1. **Different example:** ID 7489",
+    "raw_response": "1. **Different example:** ID 7489  \n2. **Why:** This example has a different floorplan from the others because it has a balcony on the north side and another balcony on the south end, which is not consistent with the other examples where the balconies are on the south side and the living room is on the south side. Additionally, the bathroom is on the west wall, but it is described as being between the living room and the common room, which is not consistent with the other examples where the bathroom is between the master room and the common room. The living room is also described as running along the east side of the house, which is not consistent with the other examples where the living room is on the south side. The master room is also described as being in the southwest corner, which is not consistent with the other examples where the master room is in the northwest corner.  The overall layout of the rooms and their spatial relationships is different from the other examples.  The size of the rooms and the layout of the house is also different from the other examples.  The house is described as being 44 feet long and 24 feet wide, which is much larger than the other examples.  The overall layout of the house is more complex"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "26678",
+    "predicted_id": "fferent example:** ID 40877",
+    "raw_response": "fferent example:** ID 40877  \n2. **Why:** This example is picked because it has a different floorplan pattern. The most notable difference is that the living room is located on the north side, while in the other examples, it is located on the south side. Additionally, the common room is located in the northeast corner, while in the other examples, it is located in the north or east middle corner. These differences indicate a distinct floorplan pattern that deviates from the common pattern shared by the other examples.  The other examples have a more symmetrical layout, with the living room and common room located in the center or near the center of the north or east side, while in ID 40877, the living room is located on the north side and the common room is located in the northeast corner, creating an asymmetrical layout.  The other examples also have a more consistent and symmetrical arrangement of rooms, with the kitchen and bathroom located on the west side, while in ID 40877, the kitchen is located in the northwest corner and the bathroom is located to the east of the kitchen, creating a more complex and asymmetrical layout.  The other examples also have a more consistent and symmetrical arrangement of balconies,"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "27821",
+    "predicted_id": "t example:** ID 55090",
+    "raw_response": "t example:** ID 55090  \n2. **Why:** This example has a different floorplan from the others because it has two common rooms, one of which is located in the southeast corner, and the other is located in the south side, which is not a typical layout seen in the other examples. Additionally, the kitchen is located in the northwest corner, which is also not typical. The other examples have a more symmetrical layout with the living room and master room on opposite sides of the floorplan.  The other examples have a more symmetrical layout with the living room and master room on opposite sides of the floorplan.  The other examples have a more symmetrical layout with the living room and master room on opposite sides of the floorplan.  The other examples have a more symmetrical layout with the living room and master room on opposite sides of the floorplan.  The other examples have a more symmetrical layout with the living room and master room on opposite sides of the floorplan.  The other examples have a more symmetrical layout with the living room and master room on opposite sides of the floorplan.  The other examples have a more symmetrical layout with the living room and master room on opposite sides of the floorplan"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "48795",
+    "predicted_id": "erent example:** ID 55950",
+    "raw_response": "erent example:** ID 55950  \n2. **Why:** This example is picked because it has a different layout of the rooms, specifically the kitchen and master room are located at the opposite sides of the living room compared to the other examples. In the other examples, the kitchen is located at the north side of the living room, while in ID 55950, the kitchen is located at the south side. Similarly, the master room is located at the south west corner in ID 55950, while in the other examples, it is located at the south east corner. This different layout of the rooms indicates a different floorplan.  Additionally, the size and location of the balconies, bathrooms, and common rooms also differ from the other examples.  The other examples have a more symmetrical layout, while ID 55950 has a more asymmetrical layout.  This asymmetry is a key feature that sets ID 55950 apart from the other examples.  The other examples have a more balanced distribution of rooms, while ID 55950 has a more uneven distribution of rooms.  This uneven distribution of rooms is a key feature that sets ID 55950 apart from the other examples.  The other examples have a more consistent pattern of"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "20671",
+    "predicted_id": "ample:** ID 68096",
+    "raw_response": "ample:** ID 68096  \n2. **Why:** This example is picked because the living room is described as being in the center of all the rooms, and all the other rooms are described as being entrance from the living room, which is not the case in the other examples. In the other examples, the living room is described as being adjacent to other rooms, not being in the center of all the rooms. Also, the aspect ratio of the common room in this example is 3:3, which is different from the other examples.  The other examples have a more balanced and symmetrical layout, while this example has a more central and radial layout.  The other examples have a more balanced and symmetrical layout, while this example has a more central and radial layout.  The other examples have a more balanced and symmetrical layout, while this example has a more central and radial layout.  The other examples have a more balanced and symmetrical layout, while this example has a more central and radial layout.  The other examples have a more balanced and symmetrical layout, while this example has a more central and radial layout.  The other examples have a more balanced and symmetrical layout, while this example has a more central and"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "69704",
+    "predicted_id": "Specifically:** <list the specific features that support the claim>",
+    "raw_response": "Specifically:** <list the specific features that support the claim>  \n\n1. **Different example:** ID 6955  \n2. **Why:** This example has a different floorplan pattern from the others, as it has a more compact and symmetrical layout, with rooms arranged in a more grid-like pattern.  \n3. **Specifically:** \n* The rooms are arranged in a more grid-like pattern, with each room having a specific position relative to the others.\n* The rooms are generally smaller in size compared to the other examples.\n* The layout is more symmetrical, with rooms on opposite sides of the floorplan mirroring each other in terms of size and position.\n* The kitchen and living room are not in the middle of the floorplan, but rather on the edges, with the kitchen on the north center and the living room on the east area.\n* The master room is on the south west corner, but it is not in the southwest part of the floorplan, as in the other examples.  \n* The balcony 1 and 2 are on the south east and north east corners, respectively, but they are not in the same relative positions as in the other examples.  \n* The common room 1 and 2 are"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "8176",
+    "predicted_id": "**Different example:** ID 65801",
+    "raw_response": "**Different example:** ID 65801  \n2. **Why:** This example is picked because it has a different floorplan pattern compared to the others. The most notable difference is that the rooms are not located on the sides of the floorplan, but rather on the ends of the floorplan. This is evident from the descriptions of the rooms' locations, such as \"Balcony is on the south end of the house off of the bedroom\", \"Bathroom is between kitchen and common room 1 on the north end of the house\", and \"Common room 2 is on the southeast portion of the house\". This is in contrast to the other examples, where the rooms are located on the sides of the floorplan, with the living room often being central. Additionally, the room sizes and spatial relationships between the rooms in ID 65801 are also different from the others. For example, the kitchen and common rooms are all located on the ends of the floorplan, and the living room is not central. Overall, ID 65801 has a distinct floorplan pattern that sets it apart from the other examples."
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "64",
+    "predicted_id": "**Different example:** ID 10131",
+    "raw_response": "**Different example:** ID 10131  \n2. **Why:** The most notable difference is the placement of the kitchen, which is on the north side of the apartment next to the master room, whereas in the other examples, the kitchen is either on the east side or in the northeast corner, often jutting out to the south. This difference in kitchen placement disrupts the overall symmetry and pattern of the other examples. Additionally, the size and layout of the living room in ID 10131 are also different from the others, being significantly larger and not having the same extension to the south as the others.  The other examples have a more consistent and symmetrical layout, with the kitchen often being in the northeast corner and the living room having a similar extension to the south.  The balcony is also placed differently in ID 10131, being on the south east corner, whereas in the other examples, it is either on the south side or in the southwest corner.  Overall, ID 10131 has a distinct floorplan that deviates from the pattern seen in the other examples.  The other examples have a more consistent and symmetrical layout, with the kitchen often being in the northeast corner and the living room having a similar extension to the south"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "7474",
+    "predicted_id": "1. **Different example:** ID 50510",
+    "raw_response": "1. **Different example:** ID 50510  \n2. **Why:** This example is picked because it has a different floorplan pattern. The most notable difference is that the balcony 1 and 2 are placed in a different location compared to the other examples. In the other examples, balcony 1 is placed on the north side and balcony 2 is placed on the south side. However, in this example, balcony 1 is placed in the north front facing wall and balcony 2 is placed in the rear, south wall. This difference in balcony placement suggests a different floorplan pattern. Additionally, the bathroom is placed below balcony 1, which is not the case in the other examples. The bathroom is usually placed between the living room and the common room 1 in the other examples. These differences in balcony placement and bathroom location suggest that this example has a different floorplan pattern. \n\nNote: The other examples have a similar floorplan pattern, where balcony 1 is placed on the north side, balcony 2 is placed on the south side, the bathroom is placed between the living room and the common room 1, and the common room 2 is placed between the living room and the master room. This pattern is not present in example"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "28732",
+    "predicted_id": "ent example:** ID 39708",
+    "raw_response": "ent example:** ID 39708  \n2. **Why:** This example has a different floorplan from the others because it has a third balcony (balcony 3) and a different spatial relationship between the rooms, particularly the master bedroom, which is not located between the balcony 2 and the living room as in the other examples. Additionally, the living room is not in the center of the map as in the other examples, but rather between the master bedroom and the common room. The aspect ratios and sizes of the rooms also vary significantly from the other examples.  The other examples have a more symmetrical and balanced floorplan, while ID 39708 has a more asymmetrical and irregular floorplan.  The other examples have a more consistent and predictable pattern of room placement and size, while ID 39708 has a more complex and unpredictable pattern.  The other examples have a more typical and conventional floorplan, while ID 39708 has a more unique and unconventional floorplan.  The other examples have a more straightforward and simple floorplan, while ID 39708 has a more complex and intricate floorplan.  The other examples have a more symmetrical and balanced floorplan, while ID 39708 has a more asymmetrical"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "42226",
+    "predicted_id": "**Different example:** ID 63514",
+    "raw_response": "**Different example:** ID 63514  \n2. **Why:** This example has a different floorplan from the others because it has a balcony located in the lower right corner of the house, which is not a corner balcony, and the living room is located in the lower part of the house, which is not a corner location. Additionally, the common rooms are located in the upper part of the house, which is not a typical layout for the other examples. The other examples have a more symmetrical layout with the living room and master bedroom located in the corners, while the common rooms are located in the middle of the walls.  The kitchen is also located in a different position in this example, it is located in the left region of the house, which is not a typical location for the kitchen in the other examples.  The other examples have a more symmetrical layout with the kitchen located in the middle of the wall.  The other examples have a more symmetrical layout with the kitchen located in the middle of the wall.  The other examples have a more symmetrical layout with the kitchen located in the middle of the wall.  The other examples have a more symmetrical layout with the kitchen located in the middle of the wall.  The other"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "43396",
+    "predicted_id": "1. **Different example:** ID 26372",
+    "raw_response": "1. **Different example:** ID 26372  \n2. **Why:** This example has a different floorplan from the others because it has a different spatial relationship between the rooms, specifically the kitchen and the living room are on opposite sides of the house, and the master room is located in the north western corner of the house, which is not consistent with the other examples where the master room is located in the front portion of the plan or near the living room. Additionally, the use of \"north eastern\" and \"north western\" to describe the location of the rooms is not consistent with the other examples which use more general terms like \"front portion\" or \"midwest region\". The size and shape of the rooms also seem to be more irregular in this example compared to the others.  The use of \"corn\" instead of \"common room\" is also a typo that suggests a different floorplan.  The use of \"yo\" instead of \"to\" is also a typo that suggests a different floorplan.  The use of \"rhe\" instead of \"the\" is also a typo that suggests a different floorplan.  The use of \"yet\" instead of \"and\" is also a typo that suggests a different floorplan.  The"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "21765",
+    "predicted_id": "Different example:** ID 54232",
+    "raw_response": "Different example:** ID 54232  \n2. **Why:** This example has a different floorplan from the others because the spatial relationships between the rooms are not consistent with the others. Specifically, the first bathroom is located at the northwestern corner, while in the other examples, it is located on the eastern side of the kitchen. Additionally, the second bathroom is located at the southern wall, which is not consistent with the other examples where it is located on the northeastern side. The layout of the rooms and their spatial relationships are not consistent with the other examples.  The other examples have a more symmetrical and consistent layout, while this example has a more asymmetrical and irregular layout.  The other examples have a more consistent pattern of rooms being located on the north-south axis, while this example has a more irregular pattern.  The other examples have a more consistent pattern of rooms being located on the eastern and western sides of the building, while this example has a more irregular pattern.  The other examples have a more consistent pattern of rooms being located on the north and south sides of the building, while this example has a more irregular pattern.  The other examples have a more consistent pattern of rooms being located on the western and eastern sides of the"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "39691",
+    "predicted_id": "3. **Specifically:** <list the specific features that support the claim>",
+    "raw_response": "3. **Specifically:** <list the specific features that support the claim>  \n\n1. **Different example:** ID 26678  \n2. **Why:** This example has a different floorplan pattern from the others because it has a more linear layout with a clear distinction between the living room and the rest of the rooms, whereas the other examples have a more complex layout with multiple rooms connected to each other.  \n3. **Specifically:** \n* The living room is located on the south side and is clearly separated from the rest of the rooms.\n* The kitchen is located on the east side and is connected to the living room, but not to the master room or the common room.\n* The master room is located between the balcony and the living room, but is not connected to the common room or the bathroom.\n* The bathroom is located between the common room and the master room, but is not connected to the living room or the kitchen.\n* The common room is located in the north west corner and is connected to the bathroom and the living room, but not to the kitchen or the master room.  \n* The balcony 1 is located on the north east corner and is connected to the living room, but not to the master room or the common room"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "37914",
+    "predicted_id": "1. **Different example:** ID 25618",
+    "raw_response": "1. **Different example:** ID 25618  \n2. **Why:** This example is picked because it has a different floorplan pattern. The most notable difference is that the living room is not central to the house, but rather located on the north side of the house, and the kitchen is located in the north east corner of the house, which is not the case in the other examples. Additionally, the sizes of the rooms are not consistent with the other examples, with the living room being significantly larger than the others.  The other examples have a more symmetrical and balanced floorplan, with the living room being central and the other rooms being distributed around it in a more balanced way.  In contrast, ID 25618 has a more asymmetrical floorplan, with the living room and kitchen being located on the north side of the house, and the master room being located on the south west corner of the house. This suggests that ID 25618 has a different underlying floorplan pattern.  Furthermore, the description of ID 25618 does not mention the balcony being on the east side of the house, which is a common feature in the other examples.  Overall, the combination of these features suggests that ID 25618 has a different floorplan"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "19346",
+    "predicted_id": "ferent example:** ID 42612",
+    "raw_response": "ferent example:** ID 42612  \n2. **Why:** This example is picked because it has a different layout of rooms, with a kitchen in the southwest corner, a living room with a west entrance, and master rooms in the northeast and southeast corners, which is not consistent with the other examples where the living room is in the southeast corner and the master room is in the southwest corner. Additionally, the aspect ratios of the rooms are given in a different format, which is not consistent with the other examples.  The other examples have a more consistent and symmetrical layout, with the living room in the southeast corner, the master room in the southwest corner, and the kitchen in the northeast corner.  The aspect ratios of the rooms are also given in a different format, which is not consistent with the other examples.  The other examples have a more consistent and symmetrical layout, with the living room in the southeast corner, the master room in the southwest corner, and the kitchen in the northeast corner.  The aspect ratios of the rooms are also given in a different format, which is not consistent with the other examples.  The other examples have a more consistent and symmetrical layout, with the living room in the southeast corner, the master room"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "51240",
+    "predicted_id": "1. **Different example:** ID 40487",
+    "raw_response": "1. **Different example:** ID 40487  \n2. **Why:** The most important feature that sets this example apart is the vertical length and horizontal width of the balconies, which are described in a different way than the others. In the other examples, the balconies are described in terms of their area (e.g., 40 square feet, 12' x 10'), whereas in ID 40487, the balconies are described in terms of their vertical and horizontal dimensions (e.g., 7 feet x 2 feet, 15 feet x 8 feet). This suggests that the floorplan of ID 40487 is described in a different coordinate system or orientation than the others. Additionally, the description of the living room in ID 40487 as having a \"vertical length\" and \"horizontal width\" is also unusual, as the other examples describe the rooms in terms of their area or dimensions in a more conventional way. \n\nNote: The other examples (ID 51240, ID 9795, ID 62454, ID 78147) all describe the balconies and rooms in a similar way, with a focus on their spatial relationships and dimensions in a way that suggests a consistent floorplan pattern. ID 40487"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "47247",
+    "predicted_id": "fferent example:** ID 43396",
+    "raw_response": "fferent example:** ID 43396  \n2. **Why:** This example is picked because it has a different floorplan from the others. The most important features that set this example apart are: \n- The kitchen is a galley kitchen, which is a different layout compared to the others.\n- The master room has a large size of 20ft x 20ft, which is significantly larger than the other master rooms.\n- The living room is 10ft x 40ft, which is a different aspect ratio compared to the others.\n- The presence of a nursery or office room, which is not present in the other examples.\n- The description of the balcony and the second balcony is different from the others, with a focus on outdoor activities and views. \n- The bathroom is described as a jack and jill access, which is not mentioned in the other examples. \n- The overall description of the rooms and their spatial relationships is different from the others, with a focus on functionality and views.  The other examples have a more traditional layout with a focus on the living room and the common rooms. \n\nNote: The other examples have a more traditional layout with a focus on the living room and the common rooms, while ID 43396"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "28694",
+    "predicted_id": ". **Different example:** ID 38835",
+    "raw_response": ". **Different example:** ID 38835  \n2. **Why:** This example is picked because it has a different layout of rooms, with the living room and kitchen being in the southeast and northeast parts of the house respectively, while the other examples have the living room and kitchen in the center or near the center of the floor plan. Additionally, the common room is located in the southwest corner in this example, whereas in the other examples, the common room is either in the center or near the center of the floor plan. The size and location of the balcony also differ from the other examples.  The other examples have balconies that are either adjacent to the living room or bathroom, while in this example, the balcony is located in the northern most area of the house. The size and location of the master room also differ from the other examples.  The other examples have the master room located in the center or near the center of the floor plan, while in this example, the master room is located in the northwest part of the house.  The size and location of the bathroom also differ from the other examples.  The other examples have the bathroom located in the center or near the center of the floor plan, while in this example, the bathroom is located"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "63485",
+    "predicted_id": "1. **Different example:** ID 77183",
+    "raw_response": "1. **Different example:** ID 77183  \n2. **Why:** This example is picked because it has a different layout of the rooms, specifically the kitchen and bathroom 2 are located in the center of the floorplan, while in the other examples they are located at the edges or corners. Also, the living room is located at the left side of the floorplan, while in the other examples it is located at the north side. Additionally, the balcony is located at the bottom left side, while in the other examples it is located at the south side. These differences in layout and location of the rooms make this example stand out from the others. 3. **Additional note:** The other examples have a more symmetrical layout, while ID 77183 has a more asymmetrical layout. This asymmetry is another feature that sets it apart from the other examples. \n\nPlease let me know if you need any further clarification or details. \n\nBest regards, \n[Your Name]  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "27788",
+    "predicted_id": "Different example:** ID 74662",
+    "raw_response": "Different example:** ID 74662  \n2. **Why:** This example has a different floorplan from the others because the living room is the largest room in the house, and it is located in the north-east corner of the house, while in the other examples, the living room is either central or located on the west side. Additionally, the kitchen is square and located in the south-east corner, which is different from the other examples where the kitchen is either rectangular or located in a different position. The master room is also located in the north-west corner, which is different from the other examples where it is located in a different position. The balcony is also located in the south-west corner, which is different from the other examples where it is located in a different position. The bathroom is located in the center of the house, which is different from the other examples where it is located in a different position. The common room is located on the west side of the house, which is different from the other examples where it is located in a different position. Overall, the spatial relationships between the rooms in this example are different from the other examples. \n\n\n\n\n\nPlease let me know if you need any further clarification or changes. \n\nBest regards, \n[Your"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "11746",
+    "predicted_id": "fferent example:** ID 11746",
+    "raw_response": "fferent example:** ID 11746  \n2. **Why:** This example has a different floorplan from the others because the living room is located on the north side, while in the other examples, the living room is located on the east side. This is a significant deviation from the common pattern, where the living room is the central room and is located on the east side. Additionally, the size of the living room in this example is unusually large compared to the other rooms, which further supports the conclusion that this example has a different floorplan.  The other examples have a more balanced distribution of room sizes, whereas in this example, the living room is significantly larger than the other rooms. \n\nNote: The other examples have a more balanced distribution of room sizes, whereas in this example, the living room is significantly larger than the other rooms. \n\nThe other examples have a more balanced distribution of room sizes, whereas in this example, the living room is significantly larger than the other rooms. \n\nThe other examples have a more balanced distribution of room sizes, whereas in this example, the living room is significantly larger than the other rooms. \n\nThe other examples have a more balanced distribution of room sizes, whereas in this example, the living room is significantly larger"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "73823",
+    "predicted_id": "**Different example:** ID 22487",
+    "raw_response": "**Different example:** ID 22487  \n2. **Why:** This example is picked because it has a different floorplan pattern. The most notable difference is that the living room is on the west side of the house, while in the other examples, it is on the east side. Additionally, the bathroom is on the north side of the house, while in the other examples, it is on the west side. The spatial relationships between the rooms and their types are also different in this example. For instance, the common room is on the north side of the house, while in the other examples, it is on the east or west side. The kitchen is also on the east side of the house, while in the other examples, it is on the north or west side. These differences indicate that the floorplan pattern of ID 22487 is distinct from the others.  The other examples have a consistent pattern where the living room is on the east side, the kitchen is on the north or west side, and the bathroom is on the west side. ID 22487 does not follow this pattern. \n\nNote: The other examples (ID 10131, ID 994, ID 73823, and ID 22002) have a consistent"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "16951",
+    "predicted_id": "mple:** ID 16951",
+    "raw_response": "mple:** ID 16951  \n2. **Why:** The most important features that set this example apart are the size of the rooms, the spatial relationships between the rooms, and the types of rooms. In this example, the rooms are much larger than in the other examples, and the spatial relationships between the rooms are different. For example, the living room is much larger than the other rooms, and the kitchen is located on the north west corner, which is different from the other examples where the kitchen is located near the living room. Additionally, the balcony locations are different, with balcony 1 being on the south west corner and balcony 2 being on the north east corner, which is different from the other examples where the balconies are located near the living room. The types of rooms are also different, with common room 1 being 100 square feet and common room 2 being 150 square feet, which is much larger than the other examples. Overall, the size, spatial relationships, and types of rooms in this example are different from the other examples.  The other examples have a similar pattern of rooms, with a living room, kitchen, common rooms, master room, and bathroom, but the size and spatial relationships between the rooms"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "9383",
+    "predicted_id": "1. **Different example:** ID 9383",
+    "raw_response": "1. **Different example:** ID 9383  \n2. **Why:** This example has a different floorplan from the others because it has a much larger living room (10 x 50 x 10) compared to the others, and the common room is also much larger (30' x 20') compared to the others. The other examples have a more balanced distribution of room sizes, with the living room being roughly the same size as the other rooms. Additionally, the layout of the rooms in ID 9383 is more linear and less symmetrical compared to the others.  The other examples have a more symmetrical and balanced layout, with the living room being roughly in the center of the floor plan.  The other examples also have a more consistent and regular room layout, with the rooms being roughly the same size and shape. ID 9383 has a more irregular and asymmetrical room layout. \n\nNote: The other examples have a more symmetrical and balanced layout, with the living room being roughly in the center of the floor plan. The other examples also have a more consistent and regular room layout, with the rooms being roughly the same size and shape. ID 9383 has a more irregular and asymmetrical room layout. \n\nID 938"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "14102",
+    "predicted_id": ". **Different example:** ID 25607",
+    "raw_response": ". **Different example:** ID 25607  \n2. **Why:** The spatial relationships between the rooms are not consistent with the others, and the room types and sizes are not aligned with the others. For example, the common rooms are not located in the same position as in the other examples, and the kitchen is not located in the same position as in the other examples. Additionally, the size of the rooms is not consistent with the others, with some rooms being larger than the others. The layout of the rooms in ID 25607 is more complex and irregular compared to the others.  The other examples have a more symmetrical and balanced layout, with the rooms arranged in a more predictable pattern.  ID 25607 has a more asymmetrical layout, with the rooms arranged in a less predictable pattern.  The other examples have a more consistent and logical layout, while ID 25607 has a more complex and illogical layout.  The other examples have a more straightforward and simple layout, while ID 25607 has a more complicated and convoluted layout.  The other examples have a more symmetrical and balanced layout, while ID 25607 has a more asymmetrical and unbalanced layout.  The other examples have a more consistent and"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "55950",
+    "predicted_id": ". **Different example:** 35725",
+    "raw_response": ". **Different example:** 35725  \n2. **Why:** This example has a different floorplan from the others because it has a different spatial relationship between the rooms, specifically the kitchen is located at the most south east corner, and the living room is located at the bottom center of the floor-plan, which is not consistent with the other examples where the living room is located at the south side and the kitchen is located at the north side. Additionally, the size of the rooms and their types are not consistent with the other examples. The master bedroom is located at the most south west corner, which is different from the other examples where it is located at the south and east corner. The common rooms are also located in a different position compared to the other examples.  The overall layout and spatial relationships between the rooms are not consistent with the other examples.  The other examples have a more symmetrical and balanced layout, while this example has a more asymmetrical and unbalanced layout.  The other examples also have a more consistent and predictable pattern of room types and sizes, while this example has a more irregular and unpredictable pattern.  The other examples also have a more clear and distinct separation between the different areas of the apartment, while this example has a more blurred"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "10984",
+    "predicted_id": "**Different example:** ID 10984",
+    "raw_response": "**Different example:** ID 10984  \n2. **Why:** This example has a different floorplan from the others because it describes the rooms in a more direct and less descriptive way, using a more formal and structured format, and it also has a different spatial relationship between the rooms, such as the balcony being at the southwest corner, downside of common room 2, which is not consistent with the other examples. Additionally, the room sizes are given in a more precise and unusual format (e.g., 12*2 feet, 10*3 feet), which is not consistent with the other examples.  The other examples describe the rooms in a more narrative and descriptive way, and the room sizes are given in a more general and approximate format (e.g., 12 feet by 10 feet, 15 feet by 12 feet). \n\nNote: The other examples (ID 48780, ID 74418, ID 31926, ID 37989) have a similar floorplan pattern, where the living room is the largest area, the master bedroom is in the back corner, and the common rooms are located in a way that they are connected to the living room and the master bedroom. The balcony is also located in a way"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "43036",
+    "predicted_id": ". **Different example:** ID 78009",
+    "raw_response": ". **Different example:** ID 78009  \n2. **Why:** The most important features that set this example apart are the location of the balcony, the kitchen, and the living room. In the other examples, the balcony is located on the east or south side, while in ID 78009, it is located on the southwest corner. The kitchen is located on the northwest corner in ID 78009, while in the other examples, it is located on the northeast or south side. The living room is located on the west side in ID 78009, while in the other examples, it is located in the center or on the north side. These differences in location suggest that ID 78009 has a different floorplan from the others. Additionally, the size of the rooms and their spatial relationships also differ from the others. For example, the living room in ID 78009 is much larger than the others, and the master room is located on the southeast corner, while in the other examples, it is located on the south or east side. Overall, the combination of these differences in location, size, and spatial relationships suggests that ID 78009 has a different floorplan from the others."
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "26703",
+    "predicted_id": "Different example:** ID 71082",
+    "raw_response": "Different example:** ID 71082  \n2. **Why:** This example is picked because it has a different layout of the rooms, specifically the living room is on the south side and the master room is in the northeast corner, which is not consistent with the other examples where the living room is on the east side and the master room is in the southwest corner. Additionally, the balcony sizes and locations are also different.  The other examples have a more symmetrical layout, while this example has a more asymmetrical layout. \n\nNote: The other examples have a more symmetrical layout, with the living room on the east side, the master room in the southwest corner, and the common room in the northwest corner. ID 71082 has a different layout, with the living room on the south side and the master room in the northeast corner. This makes it stand out from the other examples. \n\nAlso, note that the other examples have a more consistent and symmetrical layout, with the living room on the east side, the master room in the southwest corner, and the common room in the northwest corner. ID 71082 has a different layout, with the living room on the south side and the master room in the northeast corner. This makes it"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "49189",
+    "predicted_id": "**Different example:** ID 53032",
+    "raw_response": "**Different example:** ID 53032  \n2. **Why:** This example is picked because it has a different floorplan pattern. The most notable difference is that the balcony is not located in a corner, but rather in the front entrance area, and it is attached to common room 1 and bathroom 2. Additionally, the layout of the rooms is more linear and less symmetrical compared to the other examples. The master bedroom is also attached to bathroom 1 and common room 2, which is not the case in the other examples. These differences indicate a distinct floorplan pattern that deviates from the common pattern observed in the other examples. 3. **Additional note:** The other examples have a more symmetrical and balanced layout, with the balcony often located in a corner, and the rooms arranged in a more radial or circular pattern. In contrast, example 53032 has a more linear and asymmetrical layout, which suggests a different design approach. 4. **Additional note:** The other examples also have a more consistent and uniform room size, with most rooms having a similar size and shape. In contrast, example 53032 has a more varied room size, with some rooms being significantly larger or smaller than others. 5. **"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "52758",
+    "predicted_id": "ent example:** ID 14914",
+    "raw_response": "ent example:** ID 14914  \n2. **Why:** This example is picked because it has a different floorplan pattern. The most notable difference is that the rooms are stacked vertically, with each room on top of the other, whereas the other examples have rooms laid out side by side. This vertical stacking is not present in the other examples. Additionally, the room sizes and spatial relationships are also different from the other examples. For instance, the living room is described as a \"covered full area\" which is not present in the other examples. The other examples have rooms with specific dimensions and spatial relationships, whereas this example has a more compact and vertically stacked layout.  The other examples have rooms with specific dimensions and spatial relationships, whereas this example has a more compact and vertically stacked layout.  The other examples have rooms with specific dimensions and spatial relationships, whereas this example has a more compact and vertically stacked layout.  The other examples have rooms with specific dimensions and spatial relationships, whereas this example has a more compact and vertically stacked layout.  The other examples have rooms with specific dimensions and spatial relationships, whereas this example has a more compact and vertically stacked layout.  The other examples have rooms with specific dimensions and spatial relationships, whereas this example has a"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "49189",
+    "predicted_id": "1. **Different example:** ID 48795",
+    "raw_response": "1. **Different example:** ID 48795  \n2. **Why:** This example has a different floorplan from the others because the balcony is located at the South West corner, while in the other examples, the balcony is located at the South East corner. Also, the living room is located at the West side of the house, while in the other examples, the living room is located at the South side of the house. These differences in spatial relationships between the rooms indicate a different floorplan pattern.  Additionally, the size of the rooms and their spatial relationships with each other are also different from the other examples. For instance, the living room is much larger in this example compared to the others.  Overall, the combination of these differences in spatial relationships and room sizes suggests that this example has a different floorplan from the others.  The other examples have a more symmetrical and balanced floorplan, while this example has a more asymmetrical and unbalanced floorplan.  The other examples also have a more consistent and predictable pattern of room placement, while this example has a more irregular and unpredictable pattern of room placement.  These differences in floorplan pattern are likely due to the different design goals and priorities of the architects or designers who created these examples."
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "42612",
+    "predicted_id": "nt example:** ID 42612",
+    "raw_response": "nt example:** ID 42612  \n2. **Why:** This example is picked because it has a different floorplan pattern from the others. The most important features that set this example apart are: \n- The living room is located on the west side, while the other examples have it on the east side. \n- The kitchen is located on the southwest side, while the other examples have it on the east side. \n- The master room is located on the southeast corner, while the other examples have it on the southwest corner. \n- The common room is located on the northwest corner, while the other examples have it on the north side. \n- The balcony 1 and 2 are located on the living room side, while the other examples have them located on the east side. \n- The size and aspect ratio of the rooms are different from the others. \n- The spatial relationships between the rooms are different from the others.  The other examples have a more symmetrical and balanced floor plan, while ID 42612 has a more asymmetrical and unbalanced floor plan. \n\nNote: The other examples have a more symmetrical and balanced floor plan, with the living room, kitchen, and master room located on the east side,"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "2277",
+    "predicted_id": "erent example:** ID 64781",
+    "raw_response": "erent example:** ID 64781  \n2. **Why:** The most important feature that sets this example apart is the location of the kitchen, which is next to the living room on the west side, whereas in the other examples, the kitchen is on the north side. This is a significant deviation from the common pattern, where the kitchen is always on the north side, and the living room is on the west side. Additionally, the size and location of the balconies, bathroom, and common room also deviate from the common pattern.  The other examples have a more symmetrical and balanced layout, whereas ID 64781 has a more asymmetrical layout. \n\nNote: The other examples (ID 61767, ID 52457, ID 75828, and ID 2277) share a common pattern where the kitchen is on the north side, the living room is on the west side, and the balconies, bathroom, and common rooms are arranged in a symmetrical and balanced manner. ID 64781 deviates from this pattern, making it the different example. \n\nPlease let me know if you need any further clarification or details. \n\nBest regards, \n[Your Name]  (I'll be happy to provide any"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "66935",
+    "predicted_id": "**Different example:** ID 72055",
+    "raw_response": "**Different example:** ID 72055  \n2. **Why:** This example is picked because it has a different layout of the rooms, with the balcony and kitchen being on the top right, and the living room being on the left bottom to up, which is opposite to the other examples where the balcony and kitchen are on the top left, and the living room is on the right bottom to up. Additionally, the living room in this example has a non-square shape, which is not the case in the other examples.  The other examples have a more symmetrical layout, with the living room being on the right bottom to up, and the balcony and kitchen being on the top left. The non-square shape of the living room in this example, and the reversed layout of the rooms, make it stand out from the other examples.  The other examples have a more symmetrical layout, with the living room being on the right bottom to up, and the balcony and kitchen being on the top left. The non-square shape of the living room in this example, and the reversed layout of the rooms, make it stand out from the other examples.  The other examples have a more symmetrical layout, with the living room being on the right bottom to up"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "8257",
+    "predicted_id": "ferent example:** ID 1181",
+    "raw_response": "ferent example:** ID 1181  \n2. **Why:** This example is picked because it has a different floorplan pattern from the others. The most important features that set this example apart are: \n- The living room is much larger than the others (almost 1,000 square feet), \n- The kitchen is located on the south facing side of the building, \n- The common rooms are located on the north side of the building, \n- The master bedroom is located on the south side of the house with the balcony access directly from it, \n- The spatial relationships between the rooms are different from the others, \n- The size of the rooms are different from the others. \n- The description of the rooms is more narrative and less formal than the others. \n- The description of the rooms is more focused on the functionality and layout of the rooms rather than the spatial relationships between them. \n- The description of the rooms is more focused on the features and amenities of the rooms rather than the spatial relationships between them. \n- The description of the rooms is more focused on the overall layout of the rooms rather than the spatial relationships between them. \n- The description of the rooms is more focused on the overall layout of the rooms rather than"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "57272",
+    "predicted_id": "fferent example:** ID 4286",
+    "raw_response": "fferent example:** ID 4286  \n2. **Why:** This example has a different floorplan from the others because the bathroom is the entrance from the living room, and the common room, kitchen, and master room are all square shape rooms with the same ratio of length to width (8 over 8), which is not observed in the other examples. Additionally, the living room is the entrance of the south side, which is different from the other examples where the living room is either the center of all rooms or located in a corner. The other examples have a more complex and varied layout, whereas ID 4286 has a more symmetrical and uniform layout.  The other examples have a more complex and varied layout, whereas ID 4286 has a more symmetrical and uniform layout.  The other examples have a more complex and varied layout, whereas ID 4286 has a more symmetrical and uniform layout.  The other examples have a more complex and varied layout, whereas ID 4286 has a more symmetrical and uniform layout.  The other examples have a more complex and varied layout, whereas ID 4286 has a more symmetrical and uniform layout.  The other examples have a more complex and varied layout, whereas ID"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "3536",
+    "predicted_id": "rent example:** ID 3536",
+    "raw_response": "rent example:** ID 3536  \n2. **Why:** The most notable difference is the layout of the living room and the kitchen. In all other examples, the living room is located on the west side of the unit, while the kitchen is located on the north side. In ID 3536, the living room is located on the north side, while the kitchen is located on the east side. This inversion of the typical layout is the most significant difference between ID 3536 and the other examples. Additionally, the size of the living room in ID 3536 is significantly larger than in the other examples, which further supports the conclusion that ID 3536 has a different floorplan.  The other differences in the layout of the other rooms are not as significant and can be explained by minor variations in the description of the same underlying floorplan pattern.  The size of the rooms in ID 3536 is also different from the other examples, with the master room being significantly larger and the bathroom being significantly smaller. However, these differences are not as significant as the inversion of the living room and kitchen layout.  The balcony layout is also different in ID 3536, but this can be explained by the fact that the balcony is located"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "14038",
+    "predicted_id": "1. **Different example:** ID 74226",
+    "raw_response": "1. **Different example:** ID 74226  \n2. **Why:** This example has a balcony that sticks out from the eastern wall, which is not present in the other examples. The other examples have a more traditional layout with rooms arranged in a grid or a simple L-shape, whereas this example has a more complex layout with a balcony that protrudes from the wall. Additionally, the description of the rooms and their sizes is more detailed and includes specific measurements, which is not the case in the other examples. The other examples have a more general description of the rooms and their sizes, whereas this example has a more precise and detailed description.  The other examples have a more traditional layout with rooms arranged in a grid or a simple L-shape, whereas this example has a more complex layout with a balcony that protrudes from the wall. The other examples have a more general description of the rooms and their sizes, whereas this example has a more precise and detailed description. The other examples have a more traditional layout with rooms arranged in a grid or a simple L-shape, whereas this example has a more complex layout with a balcony that protrudes from the wall. The other examples have a more general description of the rooms and their sizes, whereas this example has"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "78147",
+    "predicted_id": "Different example:** ID 66316",
+    "raw_response": "Different example:** ID 66316  \n2. **Why:** This example is picked because it has a different floorplan pattern from the others. The most important features that set this example apart are: \n- The living room covers 75% of the entire plan, which is not seen in the other examples. \n- The kitchen, common room 1, common room 2, and balcony 1 are all located at the south east corner of the plan, which is not seen in the other examples. \n- The bathroom is also located at the south east corner of the plan, which is not seen in the other examples. \n- The master room is located between the kitchen on the north and balcony on the south, which is not seen in the other examples. \n- The size of the rooms and their spatial relationships are not consistent with the other examples. \n\nNote: The other examples have a more balanced distribution of rooms and their sizes, with the living room being a central hub and the other rooms being distributed around it. In contrast, example 66316 has a very unbalanced distribution of rooms, with the living room dominating the entire plan. \n\nAlso, the other examples have a more consistent and logical spatial relationships between the rooms,"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "61353",
+    "predicted_id": "**Different example:** ID 3282",
+    "raw_response": "**Different example:** ID 3282  \n2. **Why:** This example is picked because it has a different layout of rooms, with the living room in the center, and the kitchen and balcony on the north side, while the other examples have the living room on the north side, and the kitchen and balcony on the south side. Also, the balcony is described as being on the northern part of the house, while the other examples have the balcony on the south side. Additionally, the bathroom is described as being on the western part of the house, while the other examples have the bathroom on the west or southwest side, but not on the western part of the house. These differences in spatial relationships between the rooms set this example apart from the others. 3. **Additional note:** The other examples have a more symmetrical layout, with the living room on the north side, and the kitchen and balcony on the south side, while ID 3282 has a more asymmetrical layout, with the living room in the center, and the kitchen and balcony on the north side. This asymmetry is a key feature that sets ID 3282 apart from the other examples. 4. **Additional note:** The other examples have a more consistent naming convention"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "69704",
+    "predicted_id": "Specifically:** <list the specific features that support the claim>",
+    "raw_response": "Specifically:** <list the specific features that support the claim>  \n\n1. **Different example:** ID 69704  \n2. **Why:** The floorplan pattern is different from the others, with a more linear and less symmetrical layout.  \n3. **Specifically:** \n* The living room is on the west side of the house, while the others are on the east or southeast side.\n* The kitchen is on the south end of the house, while the others are on the north or northeast side.\n* The master room is on the north east end of the house, while the others are on the southwest or southeast corner.\n* The common room is on the south east end of the house, while the others are on the northwest or northeast corner.\n* The layout is more linear, with rooms arranged in a straight line rather than a symmetrical or L-shaped pattern.  (Note: This is not explicitly stated in the text, but it can be inferred from the descriptions of the rooms' locations and relationships.)  \n* The sizes of the rooms are not as consistent with the others, with some rooms being significantly larger or smaller than usual.  (Note: This is not explicitly stated in the text, but it can be inferred"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "43396",
+    "predicted_id": "Different example:** ID 36396",
+    "raw_response": "Different example:** ID 36396  \n2. **Why:** This example is picked because it has a very different spatial relationship between the rooms, with all rooms being located on the same side of the floorplan, and all rooms being of the same size (10 sq ft). In contrast, the other examples have rooms of varying sizes and more complex spatial relationships between them. Additionally, the other examples have balconies and rooms that are not adjacent to each other, whereas in ID 36396, all rooms are adjacent to each other.  The other examples also have more detailed descriptions of the rooms, such as the type of bathroom (jack and jill access, walk-in shower, garden tub), the type of kitchen (galley kitchen), and the type of living room (centrally located with easy access to the kitchen). ID 36396 lacks these details and has a very simplistic description of the rooms.  Overall, ID 36396 has a very different floorplan pattern compared to the other examples.  The other examples have a more complex and detailed floorplan, while ID 36396 has a very simple and uniform floorplan.  The other examples also have a more logical and coherent spatial relationship between the rooms, while ID"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "25607",
+    "predicted_id": "rent example:** ID 46039",
+    "raw_response": "rent example:** ID 46039  \n2. **Why:** This example is picked because it has a different floorplan pattern compared to the others. The most notable difference is that the living room and common room are not adjacent to each other, and the kitchen is not adjacent to the living room. In the other examples, the living room and common room are adjacent, and the kitchen is adjacent to the living room. Additionally, the layout of the master room and balcony 2 in ID 46039 is different from the others, where in the other examples, the master room is adjacent to the living room and balcony 2 is adjacent to the master room. The overall layout of ID 46039 is more complex and has a \"T\" shape, whereas the other examples have a more symmetrical and balanced layout.  The description of ID 46039 also uses more complex language and has a more detailed description of the spatial relationships between the rooms, which further supports the idea that it has a different floorplan pattern.  The other examples have a more straightforward and simple description of the spatial relationships between the rooms.  The description of ID 46039 also mentions that the common room and kitchen extend out to the sides from the main area of the"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "2277",
+    "predicted_id": "ample:** ID 40679",
+    "raw_response": "ample:** ID 40679  \n2. **Why:** This example has a different floorplan from the others because it has a more complex layout with a clear distinction between the living room and the common room, whereas the other examples have a more integrated living space. Additionally, the spatial relationships between the rooms in ID 40679 are more rigid and less flexible compared to the other examples. For instance, the living room is located in front of all other rooms, and the common room is in the center of the living room, kitchen, balcony 1, and bathroom. This level of specificity and rigidity is not present in the other examples.  Furthermore, the size and shape of the rooms in ID 40679 are more uniform and regular compared to the other examples, which have more varied and irregular room sizes and shapes.  Overall, the floorplan of ID 40679 is more structured and less flexible compared to the other examples.  The other examples have a more free-flowing and flexible layout, with rooms that are more integrated and less distinct from one another.  This is evident in the way the rooms are described and the spatial relationships between them.  For example, in ID 79411, the living room is described as"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "40863",
+    "predicted_id": "1. **Different example:** ID 51114",
+    "raw_response": "1. **Different example:** ID 51114  \n2. **Why:** The most important feature that sets this example apart is the kitchen's location, which is in the northeast corner, in front of the living room and next to bathroom 2, whereas in the other examples, the kitchen is located on the west or south side, often in between the living room and the balcony. This difference in kitchen location disrupts the otherwise consistent pattern of spatial relationships between the rooms. Additionally, the use of absolute and relative locations, as well as numerical estimations, in this example creates a distinct tone and style that differs from the more straightforward descriptions in the other examples.  The other examples have a more consistent and similar pattern of spatial relationships between the rooms, with the kitchen often located on the west or south side, the living room on the west side, and the master room on the east or northeast side. The use of absolute and relative locations, as well as numerical estimations, in this example creates a distinct tone and style that differs from the more straightforward descriptions in the other examples.  The other examples have a more consistent and similar pattern of spatial relationships between the rooms, with the kitchen often located on the west or south side, the living room on the west"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "40550",
+    "predicted_id": "fferent example:** ID 28694",
+    "raw_response": "fferent example:** ID 28694  \n2. **Why:** This example is picked because the living room is described as being between the two master bedrooms, which is a different spatial relationship compared to the other examples where the living room is either in the center of the apartment or adjacent to the common room. Additionally, the second master bedroom is described as being 12â x 2â, which is an unusually small size compared to the other examples.  The second master bedroom is also located next to the bathroom, which is not a common spatial relationship in the other examples.  The overall layout of this example seems to be more irregular and less symmetrical compared to the other examples.  The other examples have a more consistent and symmetrical layout, with the living room and common rooms being in the center of the apartment, and the kitchen and master bedrooms being on the periphery.  This example seems to have a more fragmented and irregular layout.  The other examples also have a more consistent and symmetrical size for the rooms, with the living room and common rooms being larger and the kitchen and master bedrooms being smaller.  This example has a more irregular size for the rooms, with the living room being very large and the second master"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "4286",
+    "predicted_id": "ifferent example:** ID 20968",
+    "raw_response": "ifferent example:** ID 20968  \n2. **Why:** The most notable difference is that the living room is located at the north side of the floor plan, while in the other examples, the living room is located at the south side, and the master room is located at the central location of the floor plan, while in the other examples, the master room is located at the south side. Additionally, the common room in ID 20968 is located at the south east side, while in the other examples, the common room is located at the east side or opposite the master bedroom. The kitchen is also located at the west side in ID 20968, while in the other examples, the kitchen is located at the south facing side of the building. These differences in spatial relationships between the rooms indicate that ID 20968 has a different floorplan pattern.  The other examples have a more symmetrical and balanced floor plan, while ID 20968 has a more asymmetrical and unbalanced floor plan.  The other examples have a more consistent and predictable pattern of room placement, while ID 20968 has a more irregular and unpredictable pattern of room placement.  The other examples have a more traditional and common floor plan pattern, while ID"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "23274",
+    "predicted_id": "1. **Different example:** ID 60915",
+    "raw_response": "1. **Different example:** ID 60915  \n2. **Why:** This example is picked because it has a different floorplan pattern. The most notable difference is that the living room is located on the right side of the house, while in the other examples, the living room is located on the east elevation. Also, the balcony 1 is at the top over the living room, and balcony 2 is at the bottom of the house below the living room, which is a unique configuration. The other examples have balconies located on the north and south elevations, directly north and south of the living room. Additionally, the size and shape of the rooms in this example are different from the others, with more rectangular shapes and smaller sizes.  The other examples have more varied room shapes and sizes.  The other examples have more varied room shapes and sizes.  The other examples have more varied room shapes and sizes.  The other examples have more varied room shapes and sizes.  The other examples have more varied room shapes and sizes.  The other examples have more varied room shapes and sizes.  The other examples have more varied room shapes and sizes.  The other examples have more varied room shapes and sizes.  The other examples have more varied room"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "17017",
+    "predicted_id": "1. **Different example:** ID 74633",
+    "raw_response": "1. **Different example:** ID 74633  \n2. **Why:** The most notable difference is that the living room is located on the east side, while in the other examples, the living room is located on the north side. This is a significant deviation from the common pattern where the living room is situated on the north side, often with the balcony on the north side as well. Additionally, the balcony sizes and locations are also different in this example, which further supports the conclusion that this example has a distinct floorplan pattern.  The other examples have a more consistent pattern of having the living room on the north side, with the balcony on the north side, and the kitchen on the north east corner. This example breaks this pattern, making it stand out as different.  The other examples have a more consistent pattern of having the living room on the north side, with the balcony on the north side, and the kitchen on the north east corner. This example breaks this pattern, making it stand out as different.  The other examples have a more consistent pattern of having the living room on the north side, with the balcony on the north side, and the kitchen on the north east corner. This example breaks this pattern, making it stand out as different."
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "21765",
+    "predicted_id": "ifferent example:** ID 21765",
+    "raw_response": "ifferent example:** ID 21765  \n2. **Why:** This example is picked because it has a different floorplan pattern. The most notable difference is that the balcony is not located at the northern wall, but rather it is an entrance from the living room. Additionally, the aspect ratios of the rooms are given, which is not the case in the other examples. The spatial relationships between the rooms are also different, with common room 2 being between bathroom 1 and bathroom 2, and common room 1 being near the master room and kitchen. The living room is also the entrance from the west side, which is not the case in the other examples. These differences indicate that the floorplan pattern of this example is different from the others. 3. **Additional note:** The other examples have a more complex spatial relationship between the rooms, with multiple rooms sharing walls and being located in different corners of the apartment. In contrast, the rooms in example 21765 are more linearly arranged, with the living room being the central hub and the other rooms being located off of it. This suggests that the floorplan pattern of example 21765 is more linear and less complex than the others. 4. **Additional note:** The aspect ratios"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "40031",
+    "predicted_id": "mple:** ID 55090",
+    "raw_response": "mple:** ID 55090  \n2. **Why:** The most notable difference is the presence of two balconies, which is not mentioned in the other examples. Additionally, the spatial relationships between the rooms are more complex, with multiple common rooms and a larger living room that is near to two common rooms. The size of the rooms also varies more significantly in this example compared to the others.  The other examples have a more straightforward layout with a clear distinction between the living room and the other rooms.  The example ID 55090 has a more complex layout with multiple common rooms and a larger living room.  The other examples have a more straightforward layout with a clear distinction between the living room and the other rooms.  The example ID 55090 has a more complex layout with multiple common rooms and a larger living room.  The other examples have a more straightforward layout with a clear distinction between the living room and the other rooms.  The example ID 55090 has a more complex layout with multiple common rooms and a larger living room.  The other examples have a more straightforward layout with a clear distinction between the living room and the other rooms.  The example ID 55090 has a more complex layout with multiple common rooms and a"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "22002",
+    "predicted_id": "1. **Different example:** ID 22002",
+    "raw_response": "1. **Different example:** ID 22002  \n2. **Why:** The most notable difference is that the kitchen and living room are on opposite sides of the apartment, whereas in the other examples, the kitchen is usually located in a corner or near the living room, and the living room is often larger and takes up more space. This suggests a different spatial relationship between the rooms and a different overall floorplan pattern.  Additionally, the balcony is located next to the master bedroom, which is not a common feature in the other examples. The overall layout and proportions of the rooms also seem to be different from the others.  The other examples have a more complex and interconnected layout, with multiple rooms sharing walls and corners, whereas ID 22002 has a more straightforward and linear layout.  The size and proportions of the rooms also seem to be different, with the living room being much larger than the other rooms, and the kitchen being much smaller.  Overall, ID 22002 appears to have a different floorplan pattern than the other examples.  The other examples have a more complex and interconnected layout, with multiple rooms sharing walls and corners, whereas ID 22002 has a more straightforward and linear layout.  The size and proportions of the rooms also seem"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "69704",
+    "predicted_id": "1. **Different example:** ID 46660",
+    "raw_response": "1. **Different example:** ID 46660  \n2. **Why:** The most notable difference is the layout of the living room, which is not in the corner of the floorplan, but rather fairly centered amongst the north to south axis, and also the kitchen is not in the northeast corner, but rather south of balcony 1. Also, the size of the rooms and their spatial relationships are different from the others. The living room is much larger than the others, and the kitchen is much smaller. The balcony 1 is also much smaller than the others. The overall layout of the rooms and their spatial relationships are different from the others.  The other examples have a more symmetrical layout, with the living room in the southeast corner, the kitchen in the northeast corner, and the master room in the southwest corner. In ID 46660, the living room is not in the southeast corner, and the kitchen is not in the northeast corner. The master room is also not in the southwest corner. The overall layout of the rooms and their spatial relationships are different from the others.  The other examples have a more symmetrical layout, with the living room in the southeast corner, the kitchen in the northeast corner, and the master room in the southwest corner"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "1181",
+    "predicted_id": "**Different example:** ID 1181",
+    "raw_response": "**Different example:** ID 1181  \n2. **Why:** This example has a different floorplan from the others because it has a master bedroom with a balcony, and a kitchen that is not located between the bathroom and the master room, but rather is located close to the master bedroom and the second common area. Additionally, the common rooms are described as being about 300 square feet in size, which is significantly larger than the common rooms in the other examples. These features indicate a different layout and design approach compared to the other examples.  The other examples have a more traditional layout with the kitchen located between the bathroom and the master room, and the common rooms are smaller in size.  The layout of ID 1181 is more open and spacious, with a focus on the master bedroom and the kitchen.  The other examples have a more compact and efficient layout, with a focus on maximizing space.  The layout of ID 1181 is more luxurious and spacious, with a focus on comfort and convenience.  The other examples have a more functional and practical layout, with a focus on efficiency and space-saving.  The layout of ID 1181 is more modern and sleek, with a focus on style and design.  The other examples have"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "33045",
+    "predicted_id": "Different example:** ID 66935",
+    "raw_response": "Different example:** ID 66935  \n2. **Why:** This example is picked because the balcony 1 is to the south of the living room, while in the other examples, the balcony 1 is to the north of the living room. Also, the kitchen is to the south of the balcony 2, while in the other examples, the kitchen is to the north of the balcony 2. These two differences indicate that the floorplan of ID 66935 is different from the others.  Additionally, the size of the rooms and their spatial relationships are not consistent with the other examples. For instance, the common room is 110 square feet, while the other common rooms are around 12-15 feet wide and 10-15 feet long. The living room is 450 square feet, while the other living rooms are around 15-20 feet wide and 30 feet long. The master room is 13 feet by 14 feet, while the other master rooms are around 12-13 feet wide and 15-20 feet long. These inconsistencies further support the conclusion that ID 66935 has a different floorplan.  The spatial relationships between the rooms, their types, and size are not consistent with the other examples"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "78147",
+    "predicted_id": "**Different example:** ID 50221",
+    "raw_response": "**Different example:** ID 50221  \n2. **Why:** This example is picked because it has a different spatial relationship between the rooms, specifically the kitchen is located at the south of the house, while in the other examples, the kitchen is located at the north east side of the house. Also, the living room is located at the west side of the house in this example, while in the other examples, it is located at the east side of the house. This suggests that the floorplan of ID 50221 is a mirror image of the other examples.  Additionally, the size of the rooms and their dimensions are not consistent with the other examples, which have more consistent and smaller dimensions.  The other examples have a more consistent and smaller dimensions, while ID 50221 has larger dimensions and a different layout.  The other examples have a more consistent and smaller dimensions, while ID 50221 has larger dimensions and a different layout.  The other examples have a more consistent and smaller dimensions, while ID 50221 has larger dimensions and a different layout.  The other examples have a more consistent and smaller dimensions, while ID 50221 has larger dimensions and a different layout.  The other examples have a more consistent and smaller dimensions"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "64047",
+    "predicted_id": "1. **Different example:** ID 11039",
+    "raw_response": "1. **Different example:** ID 11039  \n2. **Why:** The most notable difference is that the living room is not in the center of the floorplan, unlike the other examples where the living room is central. Additionally, the spatial relationships between the rooms are not as symmetrical as in the other examples. The kitchen is also not located in the middle of the west side, but rather to the left of the bathroom and living room. These differences indicate a distinct floorplan pattern.  The other examples have a more symmetrical and central living room, which is not the case in ID 11039.  The other examples have a more symmetrical and central living room, which is not the case in ID 11039.  The other examples have a more symmetrical and central living room, which is not the case in ID 11039.  The other examples have a more symmetrical and central living room, which is not the case in ID 11039.  The other examples have a more symmetrical and central living room, which is not the case in ID 11039.  The other examples have a more symmetrical and central living room, which is not the case in ID 11039.  The other examples have"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "40550",
+    "predicted_id": "1. **Different example:** ID 39691",
+    "raw_response": "1. **Different example:** ID 39691  \n2. **Why:** This example is picked because it has a different floorplan pattern. The most important features that set this example apart are the location of the kitchen and the bathroom, which are adjacent to each other, and the fact that the living room is not connected to the common area, unlike in the other examples. Additionally, the balcony 1 is en-suite to the master room, which is not the case in the other examples. These features indicate a different spatial relationship between the rooms, which is not present in the other examples.  The other examples have a common pattern where the kitchen and bathroom are not adjacent to each other, and the living room is connected to the common area.  The balcony 1 is also not en-suite to the master room in the other examples.  The other examples have a common pattern where the kitchen and bathroom are not adjacent to each other, and the living room is connected to the common area.  The balcony 1 is also not en-suite to the master room in the other examples.  The other examples have a common pattern where the kitchen and bathroom are not adjacent to each other, and the living room is connected to the common area.  The balcony"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "42272",
+    "predicted_id": "ferent example:** ID 43396",
+    "raw_response": "ferent example:** ID 43396  \n2. **Why:** This example is picked because it has a different layout of the living room and kitchen, and the presence of a galley kitchen, which is not present in the other examples. Additionally, the master room is much larger than the other examples, and the bathroom is a jack and jill access type, which is not present in the other examples. The overall layout and design of this example is more modern and open-plan, which is different from the other examples.  The other examples have a more traditional layout with separate rooms and corridors.  The presence of a second bonus room and a large balcony also sets this example apart from the others.  The other examples have a more compact and traditional layout.  The overall design and layout of this example is more spacious and open-plan, which is different from the other examples.  The other examples have a more compact and traditional layout.  The overall design and layout of this example is more spacious and open-plan, which is different from the other examples.  The other examples have a more compact and traditional layout.  The overall design and layout of this example is more spacious and open-plan, which is different from the other examples.  The other"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "77045",
+    "predicted_id": ". **Different example:** ID 39708",
+    "raw_response": ". **Different example:** ID 39708  \n2. **Why:** This example has a different floorplan from the others because it has a different spatial relationship between the rooms, specifically the master bedroom is located at the center of the house, and it is bordered by the living room on the west, bathroom on the north, and balcony 3 on the south. In contrast, the other examples have the master bedroom located on the east side of the house, near the bathroom and balcony. Additionally, the aspect ratios of the rooms in this example are also different from the others, which suggests a different floorplan design.  The other examples have a more symmetrical and balanced layout, while ID 39708 has a more asymmetrical layout.  The other examples have a more symmetrical and balanced layout, while ID 39708 has a more asymmetrical layout.  The other examples have a more symmetrical and balanced layout, while ID 39708 has a more asymmetrical layout.  The other examples have a more symmetrical and balanced layout, while ID 39708 has a more asymmetrical layout.  The other examples have a more symmetrical and balanced layout, while ID 39708 has a more asymmetrical layout.  The other examples"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "64047",
+    "predicted_id": "**Different example:** ID 64047",
+    "raw_response": "**Different example:** ID 64047  \n2. **Why:** This example has a different floorplan from the others because it has a more complex layout with multiple common rooms and a balcony within the living room, whereas the other examples have a simpler layout with a single common room and no balcony within the living room. Additionally, the spatial relationships between the rooms in this example are not as straightforward as in the other examples. \n\nNote: The other examples have a more symmetrical and balanced layout, with the living room typically located in the center of the floor plan and the other rooms arranged around it in a more predictable pattern. In contrast, the layout in example 64047 is more irregular and less symmetrical. \n\nAlso, note that the other examples have a more consistent use of terminology, with the same terms (e.g. \"common room\", \"master room\") being used to describe similar types of rooms. In example 64047, the terminology is less consistent, with multiple rooms being referred to as \"common rooms\" and the living room being described as having a balcony. \n\nThese differences in layout and terminology suggest that example 64047 has a different floorplan from the others. \n\nLet me know if you have any questions or need further"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "64781",
+    "predicted_id": "rent example:** 79411",
+    "raw_response": "rent example:** 79411  \n2. **Why:** This example has a different floorplan from the others because it has a kitchen in the east and a balcony in the west, which is the opposite of the other examples where the kitchen is in the west and the balcony is in the east. Also, the living room is in the south and the master room is in the north east corner, which is different from the other examples where the living room is in the west and the master room is in the southeast corner. Additionally, the common room is in the north west and the bathroom is in the north center, which is different from the other examples where the common room is in the east and the bathroom is in the east or southeast corner. The overall layout and spatial relationships between the rooms are different from the other examples."
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "335",
+    "predicted_id": "Different example:** ID 23716",
+    "raw_response": "Different example:** ID 23716  \n2. **Why:** The most notable difference is the kitchen's location at the northernmost point of the floorplan, which is not observed in the other examples. Additionally, the living room's size is significantly larger than the others, and the master room's size is also larger than the others. The spatial relationships between the rooms, such as the access points and the layout, are also different from the others. The other examples have a more symmetrical and balanced layout, while ID 23716 has a more asymmetrical and complex layout.  The other examples have a more symmetrical and balanced layout, while ID 23716 has a more asymmetrical and complex layout.  The other examples have a more symmetrical and balanced layout, while ID 23716 has a more asymmetrical and complex layout.  The other examples have a more symmetrical and balanced layout, while ID 23716 has a more asymmetrical and complex layout.  The other examples have a more symmetrical and balanced layout, while ID 23716 has a more asymmetrical and complex layout.  The other examples have a more symmetrical and balanced layout, while ID 23716 has a more asymmetrical and complex layout."
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "28694",
+    "predicted_id": ". **Different example:** ID 25607",
+    "raw_response": ". **Different example:** ID 25607  \n2. **Why:** The most important features that set this example apart are the spatial relationships between the rooms, specifically the fact that the balcony is adjacent to the kitchen on its east side and the master room on its south side, and the bathroom is adjacent to the master room on its west side and the living room on its east side. These relationships are different from the others, where the balcony is typically adjacent to the living room or the master room, and the bathroom is adjacent to the living room or the master room. Additionally, the size of the rooms and their layout are also different from the others. The common rooms are also situated in a different way, with common room 1 being adjacent to common room 2 on its east side, which is not seen in the other examples. Overall, the spatial relationships and layout of the rooms in ID 25607 are distinct from the others.  The other examples have a more symmetrical and balanced layout, while ID 25607 has a more asymmetrical and complex layout.  The other examples also have a more consistent and predictable pattern of room placement, while ID 25607 has a more varied and unpredictable pattern.  The other examples also have a more"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "12421",
+    "predicted_id": "rent example:** ID 23132",
+    "raw_response": "rent example:** ID 23132  \n2. **Why:** This example is picked because it has a different floorplan pattern from the others. The most notable difference is that the living room is described as merging all the rooms, which is not the case in the other examples. In the other examples, the living room is a separate room that is not connected to the other rooms. Additionally, the spatial relationships between the rooms in ID 23132 are not as complex as in the other examples, with fewer rooms and a more straightforward layout.  The size of the rooms in ID 23132 is also more uniform, with most rooms being 10x10 feet, which is not the case in the other examples.  The balcony 1 and 2 are also described as being between rooms, which is not the case in the other examples.  The overall layout of ID 23132 is more compact and less complex than the other examples.  The other examples have a more traditional layout with a clear distinction between the living room and the other rooms.  The layout of ID 23132 is more modern and open-concept.  The other examples have a more traditional layout with a clear distinction between the living room and the other rooms."
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "30004",
+    "predicted_id": "xample:** ID 30004",
+    "raw_response": "xample:** ID 30004  \n2. **Why:** The living room is located in the north side, which is in the center of all other rooms, whereas in the other examples, the living room is always located on the east side, which is in front of all other rooms. This is the most significant difference that sets this example apart from the others.  Additionally, the common room is located in the northeast corner, which is not the case in the other examples. The common room is usually located on the south west corner.  The kitchen is also located in the east side, which is between master and common, whereas in the other examples, the kitchen is usually located on the north east corner. The master room is located in the southeast corner, which is not the case in the other examples. The master room is usually located on the north west corner.  The balcony is located in the southwest corner, which is not the case in the other examples. The balcony is usually located on the southeast corner.  The bathroom is located in the northwest corner, which is not the case in the other examples. The bathroom is usually located on the west side.  The size of the rooms also varies significantly in this example compared to the others"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "67905",
+    "predicted_id": "1. **Different example:** ID 67905",
+    "raw_response": "1. **Different example:** ID 67905  \n2. **Why:** The living room occupies half of the house from north to south, which is a unique feature among the other examples where the living room is not described as occupying a significant portion of the floor plan. Additionally, the balconies are described as being centrally located on both the south and north sides of the house, which is different from the other examples where the balconies are described as being located on specific corners or sides of the house. The spatial relationships between the rooms are also different, with the bathroom being centrally located on the east side of the house, and the common rooms being located on the corners of the house. These features suggest that the floor plan of ID 67905 is different from the others.  The size of the rooms are also different, with the living room being 300 sqft, and the master room being 120 sqft, which is larger than the other examples. \n\nNote: The other examples have a more traditional layout with the living room being a smaller portion of the floor plan, and the balconies being located on specific corners or sides of the house. The spatial relationships between the rooms are also more traditional, with the bathroom being located on a specific wall,"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "55305",
+    "predicted_id": "erent example:** ID 55305",
+    "raw_response": "erent example:** ID 55305  \n2. **Why:** This example has a different floorplan from the others because the living room is described as being around all other rooms, whereas in the other examples, the living room is described as being in a central location, often with other rooms on its sides or adjacent to it. Additionally, the size and layout of the rooms in ID 55305 are more uniform and smaller compared to the other examples.  The other examples have a more varied room size and layout, with some rooms being significantly larger than others.  The spatial relationships between the rooms in ID 55305 are also less complex compared to the other examples.  For example, in ID 55305, the common room 2 is described as being near room as common room 1, whereas in the other examples, the common rooms are often located in different parts of the floorplan.  Overall, the floorplan of ID 55305 appears to be more compact and uniform compared to the other examples.  The other examples have a more open and spacious feel, with more varied room sizes and layouts.  The balcony locations in ID 55305 are also less prominent compared to the other examples, with balcony 1 being described as"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "3384",
+    "predicted_id": "*Different example:** ID 53137",
+    "raw_response": "*Different example:** ID 53137  \n2. **Why:** This example is picked because it has a different floorplan pattern from the others. The most important features that set this example apart are: \n- The living room is located in the left side of the plan, while the other examples have the living room in the south or east side.\n- The master room is located nearby the living room, but it is not in the corner, unlike the other examples.\n- The bathroom is located between common room 2 and master room, which is different from the other examples where the bathroom is either in the corner or between the master room and common room 1.\n- The size of the rooms is also different from the other examples, with smaller sizes. \n\nThese features indicate that ID 53137 has a different floorplan pattern from the others, which are all variations of the same underlying pattern.  The other examples have a more symmetrical and balanced floorplan, with the living room in the center or in a corner, and the other rooms arranged around it in a more symmetrical way. ID 53137, on the other hand, has a more asymmetrical floorplan, with the living room and master room located in the left side of"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "26678",
+    "predicted_id": ". **Different example:** ID 25607",
+    "raw_response": ". **Different example:** ID 25607  \n2. **Why:** The spatial relationships between the rooms are not consistent with the others, and the room types and sizes are not aligned with the others. For example, the common rooms are not in the same location as the others, and the kitchen is not in the same location as the others. Additionally, the balcony is not in the same location as the others, and the master room is not in the corner as the others. The size of the rooms also varies significantly from the others.  The other examples have a consistent pattern of a balcony in the back of the bathroom, a living room next to the balcony, a kitchen in a specific location, and a master room in a corner. ID 25607 does not follow this pattern.  The other examples also have a consistent pattern of a common room in a specific location, but ID 25607 has two common rooms in different locations.  The other examples also have a consistent pattern of a bathroom in a specific location, but ID 25607 has a bathroom in the middle of the floor plan.  The other examples also have a consistent pattern of a kitchen in a specific location, but ID 25607 has a kitchen in the north east side"
+  },
+  {
+    "model": "llama3.1",
+    "input_type": "description",
+    "scenario": "same_first",
+    "outlier_id": "6955",
+    "predicted_id": "Different example:** ID 6955",
+    "raw_response": "Different example:** ID 6955  \n2. **Why:** This example is picked because it has a different floorplan pattern. The most notable difference is that the kitchen is located at the exact north center, which is not the case in the other examples. In the other examples, the kitchen is either on the north side or on the north west corner. Additionally, the common room 2 is located on the north east corner in this example, which is not the case in the other examples. The other rooms' locations and sizes also do not match the pattern of the other examples.  The other examples have a more symmetrical and balanced floorplan, while this example has a more asymmetrical and irregular floorplan.  The other examples have a more consistent and predictable pattern, while this example has a more complex and unpredictable pattern.  The other examples have a more typical and conventional floorplan, while this example has a more atypical and unconventional floorplan.  The other examples have a more straightforward and simple floorplan, while this example has a more complicated and complex floorplan.  The other examples have a more logical and coherent floorplan, while this example has a more illogical and incoherent floorplan.  The other examples have"
+  }
+]

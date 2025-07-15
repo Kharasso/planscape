@@ -1,0 +1,2002 @@
+[
+  {
+    "base_cluster": [
+      0,
+      24
+    ],
+    "other_cluster": [
+      0,
+      6
+    ],
+    "group": [
+      "37989",
+      "48780",
+      "31926",
+      "74418",
+      "43375"
+    ],
+    "outlier_id": "43375",
+    "gemma_description_pick": "37989",
+    "llama_description_pick": "48780"
+  },
+  {
+    "base_cluster": [
+      5,
+      29
+    ],
+    "other_cluster": [
+      5,
+      19
+    ],
+    "group": [
+      "51743",
+      "18711",
+      "57316",
+      "55950",
+      "51211"
+    ],
+    "outlier_id": "51211",
+    "gemma_description_pick": "51743",
+    "llama_description_pick": "51743"
+  },
+  {
+    "base_cluster": [
+      19,
+      18
+    ],
+    "other_cluster": [
+      19,
+      28
+    ],
+    "group": [
+      "30721",
+      "55086",
+      "41277",
+      "49556",
+      "42272"
+    ],
+    "outlier_id": "42272",
+    "gemma_description_pick": "30721",
+    "llama_description_pick": "30721"
+  },
+  {
+    "base_cluster": [
+      14,
+      9
+    ],
+    "other_cluster": [
+      14,
+      8
+    ],
+    "group": [
+      "6508",
+      "14102",
+      "26678",
+      "39708",
+      "46039"
+    ],
+    "outlier_id": "46039",
+    "gemma_description_pick": "39708",
+    "llama_description_pick": "39708"
+  },
+  {
+    "base_cluster": [
+      7,
+      20
+    ],
+    "other_cluster": [
+      7,
+      22
+    ],
+    "group": [
+      "2425",
+      "55305",
+      "54372",
+      "2277",
+      "23132"
+    ],
+    "outlier_id": "23132",
+    "gemma_description_pick": "2277",
+    "llama_description_pick": null
+  },
+  {
+    "base_cluster": [
+      0,
+      2
+    ],
+    "other_cluster": [
+      0,
+      6
+    ],
+    "group": [
+      "67465",
+      "59390",
+      "80744",
+      "28242",
+      "75880"
+    ],
+    "outlier_id": "75880",
+    "gemma_description_pick": "75880",
+    "llama_description_pick": "80744"
+  },
+  {
+    "base_cluster": [
+      5,
+      29
+    ],
+    "other_cluster": [
+      5,
+      19
+    ],
+    "group": [
+      "57316",
+      "55950",
+      "18711",
+      "51743",
+      "54232"
+    ],
+    "outlier_id": "54232",
+    "gemma_description_pick": "54232",
+    "llama_description_pick": "54232"
+  },
+  {
+    "base_cluster": [
+      5,
+      19
+    ],
+    "other_cluster": [
+      5,
+      22
+    ],
+    "group": [
+      "60473",
+      "63077",
+      "10743",
+      "53655",
+      "57572"
+    ],
+    "outlier_id": "57572",
+    "gemma_description_pick": "57572",
+    "llama_description_pick": "10743"
+  },
+  {
+    "base_cluster": [
+      3,
+      17
+    ],
+    "other_cluster": [
+      3,
+      28
+    ],
+    "group": [
+      "38478",
+      "12043",
+      "33084",
+      "53579",
+      "8257"
+    ],
+    "outlier_id": "8257",
+    "gemma_description_pick": "8257",
+    "llama_description_pick": "8257"
+  },
+  {
+    "base_cluster": [
+      7,
+      1
+    ],
+    "other_cluster": [
+      7,
+      22
+    ],
+    "group": [
+      "8109",
+      "3536",
+      "53652",
+      "17550",
+      "79411"
+    ],
+    "outlier_id": "79411",
+    "gemma_description_pick": "79411",
+    "llama_description_pick": "79411"
+  },
+  {
+    "base_cluster": [
+      18,
+      23
+    ],
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "67584",
+      "20502",
+      "26052",
+      "12104",
+      "73827"
+    ],
+    "outlier_id": "73827",
+    "gemma_description_pick": "73827",
+    "llama_description_pick": "12104"
+  },
+  {
+    "base_cluster": [
+      7,
+      1
+    ],
+    "other_cluster": [
+      7,
+      22
+    ],
+    "group": [
+      "53652",
+      "17550",
+      "3536",
+      "10825",
+      "23132"
+    ],
+    "outlier_id": "23132",
+    "gemma_description_pick": "17550",
+    "llama_description_pick": "53652"
+  },
+  {
+    "base_cluster": [
+      0,
+      24
+    ],
+    "other_cluster": [
+      0,
+      6
+    ],
+    "group": [
+      "37989",
+      "48780",
+      "31926",
+      "74418",
+      "75880"
+    ],
+    "outlier_id": "75880",
+    "gemma_description_pick": "31926",
+    "llama_description_pick": "31926"
+  },
+  {
+    "base_cluster": [
+      0,
+      24
+    ],
+    "other_cluster": [
+      0,
+      14
+    ],
+    "group": [
+      "48780",
+      "31926",
+      "37989",
+      "74418",
+      "1261"
+    ],
+    "outlier_id": "1261",
+    "gemma_description_pick": "48780",
+    "llama_description_pick": "48780"
+  },
+  {
+    "base_cluster": [
+      19,
+      14
+    ],
+    "other_cluster": [
+      19,
+      18
+    ],
+    "group": [
+      "26703",
+      "72517",
+      "64729",
+      "26372",
+      "74633"
+    ],
+    "outlier_id": "74633",
+    "gemma_description_pick": "64729",
+    "llama_description_pick": "64729"
+  },
+  {
+    "base_cluster": [
+      19,
+      25
+    ],
+    "other_cluster": [
+      19,
+      28
+    ],
+    "group": [
+      "26994",
+      "33749",
+      "59747",
+      "47247",
+      "55589"
+    ],
+    "outlier_id": "55589",
+    "gemma_description_pick": "47247",
+    "llama_description_pick": "47247"
+  },
+  {
+    "base_cluster": [
+      14,
+      9
+    ],
+    "other_cluster": [
+      14,
+      8
+    ],
+    "group": [
+      "40550",
+      "14102",
+      "39708",
+      "26678",
+      "28732"
+    ],
+    "outlier_id": "28732",
+    "gemma_description_pick": "26678",
+    "llama_description_pick": "26678"
+  },
+  {
+    "base_cluster": [
+      5,
+      19
+    ],
+    "other_cluster": [
+      5,
+      22
+    ],
+    "group": [
+      "63077",
+      "10743",
+      "53655",
+      "60473",
+      "7217"
+    ],
+    "outlier_id": "7217",
+    "gemma_description_pick": "60473",
+    "llama_description_pick": "60473"
+  },
+  {
+    "base_cluster": [
+      14,
+      7
+    ],
+    "other_cluster": [
+      14,
+      9
+    ],
+    "group": [
+      "38835",
+      "51393",
+      "25607",
+      "77045",
+      "39708"
+    ],
+    "outlier_id": "39708",
+    "gemma_description_pick": "51393",
+    "llama_description_pick": "51393"
+  },
+  {
+    "base_cluster": [
+      18,
+      25
+    ],
+    "other_cluster": [
+      18,
+      23
+    ],
+    "group": [
+      "73827",
+      "4132",
+      "62071",
+      "3282",
+      "64247"
+    ],
+    "outlier_id": "64247",
+    "gemma_description_pick": "4132",
+    "llama_description_pick": "4132"
+  },
+  {
+    "base_cluster": [
+      0,
+      6
+    ],
+    "other_cluster": [
+      0,
+      0
+    ],
+    "group": [
+      "75880",
+      "43375",
+      "59474",
+      "41154",
+      "14834"
+    ],
+    "outlier_id": "14834",
+    "gemma_description_pick": "75880",
+    "llama_description_pick": "43375"
+  },
+  {
+    "base_cluster": [
+      3,
+      17
+    ],
+    "other_cluster": [
+      3,
+      16
+    ],
+    "group": [
+      "12043",
+      "38478",
+      "64047",
+      "53579",
+      "11746"
+    ],
+    "outlier_id": "11746",
+    "gemma_description_pick": "64047",
+    "llama_description_pick": "64047"
+  },
+  {
+    "base_cluster": [
+      3,
+      17
+    ],
+    "other_cluster": [
+      3,
+      26
+    ],
+    "group": [
+      "64047",
+      "54792",
+      "12043",
+      "38478",
+      "50906"
+    ],
+    "outlier_id": "50906",
+    "gemma_description_pick": "54792",
+    "llama_description_pick": "54792"
+  },
+  {
+    "base_cluster": [
+      19,
+      28
+    ],
+    "other_cluster": [
+      19,
+      25
+    ],
+    "group": [
+      "42272",
+      "52721",
+      "43363",
+      "23197",
+      "47247"
+    ],
+    "outlier_id": "47247",
+    "gemma_description_pick": "23197",
+    "llama_description_pick": "3"
+  },
+  {
+    "base_cluster": [
+      18,
+      23
+    ],
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "59794",
+      "5909",
+      "48306",
+      "72365",
+      "4132"
+    ],
+    "outlier_id": "4132",
+    "gemma_description_pick": "5909",
+    "llama_description_pick": "5909"
+  },
+  {
+    "base_cluster": [
+      19,
+      14
+    ],
+    "other_cluster": [
+      19,
+      10
+    ],
+    "group": [
+      "26703",
+      "64729",
+      "72517",
+      "26372",
+      "21540"
+    ],
+    "outlier_id": "21540",
+    "gemma_description_pick": "72517",
+    "llama_description_pick": "72517"
+  },
+  {
+    "base_cluster": [
+      19,
+      28
+    ],
+    "other_cluster": [
+      19,
+      10
+    ],
+    "group": [
+      "55589",
+      "52721",
+      "23197",
+      "40111",
+      "55791"
+    ],
+    "outlier_id": "55791",
+    "gemma_description_pick": "23197",
+    "llama_description_pick": "23197"
+  },
+  {
+    "base_cluster": [
+      15,
+      28
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "38548",
+      "67905",
+      "10526",
+      "3258",
+      "7489"
+    ],
+    "outlier_id": "7489",
+    "gemma_description_pick": "3258",
+    "llama_description_pick": "7489"
+  },
+  {
+    "base_cluster": [
+      14,
+      8
+    ],
+    "other_cluster": [
+      14,
+      9
+    ],
+    "group": [
+      "46039",
+      "40877",
+      "28732",
+      "39691",
+      "26678"
+    ],
+    "outlier_id": "26678",
+    "gemma_description_pick": "40877",
+    "llama_description_pick": "40877"
+  },
+  {
+    "base_cluster": [
+      3,
+      28
+    ],
+    "other_cluster": [
+      3,
+      12
+    ],
+    "group": [
+      "8257",
+      "55090",
+      "12683",
+      "73823",
+      "27821"
+    ],
+    "outlier_id": "27821",
+    "gemma_description_pick": "27821",
+    "llama_description_pick": "55090"
+  },
+  {
+    "base_cluster": [
+      5,
+      29
+    ],
+    "other_cluster": [
+      5,
+      22
+    ],
+    "group": [
+      "51743",
+      "55950",
+      "52548",
+      "21765",
+      "48795"
+    ],
+    "outlier_id": "48795",
+    "gemma_description_pick": "55950",
+    "llama_description_pick": "55950"
+  },
+  {
+    "base_cluster": [
+      3,
+      26
+    ],
+    "other_cluster": [
+      3,
+      4
+    ],
+    "group": [
+      "72586",
+      "18887",
+      "19246",
+      "68096",
+      "20671"
+    ],
+    "outlier_id": "20671",
+    "gemma_description_pick": "68096",
+    "llama_description_pick": "68096"
+  },
+  {
+    "base_cluster": [
+      17,
+      18
+    ],
+    "other_cluster": [
+      17,
+      21
+    ],
+    "group": [
+      "66935",
+      "6955",
+      "21408",
+      "46660",
+      "69704"
+    ],
+    "outlier_id": "69704",
+    "gemma_description_pick": "6955",
+    "llama_description_pick": null
+  },
+  {
+    "base_cluster": [
+      0,
+      7
+    ],
+    "other_cluster": [
+      0,
+      0
+    ],
+    "group": [
+      "15613",
+      "10984",
+      "65801",
+      "66807",
+      "8176"
+    ],
+    "outlier_id": "8176",
+    "gemma_description_pick": "65801",
+    "llama_description_pick": "65801"
+  },
+  {
+    "base_cluster": [
+      3,
+      3
+    ],
+    "other_cluster": [
+      3,
+      5
+    ],
+    "group": [
+      "30004",
+      "22487",
+      "10131",
+      "994",
+      "64"
+    ],
+    "outlier_id": "64",
+    "gemma_description_pick": "10131",
+    "llama_description_pick": "10131"
+  },
+  {
+    "base_cluster": [
+      9,
+      4
+    ],
+    "other_cluster": [
+      9,
+      26
+    ],
+    "group": [
+      "50510",
+      "79413",
+      "64614",
+      "80219",
+      "7474"
+    ],
+    "outlier_id": "7474",
+    "gemma_description_pick": "7474",
+    "llama_description_pick": "50510"
+  },
+  {
+    "base_cluster": [
+      14,
+      9
+    ],
+    "other_cluster": [
+      14,
+      8
+    ],
+    "group": [
+      "14102",
+      "39708",
+      "40550",
+      "26678",
+      "28732"
+    ],
+    "outlier_id": "28732",
+    "gemma_description_pick": "39708",
+    "llama_description_pick": "39708"
+  },
+  {
+    "base_cluster": [
+      3,
+      5
+    ],
+    "other_cluster": [
+      3,
+      28
+    ],
+    "group": [
+      "63514",
+      "74226",
+      "12162",
+      "64",
+      "42226"
+    ],
+    "outlier_id": "42226",
+    "gemma_description_pick": "42226",
+    "llama_description_pick": "63514"
+  },
+  {
+    "base_cluster": [
+      19,
+      14
+    ],
+    "other_cluster": [
+      19,
+      13
+    ],
+    "group": [
+      "26372",
+      "26703",
+      "72517",
+      "64729",
+      "43396"
+    ],
+    "outlier_id": "43396",
+    "gemma_description_pick": "26372",
+    "llama_description_pick": "26372"
+  },
+  {
+    "base_cluster": [
+      5,
+      19
+    ],
+    "other_cluster": [
+      5,
+      29
+    ],
+    "group": [
+      "51211",
+      "35619",
+      "77183",
+      "54232",
+      "21765"
+    ],
+    "outlier_id": "21765",
+    "gemma_description_pick": "54232",
+    "llama_description_pick": "54232"
+  },
+  {
+    "base_cluster": [
+      14,
+      9
+    ],
+    "other_cluster": [
+      14,
+      8
+    ],
+    "group": [
+      "6508",
+      "14102",
+      "26678",
+      "26506",
+      "39691"
+    ],
+    "outlier_id": "39691",
+    "gemma_description_pick": "26678",
+    "llama_description_pick": "3"
+  },
+  {
+    "base_cluster": [
+      19,
+      10
+    ],
+    "other_cluster": [
+      19,
+      13
+    ],
+    "group": [
+      "25618",
+      "25168",
+      "73023",
+      "21540",
+      "37914"
+    ],
+    "outlier_id": "37914",
+    "gemma_description_pick": "25618",
+    "llama_description_pick": "25618"
+  },
+  {
+    "base_cluster": [
+      19,
+      13
+    ],
+    "other_cluster": [
+      19,
+      8
+    ],
+    "group": [
+      "26354",
+      "35479",
+      "42612",
+      "37914",
+      "19346"
+    ],
+    "outlier_id": "19346",
+    "gemma_description_pick": "42612",
+    "llama_description_pick": "42612"
+  },
+  {
+    "base_cluster": [
+      17,
+      21
+    ],
+    "other_cluster": [
+      17,
+      18
+    ],
+    "group": [
+      "78147",
+      "62454",
+      "40487",
+      "9795",
+      "51240"
+    ],
+    "outlier_id": "51240",
+    "gemma_description_pick": "40487",
+    "llama_description_pick": "40487"
+  },
+  {
+    "base_cluster": [
+      19,
+      13
+    ],
+    "other_cluster": [
+      19,
+      25
+    ],
+    "group": [
+      "42612",
+      "43396",
+      "37914",
+      "26354",
+      "47247"
+    ],
+    "outlier_id": "47247",
+    "gemma_description_pick": "43396",
+    "llama_description_pick": "43396"
+  },
+  {
+    "base_cluster": [
+      14,
+      7
+    ],
+    "other_cluster": [
+      14,
+      8
+    ],
+    "group": [
+      "51393",
+      "38835",
+      "25607",
+      "67483",
+      "28694"
+    ],
+    "outlier_id": "28694",
+    "gemma_description_pick": "38835",
+    "llama_description_pick": "38835"
+  },
+  {
+    "base_cluster": [
+      5,
+      19
+    ],
+    "other_cluster": [
+      5,
+      4
+    ],
+    "group": [
+      "77183",
+      "51211",
+      "35619",
+      "53655",
+      "63485"
+    ],
+    "outlier_id": "63485",
+    "gemma_description_pick": "51211",
+    "llama_description_pick": "77183"
+  },
+  {
+    "base_cluster": [
+      9,
+      3
+    ],
+    "other_cluster": [
+      9,
+      26
+    ],
+    "group": [
+      "9662",
+      "74662",
+      "1268",
+      "64671",
+      "27788"
+    ],
+    "outlier_id": "27788",
+    "gemma_description_pick": "1268",
+    "llama_description_pick": "74662"
+  },
+  {
+    "base_cluster": [
+      3,
+      17
+    ],
+    "other_cluster": [
+      3,
+      16
+    ],
+    "group": [
+      "53579",
+      "64047",
+      "54792",
+      "12043",
+      "11746"
+    ],
+    "outlier_id": "11746",
+    "gemma_description_pick": "54792",
+    "llama_description_pick": "11746"
+  },
+  {
+    "base_cluster": [
+      3,
+      3
+    ],
+    "other_cluster": [
+      3,
+      28
+    ],
+    "group": [
+      "22487",
+      "22002",
+      "10131",
+      "994",
+      "73823"
+    ],
+    "outlier_id": "73823",
+    "gemma_description_pick": "22487",
+    "llama_description_pick": "22487"
+  },
+  {
+    "base_cluster": [
+      7,
+      20
+    ],
+    "other_cluster": [
+      7,
+      1
+    ],
+    "group": [
+      "55305",
+      "2425",
+      "54372",
+      "2277",
+      "16951"
+    ],
+    "outlier_id": "16951",
+    "gemma_description_pick": "16951",
+    "llama_description_pick": "16951"
+  },
+  {
+    "base_cluster": [
+      3,
+      16
+    ],
+    "other_cluster": [
+      3,
+      4
+    ],
+    "group": [
+      "63317",
+      "59100",
+      "11746",
+      "177",
+      "9383"
+    ],
+    "outlier_id": "9383",
+    "gemma_description_pick": "11746",
+    "llama_description_pick": "9383"
+  },
+  {
+    "base_cluster": [
+      14,
+      7
+    ],
+    "other_cluster": [
+      14,
+      9
+    ],
+    "group": [
+      "51393",
+      "25607",
+      "77045",
+      "67483",
+      "14102"
+    ],
+    "outlier_id": "14102",
+    "gemma_description_pick": "25607",
+    "llama_description_pick": "25607"
+  },
+  {
+    "base_cluster": [
+      5,
+      4
+    ],
+    "other_cluster": [
+      5,
+      29
+    ],
+    "group": [
+      "51114",
+      "63485",
+      "70560",
+      "35725",
+      "55950"
+    ],
+    "outlier_id": "55950",
+    "gemma_description_pick": "35725",
+    "llama_description_pick": "35725"
+  },
+  {
+    "base_cluster": [
+      0,
+      24
+    ],
+    "other_cluster": [
+      0,
+      7
+    ],
+    "group": [
+      "48780",
+      "37989",
+      "31926",
+      "74418",
+      "10984"
+    ],
+    "outlier_id": "10984",
+    "gemma_description_pick": "37989",
+    "llama_description_pick": "10984"
+  },
+  {
+    "base_cluster": [
+      0,
+      0
+    ],
+    "other_cluster": [
+      0,
+      6
+    ],
+    "group": [
+      "78009",
+      "8176",
+      "28082",
+      "14834",
+      "43036"
+    ],
+    "outlier_id": "43036",
+    "gemma_description_pick": "78009",
+    "llama_description_pick": "78009"
+  },
+  {
+    "base_cluster": [
+      19,
+      8
+    ],
+    "other_cluster": [
+      19,
+      14
+    ],
+    "group": [
+      "19346",
+      "6777",
+      "71082",
+      "36396",
+      "26703"
+    ],
+    "outlier_id": "26703",
+    "gemma_description_pick": "26703",
+    "llama_description_pick": "71082"
+  },
+  {
+    "base_cluster": [
+      5,
+      4
+    ],
+    "other_cluster": [
+      5,
+      19
+    ],
+    "group": [
+      "70560",
+      "63485",
+      "2004",
+      "53032",
+      "49189"
+    ],
+    "outlier_id": "49189",
+    "gemma_description_pick": "70560",
+    "llama_description_pick": "53032"
+  },
+  {
+    "base_cluster": [
+      9,
+      3
+    ],
+    "other_cluster": [
+      9,
+      11
+    ],
+    "group": [
+      "9662",
+      "14914",
+      "64671",
+      "1268",
+      "52758"
+    ],
+    "outlier_id": "52758",
+    "gemma_description_pick": "1268",
+    "llama_description_pick": "14914"
+  },
+  {
+    "base_cluster": [
+      5,
+      22
+    ],
+    "other_cluster": [
+      5,
+      19
+    ],
+    "group": [
+      "48795",
+      "57572",
+      "7217",
+      "77349",
+      "49189"
+    ],
+    "outlier_id": "49189",
+    "gemma_description_pick": "48795",
+    "llama_description_pick": "48795"
+  },
+  {
+    "base_cluster": [
+      19,
+      8
+    ],
+    "other_cluster": [
+      19,
+      13
+    ],
+    "group": [
+      "6777",
+      "36396",
+      "71082",
+      "19346",
+      "42612"
+    ],
+    "outlier_id": "42612",
+    "gemma_description_pick": "42612",
+    "llama_description_pick": "42612"
+  },
+  {
+    "base_cluster": [
+      7,
+      3
+    ],
+    "other_cluster": [
+      7,
+      20
+    ],
+    "group": [
+      "75828",
+      "52457",
+      "64781",
+      "61767",
+      "2277"
+    ],
+    "outlier_id": "2277",
+    "gemma_description_pick": "2277",
+    "llama_description_pick": "64781"
+  },
+  {
+    "base_cluster": [
+      17,
+      5
+    ],
+    "other_cluster": [
+      17,
+      18
+    ],
+    "group": [
+      "33045",
+      "7913",
+      "50221",
+      "72055",
+      "66935"
+    ],
+    "outlier_id": "66935",
+    "gemma_description_pick": "7913",
+    "llama_description_pick": "72055"
+  },
+  {
+    "base_cluster": [
+      3,
+      12
+    ],
+    "other_cluster": [
+      3,
+      28
+    ],
+    "group": [
+      "37955",
+      "27821",
+      "20968",
+      "1181",
+      "8257"
+    ],
+    "outlier_id": "8257",
+    "gemma_description_pick": "1181",
+    "llama_description_pick": "1181"
+  },
+  {
+    "base_cluster": [
+      3,
+      7
+    ],
+    "other_cluster": [
+      3,
+      21
+    ],
+    "group": [
+      "73164",
+      "4286",
+      "19796",
+      "19992",
+      "57272"
+    ],
+    "outlier_id": "57272",
+    "gemma_description_pick": "4286",
+    "llama_description_pick": "4286"
+  },
+  {
+    "base_cluster": [
+      7,
+      22
+    ],
+    "other_cluster": [
+      7,
+      1
+    ],
+    "group": [
+      "79411",
+      "40679",
+      "23132",
+      "31113",
+      "3536"
+    ],
+    "outlier_id": "3536",
+    "gemma_description_pick": "3536",
+    "llama_description_pick": "3536"
+  },
+  {
+    "base_cluster": [
+      3,
+      5
+    ],
+    "other_cluster": [
+      3,
+      21
+    ],
+    "group": [
+      "63514",
+      "74226",
+      "64",
+      "12162",
+      "14038"
+    ],
+    "outlier_id": "14038",
+    "gemma_description_pick": "63514",
+    "llama_description_pick": "74226"
+  },
+  {
+    "base_cluster": [
+      17,
+      18
+    ],
+    "other_cluster": [
+      17,
+      21
+    ],
+    "group": [
+      "31693",
+      "51240",
+      "6955",
+      "66316",
+      "78147"
+    ],
+    "outlier_id": "78147",
+    "gemma_description_pick": "31693",
+    "llama_description_pick": "66316"
+  },
+  {
+    "base_cluster": [
+      18,
+      25
+    ],
+    "other_cluster": [
+      18,
+      23
+    ],
+    "group": [
+      "62071",
+      "3282",
+      "25711",
+      "73827",
+      "61353"
+    ],
+    "outlier_id": "61353",
+    "gemma_description_pick": "3282",
+    "llama_description_pick": "3282"
+  },
+  {
+    "base_cluster": [
+      17,
+      18
+    ],
+    "other_cluster": [
+      17,
+      21
+    ],
+    "group": [
+      "31693",
+      "51240",
+      "6955",
+      "46660",
+      "69704"
+    ],
+    "outlier_id": "69704",
+    "gemma_description_pick": "69704",
+    "llama_description_pick": null
+  },
+  {
+    "base_cluster": [
+      19,
+      8
+    ],
+    "other_cluster": [
+      19,
+      13
+    ],
+    "group": [
+      "6777",
+      "19346",
+      "36396",
+      "71082",
+      "43396"
+    ],
+    "outlier_id": "43396",
+    "gemma_description_pick": "36396",
+    "llama_description_pick": "36396"
+  },
+  {
+    "base_cluster": [
+      14,
+      8
+    ],
+    "other_cluster": [
+      14,
+      7
+    ],
+    "group": [
+      "46039",
+      "40877",
+      "28694",
+      "28732",
+      "25607"
+    ],
+    "outlier_id": "25607",
+    "gemma_description_pick": "46039",
+    "llama_description_pick": "46039"
+  },
+  {
+    "base_cluster": [
+      7,
+      22
+    ],
+    "other_cluster": [
+      7,
+      20
+    ],
+    "group": [
+      "31113",
+      "79411",
+      "23132",
+      "40679",
+      "2277"
+    ],
+    "outlier_id": "2277",
+    "gemma_description_pick": "40679",
+    "llama_description_pick": "40679"
+  },
+  {
+    "base_cluster": [
+      5,
+      4
+    ],
+    "other_cluster": [
+      5,
+      22
+    ],
+    "group": [
+      "63485",
+      "62609",
+      "51114",
+      "27706",
+      "40863"
+    ],
+    "outlier_id": "40863",
+    "gemma_description_pick": "63485",
+    "llama_description_pick": "51114"
+  },
+  {
+    "base_cluster": [
+      14,
+      8
+    ],
+    "other_cluster": [
+      14,
+      9
+    ],
+    "group": [
+      "46039",
+      "39691",
+      "28694",
+      "28732",
+      "40550"
+    ],
+    "outlier_id": "40550",
+    "gemma_description_pick": "28694",
+    "llama_description_pick": "28694"
+  },
+  {
+    "base_cluster": [
+      3,
+      12
+    ],
+    "other_cluster": [
+      3,
+      7
+    ],
+    "group": [
+      "1181",
+      "20968",
+      "27821",
+      "37955",
+      "4286"
+    ],
+    "outlier_id": "4286",
+    "gemma_description_pick": "37955",
+    "llama_description_pick": "20968"
+  },
+  {
+    "base_cluster": [
+      15,
+      17
+    ],
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "47834",
+      "1225",
+      "60915",
+      "11908",
+      "23274"
+    ],
+    "outlier_id": "23274",
+    "gemma_description_pick": "47834",
+    "llama_description_pick": "60915"
+  },
+  {
+    "base_cluster": [
+      19,
+      18
+    ],
+    "other_cluster": [
+      19,
+      5
+    ],
+    "group": [
+      "41277",
+      "36535",
+      "74633",
+      "58616",
+      "17017"
+    ],
+    "outlier_id": "17017",
+    "gemma_description_pick": "74633",
+    "llama_description_pick": "74633"
+  },
+  {
+    "base_cluster": [
+      5,
+      19
+    ],
+    "other_cluster": [
+      5,
+      29
+    ],
+    "group": [
+      "49189",
+      "63077",
+      "35619",
+      "54232",
+      "21765"
+    ],
+    "outlier_id": "21765",
+    "gemma_description_pick": "35619",
+    "llama_description_pick": "21765"
+  },
+  {
+    "base_cluster": [
+      3,
+      28
+    ],
+    "other_cluster": [
+      3,
+      26
+    ],
+    "group": [
+      "73823",
+      "12683",
+      "8257",
+      "55090",
+      "40031"
+    ],
+    "outlier_id": "40031",
+    "gemma_description_pick": "55090",
+    "llama_description_pick": "55090"
+  },
+  {
+    "base_cluster": [
+      3,
+      5
+    ],
+    "other_cluster": [
+      3,
+      3
+    ],
+    "group": [
+      "64",
+      "74226",
+      "63514",
+      "12162",
+      "22002"
+    ],
+    "outlier_id": "22002",
+    "gemma_description_pick": "22002",
+    "llama_description_pick": "22002"
+  },
+  {
+    "base_cluster": [
+      17,
+      18
+    ],
+    "other_cluster": [
+      17,
+      21
+    ],
+    "group": [
+      "46660",
+      "31693",
+      "51240",
+      "70105",
+      "69704"
+    ],
+    "outlier_id": "69704",
+    "gemma_description_pick": "46660",
+    "llama_description_pick": "46660"
+  },
+  {
+    "base_cluster": [
+      3,
+      17
+    ],
+    "other_cluster": [
+      3,
+      12
+    ],
+    "group": [
+      "64047",
+      "12043",
+      "54792",
+      "33084",
+      "1181"
+    ],
+    "outlier_id": "1181",
+    "gemma_description_pick": "54792",
+    "llama_description_pick": "1181"
+  },
+  {
+    "base_cluster": [
+      17,
+      18
+    ],
+    "other_cluster": [
+      17,
+      5
+    ],
+    "group": [
+      "66935",
+      "21408",
+      "21543",
+      "6955",
+      "33045"
+    ],
+    "outlier_id": "33045",
+    "gemma_description_pick": "66935",
+    "llama_description_pick": "66935"
+  },
+  {
+    "base_cluster": [
+      17,
+      5
+    ],
+    "other_cluster": [
+      17,
+      21
+    ],
+    "group": [
+      "7913",
+      "72055",
+      "50221",
+      "33045",
+      "78147"
+    ],
+    "outlier_id": "78147",
+    "gemma_description_pick": "50221",
+    "llama_description_pick": "50221"
+  },
+  {
+    "base_cluster": [
+      3,
+      4
+    ],
+    "other_cluster": [
+      3,
+      17
+    ],
+    "group": [
+      "20671",
+      "35787",
+      "9383",
+      "11039",
+      "64047"
+    ],
+    "outlier_id": "64047",
+    "gemma_description_pick": "11039",
+    "llama_description_pick": "11039"
+  },
+  {
+    "base_cluster": [
+      14,
+      8
+    ],
+    "other_cluster": [
+      14,
+      9
+    ],
+    "group": [
+      "46039",
+      "28694",
+      "40877",
+      "39691",
+      "40550"
+    ],
+    "outlier_id": "40550",
+    "gemma_description_pick": "39691",
+    "llama_description_pick": "39691"
+  },
+  {
+    "base_cluster": [
+      19,
+      13
+    ],
+    "other_cluster": [
+      19,
+      28
+    ],
+    "group": [
+      "35479",
+      "43396",
+      "42612",
+      "43324",
+      "42272"
+    ],
+    "outlier_id": "42272",
+    "gemma_description_pick": "43396",
+    "llama_description_pick": "43396"
+  },
+  {
+    "base_cluster": [
+      14,
+      9
+    ],
+    "other_cluster": [
+      14,
+      7
+    ],
+    "group": [
+      "14102",
+      "39708",
+      "40550",
+      "26678",
+      "77045"
+    ],
+    "outlier_id": "77045",
+    "gemma_description_pick": "39708",
+    "llama_description_pick": "39708"
+  },
+  {
+    "base_cluster": [
+      3,
+      7
+    ],
+    "other_cluster": [
+      3,
+      17
+    ],
+    "group": [
+      "30859",
+      "19992",
+      "73164",
+      "19796",
+      "64047"
+    ],
+    "outlier_id": "64047",
+    "gemma_description_pick": "19992",
+    "llama_description_pick": "64047"
+  },
+  {
+    "base_cluster": [
+      7,
+      22
+    ],
+    "other_cluster": [
+      7,
+      3
+    ],
+    "group": [
+      "40679",
+      "79411",
+      "31113",
+      "23132",
+      "64781"
+    ],
+    "outlier_id": "64781",
+    "gemma_description_pick": "79411",
+    "llama_description_pick": "79411"
+  },
+  {
+    "base_cluster": [
+      9,
+      26
+    ],
+    "other_cluster": [
+      9,
+      11
+    ],
+    "group": [
+      "23716",
+      "7474",
+      "6759",
+      "50181",
+      "335"
+    ],
+    "outlier_id": "335",
+    "gemma_description_pick": "23716",
+    "llama_description_pick": "23716"
+  },
+  {
+    "base_cluster": [
+      14,
+      7
+    ],
+    "other_cluster": [
+      14,
+      8
+    ],
+    "group": [
+      "51393",
+      "67483",
+      "25607",
+      "38835",
+      "28694"
+    ],
+    "outlier_id": "28694",
+    "gemma_description_pick": "28694",
+    "llama_description_pick": "25607"
+  },
+  {
+    "base_cluster": [
+      7,
+      22
+    ],
+    "other_cluster": [
+      7,
+      1
+    ],
+    "group": [
+      "79411",
+      "31113",
+      "23132",
+      "40679",
+      "12421"
+    ],
+    "outlier_id": "12421",
+    "gemma_description_pick": "23132",
+    "llama_description_pick": "23132"
+  },
+  {
+    "base_cluster": [
+      3,
+      17
+    ],
+    "other_cluster": [
+      3,
+      3
+    ],
+    "group": [
+      "38478",
+      "54792",
+      "12043",
+      "53579",
+      "30004"
+    ],
+    "outlier_id": "30004",
+    "gemma_description_pick": "30004",
+    "llama_description_pick": "30004"
+  },
+  {
+    "base_cluster": [
+      15,
+      13
+    ],
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "68970",
+      "34763",
+      "25079",
+      "42684",
+      "67905"
+    ],
+    "outlier_id": "67905",
+    "gemma_description_pick": "67905",
+    "llama_description_pick": "67905"
+  },
+  {
+    "base_cluster": [
+      7,
+      1
+    ],
+    "other_cluster": [
+      7,
+      20
+    ],
+    "group": [
+      "12421",
+      "8109",
+      "16951",
+      "53652",
+      "55305"
+    ],
+    "outlier_id": "55305",
+    "gemma_description_pick": "55305",
+    "llama_description_pick": "55305"
+  },
+  {
+    "base_cluster": [
+      15,
+      13
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "24364",
+      "20590",
+      "53137",
+      "68970",
+      "3384"
+    ],
+    "outlier_id": "3384",
+    "gemma_description_pick": "53137",
+    "llama_description_pick": "53137"
+  },
+  {
+    "base_cluster": [
+      14,
+      7
+    ],
+    "other_cluster": [
+      14,
+      9
+    ],
+    "group": [
+      "25607",
+      "67483",
+      "51393",
+      "77045",
+      "26678"
+    ],
+    "outlier_id": "26678",
+    "gemma_description_pick": "25607",
+    "llama_description_pick": "25607"
+  },
+  {
+    "base_cluster": [
+      17,
+      21
+    ],
+    "other_cluster": [
+      17,
+      18
+    ],
+    "group": [
+      "69704",
+      "40487",
+      "62549",
+      "62454",
+      "6955"
+    ],
+    "outlier_id": "6955",
+    "gemma_description_pick": "40487",
+    "llama_description_pick": "6955"
+  }
+]
