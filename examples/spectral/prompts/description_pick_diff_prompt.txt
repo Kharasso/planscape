@@ -7,7 +7,7 @@ Example {i}:
 
 {description}
 
-After looking reading these descriptions, pay attention to spatial relationships between the rooms, their types, and size. 
+After reading these descriptions, pay attention to spatial relationships between the rooms, their types, and size. 
 Based on these examples, can you identify the example that has a different floorplan from the others? 
 Please also tell me why this one is picked, based on what features?
 

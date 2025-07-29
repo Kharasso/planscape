@@ -1,0 +1,1602 @@
+[
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      0,
+      0
+    ],
+    "group": [
+      "12683",
+      "64047",
+      "12043",
+      "59100",
+      "8176"
+    ],
+    "outlier_id": "8176",
+    "llama_description_pick": "64047"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      3,
+      26
+    ],
+    "group": [
+      "73023",
+      "26372",
+      "55314",
+      "63902",
+      "49864"
+    ],
+    "outlier_id": "49864",
+    "llama_description_pick": "73023"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      3,
+      5
+    ],
+    "group": [
+      "62759",
+      "63508",
+      "78009",
+      "44802",
+      "63514"
+    ],
+    "outlier_id": "63514",
+    "llama_description_pick": "78009"
+  },
+  {
+    "base_cluster": 15,
+    "other_cluster": [
+      9,
+      3
+    ],
+    "group": [
+      "67905",
+      "34763",
+      "24364",
+      "1225",
+      "74662"
+    ],
+    "outlier_id": "74662",
+    "llama_description_pick": "1225"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      7,
+      1
+    ],
+    "group": [
+      "1064",
+      "54792",
+      "73823",
+      "55090",
+      "17550"
+    ],
+    "outlier_id": "17550",
+    "llama_description_pick": "55090"
+  },
+  {
+    "base_cluster": 14,
+    "other_cluster": [
+      19,
+      13
+    ],
+    "group": [
+      "6508",
+      "77045",
+      "25607",
+      "28732",
+      "26354"
+    ],
+    "outlier_id": "26354",
+    "llama_description_pick": "25607"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      3,
+      5
+    ],
+    "group": [
+      "74633",
+      "41277",
+      "71082",
+      "59747",
+      "64"
+    ],
+    "outlier_id": "64",
+    "llama_description_pick": "41277"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      9,
+      26
+    ],
+    "group": [
+      "70440",
+      "10984",
+      "43995",
+      "37989",
+      "7474"
+    ],
+    "outlier_id": "7474",
+    "llama_description_pick": "43995"
+  },
+  {
+    "base_cluster": 18,
+    "other_cluster": [
+      19,
+      28
+    ],
+    "group": [
+      "3282",
+      "15451",
+      "65195",
+      "61353",
+      "43363"
+    ],
+    "outlier_id": "43363",
+    "llama_description_pick": "61353"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      14,
+      9
+    ],
+    "group": [
+      "37963",
+      "48095",
+      "27625",
+      "43995",
+      "26678"
+    ],
+    "outlier_id": "26678",
+    "llama_description_pick": "48095"
+  },
+  {
+    "base_cluster": 9,
+    "other_cluster": [
+      7,
+      3
+    ],
+    "group": [
+      "64671",
+      "1268",
+      "74662",
+      "23716",
+      "52457"
+    ],
+    "outlier_id": "52457",
+    "llama_description_pick": "52457"
+  },
+  {
+    "base_cluster": 17,
+    "other_cluster": [
+      14,
+      8
+    ],
+    "group": [
+      "62549",
+      "69704",
+      "46660",
+      "50221",
+      "46039"
+    ],
+    "outlier_id": "46039",
+    "llama_description_pick": "62549"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      3,
+      4
+    ],
+    "group": [
+      "26372",
+      "74633",
+      "76431",
+      "43324",
+      "11039"
+    ],
+    "outlier_id": "11039",
+    "llama_description_pick": "11039"
+  },
+  {
+    "base_cluster": 9,
+    "other_cluster": [
+      7,
+      1
+    ],
+    "group": [
+      "15606",
+      "61914",
+      "30907",
+      "23716",
+      "12376"
+    ],
+    "outlier_id": "12376",
+    "llama_description_pick": "30907"
+  },
+  {
+    "base_cluster": 15,
+    "other_cluster": [
+      9,
+      3
+    ],
+    "group": [
+      "38548",
+      "1225",
+      "7489",
+      "23274",
+      "9662"
+    ],
+    "outlier_id": "9662",
+    "llama_description_pick": "1225"
+  },
+  {
+    "base_cluster": 15,
+    "other_cluster": [
+      19,
+      28
+    ],
+    "group": [
+      "34763",
+      "60915",
+      "3258",
+      "47834",
+      "23197"
+    ],
+    "outlier_id": "23197",
+    "llama_description_pick": "60915"
+  },
+  {
+    "base_cluster": 15,
+    "other_cluster": [
+      7,
+      1
+    ],
+    "group": [
+      "11908",
+      "25079",
+      "20839",
+      "10526",
+      "53652"
+    ],
+    "outlier_id": "53652",
+    "llama_description_pick": "53652"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      5,
+      29
+    ],
+    "group": [
+      "55090",
+      "18887",
+      "74226",
+      "50906",
+      "52548"
+    ],
+    "outlier_id": "52548",
+    "llama_description_pick": "55090"
+  },
+  {
+    "base_cluster": 9,
+    "other_cluster": [
+      3,
+      26
+    ],
+    "group": [
+      "23716",
+      "52758",
+      "27788",
+      "1268",
+      "34449"
+    ],
+    "outlier_id": "34449",
+    "llama_description_pick": "27788"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      7,
+      1
+    ],
+    "group": [
+      "36396",
+      "35479",
+      "37914",
+      "55791",
+      "17550"
+    ],
+    "outlier_id": "17550",
+    "llama_description_pick": "55791"
+  },
+  {
+    "base_cluster": 5,
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "2004",
+      "52548",
+      "18711",
+      "10743",
+      "10526"
+    ],
+    "outlier_id": "10526",
+    "llama_description_pick": "10526"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      0,
+      24
+    ],
+    "group": [
+      "40111",
+      "33749",
+      "29042",
+      "26354",
+      "37989"
+    ],
+    "outlier_id": "37989",
+    "llama_description_pick": "26354"
+  },
+  {
+    "base_cluster": 18,
+    "other_cluster": [
+      5,
+      4
+    ],
+    "group": [
+      "25667",
+      "65195",
+      "15451",
+      "26755",
+      "62609"
+    ],
+    "outlier_id": "62609",
+    "llama_description_pick": "65195"
+  },
+  {
+    "base_cluster": 15,
+    "other_cluster": [
+      14,
+      9
+    ],
+    "group": [
+      "24364",
+      "7489",
+      "3384",
+      "1225",
+      "14102"
+    ],
+    "outlier_id": "14102",
+    "llama_description_pick": "1225"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      9,
+      3
+    ],
+    "group": [
+      "78009",
+      "75880",
+      "43375",
+      "44802",
+      "1268"
+    ],
+    "outlier_id": "1268",
+    "llama_description_pick": "43375"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      0,
+      0
+    ],
+    "group": [
+      "74633",
+      "76431",
+      "64729",
+      "58616",
+      "14834"
+    ],
+    "outlier_id": "14834",
+    "llama_description_pick": "74633"
+  },
+  {
+    "base_cluster": 7,
+    "other_cluster": [
+      3,
+      17
+    ],
+    "group": [
+      "3536",
+      "79411",
+      "23132",
+      "10825",
+      "53579"
+    ],
+    "outlier_id": "53579",
+    "llama_description_pick": "3536"
+  },
+  {
+    "base_cluster": 15,
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "42684",
+      "38548",
+      "53137",
+      "60915",
+      "62071"
+    ],
+    "outlier_id": "62071",
+    "llama_description_pick": "60915"
+  },
+  {
+    "base_cluster": 5,
+    "other_cluster": [
+      19,
+      14
+    ],
+    "group": [
+      "53655",
+      "10743",
+      "77349",
+      "27706",
+      "26372"
+    ],
+    "outlier_id": "26372",
+    "llama_description_pick": "77349"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      5,
+      19
+    ],
+    "group": [
+      "11033",
+      "54792",
+      "9147",
+      "177",
+      "51211"
+    ],
+    "outlier_id": "51211",
+    "llama_description_pick": "9147"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      17,
+      5
+    ],
+    "group": [
+      "32703",
+      "63508",
+      "60860",
+      "49395",
+      "7913"
+    ],
+    "outlier_id": "7913",
+    "llama_description_pick": "49395"
+  },
+  {
+    "base_cluster": 18,
+    "other_cluster": [
+      7,
+      1
+    ],
+    "group": [
+      "26052",
+      "4132",
+      "73827",
+      "20502",
+      "10825"
+    ],
+    "outlier_id": "10825",
+    "llama_description_pick": "73827"
+  },
+  {
+    "base_cluster": 5,
+    "other_cluster": [
+      19,
+      25
+    ],
+    "group": [
+      "54232",
+      "63077",
+      "35619",
+      "21765",
+      "26994"
+    ],
+    "outlier_id": "26994",
+    "llama_description_pick": "26994"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      9,
+      26
+    ],
+    "group": [
+      "9147",
+      "63514",
+      "40031",
+      "33084",
+      "7474"
+    ],
+    "outlier_id": "7474",
+    "llama_description_pick": "40031"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      5,
+      19
+    ],
+    "group": [
+      "59474",
+      "15613",
+      "17291",
+      "9639",
+      "60473"
+    ],
+    "outlier_id": "60473",
+    "llama_description_pick": "60473"
+  },
+  {
+    "base_cluster": 7,
+    "other_cluster": [
+      0,
+      24
+    ],
+    "group": [
+      "10825",
+      "61767",
+      "12376",
+      "12421",
+      "31926"
+    ],
+    "outlier_id": "31926",
+    "llama_description_pick": "12376"
+  },
+  {
+    "base_cluster": 9,
+    "other_cluster": [
+      0,
+      7
+    ],
+    "group": [
+      "64614",
+      "74662",
+      "15606",
+      "64671",
+      "66807"
+    ],
+    "outlier_id": "66807",
+    "llama_description_pick": "64614"
+  },
+  {
+    "base_cluster": 9,
+    "other_cluster": [
+      3,
+      26
+    ],
+    "group": [
+      "74662",
+      "80219",
+      "41897",
+      "23716",
+      "19246"
+    ],
+    "outlier_id": "19246",
+    "llama_description_pick": "41897"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "26994",
+      "73023",
+      "74633",
+      "25618",
+      "25711"
+    ],
+    "outlier_id": "25711",
+    "llama_description_pick": "73023"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      17,
+      5
+    ],
+    "group": [
+      "59952",
+      "35149",
+      "26703",
+      "30721",
+      "50221"
+    ],
+    "outlier_id": "50221",
+    "llama_description_pick": "50221"
+  },
+  {
+    "base_cluster": 15,
+    "other_cluster": [
+      7,
+      3
+    ],
+    "group": [
+      "68970",
+      "11908",
+      "53137",
+      "1225",
+      "61767"
+    ],
+    "outlier_id": "61767",
+    "llama_description_pick": "1225"
+  },
+  {
+    "base_cluster": 7,
+    "other_cluster": [
+      5,
+      22
+    ],
+    "group": [
+      "12376",
+      "79411",
+      "8109",
+      "2277",
+      "57572"
+    ],
+    "outlier_id": "57572",
+    "llama_description_pick": "8109"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      5,
+      29
+    ],
+    "group": [
+      "35479",
+      "25168",
+      "42272",
+      "26994",
+      "18711"
+    ],
+    "outlier_id": "18711",
+    "llama_description_pick": "42272"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      0,
+      14
+    ],
+    "group": [
+      "18887",
+      "55090",
+      "54792",
+      "37955",
+      "17291"
+    ],
+    "outlier_id": "17291",
+    "llama_description_pick": "18887"
+  },
+  {
+    "base_cluster": 9,
+    "other_cluster": [
+      0,
+      2
+    ],
+    "group": [
+      "9662",
+      "1268",
+      "80219",
+      "41897",
+      "80744"
+    ],
+    "outlier_id": "80744",
+    "llama_description_pick": "9662"
+  },
+  {
+    "base_cluster": 17,
+    "other_cluster": [
+      9,
+      3
+    ],
+    "group": [
+      "9795",
+      "33045",
+      "31693",
+      "62454",
+      "9662"
+    ],
+    "outlier_id": "9662",
+    "llama_description_pick": "62454"
+  },
+  {
+    "base_cluster": 7,
+    "other_cluster": [
+      3,
+      17
+    ],
+    "group": [
+      "40679",
+      "54372",
+      "17550",
+      "61767",
+      "54792"
+    ],
+    "outlier_id": "54792",
+    "llama_description_pick": "54372"
+  },
+  {
+    "base_cluster": 18,
+    "other_cluster": [
+      5,
+      29
+    ],
+    "group": [
+      "78682",
+      "14167",
+      "32105",
+      "25667",
+      "18711"
+    ],
+    "outlier_id": "18711",
+    "llama_description_pick": "14167"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      3,
+      17
+    ],
+    "group": [
+      "55086",
+      "33749",
+      "52721",
+      "25168",
+      "38478"
+    ],
+    "outlier_id": "38478",
+    "llama_description_pick": "38478"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      9,
+      3
+    ],
+    "group": [
+      "60860",
+      "25447",
+      "43995",
+      "48095",
+      "14914"
+    ],
+    "outlier_id": "14914",
+    "llama_description_pick": "25447"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      5,
+      29
+    ],
+    "group": [
+      "19796",
+      "1181",
+      "8257",
+      "20968",
+      "57316"
+    ],
+    "outlier_id": "57316",
+    "llama_description_pick": "8257"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      14,
+      8
+    ],
+    "group": [
+      "31926",
+      "43629",
+      "32703",
+      "60860",
+      "28694"
+    ],
+    "outlier_id": "28694",
+    "llama_description_pick": "60860"
+  },
+  {
+    "base_cluster": 9,
+    "other_cluster": [
+      19,
+      5
+    ],
+    "group": [
+      "50181",
+      "7474",
+      "4186",
+      "74662",
+      "76431"
+    ],
+    "outlier_id": "76431",
+    "llama_description_pick": "74662"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      4,
+      27
+    ],
+    "group": [
+      "43324",
+      "49556",
+      "71082",
+      "36535",
+      "77515"
+    ],
+    "outlier_id": "77515",
+    "llama_description_pick": "49556"
+  },
+  {
+    "base_cluster": 14,
+    "other_cluster": [
+      19,
+      10
+    ],
+    "group": [
+      "28732",
+      "26506",
+      "40877",
+      "6508",
+      "55791"
+    ],
+    "outlier_id": "55791",
+    "llama_description_pick": "26506"
+  },
+  {
+    "base_cluster": 15,
+    "other_cluster": [
+      5,
+      19
+    ],
+    "group": [
+      "38548",
+      "67905",
+      "25079",
+      "34763",
+      "54232"
+    ],
+    "outlier_id": "54232",
+    "llama_description_pick": "67905"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      3,
+      7
+    ],
+    "group": [
+      "63902",
+      "59952",
+      "36396",
+      "42272",
+      "73164"
+    ],
+    "outlier_id": "73164",
+    "llama_description_pick": "42272"
+  },
+  {
+    "base_cluster": 7,
+    "other_cluster": [
+      3,
+      4
+    ],
+    "group": [
+      "40679",
+      "10825",
+      "3536",
+      "17550",
+      "11039"
+    ],
+    "outlier_id": "11039",
+    "llama_description_pick": "3536"
+  },
+  {
+    "base_cluster": 18,
+    "other_cluster": [
+      0,
+      7
+    ],
+    "group": [
+      "64148",
+      "48306",
+      "4132",
+      "67584",
+      "72266"
+    ],
+    "outlier_id": "72266",
+    "llama_description_pick": "72266"
+  },
+  {
+    "base_cluster": 7,
+    "other_cluster": [
+      14,
+      7
+    ],
+    "group": [
+      "54372",
+      "23132",
+      "3536",
+      "12376",
+      "38835"
+    ],
+    "outlier_id": "38835",
+    "llama_description_pick": "3"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      4,
+      27
+    ],
+    "group": [
+      "9147",
+      "37907",
+      "10017",
+      "55090",
+      "5222"
+    ],
+    "outlier_id": "5222",
+    "llama_description_pick": "37907"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      3,
+      28
+    ],
+    "group": [
+      "17291",
+      "25447",
+      "28242",
+      "60860",
+      "42226"
+    ],
+    "outlier_id": "42226",
+    "llama_description_pick": "25447"
+  },
+  {
+    "base_cluster": 5,
+    "other_cluster": [
+      19,
+      5
+    ],
+    "group": [
+      "77183",
+      "53032",
+      "51743",
+      "40863",
+      "63902"
+    ],
+    "outlier_id": "63902",
+    "llama_description_pick": "53032"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      15,
+      13
+    ],
+    "group": [
+      "43629",
+      "62759",
+      "75880",
+      "43375",
+      "34763"
+    ],
+    "outlier_id": "34763",
+    "llama_description_pick": "34763"
+  },
+  {
+    "base_cluster": 14,
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "40877",
+      "25607",
+      "40550",
+      "39708",
+      "25711"
+    ],
+    "outlier_id": "25711",
+    "llama_description_pick": "25711"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "75880",
+      "70440",
+      "44802",
+      "37989",
+      "10526"
+    ],
+    "outlier_id": "10526",
+    "llama_description_pick": "75880"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      17,
+      18
+    ],
+    "group": [
+      "35149",
+      "43324",
+      "41277",
+      "73023",
+      "31693"
+    ],
+    "outlier_id": "31693",
+    "llama_description_pick": "41277"
+  },
+  {
+    "base_cluster": 15,
+    "other_cluster": [
+      3,
+      3
+    ],
+    "group": [
+      "47834",
+      "7489",
+      "60915",
+      "53137",
+      "72700"
+    ],
+    "outlier_id": "72700",
+    "llama_description_pick": "60915"
+  },
+  {
+    "base_cluster": 5,
+    "other_cluster": [
+      9,
+      26
+    ],
+    "group": [
+      "57316",
+      "27706",
+      "51743",
+      "48795",
+      "23716"
+    ],
+    "outlier_id": "23716",
+    "llama_description_pick": "23716"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      15,
+      13
+    ],
+    "group": [
+      "72346",
+      "52721",
+      "71082",
+      "33749",
+      "24364"
+    ],
+    "outlier_id": "24364",
+    "llama_description_pick": "33749"
+  },
+  {
+    "base_cluster": 17,
+    "other_cluster": [
+      7,
+      3
+    ],
+    "group": [
+      "62549",
+      "21408",
+      "69704",
+      "6955",
+      "52457"
+    ],
+    "outlier_id": "52457",
+    "llama_description_pick": "52457"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      7,
+      3
+    ],
+    "group": [
+      "49864",
+      "73823",
+      "177",
+      "27821",
+      "61767"
+    ],
+    "outlier_id": "61767",
+    "llama_description_pick": "73823"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      7,
+      22
+    ],
+    "group": [
+      "38478",
+      "4286",
+      "9147",
+      "994",
+      "23132"
+    ],
+    "outlier_id": "23132",
+    "llama_description_pick": "994"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      3,
+      4
+    ],
+    "group": [
+      "76431",
+      "26372",
+      "37914",
+      "42272",
+      "20671"
+    ],
+    "outlier_id": "20671",
+    "llama_description_pick": "26372"
+  },
+  {
+    "base_cluster": 18,
+    "other_cluster": [
+      19,
+      8
+    ],
+    "group": [
+      "42151",
+      "61353",
+      "12104",
+      "72365",
+      "71082"
+    ],
+    "outlier_id": "71082",
+    "llama_description_pick": "71082"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      9,
+      3
+    ],
+    "group": [
+      "39894",
+      "66807",
+      "8176",
+      "67842",
+      "1268"
+    ],
+    "outlier_id": "1268",
+    "llama_description_pick": "66807"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      4,
+      27
+    ],
+    "group": [
+      "31926",
+      "42604",
+      "80522",
+      "49395",
+      "70239"
+    ],
+    "outlier_id": "70239",
+    "llama_description_pick": "31926"
+  },
+  {
+    "base_cluster": 5,
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "51211",
+      "48795",
+      "51114",
+      "63485",
+      "10526"
+    ],
+    "outlier_id": "10526",
+    "llama_description_pick": "63485"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      15,
+      17
+    ],
+    "group": [
+      "10017",
+      "1181",
+      "72586",
+      "32729",
+      "11908"
+    ],
+    "outlier_id": "11908",
+    "llama_description_pick": "11908"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      7,
+      1
+    ],
+    "group": [
+      "22002",
+      "177",
+      "68096",
+      "22487",
+      "17550"
+    ],
+    "outlier_id": "17550",
+    "llama_description_pick": "68096"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      19,
+      14
+    ],
+    "group": [
+      "4286",
+      "38478",
+      "34449",
+      "20671",
+      "26703"
+    ],
+    "outlier_id": "26703",
+    "llama_description_pick": "20671"
+  },
+  {
+    "base_cluster": 5,
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "18711",
+      "49189",
+      "35725",
+      "21765",
+      "10526"
+    ],
+    "outlier_id": "10526",
+    "llama_description_pick": "10526"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      3,
+      16
+    ],
+    "group": [
+      "43396",
+      "76431",
+      "35149",
+      "64729",
+      "56017"
+    ],
+    "outlier_id": "56017",
+    "llama_description_pick": "64729"
+  },
+  {
+    "base_cluster": 9,
+    "other_cluster": [
+      19,
+      10
+    ],
+    "group": [
+      "335",
+      "9662",
+      "52758",
+      "6759",
+      "21540"
+    ],
+    "outlier_id": "21540",
+    "llama_description_pick": "9662"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      14,
+      7
+    ],
+    "group": [
+      "43324",
+      "17017",
+      "36396",
+      "64729",
+      "51393"
+    ],
+    "outlier_id": "51393",
+    "llama_description_pick": "17017"
+  },
+  {
+    "base_cluster": 17,
+    "other_cluster": [
+      0,
+      6
+    ],
+    "group": [
+      "66316",
+      "31693",
+      "7913",
+      "62454",
+      "49395"
+    ],
+    "outlier_id": "49395",
+    "llama_description_pick": "66316"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "42226",
+      "1181",
+      "9383",
+      "19992",
+      "4132"
+    ],
+    "outlier_id": "4132",
+    "llama_description_pick": "19992"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      15,
+      17
+    ],
+    "group": [
+      "20671",
+      "73164",
+      "38478",
+      "30004",
+      "47834"
+    ],
+    "outlier_id": "47834",
+    "llama_description_pick": "47834"
+  },
+  {
+    "base_cluster": 14,
+    "other_cluster": [
+      19,
+      28
+    ],
+    "group": [
+      "67483",
+      "14102",
+      "28732",
+      "6508",
+      "43363"
+    ],
+    "outlier_id": "43363",
+    "llama_description_pick": "14102"
+  },
+  {
+    "base_cluster": 9,
+    "other_cluster": [
+      14,
+      9
+    ],
+    "group": [
+      "14914",
+      "6759",
+      "78534",
+      "50510",
+      "39708"
+    ],
+    "outlier_id": "39708",
+    "llama_description_pick": "6759"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      0,
+      2
+    ],
+    "group": [
+      "68096",
+      "49864",
+      "1064",
+      "47060",
+      "45218"
+    ],
+    "outlier_id": "45218",
+    "llama_description_pick": "45218"
+  },
+  {
+    "base_cluster": 19,
+    "other_cluster": [
+      5,
+      19
+    ],
+    "group": [
+      "71082",
+      "59747",
+      "59952",
+      "36396",
+      "77183"
+    ],
+    "outlier_id": "77183",
+    "llama_description_pick": "71082"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      9,
+      4
+    ],
+    "group": [
+      "34449",
+      "64047",
+      "74226",
+      "64",
+      "79413"
+    ],
+    "outlier_id": "79413",
+    "llama_description_pick": "74226"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      7,
+      22
+    ],
+    "group": [
+      "19796",
+      "20671",
+      "37955",
+      "37907",
+      "79411"
+    ],
+    "outlier_id": "79411",
+    "llama_description_pick": "37955"
+  },
+  {
+    "base_cluster": 14,
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "14102",
+      "40877",
+      "6508",
+      "77045",
+      "62071"
+    ],
+    "outlier_id": "62071",
+    "llama_description_pick": "77045"
+  },
+  {
+    "base_cluster": 17,
+    "other_cluster": [
+      9,
+      11
+    ],
+    "group": [
+      "50221",
+      "31693",
+      "66935",
+      "33045",
+      "335"
+    ],
+    "outlier_id": "335",
+    "llama_description_pick": "335"
+  },
+  {
+    "base_cluster": 0,
+    "other_cluster": [
+      7,
+      20
+    ],
+    "group": [
+      "72266",
+      "60860",
+      "67465",
+      "59474",
+      "54372"
+    ],
+    "outlier_id": "54372",
+    "llama_description_pick": "59474"
+  },
+  {
+    "base_cluster": 3,
+    "other_cluster": [
+      19,
+      5
+    ],
+    "group": [
+      "64",
+      "9383",
+      "50906",
+      "73164",
+      "59952"
+    ],
+    "outlier_id": "59952",
+    "llama_description_pick": "9383"
+  },
+  {
+    "base_cluster": 17,
+    "other_cluster": [
+      19,
+      8
+    ],
+    "group": [
+      "69704",
+      "50221",
+      "66935",
+      "70105",
+      "6777"
+    ],
+    "outlier_id": "6777",
+    "llama_description_pick": "6777"
+  },
+  {
+    "base_cluster": 7,
+    "other_cluster": [
+      17,
+      5
+    ],
+    "group": [
+      "17550",
+      "31113",
+      "16951",
+      "53652",
+      "72055"
+    ],
+    "outlier_id": "72055",
+    "llama_description_pick": "72055"
+  }
+]
