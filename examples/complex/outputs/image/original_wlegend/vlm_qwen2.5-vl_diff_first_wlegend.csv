@@ -1,0 +1,201 @@
+base_cluster,other_cluster,options,outlier_id,predicted_id,raw_response
+"[7, 22]","[5, 4]","['40679', '27706', '23132', '79411', '31113']",27706,** ID 31113,"1. **Different example:** ID 31113
+2. **Why:** In all other examples, the kitchen is located in the bottom left corner, while in Example 5 (ID 31113), the kitchen is placed in the top right corner, which is not consistent with the other examples."
+"[19, 18]","[17, 18]","['58616', '41277', '66935', '49556', '30721']",66935,** ID 30721,"1. **Different example:** ID 30721
+2. **Why:** In all other examples, the master room is located in the bottom left corner, while in ID 30721, it is placed in the bottom right corner. This change in the position of the master room alters the overall layout and spatial relationships within the apartment."
+"[17, 21]","[19, 28]","['43363', '62549', '78147', '9795', '40487']",43363,** ID 9795,"1. **Different example:** ID 9795
+2. **Why:** In all other examples, the kitchen is located in the top left corner, while in Example 4 (ID 9795), the kitchen is placed in the bottom left corner. This change in the position of the kitchen alters the overall layout and spatial relationships within the apartment."
+"[19, 8]","[15, 13]","['6777', '24364', '71082', '36396', '19346']",24364,** ID 71082,"1. **Different example:** ID 71082
+2. **Why:** In all other examples, the master room is located on the right side of the living room, while in Example 3, the master room is on the left side of the living room. This unique placement makes it the different one."
+"[7, 1]","[0, 7]","['10825', '12421', '66807', '17550', '12376']",66807,** ID 12421,"1. **Different example:** ID 12421
+2. **Why:** In all other examples, the kitchen is located in the top left corner, while in Example 2, it is positioned in the bottom right corner. This unique placement distinguishes it from the others."
+"[18, 25]","[15, 28]","['62071', '73827', '25711', '23274', '3282']",23274,** ID 23274,"1. **Different example:** ID 23274
+2. **Why:** In all other examples, the master room is adjacent to the living room on the left side, while in Example 4, the master room is on the right side of the living room. This change in the spatial relationship between the master room and the living room distinguishes it from the others."
+"[5, 4]","[9, 3]","['62609', '27706', '63485', '1268', '51114']",1268,** ID 1268,"1. **Different example:** ID 1268
+2. **Why:** In all other examples, the balcony is located in the top left corner, while in Example 4 (ID 1268), it is positioned in the bottom right corner. This unique placement distinguishes it from the others."
+"[3, 12]","[19, 28]","['27821', '20968', '37955', '40111', '1181']",40111,** ID 40111,"1. **Different example:** ID 40111
+2. **Why:** In all other examples, the kitchen is located in the bottom left corner, while in Example 4 (ID 40111), the kitchen is placed in the top left corner, which is not consistent with the other examples."
+"[0, 7]","[7, 3]","['10984', '72266', '66807', '52457', '15613']",52457,** ID 15613,"1. **Different example:** ID 15613
+2. **Why:** In all other examples, the common room is located on the left side of the apartment, while in ID 15613 it is positioned on the right side. This unique placement distinguishes it from the others."
+"[5, 4]","[0, 24]","['63485', '35725', '2004', '48780', '51114']",48780,** ID 2004,"1. **Different example:** ID 2004
+2. **Why:** In all other examples, the balcony is located in the bottom left corner of the apartment, while in Example 2004, it is positioned in the top left corner. This unique placement distinguishes it from the others."
+"[7, 3]","[15, 13]","['75828', '64781', '61767', '24364', '52457']",24364,** ID 52457,"1. **Different example:** ID 52457
+2. **Why:** The other four examples have a common layout where the living room is adjacent to the kitchen and master room, while the common room is separate from the master room. In contrast, Example 5 has the living room directly connected to the master room without an intervening common room."
+"[7, 1]","[15, 17]","['12421', '53652', '10825', '12376', '47834']",47834,** ID 10825,"1. **Different example:** ID 10825
+2. **Why:** In all other examples, the master room is located in the top left corner, while in Example 3, it is positioned in the bottom right corner. This change in the location of the master room distinguishes it from the others."
+"[18, 25]","[19, 5]","['3282', '73827', '25711', '62071', '72346']",72346,** ID 72346,"1. **Different example:** ID 72346
+2. **Why:** The floor plan for ID 72346 is significantly different from the others as it lacks the common room and the master room that are present in the other four examples. Additionally, the layout of the remaining rooms (kitchen, living room, balcony) is rearranged compared to the standard configuration seen in Examples 1 through 4."
+"[15, 21]","[14, 7]","['3384', '7489', '13497', '25607', '20839']",25607,** ID 20839,"1. **Different example:** ID 20839
+2. **Why:** The other four examples have a common layout where the master room is adjacent to the living room, and the kitchen is located in a separate area. In contrast, Example 5 has the kitchen directly connected to the master room, which is not present in the other four examples."
+"[14, 8]","[4, 27]","['39691', '40877', '46039', '28694', '77515']",77515,** ID 77515,"1. **Different example:** ID 77515
+2. **Why:** The floor plan for ID 77515 is significantly different from the others as it features a completely different layout. It has a single large room that spans across the entire width of the apartment, which is not present in the other four examples. Additionally, the kitchen and bathroom are positioned differently compared to the other examples."
+"[0, 24]","[15, 17]","['74418', '31926', '48780', '37989', '60915']",60915,** ID 60915,"1. **Different example:** ID 60915
+2. **Why:** In all other examples, the kitchen is located in the top left corner, while in ID 60915, it is placed in the bottom right corner. This unique placement distinguishes it from the others."
+"[3, 3]","[19, 25]","['30004', '33749', '22002', '10131', '22487']",33749,** ID 10131,"1. **Different example:** ID 10131
+2. **Why:** In all other examples, the master room is adjacent to the living room on the right side, while in Example 4, the master room is adjacent to the living room on the left side. This unique arrangement distinguishes it from the others."
+"[4, 27]","[15, 17]","['12888', '5222', '60915', '77515', '70239']",60915,** ID 70239,"1. **Different example:** ID 70239
+2. **Why:** In all other examples, the master room is adjacent to the living room on the left side, while in ID 70239, the master room is on the right side of the living room. This unique arrangement distinguishes it from the others."
+"[5, 29]","[9, 26]","['55950', '21765', '50181', '57316', '52548']",50181,** ID 52548,"1. **Different example:** ID 52548
+2. **Why:** In all other examples, the master room is located in the bottom left corner, while in ID 52548 it is positioned in the top right corner. This unique placement distinguishes it from the others."
+"[17, 5]","[4, 27]","['77515', '50221', '7913', '72055', '33045']",77515,** ID 50221,"1. **Different example:** ID 50221
+2. **Why:** In all other examples, the master room is located to the right of the common room, whereas in Example 2, the master room is positioned to the left of the common room. This unique arrangement distinguishes it from the others."
+"[14, 8]","[19, 5]","['39691', '40877', '28694', '46039', '63902']",63902,** ID 63902,"1. **Different example:** ID 63902
+2. **Why:** In all other examples, the kitchen is located in the top left corner, while in Example 5 (ID 63902), the kitchen is placed in the top right corner. This change in the position of the kitchen alters the overall layout and spatial relationships within the apartment."
+"[19, 25]","[3, 17]","['47247', '74532', '38478', '26994', '33749']",38478,** ID 38478,"1. **Different example:** ID 38478
+2. **Why:** In all other examples, the living room is adjacent to the master room on the left side, while in Example 3, the living room is on the right side of the master room. This unique arrangement distinguishes it from the others."
+"[3, 7]","[7, 3]","['37907', '73164', '75828', '19796', '19992']",75828,** ID 19992,"1. **Different example:** ID 19992
+2. **Why:** In all other examples, the master room is located in the top-left corner, while in ID 19992, it is positioned in the bottom-right corner. This unique placement distinguishes it from the others."
+"[9, 4]","[7, 1]","['79413', '80219', '64614', '12376', '50510']",12376,** ID 12376,"1. **Different example:** ID 12376
+2. **Why:** In Examples 1, 2, 3, and 5, the kitchen is located in the bottom left corner of the apartment, while in Example 4, it is positioned in the top right corner. This change in the location of the kitchen distinguishes Example 4 from the other four examples."
+"[5, 29]","[17, 18]","['66316', '51743', '52548', '18711', '57316']",66316,** ID 57316,"1. **Different example:** ID 57316
+2. **Why:** In all other examples, the common room (yellow) is adjacent to the master room (orange) on the left side, while in ID 57316, the common room is adjacent to the master room on the right side. This change in adjacency disrupts the consistent floorplan pattern observed in the other examples."
+"[5, 19]","[19, 13]","['77183', '63077', '51211', '43324', '54232']",43324,** ID 54232,"1. **Different example:** ID 54232
+2. **Why:** In all other examples, the kitchen is located in the bottom left corner, while in Example 5, it is positioned in the top right corner. This unique placement distinguishes it from the others."
+"[0, 2]","[9, 11]","['28242', '9639', '63508', '62759', '61914']",61914,** ID 61914,"1. **Different example:** ID 61914
+2. **Why:** In all other examples, the kitchen is located in the top left corner, while in ID 61914, it is placed in the bottom right corner. This unique placement distinguishes it from the others."
+"[9, 4]","[19, 13]","['80219', '50510', '79413', '64614', '43324']",43324,** ID 79413,"1. **Different example:** ID 79413
+2. **Why:** The layout of the rooms in Example 3 (ID 79413) is significantly different from the other four examples. In Examples 1, 2, 4, and 5, the common room is located on the left side, while the master room is on the right. However, in Example 3, the common room is on the right, and the master room is on the left, which is not consistent with the other examples. Additionally, the kitchen and living room positions also differ compared to the other examples."
+"[5, 29]","[3, 28]","['21765', '57316', '51743', '52548', '12683']",12683,** ID 12683,"1. **Different example:** ID 12683
+2. **Why:** In all other examples, the kitchen is located in the bottom left corner, while in ID 12683, it is placed in the top right corner. This unique placement distinguishes it from the others."
+"[19, 13]","[5, 29]","['43396', '26354', '37914', '35479', '18711']",18711,** ID 18711,"1. **Different example:** ID 18711
+2. **Why:** In all other examples, the master room is located on the right side of the living room, while in Example 5 (ID 18711), the master room is on the left side of the living room. This change in the spatial relationship between the master room and the living room distinguishes it from the other examples."
+"[7, 1]","[3, 26]","['12376', '72586', '16951', '53652', '8109']",72586,** ID 72586,"1. **Different example:** ID 72586
+2. **Why:** In all other examples, the kitchen is located in the top left corner, whereas in Example 2, it is positioned in the bottom right corner. This unique placement distinguishes it from the others."
+"[19, 28]","[0, 14]","['23197', '40111', '42272', '43363', '39894']",39894,** ID 39894,"1. **Different example:** ID 39894
+2. **Why:** The other four examples have a common layout where the kitchen is located in the top left corner, while the balcony is on the bottom left. In contrast, ID 39894 places the kitchen in the bottom left corner and the balcony in the top right corner, which is a distinct arrangement."
+"[19, 18]","[14, 9]","['35149', '30721', '49556', '55086', '40550']",40550,** ID 40550,"1. **Different example:** ID 40550
+2. **Why:** In all other examples, the master room (orange) is adjacent to the bathroom (light blue) on the left side. However, in Example 5, the master room is not adjacent to the bathroom; instead, it is separated by the common room (yellow)."
+"[19, 14]","[14, 7]","['64729', '26703', '72517', '51393', '26372']",51393,** ID 26372,"1. **Different example:** ID 26372
+2. **Why:** In all other examples, the kitchen is located in the bottom left corner, while in ID 26372, it is placed in the top left corner. This change in the position of the kitchen alters the overall layout and spatial relationships within the apartment."
+"[0, 24]","[3, 28]","['74418', '55090', '48780', '31926', '37989']",55090,** ID 31926,"1. **Different example:** ID 31926
+2. **Why:** In Examples 1, 2, 3, and 5, the kitchen is located in the top left corner, while in Example 4, it is positioned in the bottom right corner. This change in the location of the kitchen distinguishes Example 4 from the other four examples."
+"[15, 28]","[14, 9]","['67905', '10526', '26506', '3258', '38548']",26506,** ID 38548,"1. **Different example:** ID 38548
+2. **Why:** In all other examples, the kitchen is located in the top right corner, whereas in ID 38548, it is placed in the bottom left corner. This unique placement distinguishes it from the others."
+"[3, 16]","[17, 5]","['56017', '177', '59100', '11746', '33045']",33045,** ID 33045,"1. **Different example:** ID 33045
+2. **Why:** In all other examples, the kitchen is located in the bottom left corner, while in Example 5 (ID 33045), the kitchen is placed in the top right corner, which is not consistent with the other examples."
+"[14, 8]","[3, 28]","['42226', '46039', '40877', '28732', '28694']",42226,** ID 40877,"1. **Different example:** ID 40877
+2. **Why:** In all other examples, the master room is located in the bottom left corner, while in Example 3 (ID 40877), it is positioned in the top right corner. This change in the location of the master room distinguishes this example from the others."
+"[19, 10]","[0, 6]","['25168', '25618', '55791', '21540', '59474']",59474,** ID 59474,"1. **Different example:** ID 59474
+2. **Why:** In all other examples, the kitchen is located in the top right corner, whereas in ID 59474, it is placed in the bottom right corner. This change in the position of the kitchen alters the overall layout and spatial relationships within the apartment."
+"[3, 7]","[19, 28]","['19992', '73164', '37907', '40111', '4286']",40111,** ID 4286,"1. **Different example:** ID 4286
+2. **Why:** In all other examples, the balcony is located on the left side of the living room. However, in Example 5 (ID 4286), the balcony is positioned on the right side of the living room, which is not consistent with the other examples."
+"[3, 21]","[5, 4]","['42206', '27706', '47060', '14038', '57272']",27706,** ID 57272,"1. **Different example:** ID 57272
+2. **Why:** The other four examples have a common layout where the master bedroom is adjacent to the living room, and the kitchen is located in a separate section. In contrast, Example 5 has the master bedroom directly connected to the living room without an intervening space, which is not present in the other examples."
+"[9, 3]","[15, 28]","['14914', '74662', '9662', '3258', '64671']",3258,** ID 64671,"1. **Different example:** ID 64671
+2. **Why:** In all other examples, the master room is located in the bottom right corner, while in ID 64671, it is positioned in the top left corner. This unique placement distinguishes it from the others."
+"[7, 22]","[3, 16]","['23132', '79411', '40679', '31113', '56017']",56017,** ID 56017,"1. **Different example:** ID 56017
+2. **Why:** The other four examples have a common layout where the living room is adjacent to the kitchen and master room, while the common room is on the opposite side. In contrast, Example 5 has the living room directly connected to the kitchen and master room without an intervening common room."
+"[19, 14]","[17, 18]","['21543', '72517', '26703', '26372', '64729']",21543,** ID 26372,"1. **Different example:** ID 26372
+2. **Why:** In all other examples, the master room is located in the bottom right corner, while in Example 4 (ID 26372), it is positioned on the left side. This unique placement distinguishes it from the others."
+"[5, 4]","[9, 11]","['70560', '2004', '30907', '63485', '35725']",30907,** ID 35725,"1. **Different example:** ID 35725
+2. **Why:** In all other examples, the balcony is located in the bottom left corner of the apartment, whereas in ID 35725, it is placed in the top right corner. This unique positioning distinguishes it from the others."
+"[18, 23]","[19, 5]","['59794', '64148', '14167', '20502', '32569']",32569,** ID 32569,"1. **Different example:** ID 32569
+2. **Why:** In all other examples, the kitchen is located in the bottom left corner, while in Example 5 (ID 32569), it is placed in the top right corner. This unique placement distinguishes it from the others."
+"[19, 28]","[0, 24]","['43363', '42272', '52721', '37989', '40111']",37989,** ID 40111,"1. **Different example:** ID 40111
+2. **Why:** In all other examples, the kitchen is located in the top left corner, while in Example 5 (ID 40111), the kitchen is placed in the bottom left corner. This change in the position of the kitchen alters the overall layout and spatial relationships within the apartment."
+"[0, 14]","[3, 26]","['39894', '37963', '17291', '80522', '34449']",34449,** ID 34449,"1. **Different example:** ID 34449
+2. **Why:** The kitchen in Example 5 is located in a different position compared to the other four examples. In Examples 1, 2, 3, and 4, the kitchen is positioned on the left side of the living room, while in Example 5, it is placed on the right side. This change in the kitchen's location distinguishes Example 5 from the others."
+"[19, 10]","[3, 16]","['56017', '25168', '73023', '55791', '21540']",56017,** ID 21540,"1. **Different example:** ID 21540
+2. **Why:** In all other examples, the master room is adjacent to the living room on the left side, while in ID 21540, the master room is on the right side of the living room. This unique arrangement distinguishes it from the others."
+"[18, 25]","[9, 4]","['80219', '4132', '62071', '25711', '73827']",80219,** ID 73827,"1. **Different example:** ID 73827
+2. **Why:** In all other examples, the kitchen is located in the top right corner, whereas in ID 73827, it is placed in the bottom left corner. This unique placement distinguishes it from the others."
+"[3, 21]","[0, 14]","['17291', '42206', '14038', '57272', '47060']",17291,** ID 47060,"1. **Different example:** ID 47060
+2. **Why:** In all other examples, the master room is adjacent to the living room on the right side. However, in Example 5 (ID 47060), the master room is located on the left side of the living room, which is not consistent with the other examples."
+"[19, 18]","[17, 21]","['58616', '36535', '40487', '35149', '74633']",40487,** ID 74633,"1. **Different example:** ID 74633
+2. **Why:** In all other examples, the common room is located on the left side of the living room, while in ID 74633, it is positioned above the living room. This unique arrangement distinguishes it from the others."
+"[9, 11]","[15, 28]","['10526', '335', '78534', '15606', '4186']",10526,** ID 78534,"1. **Different example:** ID 78534
+2. **Why:** In Examples 1, 2, 4, and 5, the kitchen is located in the bottom left corner of the apartment, while in Example 3, it is positioned in the bottom right corner. This change in the kitchen's location distinguishes Example 3 from the other four examples."
+"[0, 6]","[19, 25]","['59474', '25447', '43375', '33749', '43036']",33749,** ID 43036,"1. **Different example:** ID 43036
+2. **Why:** In all other examples, the master room is located in the bottom left corner, while in Example 5 (ID 43036), it is positioned in the top right corner. This unique placement distinguishes it from the others."
+"[9, 3]","[0, 0]","['1268', '28082', '9662', '64671', '14914']",28082,** ID 14914,"1. **Different example:** ID 14914
+2. **Why:** In all other examples, the master room is located in the bottom left corner, while in ID 14914 it is positioned in the top right corner. This unique placement distinguishes it from the others."
+"[0, 24]","[3, 28]","['31926', '74418', '37989', '8257', '48780']",8257,** ID 48780,"1. **Different example:** ID 48780
+2. **Why:** The floorplan for ID 48780 is significantly different from the others as it lacks a common room and instead features a larger living room that spans across multiple areas, which is not present in the other examples."
+"[14, 8]","[0, 6]","['75880', '28694', '40877', '46039', '28732']",75880,** ID 28732,"1. **Different example:** ID 28732
+2. **Why:** In all other examples, the common room is located on the right side of the apartment, while in ID 28732, it is positioned on the left side. This change in the location of the common room alters the overall layout and spatial relationships within the apartment."
+"[3, 7]","[19, 13]","['43324', '4286', '73164', '30859', '37907']",43324,** ID 37907,"1. **Different example:** ID 37907
+2. **Why:** The floorplan for ID 37907 is significantly different from the others as it lacks a common room and instead features a storage area in place of the balcony. Additionally, the kitchen and master room are swapped compared to the other examples."
+"[5, 29]","[17, 21]","['21765', '62454', '57316', '55950', '52548']",62454,** ID 52548,"1. **Different example:** ID 52548
+2. **Why:** In all other examples, the kitchen is located in the bottom left corner, while in ID 52548, it is placed in the top right corner. This unique placement distinguishes it from the others."
+"[0, 2]","[19, 28]","['9836', '54867', '59390', '23197', '51831']",23197,** ID 51831,"1. **Different example:** ID 51831
+2. **Why:** In all other examples, the kitchen is located in the top left corner, while in ID 51831, it is placed in the top right corner. This change in the position of the kitchen alters the overall layout and spatial relationships within the apartment."
+"[19, 14]","[17, 21]","['72517', '64729', '26372', '26703', '9795']",9795,** ID 26372,"1. **Different example:** ID 26372
+2. **Why:** In all other examples, the kitchen is located in the bottom left corner, while in Example 3, it is positioned in the top left corner. This change in the location of the kitchen alters the overall layout and spatial relationships compared to the other examples."
+"[19, 5]","[17, 5]","['32569', '59952', '7913', '55314', '63902']",7913,** ID 7913,"1. **Different example:** ID 7913
+2. **Why:** In all other examples, the common room is located to the left of the master room, whereas in Example 3, the common room is positioned above the master room. This unique arrangement distinguishes it from the others."
+"[7, 3]","[3, 17]","['33084', '61767', '75828', '64781', '52457']",33084,** ID 52457,"1. **Different example:** ID 52457
+2. **Why:** The other four examples have a common layout where the master room is adjacent to the living room, and the kitchen is located in a separate area. In contrast, ID 52457 has the master room directly connected to the living room without an intervening space, which is not present in the other examples."
+"[15, 21]","[0, 7]","['20839', '13497', '10984', '7489', '3384']",10984,** ID 10984,"1. **Different example:** ID 10984
+2. **Why:** In all other examples, the kitchen is located in the top left corner, while in Example 3, it is placed in the top right corner. This unique placement distinguishes it from the others."
+"[0, 6]","[15, 17]","['25447', '49395', '43036', '41154', '1225']",1225,** ID 1225,"1. **Different example:** ID 1225
+2. **Why:** In all other examples, the master room is located in the lower part of the apartment, while in Example 5 (ID 1225), it is positioned higher up. Additionally, the layout of the common room and the kitchen appears to be rearranged compared to the others."
+"[0, 7]","[15, 28]","['65801', '66807', '10984', '10526', '72266']",10526,** ID 72266,"1. **Different example:** ID 72266
+2. **Why:** In all other examples, the kitchen is located in the top left corner, while in Example 5 (ID 72266), the kitchen is placed in the top right corner. This unique placement distinguishes it from the others."
+"[7, 3]","[0, 0]","['75828', '52457', '64781', '28082', '61767']",28082,** ID 61767,"1. **Different example:** ID 61767
+2. **Why:** The layout of the rooms in Example 5 (ID 61767) differs significantly from the other four examples. In Examples 1 to 4, the kitchen is located on the left side of the living room, while in Example 5, the kitchen is positioned above the living room. Additionally, the master room in Example 5 is larger and occupies more space compared to its counterparts in Examples 1 to 4."
+"[4, 27]","[0, 7]","['77515', '12888', '5222', '70239', '10984']",10984,** ID 10984,"1. **Different example:** ID 10984
+2. **Why:** In all other examples, the common room is located on the left side of the apartment, while in Example 5 (ID 10984), it is positioned on the right side. This change in the location of the common room alters the overall layout and spatial relationships within the apartment."
+"[14, 9]","[19, 8]","['26678', '14102', '36396', '6508', '26506']",36396,** ID 26506,"1. **Different example:** ID 26506
+2. **Why:** In all other examples, the kitchen is located in the top right corner, whereas in ID 26506, it is placed in the bottom right corner. This change in the position of the kitchen alters the overall layout and spatial relationships within the apartment."
+"[7, 22]","[4, 27]","['23132', '40679', '31113', '79411', '70239']",70239,** ID 70239,"1. **Different example:** ID 70239
+2. **Why:** In all other examples, the common room is located in the top left corner, while in ID 70239, it is placed in the top right corner. This change in the position of the common room alters the overall layout and spatial relationships within the apartment."
+"[7, 22]","[3, 17]","['54792', '40679', '23132', '79411', '31113']",54792,** ID 31113,"1. **Different example:** ID 31113
+2. **Why:** In all other examples, the master room is located to the right of the common room, whereas in Example 5 (ID 31113), the master room is positioned to the left of the common room. This unique arrangement distinguishes it from the others."
+"[7, 3]","[0, 7]","['66807', '52457', '61767', '75828', '64781']",66807,** ID 52457,"1. **Different example:** ID 52457
+2. **Why:** In all other examples, the common room is located in the top left corner, while in Example 2, it is positioned in the bottom right corner. This change in the location of the common room alters the overall layout and spatial relationships compared to the other examples."
+"[9, 3]","[19, 28]","['14914', '1268', '9662', '23197', '74662']",23197,** ID 74662,"1. **Different example:** ID 74662
+2. **Why:** The floorplan for ID 74662 is distinct from the others as it features a different arrangement of rooms compared to the other four examples. Specifically, the master room is located in a different position relative to the common room and living room, and the kitchen is positioned differently within the layout. This unique configuration sets it apart from the shared floorplan pattern observed in Examples 1, 2, 3, and 4."
+"[3, 3]","[19, 14]","['10017', '22487', '72700', '26703', '994']",26703,** ID 994,"1. **Different example:** ID 994
+2. **Why:** In all other examples, the master room is located to the right of the living room, whereas in ID 994, the master room is positioned above the living room. This unique arrangement distinguishes it from the others."
+"[0, 2]","[7, 3]","['63508', '75828', '45218', '9836', '48095']",75828,** ID 48095,"1. **Different example:** ID 48095
+2. **Why:** In all other examples, the balcony is located in the bottom left corner, while in ID 48095, it is placed in the bottom right corner. This change in the position of the balcony alters the overall layout and spatial relationships within the apartment."
+"[15, 21]","[19, 5]","['13497', '20839', '76431', '7489', '3384']",76431,** ID 76431,"1. **Different example:** ID 76431
+2. **Why:** In all other examples, the master room is located on the left side of the apartment, while in Example 3 (ID 76431), it is positioned on the right side. This change in the location of the master room alters the overall layout and spatial relationships within the apartment."
+"[0, 24]","[15, 17]","['31926', '37989', '48780', '1225', '74418']",1225,** ID 48780,"1. **Different example:** ID 48780
+2. **Why:** The living room in Example 3 is significantly larger compared to the other examples, which have more compact living spaces. Additionally, the kitchen in Example 3 is positioned differently and appears to be larger than in the other examples."
+"[19, 10]","[3, 16]","['25618', '25168', '21540', '55791', '63317']",63317,** ID 63317,"1. **Different example:** ID 63317
+2. **Why:** In all other examples, the balcony is located in the top right corner of the apartment. However, in Example 5 (ID 63317), the balcony is placed in the bottom left corner, which is not consistent with the other examples."
+"[5, 29]","[7, 1]","['16951', '57316', '51743', '21765', '55950']",16951,** ID 55950,"1. **Different example:** ID 55950
+2. **Why:** In all other examples, the kitchen is located in the bottom left corner, while in ID 55950, it is placed in the top right corner. This unique placement distinguishes it from the others."
+"[15, 17]","[5, 22]","['47834', '11908', '60915', '7217', '1225']",7217,** ID 7217,"1. **Different example:** ID 7217
+2. **Why:** In all other examples, the master room is located in the top left corner, while in Example 4 (ID 7217), it is placed in the bottom left corner. This change in the position of the master room alters the overall layout and spatial relationships within the apartment."
+"[19, 14]","[14, 8]","['64729', '72517', '46039', '26372', '26703']",46039,** ID 26372,"1. **Different example:** ID 26372
+2. **Why:** In all other examples, the kitchen is located in the same position relative to the living room and the master room. However, in Example 4 (ID 26372), the kitchen is positioned differently, making it the outlier."
+"[0, 6]","[19, 10]","['43375', '41154', '25618', '25447', '59474']",25618,** ID 59474,"1. **Different example:** ID 59474
+2. **Why:** The other four examples have a common layout where the master bedroom is on the left side, followed by the living room, kitchen, and bathroom in that order. In contrast, Example 5 has the master bedroom on the right side, which is not consistent with the other examples."
+"[3, 26]","[19, 18]","['49556', '34449', '19246', '50906', '18887']",49556,** ID 18887,"1. **Different example:** ID 18887
+2. **Why:** In all other examples, the balcony is located on the right side of the living room. However, in Example 5 (ID 18887), the balcony is positioned on the left side of the living room, which is not consistent with the other examples."
+"[0, 6]","[9, 26]","['75880', '50181', '25447', '49395', '59474']",50181,** ID 59474,"1. **Different example:** ID 59474
+2. **Why:** In all other examples, the kitchen is located in the top right corner, while in ID 59474, it is placed in the bottom left corner. This unique placement distinguishes it from the others."
+"[0, 6]","[19, 14]","['41154', '43375', '59474', '49395', '26703']",26703,** ID 59474,"1. **Different example:** ID 59474
+2. **Why:** The floor plan for ID 59474 is significantly different from the others as it features a completely different layout. It has a single large living room that spans the entire width of the apartment, whereas in the other examples, the living room is divided into smaller sections. Additionally, the kitchen and master room are positioned differently, and there is no common room or balcony present in this layout."
+"[3, 26]","[19, 5]","['72586', '40031', '32729', '63902', '18887']",63902,** ID 40031,"1. **Different example:** ID 40031
+2. **Why:** In all other examples, the common room is located in the top left corner, while in Example 2, it is positioned in the bottom right corner. This change in the location of the common room distinguishes it from the other examples."
+"[9, 3]","[0, 2]","['74662', '80744', '1268', '64671', '9662']",80744,** ID 9662,"1. **Different example:** ID 9662
+2. **Why:** In all other examples, the common room is located in the bottom left corner, while in ID 9662, it is placed in the top right corner. This unique placement distinguishes it from the others."
+"[14, 8]","[3, 3]","['40877', '46039', '28732', '28694', '10017']",10017,** ID 10017,"1. **Different example:** ID 10017
+2. **Why:** In all other examples, the master room (orange) is adjacent to the living room (light yellow) on the right side. However, in Example 5 (ID 10017), the master room is instead adjacent to the common room (yellow) on the left side. This change in adjacency disrupts the consistent layout pattern observed in Examples 1 through 4."
+"[17, 5]","[3, 5]","['63514', '7913', '72055', '50221', '33045']",63514,** ID 50221,"1. **Different example:** ID 50221
+2. **Why:** In all other examples, the master room is located in the top-left corner, while in Example 4 (ID 50221), it is positioned in the bottom-left corner. This change in the location of the master room alters the overall layout and spatial relationships within the apartment."
+"[4, 27]","[14, 7]","['77045', '77515', '70239', '5222', '12888']",77045,** ID 5222,"1. **Different example:** ID 5222
+2. **Why:** In all other examples, the master room is adjacent to the living room on the left side, while in Example 4 (ID 5222), the master room is on the right side of the living room. This unique arrangement distinguishes it from the others."
+"[19, 14]","[3, 7]","['26372', '72517', '37907', '26703', '64729']",37907,** ID 64729,"1. **Different example:** ID 64729
+2. **Why:** In all other examples, the master room is located in the top left corner, while in ID 64729, it is positioned in the bottom right corner. This unique placement distinguishes it from the others."
+"[3, 4]","[19, 10]","['11039', '20671', '35787', '73023', '9383']",73023,** ID 73023,"1. **Different example:** ID 73023
+2. **Why:** In all other examples, the master room is adjacent to the living room, whereas in Example 4, the master room is not directly connected to the living room but instead shares space with the common room."
+"[3, 12]","[18, 23]","['37955', '37360', '1181', '20968', '27821']",37360,** ID 27821,"1. **Different example:** ID 27821
+2. **Why:** In all other examples, the kitchen is located in the bottom left corner, while in Example 5 (ID 27821), the kitchen is placed in the top left corner. This change in the position of the kitchen alters the overall layout and spatial relationships within the apartment."
+"[19, 25]","[9, 26]","['74532', '47247', '59747', '7474', '26994']",7474,** ID 7474,"1. **Different example:** ID 7474
+2. **Why:** In all other examples, the kitchen is located in the top right corner, whereas in Example 4, the kitchen is placed in the bottom left corner, which is not consistent with the other examples."
+"[5, 29]","[14, 9]","['18711', '52548', '26678', '51743', '57316']",26678,** ID 57316,"1. **Different example:** ID 57316
+2. **Why:** In all other examples, the kitchen is located in the top right corner, while in ID 57316, it is placed in the bottom right corner. This change in the position of the kitchen alters the overall layout and spatial relationships within the apartment."
+"[9, 4]","[15, 28]","['79413', '64614', '67905', '80219', '50510']",67905,** ID 67905,"1. **Different example:** ID 67905
+2. **Why:** In all other examples, the kitchen is located in the bottom left corner, while in Example 3, it is positioned in the top right corner. This unique placement distinguishes it from the others."
+"[3, 5]","[9, 26]","['64', '12162', '63514', '23716', '74226']",23716,** ID 74226,"1. **Different example:** ID 74226
+2. **Why:** In all other examples, the living room is located in the bottom left corner, while in Example 5 (ID 74226), it is positioned in the top left corner. This change in the location of the living room alters the overall layout and spatial relationships within the apartment."
+"[15, 17]","[19, 28]","['60915', '1225', '11908', '42272', '47834']",42272,** ID 47834,"1. **Different example:** ID 47834
+2. **Why:** In all other examples, the master room is located on the left side of the living room, while in Example 5 (ID 47834), the master room is on the right side of the living room. This change in the spatial relationship between the master room and the living room distinguishes it from the other examples."
+"[3, 12]","[19, 18]","['37955', '20968', '27821', '58616', '1181']",58616,** ID 58616,"1. **Different example:** ID 58616
+2. **Why:** In Examples 1, 2, 3, and 5, the living room is positioned on the right side of the apartment, while in Example 4, it is located on the left side. This change in the placement of the living room distinguishes Example 4 from the other four examples."
+"[19, 13]","[3, 17]","['43396', '42612', '53579', '37914', '35479']",53579,** ID 35479,"1. **Different example:** ID 35479
+2. **Why:** In all other examples, the kitchen is located in the bottom left corner, while in Example 5, it is placed in the top right corner. This change in the position of the kitchen alters the overall layout and spatial relationships compared to the other examples."

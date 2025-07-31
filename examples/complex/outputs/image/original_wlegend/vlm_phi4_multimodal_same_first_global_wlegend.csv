@@ -1,0 +1,201 @@
+base_cluster,other_cluster,options,outlier_id,predicted_id,raw_response
+3,"[0, 0]","['12043', '12683', '59100', '8176', '64047']",8176,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+19,"[3, 26]","['63902', '55314', '26372', '49864', '73023']",49864,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+0,"[3, 5]","['63508', '62759', '63514', '44802', '78009']",63514,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+15,"[9, 3]","['67905', '74662', '24364', '1225', '34763']",74662,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+3,"[7, 1]","['1064', '55090', '73823', '54792', '17550']",17550,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+14,"[19, 13]","['77045', '26354', '28732', '6508', '25607']",26354,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+19,"[3, 5]","['64', '71082', '59747', '74633', '41277']",64,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+0,"[9, 26]","['10984', '70440', '7474', '37989', '43995']",7474,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+18,"[19, 28]","['43363', '65195', '3282', '15451', '61353']",43363,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+0,"[14, 9]","['37963', '48095', '27625', '43995', '26678']",26678,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+9,"[7, 3]","['74662', '64671', '23716', '52457', '1268']",52457,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+17,"[14, 8]","['50221', '69704', '46039', '46660', '62549']",46039,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+19,"[3, 4]","['74633', '43324', '76431', '26372', '11039']",11039,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+9,"[7, 1]","['23716', '15606', '12376', '30907', '61914']",12376,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+15,"[9, 3]","['9662', '1225', '7489', '23274', '38548']",9662,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+15,"[19, 28]","['34763', '60915', '47834', '23197', '3258']",23197,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is in the bottom right corner."
+15,"[7, 1]","['11908', '25079', '20839', '10526', '53652']",53652,** 5,"1. **Different example:** 5
+2. **Why:** The common room is missing in example 5."
+3,"[5, 29]","['74226', '18887', '52548', '50906', '55090']",52548,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is in the bottom right corner."
+9,"[3, 26]","['34449', '23716', '52758', '1268', '27788']",34449,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+19,"[7, 1]","['37914', '35479', '36396', '17550', '55791']",17550,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is in the bottom right corner."
+5,"[15, 28]","['10743', '10526', '52548', '2004', '18711']",10526,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+19,"[0, 24]","['29042', '37989', '26354', '40111', '33749']",37989,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+18,"[5, 4]","['15451', '25667', '62609', '26755', '65195']",62609,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+15,"[14, 9]","['3384', '24364', '1225', '14102', '7489']",14102,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+0,"[9, 3]","['78009', '1268', '75880', '44802', '43375']",1268,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+19,"[0, 0]","['64729', '76431', '14834', '58616', '74633']",14834,** 5,"1. **Different example:** 5
+2. **Why:** The common room is missing in example 5."
+7,"[3, 17]","['79411', '10825', '23132', '53579', '3536']",53579,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+15,"[18, 25]","['53137', '62071', '42684', '38548', '60915']",62071,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+5,"[19, 14]","['53655', '27706', '10743', '26372', '77349']",26372,** 4,"1. **Different example:** 4
+2. **Why:** The common room is in the top left corner, the master room is in the bottom right corner, the living room is in the top right corner, the balcony is in the bottom left corner, the bathroom is in the top right corner, the kitchen is in the bottom right corner, the storage is in the top left corner, and the dining is in the bottom right corner."
+3,"[5, 19]","['54792', '177', '11033', '51211', '9147']",51211,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+0,"[17, 5]","['7913', '32703', '60860', '63508', '49395']",7913,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+18,"[7, 1]","['26052', '10825', '4132', '20502', '73827']",10825,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+5,"[19, 25]","['21765', '54232', '35619', '63077', '26994']",26994,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+3,"[9, 26]","['33084', '7474', '63514', '9147', '40031']",7474,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+0,"[5, 19]","['17291', '15613', '9639', '59474', '60473']",60473,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+7,"[0, 24]","['12421', '61767', '31926', '12376', '10825']",31926,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+9,"[0, 7]","['74662', '66807', '64671', '15606', '64614']",66807,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+9,"[3, 26]","['74662', '80219', '23716', '19246', '41897']",19246,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+19,"[18, 25]","['26994', '25618', '25711', '73023', '74633']",25711,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+19,"[17, 5]","['59952', '26703', '30721', '35149', '50221']",50221,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+15,"[7, 3]","['53137', '1225', '11908', '68970', '61767']",61767,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+7,"[5, 22]","['57572', '2277', '79411', '12376', '8109']",57572,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+19,"[5, 29]","['26994', '18711', '35479', '25168', '42272']",18711,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+3,"[0, 14]","['55090', '17291', '54792', '37955', '18887']",17291,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+9,"[0, 2]","['80219', '41897', '80744', '1268', '9662']",80744,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+17,"[9, 3]","['9795', '31693', '9662', '33045', '62454']",9662,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+7,"[3, 17]","['40679', '61767', '17550', '54372', '54792']",54792,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+18,"[5, 29]","['18711', '14167', '25667', '32105', '78682']",18711,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is in the bottom right corner."
+19,"[3, 17]","['52721', '55086', '25168', '33749', '38478']",38478,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+0,"[9, 3]","['60860', '43995', '48095', '14914', '25447']",14914,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+3,"[5, 29]","['57316', '1181', '20968', '19796', '8257']",57316,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+0,"[14, 8]","['28694', '43629', '31926', '32703', '60860']",28694,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+9,"[19, 5]","['7474', '74662', '4186', '76431', '50181']",76431,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+19,"[4, 27]","['43324', '71082', '77515', '36535', '49556']",77515,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+14,"[19, 10]","['40877', '6508', '28732', '55791', '26506']",55791,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+15,"[5, 19]","['34763', '54232', '25079', '38548', '67905']",54232,** 5,"1. **Different example:** 5
+2. **Why:** The common room is missing in example 5."
+19,"[3, 7]","['63902', '73164', '36396', '59952', '42272']",73164,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+7,"[3, 4]","['17550', '40679', '10825', '11039', '3536']",11039,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+18,"[0, 7]","['48306', '4132', '67584', '72266', '64148']",72266,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+7,"[14, 7]","['23132', '12376', '54372', '3536', '38835']",38835,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+3,"[4, 27]","['9147', '5222', '55090', '10017', '37907']",5222,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+0,"[3, 28]","['60860', '42226', '17291', '28242', '25447']",42226,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+5,"[19, 5]","['51743', '40863', '77183', '63902', '53032']",63902,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+0,"[15, 13]","['43375', '62759', '75880', '43629', '34763']",34763,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+14,"[18, 25]","['25607', '40877', '40550', '39708', '25711']",25711,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+0,"[15, 28]","['10526', '44802', '70440', '37989', '75880']",10526,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom left corner."
+19,"[17, 18]","['43324', '31693', '73023', '41277', '35149']",31693,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+15,"[3, 3]","['53137', '60915', '47834', '72700', '7489']",72700,** 5,"1. **Different example:** 5
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+5,"[9, 26]","['27706', '48795', '57316', '51743', '23716']",23716,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+19,"[15, 13]","['71082', '24364', '52721', '72346', '33749']",24364,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+17,"[7, 3]","['69704', '52457', '62549', '6955', '21408']",52457,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+3,"[7, 3]","['49864', '177', '27821', '61767', '73823']",61767,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+3,"[7, 22]","['4286', '38478', '9147', '23132', '994']",23132,** 5,"1. **Different example:** 5
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+19,"[3, 4]","['76431', '20671', '42272', '37914', '26372']",20671,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+18,"[19, 8]","['61353', '12104', '72365', '71082', '42151']",71082,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+0,"[9, 3]","['39894', '8176', '67842', '1268', '66807']",1268,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+0,"[4, 27]","['80522', '49395', '42604', '70239', '31926']",70239,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+5,"[15, 28]","['10526', '51114', '51211', '48795', '63485']",10526,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+3,"[15, 17]","['10017', '72586', '1181', '32729', '11908']",11908,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+3,"[7, 1]","['22487', '22002', '17550', '177', '68096']",17550,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+3,"[19, 14]","['4286', '34449', '38478', '26703', '20671']",26703,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is in the bottom right corner."
+5,"[15, 28]","['21765', '10526', '35725', '49189', '18711']",10526,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+19,"[3, 16]","['43396', '76431', '56017', '35149', '64729']",56017,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+9,"[19, 10]","['21540', '52758', '6759', '335', '9662']",21540,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+19,"[14, 7]","['36396', '17017', '64729', '51393', '43324']",51393,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+17,"[0, 6]","['62454', '7913', '31693', '49395', '66316']",49395,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is in the bottom right corner."
+3,"[18, 25]","['42226', '19992', '4132', '1181', '9383']",4132,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+3,"[15, 17]","['30004', '38478', '73164', '20671', '47834']",47834,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+14,"[19, 28]","['67483', '6508', '43363', '28732', '14102']",43363,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+9,"[14, 9]","['50510', '78534', '14914', '39708', '6759']",39708,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+3,"[0, 2]","['49864', '1064', '47060', '68096', '45218']",45218,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+19,"[5, 19]","['36396', '59747', '77183', '59952', '71082']",77183,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+3,"[9, 4]","['79413', '64', '34449', '64047', '74226']",79413,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+3,"[7, 22]","['19796', '79411', '20671', '37907', '37955']",79411,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is located in the bottom right corner."
+14,"[18, 25]","['62071', '40877', '6508', '14102', '77045']",62071,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+17,"[9, 11]","['66935', '33045', '335', '31693', '50221']",335,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+0,"[7, 20]","['60860', '72266', '54372', '67465', '59474']",54372,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+3,"[19, 5]","['64', '59952', '50906', '9383', '73164']",59952,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is in the bottom right corner."
+17,"[19, 8]","['69704', '70105', '66935', '50221', '6777']",6777,** 4,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4."
+7,"[17, 5]","['31113', '53652', '17550', '16951', '72055']",72055,** 4,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other four examples it is in the bottom right corner."
