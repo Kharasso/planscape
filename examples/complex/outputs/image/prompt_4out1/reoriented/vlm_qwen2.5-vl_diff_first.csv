@@ -1,0 +1,201 @@
+base_cluster,other_cluster,options,outlier_id,predicted_id,raw_response,last_option
+"[7, 22]","[5, 4]","['40679', '27706', '23132', '79411', '31113']",27706,31113,"1. **Different example:** ID 31113
+2. **Why:** In all other examples, there is a red line indicating a path that connects the entrance to the living room. However, in Example 5 (ID 31113), this connection is missing, making it the different one.",31113
+"[19, 18]","[17, 18]","['58616', '41277', '66935', '49556', '30721']",66935,30721,"1. **Different example:** ID 30721
+2. **Why:** In all other examples, there is a small red room adjacent to the larger yellow room on the bottom right side of the floor plan. However, in Example 5 (ID 30721), this red room is missing, making it the different one.",30721
+"[17, 21]","[19, 28]","['43363', '62549', '78147', '9795', '40487']",43363,62549,"1. **Different example:** ID 62549
+2. **Why:** In Example 2, there is an additional small blue room attached to the top of the main structure that is not present in the other examples.",40487
+"[19, 8]","[15, 13]","['6777', '24364', '71082', '36396', '19346']",24364,71082,"1. **Different example:** ID 71082
+2. **Why:** In Example 3 (ID 71082), there is an additional room on the left side that is not present in the other four examples. This extra room changes the overall layout and size of the apartment compared to the others.",19346
+"[7, 1]","[0, 7]","['10825', '12421', '66807', '17550', '12376']",66807,66807,"1. **Different example:** ID 66807
+2. **Why:** In all other examples, the green room (likely a kitchen) is positioned above the yellow room (likely a living room). However, in Example 3, the green room is placed to the right of the yellow room, which is not seen in the other examples.",12376
+"[18, 25]","[15, 28]","['62071', '73827', '25711', '23274', '3282']",23274,3282,"1. **Different example:** ID 3282
+2. **Why:** In all other examples, the red room is adjacent to the yellow room on the right side. However, in Example 5 (ID 3282), the red room is adjacent to the yellow room on the left side, which is not the case in the other examples.",3282
+"[5, 4]","[9, 3]","['62609', '27706', '63485', '1268', '51114']",1268,51114,"1. **Different example:** ID 51114
+2. **Why:** In all other examples, the red room is located in the bottom left corner of the floor plan. However, in Example 5 (ID 51114), the red room is positioned in the bottom right corner, which is not consistent with the layout of the other examples.",51114
+"[3, 12]","[19, 28]","['27821', '20968', '37955', '40111', '1181']",40111,5,"1. **Different example:** ID 5
+2. **Why:** The apartment in Example 5 has a different layout compared to the other four examples. In Examples 1 through 4, there is a consistent arrangement of rooms with a central hallway leading to various rooms on either side. However, in Example 5, the layout appears more compact and rearranged, with a different distribution of spaces and a different orientation of the rooms.",1181
+"[0, 7]","[7, 3]","['10984', '72266', '66807', '52457', '15613']",52457,15613,"1. **Different example:** ID 15613
+2. **Why:** In all other examples, the red room is located in the bottom right corner of the floor plan. However, in Example 5 (ID 15613), the red room is positioned in the bottom left corner, which is not consistent with the other examples.",15613
+"[5, 4]","[0, 24]","['63485', '35725', '2004', '48780', '51114']",48780,51114,"1. **Different example:** ID 51114
+2. **Why:** In all other examples, the red door is located in the bottom left corner of the apartment. However, in Example 5 (ID 51114), the red door is positioned in the bottom right corner, which is not consistent with the other examples.",51114
+"[7, 3]","[15, 13]","['75828', '64781', '61767', '24364', '52457']",24364,52457,"1. **Different example:** ID 52457
+2. **Why:** In all other examples, the yellow room (kitchen) is positioned to the left of the orange room (living room). However, in Example 5, the yellow room is positioned above the orange room, which is not consistent with the other examples.",52457
+"[7, 1]","[15, 17]","['12421', '53652', '10825', '12376', '47834']",47834,53652,"1. **Different example:** ID 53652
+2. **Why:** In all other examples, there is a small green room adjacent to the yellow room on the left side of the layout. However, in Example 2, this green room is missing, making it distinct from the others.",47834
+"[18, 25]","[19, 5]","['3282', '73827', '25711', '62071', '72346']",72346,72346,"1. **Different example:** ID 72346
+2. **Why:** In all other examples, there is a red room that is adjacent to a yellow room on the right side. However, in Example 5, the red room is not adjacent to any yellow room; instead, it is adjacent to a green room. This unique spatial relationship distinguishes it from the others.",72346
+"[15, 21]","[14, 7]","['3384', '7489', '13497', '25607', '20839']",25607,20839,"1. **Different example:** ID 20839
+2. **Why:** In all other examples, there is a red line indicating a door that connects two rooms. However, in Example 5 (ID 20839), this red line is missing, suggesting a different layout where the rooms might be connected differently or not at all.",20839
+"[14, 8]","[4, 27]","['39691', '40877', '46039', '28694', '77515']",77515,5,"1. **Different example:** ID 5
+2. **Why:** The apartment in Example 5 has a different layout compared to the other four. Specifically, the arrangement of rooms and their relative positions differ significantly. In Examples 1 through 4, there is a consistent pattern with a larger central room flanked by smaller rooms on either side, whereas Example 5 features a more compact and rearranged configuration of rooms.",77515
+"[0, 24]","[15, 17]","['74418', '31926', '48780', '37989', '60915']",60915,60915,"1. **Different example:** ID 60915
+2. **Why:** In all other examples, the yellow room (kitchen) is located to the right of the red room (bathroom). However, in Example 5, the yellow room is positioned above the red room, which is not consistent with the other examples.",60915
+"[3, 3]","[19, 25]","['30004', '33749', '22002', '10131', '22487']",33749,33749,"1. **Different example:** ID 33749
+2. **Why:** In all other examples, the yellow room (likely the living room) is adjacent to the red room (likely the kitchen) on the right side. However, in Example 2, the yellow room is adjacent to the red room on the left side, which is not the case in the other examples.",22487
+"[4, 27]","[15, 17]","['12888', '5222', '60915', '77515', '70239']",60915,70239,"1. **Different example:** ID 70239
+2. **Why:** In all other examples, the yellow room is positioned to the right of the orange room, but in Example 5 (ID 70239), the yellow room is positioned above the orange room instead. This change in spatial relationship makes it distinct from the others.",70239
+"[5, 29]","[9, 26]","['55950', '21765', '50181', '57316', '52548']",50181,52548,"1. **Different example:** ID 52548
+2. **Why:** In all other examples, the red room is located in the bottom right corner of the floor plan. However, in Example 5 (ID 52548), the red room is positioned in the bottom left corner, which is not consistent with the other examples.",52548
+"[17, 5]","[4, 27]","['77515', '50221', '7913', '72055', '33045']",77515,50221,"1. **Different example:** ID 50221
+2. **Why:** In Example 2, there is an additional small room (purple) located between the yellow and red rooms that is not present in the other examples.",33045
+"[14, 8]","[19, 5]","['39691', '40877', '28694', '46039', '63902']",63902,63902,"1. **Different example:** ID 63902
+2. **Why:** In all other examples, there is a yellow room directly below the green room on the left side of the building. However, in Example 5 (ID 63902), this yellow room is missing, making it the different one.",63902
+"[19, 25]","[3, 17]","['47247', '74532', '38478', '26994', '33749']",38478,33749,"1. **Different example:** ID 33749
+2. **Why:** In all other examples, there is a small blue room adjacent to the yellow room on the left side of the layout. In Example 5, this blue room is missing, making it the different one.",33749
+"[3, 7]","[7, 3]","['37907', '73164', '75828', '19796', '19992']",75828,37907,"1. **Different example:** ID 37907
+2. **Why:** In all other examples, the yellow room (likely a living room) is positioned to the left of the orange room (likely a kitchen). However, in Example 37907, the yellow room is placed above the orange room, which is not seen in the other examples.",19992
+"[9, 4]","[7, 1]","['79413', '80219', '64614', '12376', '50510']",12376,12376,"1. **Different example:** ID 12376
+2. **Why:** In all other examples, the red room is located in the bottom left corner of the floor plan. However, in Example 4 (ID 12376), the red room is positioned in the bottom right corner, which is not consistent with the other examples.",50510
+"[5, 29]","[17, 18]","['66316', '51743', '52548', '18711', '57316']",66316,51743,"1. **Different example:** ID 51743
+2. **Why:** In all other examples, the orange room is positioned above the yellow room, but in Example 2, the orange room is on the left side of the yellow room, which is not consistent with the others.",57316
+"[5, 19]","[19, 13]","['77183', '63077', '51211', '43324', '54232']",43324,54232,"1. **Different example:** ID 54232
+2. **Why:** In all other examples, the red line (which likely represents a hallway or corridor) connects to the yellow room on the left side of the image. However, in Example 5, the red line connects to the yellow room on the right side instead. This change in the spatial relationship between the red line and the yellow room distinguishes it from the other examples.",54232
+"[0, 2]","[9, 11]","['28242', '9639', '63508', '62759', '61914']",61914,61914,"1. **Different example:** ID 61914
+2. **Why:** In all other examples, the red room is located in the bottom left corner of the apartment. However, in Example 5 (ID 61914), the red room is positioned in the bottom right corner, which is not consistent with the other examples.",61914
+"[9, 4]","[19, 13]","['80219', '50510', '79413', '64614', '43324']",43324,50510,"1. **Different example:** ID 50510
+2. **Why:** In all other examples, the red line (which likely represents a hallway or corridor) connects to the green room on the left side of the yellow room. However, in Example 2, the red line connects to the green room on the right side of the yellow room, which is not consistent with the other examples.",43324
+"[5, 29]","[3, 28]","['21765', '57316', '51743', '52548', '12683']",12683,57316,"1. **Different example:** ID 57316
+2. **Why:** In all other examples, the red room is located in the bottom right corner of the floor plan. However, in Example 2 (ID 57316), the red room is positioned in the bottom left corner, which is not consistent with the other examples.",12683
+"[19, 13]","[5, 29]","['43396', '26354', '37914', '35479', '18711']",18711,18711,"1. **Different example:** ID 18711
+2. **Why:** In all other examples, there is a yellow room directly below the orange room in the top right corner. However, in Example 5 (ID 18711), this relationship is disrupted as the yellow room is moved to the bottom left instead.",18711
+"[7, 1]","[3, 26]","['12376', '72586', '16951', '53652', '8109']",72586,8109,"1. **Different example:** ID 8109
+2. **Why:** In all other examples, the green room (likely a kitchen) is positioned on the left side of the yellow room (likely a living room). However, in Example 5, the green room is on the right side of the yellow room, which is the opposite arrangement compared to the others.",8109
+"[19, 28]","[0, 14]","['23197', '40111', '42272', '43363', '39894']",39894,39894,"1. **Different example:** ID 39894
+2. **Why:** In all other examples, there is a small red room adjacent to the yellow room on the left side of the layout. In Example 5, this red room is missing, making it the different one.",39894
+"[19, 18]","[14, 9]","['35149', '30721', '49556', '55086', '40550']",40550,55086,"1. **Different example:** ID 55086
+2. **Why:** In Example 4 (ID 55086), there is an additional yellow section on the right side that is not present in the other four examples. This extra section changes the overall layout and size of the apartment compared to the others.",40550
+"[19, 14]","[14, 7]","['64729', '26703', '72517', '51393', '26372']",51393,26372,"1. **Different example:** ID 26372
+2. **Why:** In all other examples, there is a small green room adjacent to the yellow room on the left side. However, in Example 5 (ID 26372), this green room is missing, making it the different one.",26372
+"[0, 24]","[3, 28]","['74418', '55090', '48780', '31926', '37989']",55090,31926,"1. **Different example:** ID 31926
+2. **Why:** In all other examples, the yellow room (likely a living room) is positioned to the right of the red room (likely a bedroom). However, in Example 4, the yellow room is placed to the left of the red room, which is not consistent with the other examples.",37989
+"[15, 28]","[14, 9]","['67905', '10526', '26506', '3258', '38548']",26506,38548,"1. **Different example:** ID 38548
+2. **Why:** In all other examples, there is a red line indicating a door or passage that connects two rooms. However, in Example 5 (ID 38548), this red line is missing, suggesting a different layout where these rooms might be directly adjacent without a visible passage.",38548
+"[3, 16]","[17, 5]","['56017', '177', '59100', '11746', '33045']",33045,56017,"1. **Different example:** ID 56017
+2. **Why:** In all other examples, the yellow room (likely a living room) is positioned to the right of the green room (likely a kitchen). However, in Example 1, the yellow room is positioned to the left of the green room, which is not consistent with the other examples.",33045
+"[14, 8]","[3, 28]","['42226', '46039', '40877', '28732', '28694']",42226,46039,"1. **Different example:** ID 46039
+2. **Why:** In all other examples, the orange room is positioned to the right of the yellow room, but in Example 2, the orange room is positioned above the yellow room instead.",28694
+"[19, 10]","[0, 6]","['25168', '25618', '55791', '21540', '59474']",59474,59474,"1. **Different example:** ID 59474
+2. **Why:** In all other examples, the red room is located in the bottom right corner of the floor plan. However, in Example 5 (ID 59474), the red room is positioned in the bottom left corner instead. This change in the location of the red room distinguishes it from the other examples.",59474
+"[3, 7]","[19, 28]","['19992', '73164', '37907', '40111', '4286']",40111,4286,"1. **Different example:** ID 4286
+2. **Why:** In all other examples, there is a red line indicating a door that connects two rooms. However, in Example 4 (ID 4286), this red line is missing, suggesting a different layout where the rooms might be connected differently or not at all.",4286
+"[3, 21]","[5, 4]","['42206', '27706', '47060', '14038', '57272']",27706,57272,"1. **Different example:** ID 57272
+2. **Why:** In all other examples, the green room (likely a living room) is positioned above the red room (likely a bedroom). However, in Example 5, the green room is placed to the right of the red room, which is not seen in the other examples.",57272
+"[9, 3]","[15, 28]","['14914', '74662', '9662', '3258', '64671']",3258,64671,"1. **Different example:** ID 64671
+2. **Why:** In all other examples, the orange room is positioned to the left of the yellow room, but in Example 5, the orange room is positioned above the yellow room instead. This change in spatial relationship makes it the different example.",64671
+"[7, 22]","[3, 16]","['23132', '79411', '40679', '31113', '56017']",56017,56017,"1. **Different example:** ID 56017
+2. **Why:** In all other examples, there is a red door that connects two rooms on the right side of the building. However, in Example 5, this red door is missing, indicating a difference in the layout compared to the others.",56017
+"[19, 14]","[17, 18]","['21543', '72517', '26703', '26372', '64729']",21543,64729,"1. **Different example:** ID 64729
+2. **Why:** In all other examples, there is a small green room adjacent to the yellow room on the left side of the layout. In Example 5, this green room is missing, making it the different one.",64729
+"[5, 4]","[9, 11]","['70560', '2004', '30907', '63485', '35725']",30907,30907,"1. **Different example:** ID 30907
+2. **Why:** In all other examples, the red room is located in the bottom left corner of the floor plan. However, in Example 3, the red room is positioned in the bottom right corner, which is not consistent with the other examples.",35725
+"[18, 23]","[19, 5]","['59794', '64148', '14167', '20502', '32569']",32569,59794,"1. **Different example:** ID 59794
+2. **Why:** In all other examples, the yellow room is positioned to the left of the orange room, but in Example 5, the yellow room is positioned above the orange room, which is not consistent with the other examples.",32569
+"[19, 28]","[0, 24]","['43363', '42272', '52721', '37989', '40111']",37989,40111,"1. **Different example:** ID 40111
+2. **Why:** In all other examples, there is a small red room adjacent to the yellow room on the left side of the layout. In Example 5, this red room is missing, making it the different one.",40111
+"[0, 14]","[3, 26]","['39894', '37963', '17291', '80522', '34449']",34449,34449,"1. **Different example:** ID 34449
+2. **Why:** In all other examples, there is a small red room adjacent to the yellow room on the left side of the layout. In Example 5, this red room is missing, making it the different one.",34449
+"[19, 10]","[3, 16]","['56017', '25168', '73023', '55791', '21540']",56017,21540,"1. **Different example:** ID 21540
+2. **Why:** In all other examples, there is a yellow room that is directly connected to a green room on the top left side of the layout. In contrast, in Example 5 (ID 21540), this connection is missing, making it the different one.",21540
+"[18, 25]","[9, 4]","['80219', '4132', '62071', '25711', '73827']",80219,73827,"1. **Different example:** ID 73827
+2. **Why:** In all other examples, the red room is located in the bottom left corner of the floor plan. However, in Example 5 (ID 73827), the red room is positioned in the bottom right corner, which is not consistent with the other examples.",73827
+"[3, 21]","[0, 14]","['17291', '42206', '14038', '57272', '47060']",17291,47060,"1. **Different example:** ID 47060
+2. **Why:** In all other examples, there is a small blue room adjacent to the yellow room on the left side of the layout. In Example 5, this blue room is missing, making it the different one.",47060
+"[19, 18]","[17, 21]","['58616', '36535', '40487', '35149', '74633']",40487,74633,"1. **Different example:** ID 74633
+2. **Why:** In all other examples, the yellow room (kitchen) is located on the right side of the layout. However, in Example 5, the yellow room is positioned on the left side, which is not consistent with the other examples.",74633
+"[9, 11]","[15, 28]","['10526', '335', '78534', '15606', '4186']",10526,335,"1. **Different example:** ID 335
+2. **Why:** In all other examples, there is a small blue room (likely a bathroom) located in the top left corner of the apartment. However, in Example 335, this blue room is missing, which makes it distinct from the others.",4186
+"[0, 6]","[19, 25]","['59474', '25447', '43375', '33749', '43036']",33749,59474,"1. **Different example:** ID 59474
+2. **Why:** In all other examples, the light blue room is adjacent to the red room on the left side. However, in Example 59474, the light blue room is positioned above the red room instead of next to it.",43036
+"[9, 3]","[0, 0]","['1268', '28082', '9662', '64671', '14914']",28082,28082,"1. **Different example:** ID 28082
+2. **Why:** In all other examples, the red room is located in the bottom right corner of the floor plan. However, in Example 2, the red room is positioned in the top right corner instead. This change in the location of the red room makes it the different example.",14914
+"[0, 24]","[3, 28]","['31926', '74418', '37989', '8257', '48780']",8257,48780,"1. **Different example:** ID 48780
+2. **Why:** In all other examples, the yellow room (which appears to be a living room) is positioned in the top right corner. However, in Example 5, the yellow room is located in the bottom left corner, which is not consistent with the other examples.",48780
+"[14, 8]","[0, 6]","['75880', '28694', '40877', '46039', '28732']",75880,75880,"1. **Different example:** ID 75880
+2. **Why:** In all other examples, the yellow room is positioned to the right of the orange room, but in Example 1, the yellow room is positioned below the orange room.",28732
+"[3, 7]","[19, 13]","['43324', '4286', '73164', '30859', '37907']",43324,43324,"1. **Different example:** ID 43324
+2. **Why:** In all other examples, there is a green room on the left side of the yellow room. However, in Example 4, this green room is missing, making it the different one.",37907
+"[5, 29]","[17, 21]","['21765', '62454', '57316', '55950', '52548']",62454,52548,"1. **Different example:** ID 52548
+2. **Why:** In all other examples, the green room is located to the left of the yellow room, but in Example 5, the green room is positioned to the right of the yellow room, which is not consistent with the other examples.",52548
+"[0, 2]","[19, 28]","['9836', '54867', '59390', '23197', '51831']",23197,51831,"1. **Different example:** ID 51831
+2. **Why:** In all other examples, there is a small blue room adjacent to the red door on the left side of the layout. In Example 5, this blue room is missing, making it the different one.",51831
+"[19, 14]","[17, 21]","['72517', '64729', '26372', '26703', '9795']",9795,9795,"1. **Different example:** ID 9795
+2. **Why:** In all other examples, the green room is located to the left of the yellow room. However, in Example 5, the green room is positioned above the yellow room instead.",9795
+"[19, 5]","[17, 5]","['32569', '59952', '7913', '55314', '63902']",7913,59952,"1. **Different example:** ID 59952
+2. **Why:** In all other examples, the yellow room (kitchen) is positioned to the right of the orange room (living room). However, in Example 2, the yellow room is positioned to the left of the orange room, which is not consistent with the other examples.",63902
+"[7, 3]","[3, 17]","['33084', '61767', '75828', '64781', '52457']",33084,52457,"1. **Different example:** ID 52457
+2. **Why:** In all other examples, the red room is located in the bottom right corner of the floor plan. However, in Example 5, the red room is positioned in the bottom left corner, which is not consistent with the other examples.",52457
+"[15, 21]","[0, 7]","['20839', '13497', '10984', '7489', '3384']",10984,10984,"1. **Different example:** ID 10984
+2. **Why:** In all other examples, the purple room is located below the yellow room, whereas in Example 3, the purple room is positioned to the right of the yellow room. This change in the spatial relationship between these two rooms makes it the different one.",3384
+"[0, 6]","[15, 17]","['25447', '49395', '43036', '41154', '1225']",1225,1225,"1. **Different example:** ID 1225
+2. **Why:** In all other examples, there is a small blue room adjacent to the red room on the left side of the layout. In Example 5, this blue room is missing, making it the different one.",1225
+"[0, 7]","[15, 28]","['65801', '66807', '10984', '10526', '72266']",10526,72266,"1. **Different example:** ID 72266
+2. **Why:** In all other examples, the red room is located in the bottom left corner of the floor plan. However, in Example 5 (ID 72266), the red room is positioned in the bottom right corner, which is not consistent with the layout of the other examples.",72266
+"[7, 3]","[0, 0]","['75828', '52457', '64781', '28082', '61767']",28082,61767,"1. **Different example:** ID 61767
+2. **Why:** In all other examples, the orange room is located to the right of the yellow room, but in Example 5, the orange room is positioned above the yellow room instead. This change in spatial relationship makes it distinct from the others.",61767
+"[4, 27]","[0, 7]","['77515', '12888', '5222', '70239', '10984']",10984,10984,"1. **Different example:** ID 10984
+2. **Why:** In all other examples, the red room is located in the bottom right corner of the floor plan. However, in Example 5 (ID 10984), the red room is positioned in the bottom left corner, which is not consistent with the layout of the other examples.",10984
+"[14, 9]","[19, 8]","['26678', '14102', '36396', '6508', '26506']",36396,26678,"1. **Different example:** ID 26678
+2. **Why:** In all other examples, the yellow room is positioned to the right of the green room. However, in Example 1, the yellow room is positioned above the green room, which is not the case in the other examples.",26506
+"[7, 22]","[4, 27]","['23132', '40679', '31113', '79411', '70239']",70239,70239,"1. **Different example:** ID 70239
+2. **Why:** In all other examples, the yellow room (kitchen) is positioned to the left of the orange room (living room). However, in Example 5, the yellow room is positioned to the right of the orange room, which is not consistent with the other examples.",70239
+"[7, 22]","[3, 17]","['54792', '40679', '23132', '79411', '31113']",54792,31113,"1. **Different example:** ID 31113
+2. **Why:** In all other examples, the red door is located in the bottom right corner of the apartment. However, in Example 5 (ID 31113), the red door is positioned in the bottom left corner, which is not consistent with the other examples.",31113
+"[7, 3]","[0, 7]","['66807', '52457', '61767', '75828', '64781']",66807,64781,"1. **Different example:** ID 64781
+2. **Why:** In all other examples, the red room is located in the bottom right corner of the floor plan. However, in Example 5 (ID 64781), the red room is positioned in the bottom left corner instead. This change in the location of the red room distinguishes it from the other examples.",64781
+"[9, 3]","[19, 28]","['14914', '1268', '9662', '23197', '74662']",23197,74662,"1. **Different example:** ID 74662
+2. **Why:** In all other examples, the green room is located to the left of the yellow room. However, in Example 5 (ID 74662), the green room is positioned above the yellow room instead.",74662
+"[3, 3]","[19, 14]","['10017', '22487', '72700', '26703', '994']",26703,994,"1. **Different example:** ID 994
+2. **Why:** In all other examples, the green room is located in the top left corner of the building. However, in Example 5 (ID 994), the green room is positioned differently, making it distinct from the others.",994
+"[0, 2]","[7, 3]","['63508', '75828', '45218', '9836', '48095']",75828,75828,"1. **Different example:** ID 75828
+2. **Why:** In all other examples, the red line (which likely represents a specific feature or boundary) is consistently positioned on the right side of the yellow square. However, in Example 2, the red line is on the left side of the yellow square, making it the different one.",48095
+"[15, 21]","[19, 5]","['13497', '20839', '76431', '7489', '3384']",76431,76431,"1. **Different example:** ID 76431
+2. **Why:** In all other examples, the red line represents a corridor that connects two rooms. However, in Example 3 (ID 76431), the red line does not connect to any other room but instead appears to be an isolated section of wall. This unique feature distinguishes it from the others.",3384
+"[0, 24]","[15, 17]","['31926', '37989', '48780', '1225', '74418']",1225,31926,"1. **Different example:** ID 31926
+2. **Why:** In all other examples, there is a small red room adjacent to the larger yellow room on the left side of the layout. In Example 31926, this red room is missing, making it distinct from the others.",74418
+"[19, 10]","[3, 16]","['25618', '25168', '21540', '55791', '63317']",63317,63317,"1. **Different example:** ID 63317
+2. **Why:** In all other examples, the red room is adjacent to the yellow room on the right side. However, in Example 5 (ID 63317), the red room is not adjacent to the yellow room; instead, it is separated by a wall.",63317
+"[5, 29]","[7, 1]","['16951', '57316', '51743', '21765', '55950']",16951,55950,"1. **Different example:** ID 55950
+2. **Why:** In all other examples, the red room is located in the bottom right corner of the floor plan. However, in Example 5 (ID 55950), the red room is positioned in the bottom left corner, which is not consistent with the other examples.",55950
+"[15, 17]","[5, 22]","['47834', '11908', '60915', '7217', '1225']",7217,1225,"1. **Different example:** ID 1225
+2. **Why:** In all other examples, the red line (which likely represents a door or passage) connects to the main hallway in a way that maintains the integrity of the layout. However, in Example 5, the red line appears to be disconnected from the main hallway, suggesting a different spatial relationship or possibly an error in the design.",1225
+"[19, 14]","[14, 8]","['64729', '72517', '46039', '26372', '26703']",46039,26703,"1. **Different example:** ID 26703
+2. **Why:** In all other examples, the green room is located to the left of the yellow room. However, in Example 5, the green room is positioned above the yellow room, which is not consistent with the other examples.",26703
+"[0, 6]","[19, 10]","['43375', '41154', '25618', '25447', '59474']",25618,59474,"1. **Different example:** ID 59474
+2. **Why:** In all other examples, the yellow room (kitchen) is positioned to the right of the red room (bedroom). However, in Example 5, the yellow room is positioned below the red room, which is not consistent with the other examples.",59474
+"[3, 26]","[19, 18]","['49556', '34449', '19246', '50906', '18887']",49556,18887,"1. **Different example:** ID 18887
+2. **Why:** In all other examples, the green room (likely a kitchen) is positioned on the left side of the yellow room (likely a living room). However, in Example 5, the green room is on the right side of the yellow room, which is not consistent with the other examples.",18887
+"[0, 6]","[9, 26]","['75880', '50181', '25447', '49395', '59474']",50181,59474,"1. **Different example:** ID 59474
+2. **Why:** In all other examples, the red door is located in the bottom left corner of the floor plan. However, in Example 5 (ID 59474), the red door is positioned in the middle of the bottom side, which is not consistent with the other examples.",59474
+"[0, 6]","[19, 14]","['41154', '43375', '59474', '49395', '26703']",26703,59474,"1. **Different example:** ID 59474
+2. **Why:** In all other examples, the yellow room (kitchen) is positioned to the right of the red room (bedroom). However, in Example 3, the yellow room is positioned above the red room, which is not the case in the other examples.",26703
+"[3, 26]","[19, 5]","['72586', '40031', '32729', '63902', '18887']",63902,18887,"1. **Different example:** ID 18887
+2. **Why:** In all other examples, there is a green room located in the top left corner of the building. However, in Example 5 (ID 18887), the green room is positioned in the bottom right corner instead. This change in the location of the green room makes it distinct from the other four examples.",18887
+"[9, 3]","[0, 2]","['74662', '80744', '1268', '64671', '9662']",80744,80744,"1. **Different example:** ID 80744
+2. **Why:** In all other examples, the orange room is positioned to the left of the yellow room. However, in Example 2, the orange room is positioned to the right of the yellow room, which is the opposite arrangement.",9662
+"[14, 8]","[3, 3]","['40877', '46039', '28732', '28694', '10017']",10017,5,"1. **Different example:** ID 5
+2. **Why:** In all other examples, the yellow room (likely a living room) is adjacent to the green room (likely a kitchen) on the left side. However, in Example 5, the yellow room is not adjacent to the green room; instead, it is separated by another room (the light blue room). This unique spatial relationship makes Example 5 the different one.",10017
+"[17, 5]","[3, 5]","['63514', '7913', '72055', '50221', '33045']",63514,50221,"1. **Different example:** ID 50221
+2. **Why:** In all other examples, the red door is located in the bottom left corner of the floor plan. However, in Example 4 (ID 50221), the red door is positioned in the bottom right corner, which is not consistent with the other examples.",33045
+"[4, 27]","[14, 7]","['77045', '77515', '70239', '5222', '12888']",77045,77045,"1. **Different example:** ID 77045
+2. **Why:** In all other examples, the yellow room (kitchen) is positioned to the right of the green room (living room). However, in Example 77045, the yellow room is placed below the green room, which is not seen in the other examples.",12888
+"[19, 14]","[3, 7]","['26372', '72517', '37907', '26703', '64729']",37907,64729,"1. **Different example:** ID 64729
+2. **Why:** In all other examples, the green room is located to the left of the yellow room, whereas in Example 5, the green room is positioned above the yellow room. This change in the spatial relationship between these two rooms makes it the different one.",64729
+"[3, 4]","[19, 10]","['11039', '20671', '35787', '73023', '9383']",73023,73023,"1. **Different example:** ID 73023
+2. **Why:** In all other examples, the small green room is located in the top left corner of the apartment. However, in Example 4 (ID 73023), the small green room is positioned in the bottom right corner instead. This change in location makes it distinct from the other examples.",9383
+"[3, 12]","[18, 23]","['37955', '37360', '1181', '20968', '27821']",37360,27821,"1. **Different example:** ID 27821
+2. **Why:** In all other examples, the red room is located in the bottom right corner of the apartment. However, in Example 5 (ID 27821), the red room is positioned in the bottom left corner, which is not consistent with the other examples.",27821
+"[19, 25]","[9, 26]","['74532', '47247', '59747', '7474', '26994']",7474,7474,"1. **Different example:** ID 7474
+2. **Why:** In all other examples, there is a red door located in the bottom left corner of the floor plan. However, in Example 4 (ID 7474), the red door is positioned differently, not in the bottom left corner but closer to the center of the bottom edge. This change in the location of the red door distinguishes it from the other examples.",26994
+"[5, 29]","[14, 9]","['18711', '52548', '26678', '51743', '57316']",26678,57316,"1. **Different example:** ID 57316
+2. **Why:** In all other examples, the red room is located in the bottom right corner of the floor plan. However, in Example 5 (ID 57316), the red room is positioned in the bottom left corner, which is not consistent with the other examples.",57316
+"[9, 4]","[15, 28]","['79413', '64614', '67905', '80219', '50510']",67905,67905,"1. **Different example:** ID 67905
+2. **Why:** In Example 3 (ID 67905), there is an additional yellow square on the right side that is not present in the other examples. This extra element disrupts the uniformity of the layout compared to the others.",50510
+"[3, 5]","[9, 26]","['64', '12162', '63514', '23716', '74226']",23716,74226,"1. **Different example:** ID 74226
+2. **Why:** In all other examples, there is a small red room adjacent to the larger yellow room on the left side of the layout. In Example 5, this relationship is missing, making it the different one.",74226
+"[15, 17]","[19, 28]","['60915', '1225', '11908', '42272', '47834']",42272,47834,"1. **Different example:** ID 47834
+2. **Why:** In all other examples, the yellow room is positioned to the right of the orange room, but in Example 5, the yellow room is positioned above the orange room instead. This change in spatial relationship makes it distinct from the others.",47834
+"[3, 12]","[19, 18]","['37955', '20968', '27821', '58616', '1181']",58616,58616,"1. **Different example:** ID 58616
+2. **Why:** In all other examples, the yellow room (likely a living room) is positioned to the left of the orange room (likely a kitchen). However, in Example 4, the yellow room is on the right side of the orange room, which is not consistent with the other examples.",1181
+"[19, 13]","[3, 17]","['43396', '42612', '53579', '37914', '35479']",53579,43396,"1. **Different example:** ID 43396
+2. **Why:** In Example 1 (ID 43396), there is an additional yellow square on the bottom left corner that is not present in the other four examples. This extra space changes the overall layout and size of the apartment compared to the others.",35479
