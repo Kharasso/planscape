@@ -1,201 +1,201 @@
-base_cluster,other_cluster,options,outlier_id,predicted_id,raw_response
-"[19, 25]","[18, 25]","['62071', '33749', '26994', '47247', '74532']",62071,** 4,"1. **Different example:** 4
-2. **Why:** The fourth example has a different floorplan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom right corner. Additionally, the master room is located in the top right corner in the fourth example, while in the other examples, it is located in the bottom left corner."
-"[3, 5]","[19, 5]","['12162', '32569', '74226', '64', '63514']",32569,** 4,"1. **Different example:** 4
-2. **Why:** The common room is missing in the fourth example, while it is present in all other examples."
-"[19, 8]","[14, 8]","['71082', '36396', '6777', '46039', '19346']",46039,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 28]","[15, 28]","['8257', '55090', '73823', '10526', '42226']",10526,** 4,"1. **Different example:** 4
-2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner."
-"[3, 21]","[15, 21]","['14038', '57272', '42206', '7489', '47060']",7489,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom left corner."
-"[17, 21]","[15, 21]","['78147', '3384', '69704', '9795', '62549']",3384,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 3]","[9, 3]","['994', '1268', '72700', '30004', '10131']",1268,** 3,"1. **Different example:** 3
-2. **Why:** The third example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner."
-"[3, 17]","[15, 17]","['54792', '33084', '12043', '38478', '47834']",47834,** 4,"1. **Different example:** 4
-2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom left corner."
-"[15, 28]","[3, 28]","['3258', '42226', '67905', '38548', '10526']",42226,** 4,"1. **Different example:** 4
-2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner."
-"[15, 17]","[3, 17]","['1225', '11908', '53579', '47834', '60915']",53579,** 3,"1. **Different example:** 3
-2. **Why:** The common room in Example 3 is located in the top left corner, while in the other examples, it is located in the bottom right corner."
-"[3, 26]","[9, 26]","['40031', '27788', '72586', '1064', '50906']",27788,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[5, 22]","[7, 22]","['40863', '7217', '40679', '77349', '57572']",40679,** 4,"1. **Different example:** 4
-2. **Why:** The fourth example has a different floorplan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner. Additionally, the master room is located in the top right corner in the fourth example, while in the other examples, it is located in the bottom right corner."
-"[19, 8]","[14, 8]","['46039', '6777', '36396', '71082', '19346']",46039,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 17]","[15, 17]","['12043', '60915', '38478', '33084', '54792']",60915,** 4,"1. **Different example:** 4
-2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom left corner."
-"[0, 7]","[3, 7]","['4286', '65801', '66807', '72266', '10984']",4286,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[14, 8]","[19, 8]","['28694', '39691', '28732', '46039', '6777']",6777,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[14, 7]","[0, 7]","['77045', '38835', '67483', '51393', '65801']",65801,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[5, 4]","[9, 4]","['70560', '80219', '2004', '53032', '62609']",80219,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[7, 3]","[9, 3]","['75828', '64671', '52457', '64781', '61767']",64671,** 52457,"1. **Different example:** 52457
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom left corner."
-"[3, 7]","[0, 7]","['19992', '73164', '4286', '19796', '72266']",72266,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 3]","[9, 3]","['72700', '74662', '10131', '10017', '30004']",74662,** 3,"1. **Different example:** 3
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[17, 5]","[3, 5]","['7913', '63514', '72055', '33045', '50221']",63514,** 4,"1. **Different example:** 4
-2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner."
-"[15, 17]","[3, 17]","['47834', '1225', '11908', '54792', '60915']",54792,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[7, 3]","[9, 3]","['61767', '75828', '52457', '64671', '64781']",64671,** 64781,"1. **Different example:** 64781
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 17]","[15, 17]","['1225', '38478', '12043', '64047', '33084']",1225,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[19, 13]","[15, 13]","['35479', '20590', '37914', '42612', '43324']",20590,** 3,"1. **Different example:** 3
-2. **Why:** The third example has a different floor plan pattern. The common room is located in the bottom left corner, while in the other examples, it is in the top left corner. Additionally, the master room is in the top right corner in the third example, whereas in the other examples, it is in the bottom right corner."
-"[19, 14]","[0, 14]","['64729', '26703', '39894', '72517', '26372']",39894,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 28]","[15, 28]","['42226', '12683', '8257', '10526', '55090']",10526,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 21]","[15, 21]","['53064', '42206', '13497', '14038', '47060']",13497,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 7]","[0, 7]","['4286', '73164', '30859', '65801', '19796']",65801,** 4,"1. **Different example:** 4
-2. **Why:** The common room is missing in the fourth example."
-"[3, 21]","[17, 21]","['40487', '47060', '53064', '57272', '42206']",40487,** 3,"1. **Different example:** 3
-2. **Why:** The third example has a different floor plan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner."
-"[17, 21]","[3, 21]","['40487', '9795', '53064', '78147', '62549']",53064,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[9, 3]","[3, 3]","['74662', '9662', '64671', '14914', '30004']",30004,** 3,"1. **Different example:** 3
-2. **Why:** The third example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner."
-"[0, 7]","[14, 7]","['65801', '51393', '72266', '66807', '10984']",51393,** 5,"1. **Different example:** 5
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[19, 13]","[15, 13]","['35479', '43396', '25079', '26354', '42612']",25079,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[17, 18]","[19, 18]","['66935', '41277', '31693', '21408', '21543']",41277,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[14, 8]","[19, 8]","['40877', '28694', '46039', '39691', '36396']",36396,** 5,"1. **Different example:** 5
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[14, 8]","[19, 8]","['28694', '71082', '40877', '28732', '46039']",71082,** 3,"1. **Different example:** 3
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom left corner."
-"[3, 3]","[9, 3]","['30004', '10017', '994', '64671', '10131']",64671,** 3,"1. **Different example:** 3
-2. **Why:** The third example has a different floor plan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner. Additionally, the master room and living room are swapped in the third example compared to the other examples."
-"[7, 3]","[3, 3]","['75828', '52457', '61767', '994', '64781']",994,** 4,"1. **Different example:** 4
-2. **Why:** The fourth example has a different floorplan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner. Additionally, the master room is located in the top right corner in the fourth example, while in the other examples, it is located in the bottom right corner."
-"[3, 17]","[15, 17]","['33084', '54792', '12043', '60915', '53579']",60915,** 4,"1. **Different example:** 4
-2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner."
-"[3, 7]","[14, 7]","['37907', '4286', '19992', '25607', '19796']",25607,** 4,"1. **Different example:** 4
-2. **Why:** The common room is missing in example 4."
-"[19, 18]","[17, 18]","['55086', '29042', '66316', '35149', '49556']",66316,** 4,"1. **Different example:** 4
-2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner."
-"[19, 18]","[17, 18]","['30721', '35149', '41277', '55086', '46660']",46660,** 4,"1. **Different example:** 4
-2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner."
-"[17, 21]","[3, 21]","['9795', '62549', '42206', '78147', '40487']",42206,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 28]","[19, 28]","['42226', '73823', '8257', '52721', '55090']",52721,** 3,"1. **Different example:** 3
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 4]","[9, 4]","['50510', '35787', '11039', '20671', '9383']",50510,** 3,"1. **Different example:** 3
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[15, 28]","[3, 28]","['67905', '3258', '10526', '42226', '23274']",42226,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[15, 13]","[19, 13]","['43396', '20590', '42684', '25079', '24364']",43396,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[18, 25]","[19, 25]","['47247', '4132', '73827', '3282', '25711']",47247,** 4,"1. **Different example:** 4
-2. **Why:** The common room is missing in this plan."
-"[3, 3]","[9, 3]","['22487', '10017', '22002', '14914', '994']",14914,** 5,"1. **Different example:** 5
-2. **Why:** The fifth example has a different floor plan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner."
-"[3, 4]","[9, 4]","['11039', '20671', '80219', '35787', '9383']",80219,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 4]","[5, 4]","['11039', '20671', '9383', '35787', '70560']",70560,** 4,"1. **Different example:** 4
-2. **Why:** The fourth example has a different floorplan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom right corner. Additionally, the master room is located in the top right corner in the fourth example, while in the other examples, it is located in the bottom right corner."
-"[9, 26]","[3, 26]","['6759', '27788', '23716', '50181', '18887']",18887,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 3]","[7, 3]","['994', '72700', '22002', '10017', '61767']",61767,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 17]","[15, 17]","['54792', '38478', '53579', '12043', '47834']",47834,** 5,"1. **Different example:** 5
-2. **Why:** The fifth example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom right corner. Additionally, the master room in the fifth example is located in the top right corner, while in the other examples, it is located in the bottom left corner."
-"[3, 7]","[0, 7]","['65801', '19992', '19796', '73164', '37907']",65801,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[19, 5]","[17, 5]","['59952', '72055', '32569', '55314', '76431']",72055,** 5,"1. **Different example:** 5
-2. **Why:** The fifth example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom right corner. Additionally, the master room in the fifth example is located in the top right corner, while in the other examples, it is located in the bottom left corner."
-"[15, 21]","[17, 21]","['3384', '13497', '9795', '7489', '20839']",9795,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, which is different from the other examples where the common room is located in the bottom right corner."
-"[3, 7]","[14, 7]","['67483', '37907', '19992', '30859', '19796']",67483,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 3]","[7, 3]","['10017', '10131', '994', '22487', '64781']",64781,** 3,"1. **Different example:** 3
-2. **Why:** The third example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner."
-"[5, 4]","[9, 4]","['64614', '63485', '35725', '70560', '51114']",64614,** 5,"1. **Different example:** 5
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[0, 7]","[3, 7]","['66807', '65801', '15613', '72266', '19992']",19992,** 19992,"1. **Different example:** 19992
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 21]","[15, 21]","['57272', '42206', '14038', '47060', '20839']",20839,** 4,"1. **Different example:** 4
-2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom left corner."
-"[14, 7]","[0, 7]","['51393', '10984', '25607', '77045', '67483']",10984,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[19, 25]","[18, 25]","['59747', '74532', '26994', '47247', '4132']",4132,** 5,"1. **Different example:** 5
-2. **Why:** The common room is missing in example 5, while in the other examples it is present."
-"[5, 4]","[3, 4]","['2004', '9383', '53032', '70560', '51114']",9383,** 3,"1. **Different example:** 3
-2. **Why:** The third example has a different floorplan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner."
-"[3, 17]","[15, 17]","['53579', '64047', '38478', '33084', '60915']",60915,** 4,"1. **Different example:** 4
-2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner."
-"[3, 26]","[9, 26]","['34449', '40031', '1064', '11033', '7474']",7474,** 3,"1. **Different example:** 3
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[0, 14]","[19, 14]","['1261', '75707', '42604', '64729', '80522']",64729,** 5,"1. **Different example:** 5
-2. **Why:** The fifth example has a different floorplan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom right corner. Additionally, the master room is located in the top right corner in the fifth example, while in the other examples, it is located in the bottom left corner."
-"[17, 18]","[19, 18]","['30721', '6955', '21408', '31693', '66316']",30721,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[9, 3]","[3, 3]","['64671', '14914', '1268', '30004', '9662']",30004,** 3,"1. **Different example:** 3
-2. **Why:** The third example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner."
-"[19, 28]","[3, 28]","['42272', '43363', '55589', '55090', '40111']",55090,** 3,"1. **Different example:** 3
-2. **Why:** The third example has a different layout for the common room and the master room compared to the other examples. In the third example, the common room is located in the top left corner, while in the other examples, it is in the bottom left corner. Additionally, the master room in the third example is located in the top right corner, whereas in the other examples, it is in the bottom right corner."
-"[18, 25]","[19, 25]","['47247', '4132', '73827', '25711', '3282']",47247,** 4,"1. **Different example:** 4
-2. **Why:** The common room is missing in example 4."
-"[3, 3]","[7, 3]","['22002', '72700', '75828', '10131', '22487']",75828,** 4,"1. **Different example:** 4
-2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom left corner."
-"[17, 21]","[3, 21]","['69704', '62549', '40487', '9795', '47060']",47060,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 7]","[14, 7]","['73164', '4286', '19992', '30859', '77045']",77045,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 26]","[9, 26]","['32729', '68096', '50181', '72586', '50906']",50181,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[17, 18]","[19, 18]","['55086', '21543', '70105', '66935', '21408']",55086,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[5, 22]","[7, 22]","['7217', '40679', '48795', '40863', '57572']",40679,** 5,"1. **Different example:** 5
-2. **Why:** The fifth example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom right corner. Additionally, the master room in the fifth example is located in the top right corner, while in the other examples, it is located in the bottom left corner."
-"[17, 5]","[3, 5]","['72055', '33045', '7913', '50221', '63514']",63514,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[19, 18]","[17, 18]","['35149', '74633', '46660', '58616', '36535']",46660,** 5,"1. **Different example:** 5
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 17]","[15, 17]","['54792', '38478', '1225', '64047', '12043']",1225,** 12043,"1. **Different example:** 12043
-2. **Why:** The common room in the different example is located in the top left corner, while in the other examples, it is located in the bottom left corner."
-"[5, 4]","[9, 4]","['53032', '50510', '2004', '70560', '27706']",50510,** 4,"1. **Different example:** 4
-2. **Why:** The common room is missing in example 4."
-"[0, 14]","[19, 14]","['42604', '37963', '1261', '26372', '80522']",26372,** 4,"1. **Different example:** 4
-2. **Why:** The common room is missing in example 4."
-"[14, 7]","[0, 7]","['51393', '77045', '67483', '25607', '10984']",10984,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[19, 25]","[18, 25]","['3282', '74532', '47247', '59747', '33749']",3282,** 5,"1. **Different example:** 5
-2. **Why:** The common room is in the wrong place."
-"[19, 5]","[17, 5]","['32569', '76431', '72346', '55314', '72055']",72055,** 4,"1. **Different example:** 4
-2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner."
-"[3, 26]","[9, 26]","['11033', '49864', '68096', '50181', '1064']",50181,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[3, 4]","[9, 4]","['11039', '20671', '9383', '50510', '35787']",50510,** 3,"1. **Different example:** 3
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[19, 18]","[17, 18]","['35149', '36535', '58616', '55086', '46660']",46660,** 3,"1. **Different example:** 3
-2. **Why:** The third example has a different floorplan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner. Additionally, the master room in the third example is located in the top right corner, while in the other examples, it is located in the bottom right corner."
-"[19, 18]","[17, 18]","['49556', '70105', '29042', '55086', '41277']",70105,** 4,"1. **Different example:** 4
-2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner."
-"[9, 3]","[7, 3]","['14914', '64671', '1268', '75828', '9662']",75828,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[19, 18]","[17, 18]","['21543', '55086', '49556', '41277', '30721']",21543,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[7, 22]","[5, 22]","['79411', '48795', '31113', '40679', '23132']",48795,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[19, 28]","[3, 28]","['42272', '40111', '55589', '52721', '42226']",42226,** 3,"1. **Different example:** 3
-2. **Why:** The third example has a different floor plan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner."
-"[3, 26]","[9, 26]","['11033', '50181', '68096', '9147', '72586']",50181,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[19, 5]","[17, 5]","['76431', '63902', '32569', '33045', '59952']",33045,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
-"[0, 14]","[19, 14]","['42604', '39894', '37963', '80522', '26703']",26703,** 4,"1. **Different example:** 4
-2. **Why:** The common room is missing in the fourth example, while it is present in all other examples."
-"[14, 7]","[3, 7]","['38835', '77045', '25607', '67483', '73164']",73164,** 4,"1. **Different example:** 4
-2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner."
+base_cluster,other_cluster,options,outlier_id,predicted_id,raw_response,last_option
+"[19, 25]","[18, 25]","['62071', '33749', '26994', '47247', '74532']",62071,47247,"1. **Different example:** 4
+2. **Why:** The fourth example has a different floorplan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom right corner. Additionally, the master room is located in the top right corner in the fourth example, while in the other examples, it is located in the bottom left corner.",74532
+"[3, 5]","[19, 5]","['12162', '32569', '74226', '64', '63514']",32569,64,"1. **Different example:** 4
+2. **Why:** The common room is missing in the fourth example, while it is present in all other examples.",63514
+"[19, 8]","[14, 8]","['71082', '36396', '6777', '46039', '19346']",46039,46039,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",19346
+"[3, 28]","[15, 28]","['8257', '55090', '73823', '10526', '42226']",10526,10526,"1. **Different example:** 4
+2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner.",42226
+"[3, 21]","[15, 21]","['14038', '57272', '42206', '7489', '47060']",7489,7489,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom left corner.",47060
+"[17, 21]","[15, 21]","['78147', '3384', '69704', '9795', '62549']",3384,9795,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",62549
+"[3, 3]","[9, 3]","['994', '1268', '72700', '30004', '10131']",1268,72700,"1. **Different example:** 3
+2. **Why:** The third example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner.",10131
+"[3, 17]","[15, 17]","['54792', '33084', '12043', '38478', '47834']",47834,38478,"1. **Different example:** 4
+2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom left corner.",47834
+"[15, 28]","[3, 28]","['3258', '42226', '67905', '38548', '10526']",42226,38548,"1. **Different example:** 4
+2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner.",10526
+"[15, 17]","[3, 17]","['1225', '11908', '53579', '47834', '60915']",53579,53579,"1. **Different example:** 3
+2. **Why:** The common room in Example 3 is located in the top left corner, while in the other examples, it is located in the bottom right corner.",60915
+"[3, 26]","[9, 26]","['40031', '27788', '72586', '1064', '50906']",27788,1064,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",50906
+"[5, 22]","[7, 22]","['40863', '7217', '40679', '77349', '57572']",40679,77349,"1. **Different example:** 4
+2. **Why:** The fourth example has a different floorplan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner. Additionally, the master room is located in the top right corner in the fourth example, while in the other examples, it is located in the bottom right corner.",57572
+"[19, 8]","[14, 8]","['46039', '6777', '36396', '71082', '19346']",46039,71082,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",19346
+"[3, 17]","[15, 17]","['12043', '60915', '38478', '33084', '54792']",60915,33084,"1. **Different example:** 4
+2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom left corner.",54792
+"[0, 7]","[3, 7]","['4286', '65801', '66807', '72266', '10984']",4286,72266,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",10984
+"[14, 8]","[19, 8]","['28694', '39691', '28732', '46039', '6777']",6777,46039,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",6777
+"[14, 7]","[0, 7]","['77045', '38835', '67483', '51393', '65801']",65801,51393,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",65801
+"[5, 4]","[9, 4]","['70560', '80219', '2004', '53032', '62609']",80219,53032,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",62609
+"[7, 3]","[9, 3]","['75828', '64671', '52457', '64781', '61767']",64671,52457,"1. **Different example:** 52457
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom left corner.",61767
+"[3, 7]","[0, 7]","['19992', '73164', '4286', '19796', '72266']",72266,19796,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",72266
+"[3, 3]","[9, 3]","['72700', '74662', '10131', '10017', '30004']",74662,10131,"1. **Different example:** 3
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",30004
+"[17, 5]","[3, 5]","['7913', '63514', '72055', '33045', '50221']",63514,33045,"1. **Different example:** 4
+2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner.",50221
+"[15, 17]","[3, 17]","['47834', '1225', '11908', '54792', '60915']",54792,54792,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",60915
+"[7, 3]","[9, 3]","['61767', '75828', '52457', '64671', '64781']",64671,64781,"1. **Different example:** 64781
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",64781
+"[3, 17]","[15, 17]","['1225', '38478', '12043', '64047', '33084']",1225,64047,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",33084
+"[19, 13]","[15, 13]","['35479', '20590', '37914', '42612', '43324']",20590,37914,"1. **Different example:** 3
+2. **Why:** The third example has a different floor plan pattern. The common room is located in the bottom left corner, while in the other examples, it is in the top left corner. Additionally, the master room is in the top right corner in the third example, whereas in the other examples, it is in the bottom right corner.",43324
+"[19, 14]","[0, 14]","['64729', '26703', '39894', '72517', '26372']",39894,72517,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",26372
+"[3, 28]","[15, 28]","['42226', '12683', '8257', '10526', '55090']",10526,10526,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",55090
+"[3, 21]","[15, 21]","['53064', '42206', '13497', '14038', '47060']",13497,14038,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",47060
+"[3, 7]","[0, 7]","['4286', '73164', '30859', '65801', '19796']",65801,65801,"1. **Different example:** 4
+2. **Why:** The common room is missing in the fourth example.",19796
+"[3, 21]","[17, 21]","['40487', '47060', '53064', '57272', '42206']",40487,53064,"1. **Different example:** 3
+2. **Why:** The third example has a different floor plan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner.",42206
+"[17, 21]","[3, 21]","['40487', '9795', '53064', '78147', '62549']",53064,78147,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",62549
+"[9, 3]","[3, 3]","['74662', '9662', '64671', '14914', '30004']",30004,64671,"1. **Different example:** 3
+2. **Why:** The third example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner.",30004
+"[0, 7]","[14, 7]","['65801', '51393', '72266', '66807', '10984']",51393,10984,"1. **Different example:** 5
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",10984
+"[19, 13]","[15, 13]","['35479', '43396', '25079', '26354', '42612']",25079,26354,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",42612
+"[17, 18]","[19, 18]","['66935', '41277', '31693', '21408', '21543']",41277,21408,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",21543
+"[14, 8]","[19, 8]","['40877', '28694', '46039', '39691', '36396']",36396,36396,"1. **Different example:** 5
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",36396
+"[14, 8]","[19, 8]","['28694', '71082', '40877', '28732', '46039']",71082,40877,"1. **Different example:** 3
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom left corner.",46039
+"[3, 3]","[9, 3]","['30004', '10017', '994', '64671', '10131']",64671,994,"1. **Different example:** 3
+2. **Why:** The third example has a different floor plan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner. Additionally, the master room and living room are swapped in the third example compared to the other examples.",10131
+"[7, 3]","[3, 3]","['75828', '52457', '61767', '994', '64781']",994,994,"1. **Different example:** 4
+2. **Why:** The fourth example has a different floorplan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner. Additionally, the master room is located in the top right corner in the fourth example, while in the other examples, it is located in the bottom right corner.",64781
+"[3, 17]","[15, 17]","['33084', '54792', '12043', '60915', '53579']",60915,60915,"1. **Different example:** 4
+2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner.",53579
+"[3, 7]","[14, 7]","['37907', '4286', '19992', '25607', '19796']",25607,25607,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4.",19796
+"[19, 18]","[17, 18]","['55086', '29042', '66316', '35149', '49556']",66316,35149,"1. **Different example:** 4
+2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner.",49556
+"[19, 18]","[17, 18]","['30721', '35149', '41277', '55086', '46660']",46660,55086,"1. **Different example:** 4
+2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner.",46660
+"[17, 21]","[3, 21]","['9795', '62549', '42206', '78147', '40487']",42206,78147,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",40487
+"[3, 28]","[19, 28]","['42226', '73823', '8257', '52721', '55090']",52721,8257,"1. **Different example:** 3
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",55090
+"[3, 4]","[9, 4]","['50510', '35787', '11039', '20671', '9383']",50510,11039,"1. **Different example:** 3
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",9383
+"[15, 28]","[3, 28]","['67905', '3258', '10526', '42226', '23274']",42226,42226,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",23274
+"[15, 13]","[19, 13]","['43396', '20590', '42684', '25079', '24364']",43396,25079,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",24364
+"[18, 25]","[19, 25]","['47247', '4132', '73827', '3282', '25711']",47247,3282,"1. **Different example:** 4
+2. **Why:** The common room is missing in this plan.",25711
+"[3, 3]","[9, 3]","['22487', '10017', '22002', '14914', '994']",14914,994,"1. **Different example:** 5
+2. **Why:** The fifth example has a different floor plan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner.",994
+"[3, 4]","[9, 4]","['11039', '20671', '80219', '35787', '9383']",80219,35787,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",9383
+"[3, 4]","[5, 4]","['11039', '20671', '9383', '35787', '70560']",70560,35787,"1. **Different example:** 4
+2. **Why:** The fourth example has a different floorplan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom right corner. Additionally, the master room is located in the top right corner in the fourth example, while in the other examples, it is located in the bottom right corner.",70560
+"[9, 26]","[3, 26]","['6759', '27788', '23716', '50181', '18887']",18887,50181,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",18887
+"[3, 3]","[7, 3]","['994', '72700', '22002', '10017', '61767']",61767,10017,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",61767
+"[3, 17]","[15, 17]","['54792', '38478', '53579', '12043', '47834']",47834,47834,"1. **Different example:** 5
+2. **Why:** The fifth example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom right corner. Additionally, the master room in the fifth example is located in the top right corner, while in the other examples, it is located in the bottom left corner.",47834
+"[3, 7]","[0, 7]","['65801', '19992', '19796', '73164', '37907']",65801,73164,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",37907
+"[19, 5]","[17, 5]","['59952', '72055', '32569', '55314', '76431']",72055,76431,"1. **Different example:** 5
+2. **Why:** The fifth example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom right corner. Additionally, the master room in the fifth example is located in the top right corner, while in the other examples, it is located in the bottom left corner.",76431
+"[15, 21]","[17, 21]","['3384', '13497', '9795', '7489', '20839']",9795,7489,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, which is different from the other examples where the common room is located in the bottom right corner.",20839
+"[3, 7]","[14, 7]","['67483', '37907', '19992', '30859', '19796']",67483,30859,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",19796
+"[3, 3]","[7, 3]","['10017', '10131', '994', '22487', '64781']",64781,994,"1. **Different example:** 3
+2. **Why:** The third example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner.",64781
+"[5, 4]","[9, 4]","['64614', '63485', '35725', '70560', '51114']",64614,51114,"1. **Different example:** 5
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",51114
+"[0, 7]","[3, 7]","['66807', '65801', '15613', '72266', '19992']",19992,19992,"1. **Different example:** 19992
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",19992
+"[3, 21]","[15, 21]","['57272', '42206', '14038', '47060', '20839']",20839,47060,"1. **Different example:** 4
+2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom left corner.",20839
+"[14, 7]","[0, 7]","['51393', '10984', '25607', '77045', '67483']",10984,77045,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",67483
+"[19, 25]","[18, 25]","['59747', '74532', '26994', '47247', '4132']",4132,4132,"1. **Different example:** 5
+2. **Why:** The common room is missing in example 5, while in the other examples it is present.",4132
+"[5, 4]","[3, 4]","['2004', '9383', '53032', '70560', '51114']",9383,53032,"1. **Different example:** 3
+2. **Why:** The third example has a different floorplan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner.",51114
+"[3, 17]","[15, 17]","['53579', '64047', '38478', '33084', '60915']",60915,33084,"1. **Different example:** 4
+2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner.",60915
+"[3, 26]","[9, 26]","['34449', '40031', '1064', '11033', '7474']",7474,1064,"1. **Different example:** 3
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",7474
+"[0, 14]","[19, 14]","['1261', '75707', '42604', '64729', '80522']",64729,80522,"1. **Different example:** 5
+2. **Why:** The fifth example has a different floorplan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom right corner. Additionally, the master room is located in the top right corner in the fifth example, while in the other examples, it is located in the bottom left corner.",80522
+"[17, 18]","[19, 18]","['30721', '6955', '21408', '31693', '66316']",30721,31693,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",66316
+"[9, 3]","[3, 3]","['64671', '14914', '1268', '30004', '9662']",30004,1268,"1. **Different example:** 3
+2. **Why:** The third example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner.",9662
+"[19, 28]","[3, 28]","['42272', '43363', '55589', '55090', '40111']",55090,55589,"1. **Different example:** 3
+2. **Why:** The third example has a different layout for the common room and the master room compared to the other examples. In the third example, the common room is located in the top left corner, while in the other examples, it is in the bottom left corner. Additionally, the master room in the third example is located in the top right corner, whereas in the other examples, it is in the bottom right corner.",40111
+"[18, 25]","[19, 25]","['47247', '4132', '73827', '25711', '3282']",47247,25711,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4.",3282
+"[3, 3]","[7, 3]","['22002', '72700', '75828', '10131', '22487']",75828,10131,"1. **Different example:** 4
+2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom left corner.",22487
+"[17, 21]","[3, 21]","['69704', '62549', '40487', '9795', '47060']",47060,9795,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",47060
+"[3, 7]","[14, 7]","['73164', '4286', '19992', '30859', '77045']",77045,30859,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",77045
+"[3, 26]","[9, 26]","['32729', '68096', '50181', '72586', '50906']",50181,72586,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",50906
+"[17, 18]","[19, 18]","['55086', '21543', '70105', '66935', '21408']",55086,66935,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",21408
+"[5, 22]","[7, 22]","['7217', '40679', '48795', '40863', '57572']",40679,57572,"1. **Different example:** 5
+2. **Why:** The fifth example has a different floor plan pattern. The common room is located in the top left corner, while in the other examples, it is located in the bottom right corner. Additionally, the master room in the fifth example is located in the top right corner, while in the other examples, it is located in the bottom left corner.",57572
+"[17, 5]","[3, 5]","['72055', '33045', '7913', '50221', '63514']",63514,50221,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",63514
+"[19, 18]","[17, 18]","['35149', '74633', '46660', '58616', '36535']",46660,36535,"1. **Different example:** 5
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",36535
+"[3, 17]","[15, 17]","['54792', '38478', '1225', '64047', '12043']",1225,12043,"1. **Different example:** 12043
+2. **Why:** The common room in the different example is located in the top left corner, while in the other examples, it is located in the bottom left corner.",12043
+"[5, 4]","[9, 4]","['53032', '50510', '2004', '70560', '27706']",50510,70560,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4.",27706
+"[0, 14]","[19, 14]","['42604', '37963', '1261', '26372', '80522']",26372,26372,"1. **Different example:** 4
+2. **Why:** The common room is missing in example 4.",80522
+"[14, 7]","[0, 7]","['51393', '77045', '67483', '25607', '10984']",10984,25607,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",10984
+"[19, 25]","[18, 25]","['3282', '74532', '47247', '59747', '33749']",3282,33749,"1. **Different example:** 5
+2. **Why:** The common room is in the wrong place.",33749
+"[19, 5]","[17, 5]","['32569', '76431', '72346', '55314', '72055']",72055,55314,"1. **Different example:** 4
+2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner.",72055
+"[3, 26]","[9, 26]","['11033', '49864', '68096', '50181', '1064']",50181,50181,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",1064
+"[3, 4]","[9, 4]","['11039', '20671', '9383', '50510', '35787']",50510,9383,"1. **Different example:** 3
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",35787
+"[19, 18]","[17, 18]","['35149', '36535', '58616', '55086', '46660']",46660,58616,"1. **Different example:** 3
+2. **Why:** The third example has a different floorplan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner. Additionally, the master room in the third example is located in the top right corner, while in the other examples, it is located in the bottom right corner.",46660
+"[19, 18]","[17, 18]","['49556', '70105', '29042', '55086', '41277']",70105,55086,"1. **Different example:** 4
+2. **Why:** The common room in Example 4 is located in the top left corner, while in the other examples, it is located in the bottom right corner.",41277
+"[9, 3]","[7, 3]","['14914', '64671', '1268', '75828', '9662']",75828,75828,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",9662
+"[19, 18]","[17, 18]","['21543', '55086', '49556', '41277', '30721']",21543,41277,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",30721
+"[7, 22]","[5, 22]","['79411', '48795', '31113', '40679', '23132']",48795,40679,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",23132
+"[19, 28]","[3, 28]","['42272', '40111', '55589', '52721', '42226']",42226,55589,"1. **Different example:** 3
+2. **Why:** The third example has a different floor plan pattern. The common room is located in the bottom left corner, while in the other examples, it is located in the top left corner. Additionally, the master room is located in the top right corner in the third example, while in the other examples, it is located in the bottom right corner.",42226
+"[3, 26]","[9, 26]","['11033', '50181', '68096', '9147', '72586']",50181,9147,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",72586
+"[19, 5]","[17, 5]","['76431', '63902', '32569', '33045', '59952']",33045,33045,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",59952
+"[0, 14]","[19, 14]","['42604', '39894', '37963', '80522', '26703']",26703,80522,"1. **Different example:** 4
+2. **Why:** The common room is missing in the fourth example, while it is present in all other examples.",26703
+"[14, 7]","[3, 7]","['38835', '77045', '25607', '67483', '73164']",73164,67483,"1. **Different example:** 4
+2. **Why:** The common room is located in the top left corner, while in the other examples it is in the bottom right corner.",73164
