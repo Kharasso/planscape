@@ -1,0 +1,8 @@
+Evaluation task instructions:
+
+For each question, I am showing you 5 color-coded floor plan images.
+4 out of these share a common underlying functional and spatial arrangement, while 1 out of these belongs to a different design pattern.
+
+Please look carefully at spatial relationships between different room types, the location of different room types, and the size of different room types.
+
+Pick the plan ID that you think has a different design pattern.
