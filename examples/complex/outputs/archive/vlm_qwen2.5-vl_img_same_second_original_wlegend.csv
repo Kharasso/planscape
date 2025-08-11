@@ -1,0 +1,201 @@
+base_cluster,other_cluster,options,outlier_id,predicted_id,raw_response
+"[19, 25]","[18, 25]","['62071', '33749', '26994', '47247', '74532']",62071,** B,"1. **Different plan:** B
+2. **Why:** Plan B has a unique layout where the master room is directly adjacent to the living room without any common room in between, unlike the other plans which all have a common room separating the master room from the living room. This distinct arrangement sets it apart from the rest."
+"[3, 5]","[19, 5]","['12162', '32569', '74226', '64', '63514']",32569,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a kitchen (red) in an unusual location, separate from the living room (yellow) and master room (orange). The other plans have the kitchen integrated into the living area or adjacent to it, which is more common in typical apartment layouts."
+"[19, 8]","[14, 8]","['71082', '36396', '6777', '46039', '19346']",46039,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining room (purple), which is not present in the other four plans. The other four plans have a consistent layout with common rooms, master rooms, living rooms, balconies, bathrooms, kitchens, and storage areas, but without the dining room."
+"[3, 28]","[15, 28]","['8257', '55090', '73823', '10526', '42226']",10526,** C,"1. **Different plan:** C
+2. **Why:** Plan C is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, B, D, and E), there is a common room adjacent to the master room, which is a consistent feature in those plans but absent in C."
+"[3, 21]","[15, 21]","['14038', '57272', '42206', '7489', '47060']",7489,** B,"1. **Different plan:** B
+2. **Why:** Plan B has a unique layout where the master room is positioned in a way that it does not align with the common room as seen in the other plans. The other plans (A, C, D, and E) all have the common room directly adjacent to the master room, which is not the case for Plan B. Additionally, Plan B has a different arrangement of the living room and balcony compared to the other plans."
+"[17, 21]","[15, 21]","['78147', '3384', '69704', '9795', '62549']",3384,** C,"1. **Different plan:** C
+2. **Why:** Plan C has a unique layout where the master room is positioned differently compared to the other plans. In Plans A, B, D, and E, the master room is consistently placed in the same relative position within the apartment, either adjacent to or directly connected to the living room. However, in Plan C, the master room is located at the top right corner, which is not the case in the other plans. This distinct placement makes Plan C stand out as having a different underlying floorplan pattern."
+"[3, 3]","[9, 3]","['994', '1268', '72700', '30004', '10131']",1268,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a master bedroom (orange) directly connected to the living room (yellow). In contrast, all other plans (A, C, D, and E) have the master bedroom adjacent to the living room, which is a common pattern in apartment designs."
+"[3, 17]","[15, 17]","['54792', '33084', '12043', '38478', '47834']",47834,** D,"1. **Different plan:** D
+2. **Why:** Plan D has a unique layout where the master room is not adjacent to the living room as in the other plans. In contrast, Plans A, B, C, and E all have the master room directly connected to the living room, which is a common pattern in these floorplans."
+"[15, 28]","[3, 28]","['3258', '42226', '67905', '38548', '10526']",42226,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a kitchen (pink), which is not present in the other four plans. The other four plans all have a common room (yellow) and a master room (orange), but they do not include a kitchen. Additionally, the layout of Plan B is more complex with multiple connected rooms, whereas Plans A, C, D, and E have simpler layouts without a kitchen."
+"[15, 17]","[3, 17]","['1225', '11908', '53579', '47834', '60915']",53579,** C,"1. **Different plan:** C
+2. **Why:** Plan C has an additional room (pink) that is not present in the other four plans. This extra room disrupts the uniformity of the floorplan patterns shared by A, B, D, and E."
+"[3, 26]","[9, 26]","['40031', '27788', '72586', '1064', '50906']",27788,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a balcony (green) in the living room area, which is not present in the other plans. All other plans have the balcony in a separate section or outside the main living area."
+"[5, 22]","[7, 22]","['40863', '7217', '40679', '77349', '57572']",40679,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a separate dining room (purple), which is not present in the other four plans. All other plans have a kitchen (red) instead of a dining room."
+"[19, 8]","[14, 8]","['46039', '6777', '36396', '71082', '19346']",46039,** D,"1. **Different plan:** D
+2. **Why:** Plan D has a unique configuration where the master room is positioned differently compared to the other plans. In Plans A, B, C, and E, the master room is consistently placed in a similar location, adjacent to the living room and kitchen. However, in Plan D, the master room is isolated and does not share the same adjacency with the living room or kitchen as seen in the other plans. This distinct placement makes Plan D stand out as having a different underlying floorplan pattern."
+"[3, 17]","[15, 17]","['12043', '60915', '38478', '33084', '54792']",60915,** C,"1. **Different plan:** C
+2. **Why:** Plan C is the only one that does not have a master bedroom (orange) directly connected to the living room (light yellow). In Plans A, B, D, and E, the master bedroom is adjacent to the living room, which is consistent with the other four plans. Plan C has the master bedroom connected to a common room (yellow), which is unique compared to the others."
+"[0, 7]","[3, 7]","['4286', '65801', '66807', '72266', '10984']",4286,** C,"1. **Different plan:** C
+2. **Why:** Plan C has a unique layout where the master room is positioned in the center, surrounded by common rooms on three sides. This central placement of the master room differs from the other plans, which typically have the master room either adjacent to or directly connected to the living room. Additionally, the presence of a balcony in the center of the master room area is not seen in the other plans, further distinguishing it as having a different underlying floorplan pattern."
+"[14, 8]","[19, 8]","['28694', '39691', '28732', '46039', '6777']",6777,** E,"1. **Different plan:** E
+2. **Why:** Plan E has an additional room (purple) that is not present in the other four plans. This extra room disrupts the uniformity of the floorplan patterns shared by A, B, C, and D."
+"[14, 7]","[0, 7]","['77045', '38835', '67483', '51393', '65801']",65801,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a master bedroom (orange) directly connected to the living room (yellow). In contrast, all other plans (A, C, D, and E) have the master bedroom adjacent to the living room, which is a common layout pattern in apartment designs."
+"[5, 4]","[9, 4]","['70560', '80219', '2004', '53032', '62609']",80219,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[7, 3]","[9, 3]","['75828', '64671', '52457', '64781', '61767']",64671,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[3, 7]","[0, 7]","['19992', '73164', '4286', '19796', '72266']",72266,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), there is a common room adjacent to the master room, which is a consistent feature in the other four plans."
+"[3, 3]","[9, 3]","['72700', '74662', '10131', '10017', '30004']",74662,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[17, 5]","[3, 5]","['7913', '63514', '72055', '33045', '50221']",63514,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[15, 17]","[3, 17]","['47834', '1225', '11908', '54792', '60915']",54792,** D,"1. **Different plan:** D
+2. **Why:** Plan D has an additional room (pink) that is not present in the other four plans. The other four plans have a consistent layout with common rooms, master rooms, living rooms, balconies, bathrooms, and kitchens, but they do not include the pink room which appears to be a storage or dining area. This unique addition makes Plan D stand out as having a different underlying floorplan pattern."
+"[7, 3]","[9, 3]","['61767', '75828', '52457', '64671', '64781']",64671,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[3, 17]","[15, 17]","['1225', '38478', '12043', '64047', '33084']",1225,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[19, 13]","[15, 13]","['35479', '20590', '37914', '42612', '43324']",20590,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[19, 14]","[0, 14]","['64729', '26703', '39894', '72517', '26372']",39894,** B,"1. **Different plan:** B
+2. **Why:** Plan B has an additional small room (pink) that is not present in the other plans. This extra room disrupts the uniformity of the layout compared to A, C, D, and E, which all have a consistent arrangement of common rooms, master rooms, living rooms, balconies, bathrooms, kitchens, storage, and dining areas without any additional small rooms."
+"[3, 28]","[15, 28]","['42226', '12683', '8257', '10526', '55090']",10526,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[3, 21]","[15, 21]","['53064', '42206', '13497', '14038', '47060']",13497,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern across them. Plan B breaks this pattern by having the master room separated from the common room by another room type."
+"[3, 7]","[0, 7]","['4286', '73164', '30859', '65801', '19796']",65801,** C,"1. **Different plan:** C
+2. **Why:** Plan C is the only one that does not have a master bedroom (orange) directly connected to the living room (light yellow). In contrast, all other plans (A, B, D, and E) have the master bedroom adjacent to the living room, which is a common layout pattern in these floorplans."
+"[3, 21]","[17, 21]","['40487', '47060', '53064', '57272', '42206']",40487,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern across them. Plan B breaks this pattern by placing the common room in a separate section, making it distinct from the others."
+"[17, 21]","[3, 21]","['40487', '9795', '53064', '78147', '62549']",53064,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern across them. Plan B breaks this pattern by placing the common room in a separate section, making it distinct from the others."
+"[9, 3]","[3, 3]","['74662', '9662', '64671', '14914', '30004']",30004,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a storage room (purple), which is not present in the other four plans. The other four plans have consistent room types and spatial arrangements without any additional storage space."
+"[0, 7]","[14, 7]","['65801', '51393', '72266', '66807', '10984']",51393,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a balcony (green) in the master room area, which is not present in the other plans. All other plans have the balcony located separately or in a different section of the apartment. This unique placement makes it distinct from the others."
+"[19, 13]","[15, 13]","['35479', '43396', '25079', '26354', '42612']",25079,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[17, 18]","[19, 18]","['66935', '41277', '31693', '21408', '21543']",41277,** C,"1. **Different plan:** C
+2. **Why:** Plan C has an additional room (pink) that is not present in the other four plans. This extra room disrupts the uniformity of the floorplan patterns shared by A, B, D, and E. The other plans maintain a consistent layout with common rooms, master rooms, living rooms, balconies, bathrooms, kitchens, storage, and dining areas without any additional unique room types."
+"[14, 8]","[19, 8]","['40877', '28694', '46039', '39691', '36396']",36396,** E,"1. **Different plan:** E
+2. **Why:** Plan E has an additional room (purple) that is not present in the other four plans. This extra room disrupts the uniformity of the floorplan patterns shared by A, B, C, and D."
+"[14, 8]","[19, 8]","['28694', '71082', '40877', '28732', '46039']",71082,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This unique absence of a balcony sets it apart from the rest."
+"[3, 3]","[9, 3]","['30004', '10017', '994', '64671', '10131']",64671,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a kitchen (pink) in the living room area, which is not present in the other plans. The other plans have distinct kitchen locations separate from the living room."
+"[7, 3]","[3, 3]","['75828', '52457', '61767', '994', '64781']",994,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). All other plans (A, C, D, E) have a common room adjacent to the master room, which is a consistent pattern in the other four plans."
+"[3, 17]","[15, 17]","['33084', '54792', '12043', '60915', '53579']",60915,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[3, 7]","[14, 7]","['37907', '4286', '19992', '25607', '19796']",25607,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[19, 18]","[17, 18]","['55086', '29042', '66316', '35149', '49556']",66316,** C,"1. **Different plan:** C
+2. **Why:** Plan C has an additional room (purple) that is not present in the other four plans. This extra room disrupts the uniformity of the floorplan patterns shared by A, B, D, and E."
+"[19, 18]","[17, 18]","['30721', '35149', '41277', '55086', '46660']",46660,** B,"1. **Different plan:** B
+2. **Why:** Plan B has an additional bathroom that is not present in the other four plans (A, C, D, and E). This extra bathroom disrupts the uniformity of the floorplan patterns among the other four, making it distinct."
+"[17, 21]","[3, 21]","['9795', '62549', '42206', '78147', '40487']",42206,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony. All other plans (A, C, D, and E) include a balcony as part of their layout. This unique absence of a balcony in Plan B distinguishes it from the others."
+"[3, 28]","[19, 28]","['42226', '73823', '8257', '52721', '55090']",52721,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[3, 4]","[9, 4]","['50510', '35787', '11039', '20671', '9383']",50510,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern across them. Plan B breaks this pattern by placing the common room in a separate section, making it distinct from the others."
+"[15, 28]","[3, 28]","['67905', '3258', '10526', '42226', '23274']",42226,** C,"1. **Different plan:** C
+2. **Why:** Plan C has a unique layout where the master room is positioned differently compared to the other plans. In Plans A, B, D, and E, the master room is consistently placed in the same relative position within the apartment, either adjacent to or directly connected to the living room. However, in Plan C, the master room is isolated and not directly connected to the living room, which sets it apart from the other plans."
+"[15, 13]","[19, 13]","['43396', '20590', '42684', '25079', '24364']",43396,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[18, 25]","[19, 25]","['47247', '4132', '73827', '3282', '25711']",47247,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, which is present in all other plans (A, C, D, and E). Additionally, the layout of the rooms in Plan B is more compact compared to the others, with fewer open spaces between the rooms. This suggests a different underlying floorplan pattern."
+"[3, 3]","[9, 3]","['22487', '10017', '22002', '14914', '994']",14914,** C,"1. **Different plan:** C
+2. **Why:** Plan C has a unique layout where the master room is positioned differently compared to the other plans. In Plans A, B, D, and E, the master room is typically placed in a corner or adjacent to the living room, but in Plan C, it is centrally located within the apartment. This central placement makes Plan C stand out as having a different underlying floorplan pattern from the others."
+"[3, 4]","[9, 4]","['11039', '20671', '80219', '35787', '9383']",80219,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining area (purple) in the living room section, which is not present in the other plans. All other plans have the dining area in a separate room or balcony."
+"[3, 4]","[5, 4]","['11039', '20671', '9383', '35787', '70560']",70560,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining area (purple), which is not present in the other four plans. All other plans have a kitchen (red) instead. Additionally, the layout of rooms around the central common area differs significantly from the others, making it distinct."
+"[9, 26]","[3, 26]","['6759', '27788', '23716', '50181', '18887']",18887,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[3, 3]","[7, 3]","['994', '72700', '22002', '10017', '61767']",61767,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a master bedroom (orange) directly connected to the living room (yellow). In contrast, all other plans (A, C, D, and E) have the master bedroom adjacent to the living room, which is a common layout pattern in these floorplans."
+"[3, 17]","[15, 17]","['54792', '38478', '53579', '12043', '47834']",47834,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) as part of its main structure. All other plans (A, C, D, and E) include a common room in their layout, which is a consistent feature across them. Plan B instead features a separate kitchen (red) and bathroom (light blue) without a common room, making it distinct from the others."
+"[3, 7]","[0, 7]","['65801', '19992', '19796', '73164', '37907']",65801,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[19, 5]","[17, 5]","['59952', '72055', '32569', '55314', '76431']",72055,** B,"1. **Different plan:** B
+2. **Why:** Plan B has an additional small room (pink) that is not present in the other four plans. This extra room disrupts the uniformity of the floorplan patterns shared by A, C, D, and E."
+"[15, 21]","[17, 21]","['3384', '13497', '9795', '7489', '20839']",9795,** E,"1. **Different plan:** E
+2. **Why:** Plan E has a unique layout with a dining area (purple) that is not present in the other plans. The other plans all have a common room (yellow), master room (orange), living room (light yellow), balcony (green), bathroom (light blue), kitchen (red), and storage (pink), but they do not include a separate dining area. Plan E's inclusion of a dining area sets it apart from the rest."
+"[3, 7]","[14, 7]","['67483', '37907', '19992', '30859', '19796']",67483,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a master bedroom (orange) directly connected to the living room (yellow). In contrast, all other plans (A, C, D, and E) have the master bedroom adjacent to the living room, which is a common layout pattern in these floorplans."
+"[3, 3]","[7, 3]","['10017', '10131', '994', '22487', '64781']",64781,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a staircase, which is not present in the other four plans (A, C, D, and E). The presence of a staircase suggests a different underlying floorplan pattern compared to the others, which do not have any visible staircases."
+"[5, 4]","[9, 4]","['64614', '63485', '35725', '70560', '51114']",64614,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[0, 7]","[3, 7]","['66807', '65801', '15613', '72266', '19992']",19992,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[3, 21]","[15, 21]","['57272', '42206', '14038', '47060', '20839']",20839,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) adjacent to the master room (orange). All other plans (A, C, D, and E) have a common room directly connected to the master room, which is a consistent pattern in the other four plans."
+"[14, 7]","[0, 7]","['51393', '10984', '25607', '77045', '67483']",10984,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a staircase, which is not present in the other four plans (A, C, D, and E). The presence of a staircase suggests a different underlying floorplan pattern compared to the others, which do not have any visible staircases."
+"[19, 25]","[18, 25]","['59747', '74532', '26994', '47247', '4132']",4132,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans. Plan B breaks this pattern by having the master room directly connected to the living room (light yellow) without an intermediary common room."
+"[5, 4]","[3, 4]","['2004', '9383', '53032', '70560', '51114']",9383,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a master bedroom (orange) directly connected to the living room (yellow). In contrast, all other plans (A, C, D, and E) have the master bedroom adjacent to the living room, which is a common pattern in apartment layouts."
+"[3, 17]","[15, 17]","['53579', '64047', '38478', '33084', '60915']",60915,** C,"1. **Different plan:** C
+2. **Why:** Plan C has a unique layout where the master room is not directly connected to the living room as in the other plans. Instead, it is separated by a hallway, which is not present in the other floorplans. This distinct separation makes it stand out compared to A, B, D, and E, where the master room is adjacent to the living room."
+"[3, 26]","[9, 26]","['34449', '40031', '1064', '11033', '7474']",7474,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[0, 14]","[19, 14]","['1261', '75707', '42604', '64729', '80522']",64729,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[17, 18]","[19, 18]","['30721', '6955', '21408', '31693', '66316']",30721,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[9, 3]","[3, 3]","['64671', '14914', '1268', '30004', '9662']",30004,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a continuous living room (yellow) running along the entire front of the apartment. Instead, it has a separate kitchen (red) and bathroom (light blue) attached to the living room, which breaks the continuity seen in the other plans."
+"[19, 28]","[3, 28]","['42272', '43363', '55589', '55090', '40111']",55090,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This unique absence of a balcony sets it apart from the rest."
+"[18, 25]","[19, 25]","['47247', '4132', '73827', '25711', '3282']",47247,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony. All other plans (A, C, D, and E) include a balcony as part of their layout. This unique absence of a balcony in Plan B distinguishes it from the others."
+"[3, 3]","[7, 3]","['22002', '72700', '75828', '10131', '22487']",75828,** D,"1. **Different plan:** D
+2. **Why:** Plan D has a unique layout where the master room is positioned in a way that it does not align with the common room as seen in the other plans. The other plans (A, B, C, and E) all have the master room adjacent to or directly connected to the common room, which is not the case for Plan D. Additionally, the placement of the kitchen and bathroom also differs significantly in Plan D compared to the consistent patterns in the other plans."
+"[17, 21]","[3, 21]","['69704', '62549', '40487', '9795', '47060']",47060,** E,"1. **Different plan:** E
+2. **Why:** Plan E has a unique layout where the master room is not directly adjacent to the living room as in the other plans. Instead, it is separated by a common room and a balcony, which is not the case in A, B, C, or D. The other plans have the master room directly connected to the living room without any intervening spaces."
+"[3, 7]","[14, 7]","['73164', '4286', '19992', '30859', '77045']",77045,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a master bedroom (orange) directly connected to the living room (light yellow). In contrast, all other plans (A, C, D, and E) have the master bedroom adjacent to the living room, which is a common layout pattern in apartment designs."
+"[3, 26]","[9, 26]","['32729', '68096', '50181', '72586', '50906']",50181,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony. This unique absence of a balcony sets it apart from the rest, indicating a different underlying floorplan pattern."
+"[17, 18]","[19, 18]","['55086', '21543', '70105', '66935', '21408']",55086,** C,"1. **Different plan:** C
+2. **Why:** Plan C has a unique layout where the master room is not directly connected to the living room as in the other plans. Instead, it is separated by a hallway, which is not present in the other floorplans. This distinct separation makes it stand out compared to A, B, D, and E, where the master room is adjacent to the living room."
+"[5, 22]","[7, 22]","['7217', '40679', '48795', '40863', '57572']",40679,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[17, 5]","[3, 5]","['72055', '33045', '7913', '50221', '63514']",63514,** C,"1. **Different plan:** C
+2. **Why:** Plan C has a unique layout where the master room is positioned in a way that it does not align with the common room as seen in the other plans. The other plans (A, B, D, and E) all have the master room adjacent to or directly connected to the common room, which is not the case for Plan C. Additionally, Plan C has a smaller living room compared to the others, and its balcony placement is distinct."
+"[19, 18]","[17, 18]","['35149', '74633', '46660', '58616', '36535']",46660,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[3, 17]","[15, 17]","['54792', '38478', '1225', '64047', '12043']",1225,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[5, 4]","[9, 4]","['53032', '50510', '2004', '70560', '27706']",50510,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[0, 14]","[19, 14]","['42604', '37963', '1261', '26372', '80522']",26372,** D,"1. **Different plan:** D
+2. **Why:** Plan D has a unique layout where the master room is positioned in a way that it does not share a wall with any other room, unlike the other plans which have the master room adjacent to at least one other room. This distinct isolation makes it stand out as having a different underlying floorplan pattern compared to the others."
+"[14, 7]","[0, 7]","['51393', '77045', '67483', '25607', '10984']",10984,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a staircase, which is not present in the other four plans (A, C, D, and E). The presence of a staircase suggests a different underlying floorplan pattern compared to the others, which do not have any visible staircases."
+"[19, 25]","[18, 25]","['3282', '74532', '47247', '59747', '33749']",3282,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[19, 5]","[17, 5]","['32569', '76431', '72346', '55314', '72055']",72055,** C,"1. **Different plan:** C
+2. **Why:** Plan C has a unique layout where the master room is positioned differently compared to the other plans. In Plans A, B, D, and E, the master room is typically adjacent to the living room or kitchen, but in Plan C, it is placed separately with no direct connection to the living room or kitchen. This distinct placement makes Plan C stand out as having a different underlying floorplan pattern."
+"[3, 26]","[9, 26]","['11033', '49864', '68096', '50181', '1064']",50181,** D,"1. **Different plan:** D
+2. **Why:** Plan D has an additional room (green) that is not present in the other four plans. This green room is not a common feature among A, B, C, and E, which all have consistent room layouts without this extra room."
+"[3, 4]","[9, 4]","['11039', '20671', '9383', '50510', '35787']",50510,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining area (purple), which is not present in the other four plans. All other plans have a kitchen (red) instead. Additionally, the layout of rooms around the central common area differs significantly in B compared to the uniform patterns in A, C, D, and E."
+"[19, 18]","[17, 18]","['35149', '36535', '58616', '55086', '46660']",46660,** C,"1. **Different plan:** C
+2. **Why:** Plan C has an additional room (purple) that is not present in the other four plans. This extra room disrupts the uniformity of the floorplan patterns shared by A, B, D, and E."
+"[19, 18]","[17, 18]","['49556', '70105', '29042', '55086', '41277']",70105,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a master bedroom directly connected to the living room or common room. In contrast, all other plans (A, C, D, and E) have a master bedroom adjacent to either the living room or the common room, which is a consistent pattern in the other four plans."
+"[9, 3]","[7, 3]","['14914', '64671', '1268', '75828', '9662']",75828,** D,"1. **Different plan:** D
+2. **Why:** Plan D has an additional room (a small green section) that is not present in the other plans. This extra room disrupts the uniformity of the floorplan patterns shared by A, B, C, and E, which all have consistent room arrangements without any additional sections."
+"[19, 18]","[17, 18]","['21543', '55086', '49556', '41277', '30721']",21543,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern across them. Plan B breaks this pattern by having the master room separated from the common room without an intermediate space."
+"[7, 22]","[5, 22]","['79411', '48795', '31113', '40679', '23132']",48795,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern across them. Plan B breaks this pattern by having the master room separated from the common room by another room type."
+"[19, 28]","[3, 28]","['42272', '40111', '55589', '52721', '42226']",42226,** E,"1. **Different plan:** E
+2. **Why:** Plan E has a unique layout where the common room and master room are adjacent to each other in a way that differs from the other plans. In contrast, Plans A, B, C, and D all have the common room and master room separated by at least one other room type, which creates a distinct pattern among them."
+"[3, 26]","[9, 26]","['11033', '50181', '68096', '9147', '72586']",50181,** D,"1. **Different plan:** D
+2. **Why:** Plan D has an additional room (a small yellow section) that is not present in the other four plans. This extra room disrupts the uniformity of the floorplan patterns shared by A, B, C, and E. The other plans maintain a consistent layout with common, master, living, balcony, bathroom, kitchen, storage, and dining rooms without any additional unique features."
+"[19, 5]","[17, 5]","['76431', '63902', '32569', '33045', '59952']",33045,** D,"1. **Different plan:** D
+2. **Why:** Plan D has a master bedroom that is significantly larger than the master bedrooms in the other plans (A, B, C, and E). Additionally, the layout of the common areas and bathrooms in Plan D differs from the consistent patterns seen in Plans A, B, C, and E. The presence of a large master bedroom and unique layout makes Plan D stand out as having a different underlying floorplan pattern."
+"[0, 14]","[19, 14]","['42604', '39894', '37963', '80522', '26703']",26703,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining room (purple), which is not present in the other four plans. All other plans have a common room (yellow) and a master room (orange), but they do not include a separate dining area. The presence of the dining room in B makes it distinct from the others."
+"[14, 7]","[3, 7]","['38835', '77045', '25607', '67483', '73164']",73164,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a balcony (green) that is not directly connected to any other room in a way that suggests it is part of the main living area. The other plans have balconies that are either adjacent to or integrated with other rooms, making them more consistent with the overall layout patterns of the other apartments."

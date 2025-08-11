@@ -1,0 +1,201 @@
+base_cluster,other_cluster,options,outlier_id,predicted_id,raw_response
+"[19, 25]","[18, 25]","['62071', '33749', '26994', '47247', '74532']",62071,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes Plan D distinct from the others in terms of the inclusion of a balcony."
+"[3, 5]","[19, 5]","['12162', '32569', '74226', '64', '63514']",32569,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, which is present in all other plans (A, B, C, and E). Additionally, the layout of the rooms in Plan D is more compact compared to the others, with less open space between the rooms. This makes it stand out as the outlier in terms of both the presence of a balcony and the overall layout."
+"[19, 8]","[14, 8]","['71082', '36396', '6777', '46039', '19346']",46039,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining area (purple), which is not present in the other four plans. All other plans have a kitchen (red) instead."
+"[3, 28]","[15, 28]","['8257', '55090', '73823', '10526', '42226']",10526,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes Plan D distinct from the others in terms of its spatial relationship and room type inclusion."
+"[3, 21]","[15, 21]","['14038', '57272', '42206', '7489', '47060']",7489,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining room (purple), which is not present in the other four plans. All other plans have a kitchen (red) instead. Additionally, the layout of rooms around the common room (yellow) differs significantly from the others, making it stand out as an outlier."
+"[17, 21]","[15, 21]","['78147', '3384', '69704', '9795', '62549']",3384,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that has a kitchen located in the same area as the master room, which is not typical for the other plans where the kitchen is usually separate from the master room. Additionally, the layout of the common room and living room in plan B is more compact compared to the others, making it stand out as an outlier."
+"[3, 3]","[9, 3]","['994', '1268', '72700', '30004', '10131']",1268,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining room (purple), which is not present in the other four plans. All other plans (A, C, D, and E) do not have a dining room."
+"[3, 17]","[15, 17]","['54792', '33084', '12043', '38478', '47834']",47834,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes D distinct from the others in terms of the presence of a balcony."
+"[15, 28]","[3, 28]","['3258', '42226', '67905', '38548', '10526']",42226,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a kitchen (pink), which is not present in the other four plans. All other plans have a common room (yellow) and a master room (orange), but they do not include a kitchen. Additionally, the layout of Plan B is more complex with multiple connected rooms, whereas Plans A, C, D, and E have simpler layouts without a kitchen."
+"[15, 17]","[3, 17]","['1225', '11908', '53579', '47834', '60915']",53579,** C,"1. **Different plan:** C
+2. **Why:** Plan C is the only one that includes a kitchen (pink), which is not present in any of the other plans. All other plans (A, B, D, and E) do not have a kitchen."
+"[3, 26]","[9, 26]","['40031', '27788', '72586', '1064', '50906']",27788,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a balcony, which is not present in the other four plans (A, C, D, and E). The presence of a balcony distinguishes it from the others, making it the outlier."
+"[5, 22]","[7, 22]","['40863', '7217', '40679', '77349', '57572']",40679,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a storage room (purple), which is not present in the other four plans. All other plans have the same room types and their spatial relationships are consistent with each other."
+"[19, 8]","[14, 8]","['46039', '6777', '36396', '71082', '19346']",46039,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes Plan B distinct from the others in terms of its spatial relationship and room types."
+"[3, 17]","[15, 17]","['12043', '60915', '38478', '33084', '54792']",60915,** C,"1. **Different plan:** C
+2. **Why:** Plan C is the only one that does not have a balcony, whereas all other plans (A, B, D, and E) include a balcony as part of their layout. This makes Plan C distinct from the others in terms of the presence of a balcony."
+"[0, 7]","[3, 7]","['4286', '65801', '66807', '72266', '10984']",4286,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes Plan D distinct from the others in terms of its spatial relationship and room types."
+"[14, 8]","[19, 8]","['28694', '39691', '28732', '46039', '6777']",6777,** E,"1. **Different plan:** E
+2. **Why:** Plan E is the only one that includes a dining room, which is not present in any of the other plans (A, B, C, D). The presence of a dining room in E makes it distinct from the others, as they all lack this specific room type."
+"[14, 7]","[0, 7]","['77045', '38835', '67483', '51393', '65801']",65801,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes Plan D distinct from the others in terms of its spatial relationship and room types."
+"[5, 4]","[9, 4]","['70560', '80219', '2004', '53032', '62609']",80219,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes B distinct from the others in terms of the presence of a balcony."
+"[7, 3]","[9, 3]","['75828', '64671', '52457', '64781', '61767']",64671,** D,"1. **Different plan:** D
+2. **Why:** Plan D has a unique layout where the master room is positioned differently compared to the other plans. In Plans A, B, C, and E, the master room is typically placed in a corner or adjacent to the living room, but in Plan D, it is centrally located and does not follow this common pattern. Additionally, the kitchen in Plan D is also centrally located, which is less typical for the other plans where kitchens are usually placed near the entrance or in a corner."
+"[3, 7]","[0, 7]","['19992', '73164', '4286', '19796', '72266']",72266,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, which is present in all other plans (A, C, D, and E). Additionally, the layout of rooms in Plan B is more compact compared to the others, with fewer distinct spaces separated by walls. The presence of a balcony and the overall layout suggest that Plans A, C, D, and E follow a similar design philosophy, making Plan B the outlier."
+"[3, 3]","[9, 3]","['72700', '74662', '10131', '10017', '30004']",74662,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes B distinct from the others in terms of the presence of a balcony."
+"[17, 5]","[3, 5]","['7913', '63514', '72055', '33045', '50221']",63514,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining room (purple), which is not present in the other four plans. All other plans have a kitchen (red) instead. Additionally, the layout of rooms in Plan B is more complex with multiple smaller rooms, whereas Plans A, C, D, and E have simpler configurations with fewer distinct room types."
+"[15, 17]","[3, 17]","['47834', '1225', '11908', '54792', '60915']",54792,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that includes a kitchen, which is not present in the other four plans (A, B, C, and E). All other plans have a common room, master room, living room, balcony, bathroom, and storage/dining areas, but they do not include a kitchen. The presence of a kitchen in Plan D makes it distinct from the others."
+"[7, 3]","[9, 3]","['61767', '75828', '52457', '64671', '64781']",64671,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes Plan B distinct from the others in terms of its spatial relationship and room types."
+"[3, 17]","[15, 17]","['1225', '38478', '12043', '64047', '33084']",1225,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) connected directly to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[19, 13]","[15, 13]","['35479', '20590', '37914', '42612', '43324']",20590,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes Plan D distinct from the others in terms of its spatial relationship and room types."
+"[19, 14]","[0, 14]","['64729', '26703', '39894', '72517', '26372']",39894,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a balcony in the living room area, which is not present in the other four plans (A, C, D, and E). All other plans have balconies in separate locations or do not include them at all. This unique feature makes Plan B stand out as the outlier."
+"[3, 28]","[15, 28]","['42226', '12683', '8257', '10526', '55090']",10526,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes B distinct from the others in terms of the presence of a balcony."
+"[3, 21]","[15, 21]","['53064', '42206', '13497', '14038', '47060']",13497,** D,"1. **Different plan:** D
+2. **Why:** Plan D has a unique configuration where the master room is placed in a different position compared to the other plans. In Plans A, B, C, and E, the master room is consistently located in the upper right corner, whereas in Plan D, it is positioned lower down on the right side. This distinct placement makes Plan D the outlier among the others."
+"[3, 7]","[0, 7]","['4286', '73164', '30859', '65801', '19796']",65801,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that includes a balcony, which is not present in the other four plans (A, B, C, and E). The presence of a balcony distinguishes it from the others, making it the outlier."
+"[3, 21]","[17, 21]","['40487', '47060', '53064', '57272', '42206']",40487,** D,"1. **Different plan:** D
+2. **Why:** Plan D has a unique configuration where the master room is not directly adjacent to the living room as in the other plans. In contrast, Plans A, B, C, and E all have the master room directly connected to the living room, which is a consistent pattern across them."
+"[17, 21]","[3, 21]","['40487', '9795', '53064', '78147', '62549']",53064,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a kitchen in the living room area, which is not present in the other four plans (A, C, D, and E). All other plans have the kitchen in a separate room, typically adjacent to the dining area or the entrance. This unique placement makes Plan B stand out as the outlier."
+"[9, 3]","[3, 3]","['74662', '9662', '64671', '14914', '30004']",30004,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes B distinct from the others in terms of the presence or absence of a balcony."
+"[0, 7]","[14, 7]","['65801', '51393', '72266', '66807', '10984']",51393,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining room (purple), which is not present in the other four plans. All other plans (A, C, D, and E) do not have a dining room."
+"[19, 13]","[15, 13]","['35479', '43396', '25079', '26354', '42612']",25079,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a common room (yellow) directly connected to the master room (orange). In all other plans (A, C, D, and E), the common room is adjacent to the master room, which is a consistent pattern in the other four plans."
+"[17, 18]","[19, 18]","['66935', '41277', '31693', '21408', '21543']",41277,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony. All other plans (A, C, D, and E) include a balcony as part of their layout. This makes B distinct from the others in terms of its spatial relationship with the living room and common areas."
+"[14, 8]","[19, 8]","['40877', '28694', '46039', '39691', '36396']",36396,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a storage room (purple), which is not present in the other four plans. All other plans have the same room types and their spatial relationships are consistent with each other."
+"[14, 8]","[19, 8]","['28694', '71082', '40877', '28732', '46039']",71082,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a storage room (purple), which is not present in any of the other plans. All other plans have the same room types and their spatial relationships are consistent with each other."
+"[3, 3]","[9, 3]","['30004', '10017', '994', '64671', '10131']",64671,** C,"1. **Different plan:** C
+2. **Why:** Plan C is the only one that does not have a balcony, whereas all other plans (A, B, D, and E) include a balcony as part of their layout. This makes Plan C distinct from the others in terms of its spatial relationship and room types."
+"[7, 3]","[3, 3]","['75828', '52457', '61767', '994', '64781']",994,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes Plan B distinct from the others in terms of its spatial relationship and room types."
+"[3, 17]","[15, 17]","['33084', '54792', '12043', '60915', '53579']",60915,** D,"1. **Different plan:** D
+2. **Why:** Plan D has an additional bathroom that is not present in the other four plans (A, B, C, and E). The other four plans have only one bathroom each, whereas Plan D has two bathrooms. This unique feature makes it stand out as the outlier among the group."
+"[3, 7]","[14, 7]","['37907', '4286', '19992', '25607', '19796']",25607,** C,"1. **Different plan:** C
+2. **Why:** Plan C is the only one that does not have a master bedroom (orange) directly adjacent to the living room (yellow). In all other plans (A, B, D, and E), the master bedroom is placed next to the living room, which is a common layout pattern in these floorplans. Plan C breaks this pattern by placing the master bedroom further away from the living room, making it an outlier."
+"[19, 18]","[17, 18]","['55086', '29042', '66316', '35149', '49556']",66316,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony. This unique absence of a balcony makes it stand out as the outlier in terms of spatial relationships and room types."
+"[19, 18]","[17, 18]","['30721', '35149', '41277', '55086', '46660']",46660,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes Plan D distinct from the others in terms of the inclusion of a balcony."
+"[17, 21]","[3, 21]","['9795', '62549', '42206', '78147', '40487']",42206,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony. All other plans (A, C, D, and E) include a balcony as part of their layout. This makes B distinct from the others in terms of room configuration."
+"[3, 28]","[19, 28]","['42226', '73823', '8257', '52721', '55090']",52721,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes Plan B distinct from the others in terms of its structural elements."
+"[3, 4]","[9, 4]","['50510', '35787', '11039', '20671', '9383']",50510,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, which is present in all other plans (A, B, C, and E). Additionally, the layout of rooms in Plan D is more compact compared to the others, with less space between rooms, making it stand out as an outlier in terms of spatial arrangement."
+"[15, 28]","[3, 28]","['67905', '3258', '10526', '42226', '23274']",42226,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that includes a kitchen (red), which is not present in the other four plans. All other plans have a common room (yellow) and a master room (orange), but they do not include a kitchen. Additionally, the layout of Plan D is more complex with additional rooms and a different arrangement compared to the others."
+"[15, 13]","[19, 13]","['43396', '20590', '42684', '25079', '24364']",43396,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes Plan B distinct from the others in terms of the inclusion of a balcony."
+"[18, 25]","[19, 25]","['47247', '4132', '73827', '3282', '25711']",47247,** C,"1. **Different plan:** C
+2. **Why:** Plan C is the only one that does not have a balcony, whereas all other plans (A, B, D, and E) include a balcony as part of their layout. This makes Plan C distinct from the others in terms of the inclusion of a balcony."
+"[3, 3]","[9, 3]","['22487', '10017', '22002', '14914', '994']",14914,** D,"1. **Different plan:** D
+2. **Why:** Plan D has an additional small red section that appears to be a storage area, which is not present in the other plans. The other plans have consistent room layouts without this extra section."
+"[3, 4]","[9, 4]","['11039', '20671', '80219', '35787', '9383']",80219,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining area (purple), which is not present in the other four plans. All other plans have a common room (yellow) and a master room (orange), but they do not include a separate dining area."
+"[3, 4]","[5, 4]","['11039', '20671', '9383', '35787', '70560']",70560,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining area (purple), which is not present in the other four plans. All other plans have a kitchen (red) instead. Additionally, the layout of rooms in Plan B is more complex with multiple smaller rooms, whereas Plans A, C, D, and E have simpler configurations with fewer distinct room types."
+"[9, 26]","[3, 26]","['6759', '27788', '23716', '50181', '18887']",18887,** D,"1. **Different plan:** D
+2. **Why:** Plan D has a unique layout where the master room is positioned in a way that it does not share a wall with any other room, unlike the other plans which have the master room adjacent to at least one other room. This makes Plan D stand out as the outlier due to its distinct spatial relationship with the rest of the rooms."
+"[3, 3]","[7, 3]","['994', '72700', '22002', '10017', '61767']",61767,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes Plan D distinct from the others in terms of its spatial relationship and room types."
+"[3, 17]","[15, 17]","['54792', '38478', '53579', '12043', '47834']",47834,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes B distinct from the others in terms of the presence of a balcony."
+"[3, 7]","[0, 7]","['65801', '19992', '19796', '73164', '37907']",65801,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, which is present in all other plans (A, C, D, and E). Additionally, the layout of rooms in Plan B differs from the others, as it lacks the common room and master room combination seen in Plans A, C, D, and E."
+"[19, 5]","[17, 5]","['59952', '72055', '32569', '55314', '76431']",72055,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes Plan B distinct from the others in terms of the inclusion of a balcony."
+"[15, 21]","[17, 21]","['3384', '13497', '9795', '7489', '20839']",9795,** C,"1. **Different plan:** C
+2. **Why:** Plan C is the only one that includes a kitchen (red), which is not present in any of the other plans. All other plans (A, B, D, and E) do not have a kitchen. Additionally, the layout of the rooms around the kitchen in Plan C is distinct from the other plans, making it the outlier."
+"[3, 7]","[14, 7]","['67483', '37907', '19992', '30859', '19796']",67483,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining room (purple), which is not present in the other four plans. All other plans have a kitchen (red) instead. Additionally, the layout of rooms in Plan B is more complex with multiple connected spaces, whereas Plans A, C, D, and E have simpler configurations without a dining room."
+"[3, 3]","[7, 3]","['10017', '10131', '994', '22487', '64781']",64781,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, which is present in all other plans (A, C, D, and E). Additionally, the layout of the rooms in Plan B is distinct from the others, with the master room and common room being more closely aligned and the living room being smaller compared to the other plans."
+"[5, 4]","[9, 4]","['64614', '63485', '35725', '70560', '51114']",64614,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes B distinct from the others in terms of the presence or absence of a balcony."
+"[0, 7]","[3, 7]","['66807', '65801', '15613', '72266', '19992']",19992,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, which is present in all other plans (A, B, C, and E). Additionally, the layout of rooms in Plan D is more compact compared to the others, with less space allocated for common areas and bathrooms. The presence of a balcony is a distinctive feature that sets it apart from the rest."
+"[3, 21]","[15, 21]","['57272', '42206', '14038', '47060', '20839']",20839,** D,"1. **Different plan:** D
+2. **Why:** Plan D has a unique configuration where the master room is placed in a different position compared to the other plans. In Plans A, B, C, and E, the master room is consistently located in the upper right corner, whereas in Plan D, it is positioned lower and to the left. This distinct placement makes Plan D the outlier among the others."
+"[14, 7]","[0, 7]","['51393', '10984', '25607', '77045', '67483']",10984,** D,"1. **Different plan:** D
+2. **Why:** Plan D has a unique layout where the master room is not adjacent to the living room as in the other plans. In contrast, Plans A, B, C, and E all have the master room directly connected to the living room, which is a common pattern in these floorplans."
+"[19, 25]","[18, 25]","['59747', '74532', '26994', '47247', '4132']",4132,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a storage room (purple), which is not present in the other four plans. All other plans have the same room types and spatial relationships without any additional storage space."
+"[5, 4]","[3, 4]","['2004', '9383', '53032', '70560', '51114']",9383,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes Plan B distinct from the others in terms of its spatial relationship and room type inclusion."
+"[3, 17]","[15, 17]","['53579', '64047', '38478', '33084', '60915']",60915,** C,"1. **Different plan:** C
+2. **Why:** Plan C is the only one that does not have a master bedroom (orange) directly connected to the living room (light yellow). In contrast, all other plans (A, B, D, and E) have the master bedroom adjacent to the living room, which is a common layout pattern in these floorplans."
+"[3, 26]","[9, 26]","['34449', '40031', '1064', '11033', '7474']",7474,** D,"1. **Different plan:** D
+2. **Why:** Plan D has an additional small purple room (dining) that is not present in the other four plans. The other four plans have a consistent layout with no such additional room."
+"[0, 14]","[19, 14]","['1261', '75707', '42604', '64729', '80522']",64729,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes it distinct from the others in terms of the presence of a balcony."
+"[17, 18]","[19, 18]","['30721', '6955', '21408', '31693', '66316']",30721,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a kitchen (pink) in the living room area, which is not present in the other plans. All other plans have the kitchen in a separate room or a designated area within the living room but not overlapping with it as shown in Plan B."
+"[9, 3]","[3, 3]","['64671', '14914', '1268', '30004', '9662']",30004,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes B distinct from the others in terms of the presence of a balcony."
+"[19, 28]","[3, 28]","['42272', '43363', '55589', '55090', '40111']",55090,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony. All other plans (A, C, D, and E) include a balcony as part of their layout. This makes Plan B distinct from the others in terms of its spatial relationship and room types."
+"[18, 25]","[19, 25]","['47247', '4132', '73827', '25711', '3282']",47247,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes Plan D distinct from the others in terms of the presence of a balcony."
+"[3, 3]","[7, 3]","['22002', '72700', '75828', '10131', '22487']",75828,** D,"1. **Different plan:** D
+2. **Why:** Plan D has an additional small room (purple) that is not present in the other four plans. This extra room disrupts the uniformity of the floorplan patterns shared by A, B, C, and E."
+"[17, 21]","[3, 21]","['69704', '62549', '40487', '9795', '47060']",47060,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes B distinct from the others in terms of the presence or absence of a balcony."
+"[3, 7]","[14, 7]","['73164', '4286', '19992', '30859', '77045']",77045,** E,"1. **Different plan:** E
+2. **Why:** Plan E is the only one that includes a balcony, which is not present in any of the other plans (A, B, C, D). The presence of a balcony distinguishes it from the others, making it the outlier."
+"[3, 26]","[9, 26]","['32729', '68096', '50181', '72586', '50906']",50181,** C,"1. **Different plan:** C
+2. **Why:** Plan C is the only one that does not have a balcony, whereas all other plans (A, B, D, and E) include a balcony as part of their layout. This makes C distinct from the others in terms of the presence or absence of a balcony."
+"[17, 18]","[19, 18]","['55086', '21543', '70105', '66935', '21408']",55086,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes Plan D distinct from the others in terms of the inclusion of a balcony."
+"[5, 22]","[7, 22]","['7217', '40679', '48795', '40863', '57572']",40679,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony. This unique absence of a balcony makes it stand out as the outlier in terms of spatial relationships and room types."
+"[17, 5]","[3, 5]","['72055', '33045', '7913', '50221', '63514']",63514,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes Plan D distinct from the others in terms of its spatial relationship and room types."
+"[19, 18]","[17, 18]","['35149', '74633', '46660', '58616', '36535']",46660,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes Plan D distinct from the others in terms of the presence of a balcony."
+"[3, 17]","[15, 17]","['54792', '38478', '1225', '64047', '12043']",1225,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony. This unique absence of a balcony makes it stand out as the outlier in terms of spatial relationships and room types."
+"[5, 4]","[9, 4]","['53032', '50510', '2004', '70560', '27706']",50510,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, which is present in all other plans (A, B, C, and E). Additionally, the layout of rooms in Plan D is more compact and lacks the distinct separation seen in the other plans, making it stand out as an outlier."
+"[0, 14]","[19, 14]","['42604', '37963', '1261', '26372', '80522']",26372,** D,"1. **Different plan:** D
+2. **Why:** Plan D has a unique layout where the master room is positioned in a way that it does not share a wall with any other room, unlike the other plans which have the master room adjacent to at least one other room. Additionally, the living room in Plan D is significantly larger compared to the others, which might be an outlier in terms of size."
+"[14, 7]","[0, 7]","['51393', '77045', '67483', '25607', '10984']",10984,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining room (purple), which is not present in the other four plans. All other plans (A, C, D, and E) do not have a dining room."
+"[19, 25]","[18, 25]","['3282', '74532', '47247', '59747', '33749']",3282,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes Plan B distinct from the others in terms of the inclusion of a balcony."
+"[19, 5]","[17, 5]","['32569', '76431', '72346', '55314', '72055']",72055,** C,"1. **Different plan:** C
+2. **Why:** Plan C is the only one that does not have a balcony, whereas all other plans (A, B, D, and E) include a balcony as part of their layout. This makes Plan C distinct from the others in terms of its spatial relationship and room types."
+"[3, 26]","[9, 26]","['11033', '49864', '68096', '50181', '1064']",50181,** D,"1. **Different plan:** D
+2. **Why:** Plan D has an additional small room (purple) that is not present in the other four plans. This room appears to be a storage or utility room, which is not a common feature in the other plans where the small rooms are either bathrooms or kitchens. The presence of this unique room makes it stand out as the outlier."
+"[3, 4]","[9, 4]","['11039', '20671', '9383', '50510', '35787']",50510,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining area (purple), which is not present in the other four plans. All other plans have a kitchen (red) instead. Additionally, the layout of rooms around the common room (yellow) differs significantly from the others, making it stand out as an outlier."
+"[19, 18]","[17, 18]","['35149', '36535', '58616', '55086', '46660']",46660,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony, whereas all other plans (A, C, D, and E) include a balcony as part of their layout. This makes Plan B distinct from the others in terms of the inclusion of a balcony."
+"[19, 18]","[17, 18]","['49556', '70105', '29042', '55086', '41277']",70105,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining room (purple), which is not present in the other four plans (A, C, D, and E). All other plans have a kitchen (red) instead of a dining room."
+"[9, 3]","[7, 3]","['14914', '64671', '1268', '75828', '9662']",75828,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, whereas all other plans (A, B, C, and E) include a balcony as part of their layout. This makes Plan D distinct from the others in terms of the inclusion of a balcony."
+"[19, 18]","[17, 18]","['21543', '55086', '49556', '41277', '30721']",21543,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony. All other plans (A, C, D, and E) include a balcony as part of their layout. This makes Plan B distinct from the others in terms of its spatial relationship with the living room and master room."
+"[7, 22]","[5, 22]","['79411', '48795', '31113', '40679', '23132']",48795,** D,"1. **Different plan:** D
+2. **Why:** Plan D has an additional small room (purple) that is not present in the other four plans. This extra room disrupts the uniformity of the floorplan patterns shared by A, B, C, and E."
+"[19, 28]","[3, 28]","['42272', '40111', '55589', '52721', '42226']",42226,** D,"1. **Different plan:** D
+2. **Why:** Plan D has an additional room (purple) that is not present in the other four plans. The other four plans all have the same layout with common rooms, master rooms, living rooms, balconies, bathrooms, kitchens, and storage areas, but they do not include the purple room which appears to be a dining area. This makes Plan D the outlier due to its unique addition."
+"[3, 26]","[9, 26]","['11033', '50181', '68096', '9147', '72586']",50181,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a small red room at the bottom left corner which appears to be a storage or utility room. The other four plans (A, C, D, and E) do not have this specific room type in the same location. Additionally, the layout of the rooms in B is slightly different from the others, with the kitchen and bathroom positioned differently compared to the consistent arrangement in A, C, D, and E."
+"[19, 5]","[17, 5]","['76431', '63902', '32569', '33045', '59952']",33045,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that does not have a balcony. All other plans (A, C, D, and E) include a balcony as part of their layout. This makes B distinct from the others in terms of its spatial relationship and room type inclusion."
+"[0, 14]","[19, 14]","['42604', '39894', '37963', '80522', '26703']",26703,** B,"1. **Different plan:** B
+2. **Why:** Plan B is the only one that includes a dining room (purple), which is not present in the other four plans. All other plans have a kitchen (red) instead. Additionally, the layout of rooms in Plan B is more compact and lacks the distinct separation seen in Plans A, C, D, and E."
+"[14, 7]","[3, 7]","['38835', '77045', '25607', '67483', '73164']",73164,** D,"1. **Different plan:** D
+2. **Why:** Plan D is the only one that does not have a balcony, which is present in all other plans (A, B, C, and E). Additionally, the layout of the rooms in Plan D is more compact and lacks the distinct separation seen in the other plans, making it stand out as an outlier."
