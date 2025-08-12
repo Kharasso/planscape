@@ -1,0 +1,17 @@
+model,modality,task,reoriented,legend,accuracy,count_A,count_B,count_C,count_D,count_E,n_examples
+vlm_qwen2.5-vl,img,diff_first,0,0,0.45,1,14,34,16,35,100
+vlm_qwen2.5-vl,img,diff_first,0,1,0.36,1,13,22,11,53,100
+vlm_qwen2.5-vl,img,diff_first,1,0,0.63,2,17,25,22,34,100
+vlm_qwen2.5-vl,img,diff_first,1,1,0.61,1,19,20,16,44,100
+vlm_qwen2.5-vl,img,same_second,0,0,0.28,2,28,18,8,44,100
+vlm_qwen2.5-vl,img,same_second,0,1,0.32,1,25,12,6,56,100
+vlm_qwen2.5-vl,img,same_second,1,0,0.43,0,22,17,17,44,100
+vlm_qwen2.5-vl,img,same_second,1,1,0.37,1,19,15,10,55,100
+vlm_qwen2.5-vl,multi,diff_first,0,0,0.44,7,2,29,16,46,100
+vlm_qwen2.5-vl,multi,diff_first,0,1,0.4,5,3,20,13,59,100
+vlm_qwen2.5-vl,multi,diff_first,1,0,0.61,4,6,22,23,45,100
+vlm_qwen2.5-vl,multi,diff_first,1,1,0.62,3,10,21,18,48,100
+vlm_qwen2.5-vl,multi,same_second,0,0,0.28,5,12,19,8,56,100
+vlm_qwen2.5-vl,multi,same_second,0,1,0.32,3,14,13,6,64,100
+vlm_qwen2.5-vl,multi,same_second,1,0,0.35,4,2,12,17,65,100
+vlm_qwen2.5-vl,multi,same_second,1,1,0.37,3,9,16,13,59,100

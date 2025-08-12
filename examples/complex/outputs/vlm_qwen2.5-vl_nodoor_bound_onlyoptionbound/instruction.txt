@@ -1,0 +1,67 @@
+
+def build_prompt(options: list[str], legend: bool) -> str:
+    text = (
+        "I am showing you five apartment floorplans, labeled A through E.\n"
+        "One of these plans has a different underlying floorplan pattern, while the other four share the same pattern.\n\n"
+        "The thick black outline of each of the floorplans indicates the boundary of that floorplan. "
+        # "You can use the red bar (main entrance) to help reason about space and orientation.\n\n"
+    )
+
+    if legend:
+        text += "There is a color legend indicating the color-coding of room types below all the floorplans.\n"
+
+    text += (
+        "Examine each floorplan **only within its thick black outer boundary**, focusing on spatial layout, room types, and relative sizes.\n"
+        "Question: Which floorplan (A, B, C, D, or E) has a different underlying pattern, and why?\n\n"
+        "Please structure your response exactly as follows:\n"
+        "1. **Different floorplan:** <A/B/C/D/E>\n"
+        "2. **Why:** <brief reasoning>\n\n"
+    )
+
+    return text
+
+
+def load_annotation(pid: str) -> str:
+    """
+    Load the human-annotated textual description for a given floorplan ID.
+    """
+    txt_path = ANNOT_DIR / f"{pid}.txt"
+    try:
+        return txt_path.read_text(encoding='utf-8').strip()
+    except FileNotFoundError:
+        return "<No annotation available>"
+
+def build_2modal_prompt(options: list[str], legend) -> str:
+    letters = ['A', 'B', 'C', 'D', 'E']
+
+    text = (
+        "I am presenting five apartment floorplans, labeled A through E.\n"
+        "One plan has a different underlying floorplan pattern; the other four share the same design.\n\n"
+    )
+
+    text  += (
+        "Below are annotated descriptions corresponding to images labeled A–E. "
+        "Please read them carefully.\n\n"
+        "Descriptions:\n"
+    )
+
+    for label, pid in zip(letters, options):
+        annotation = load_annotation(pid)
+        text += f"  {label}. {annotation}\n"
+
+    text += (
+        "\nHere is the combined image showing floorplans A through E side by side.\n"
+        "The thick black outline of each of the floorplans indicates the boundary of that floorplan. "
+    )
+
+    if legend:
+        text += "A color legend is provided at the bottom of the image to indicate the color-coding of room types\n"
+    
+    text += (
+        "Examine each floorplan **only within its thick black outer boundary**, focusing on spatial layout, room types, and relative sizes.\n"
+        "Question: Which floorplan (A, B, C, D, or E) has a different underlying pattern, and why?\n\n"
+        "Please structure your response exactly as follows:\n"
+        "1. **Different floorplan:** <A/B/C/D/E>\n"
+        "2. **Why:** <brief reasoning>\n\n"
+    )
+    return text
