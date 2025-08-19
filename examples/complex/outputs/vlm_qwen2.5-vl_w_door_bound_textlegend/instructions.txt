@@ -1,0 +1,98 @@
+
+def build_prompt(options: list[str], legend: bool) -> str:
+    COLOR_MAPPING = {
+        (0xFF, 0xD7, 0x00): 'common room',
+        (0xFF, 0xA5, 0x00): 'master room',
+        (0xEE, 0xE8, 0xAA): 'living room',
+        (0x6B, 0x8E, 0x23): 'balcony',
+        (0xAD, 0xD8, 0xE6): 'bathroom',
+        (0xF0, 0x80, 0x80): 'kitchen',
+        (0xDD, 0xA0, 0xDD): 'storage',
+        (0xDA, 0x70, 0xD6): 'dining',
+    }
+
+    text = (
+        "I am showing you five apartment floorplans, labeled A through E.\n"
+        "One of these plans has a different underlying floorplan pattern, while the other four share the same pattern.\n\n"
+        "The thick black outline of each of the floorplans indicates the boundary of that floorplan. "
+        "The red bar drawn on the black outline of each of the floorplans marks the main entrance of that floorplan.\n"
+    )
+
+    if legend:
+        text += "Below is a color mapping indicating the room type for each fill color:\n"
+        for rgb, room in COLOR_MAPPING.items():
+            hex_code = f"#{rgb[0]:02X}{rgb[1]:02X}{rgb[2]:02X}"
+            text += f"- {room}: {hex_code} (RGB{rgb})\n"
+        text += "\n"
+
+    text += (
+        "Examine each floorplan in terms of spatial layout, room types, and relative sizes.\n"
+        "Question: Which floorplan (A, B, C, D, or E) has a different underlying pattern, and why?\n\n"
+        "Please structure your response exactly as follows:\n"
+        "1. **Different floorplan:** <A/B/C/D/E>\n"
+        "2. **Why:** <brief reasoning>\n\n"
+    )
+
+    return text
+
+
+def load_annotation(pid: str) -> str:
+    """
+    Load the human-annotated textual description for a given floorplan ID.
+    """
+    txt_path = ANNOT_DIR / f"{pid}.txt"
+    try:
+        return txt_path.read_text(encoding='utf-8').strip()
+    except FileNotFoundError:
+        return "<No annotation available>"
+
+def build_2modal_prompt(options: list[str], legend) -> str:
+    letters = ['A', 'B', 'C', 'D', 'E']
+    COLOR_MAPPING = {
+        (0xFF, 0xD7, 0x00): 'common room',
+        (0xFF, 0xA5, 0x00): 'master room',
+        (0xEE, 0xE8, 0xAA): 'living room',
+        (0x6B, 0x8E, 0x23): 'balcony',
+        (0xAD, 0xD8, 0xE6): 'bathroom',
+        (0xF0, 0x80, 0x80): 'kitchen',
+        (0xDD, 0xA0, 0xDD): 'storage',
+        (0xDA, 0x70, 0xD6): 'dining',
+    }
+
+    text = (
+        "I am presenting five apartment floorplans, labeled A through E.\n"
+        "One plan has a different underlying floorplan pattern; the other four share the same design.\n\n"
+        # "You can use the red bar (main entrance) to help reason about space and orientation.\n\n"
+    )
+
+    text  += (
+        "Below are annotated descriptions corresponding to images labeled A–E. "
+        "Please read them carefully.\n\n"
+        "Descriptions:\n"
+    )
+
+    for label, pid in zip(letters, options):
+        annotation = load_annotation(pid)
+        text += f"  {label}. {annotation}\n"
+
+    text += (
+        "\nHere is the combined image showing floorplans A through E side by side.\n"
+        "The thick black outline of each of the floorplans indicates the boundary of that floorplan. "
+        "The red bar drawn on the black outline of each of the floorplans marks the main entrance of that floorplan. \n"
+    )
+
+    if legend:
+        text += "Below is a color mapping indicating the room type for each fill color:\n"
+        for rgb, room in COLOR_MAPPING.items():
+            hex_code = f"#{rgb[0]:02X}{rgb[1]:02X}{rgb[2]:02X}"
+            text += f"- {room}: {hex_code} (RGB{rgb})\n"
+        text += "\n"
+    
+    text += (
+        "Examine each floorplan in terms of spatial layout, room types, and relative sizes.\n"
+        "Question: Which floorplan (A, B, C, D, or E) has a different underlying pattern, and why?\n\n"
+        "Please structure your response exactly as follows:\n"
+        "1. **Different floorplan:** <A/B/C/D/E>\n"
+        "2. **Why:** <brief reasoning>\n\n"
+    )
+    return text

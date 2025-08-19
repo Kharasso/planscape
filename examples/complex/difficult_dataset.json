@@ -1,0 +1,1902 @@
+[
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      17
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "12043",
+      "33084",
+      "38478",
+      "53579",
+      "13497"
+    ],
+    "outlier_id": "13497"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      28
+    ],
+    "other_cluster": [
+      15,
+      17
+    ],
+    "group": [
+      "8257",
+      "73823",
+      "42226",
+      "55090",
+      "60915"
+    ],
+    "outlier_id": "60915"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      12
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "27821",
+      "1181",
+      "37955",
+      "20968",
+      "20839"
+    ],
+    "outlier_id": "20839"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      15,
+      21
+    ],
+    "other_cluster": [
+      3,
+      28
+    ],
+    "group": [
+      "3384",
+      "13497",
+      "7489",
+      "20839",
+      "73823"
+    ],
+    "outlier_id": "73823"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      15,
+      28
+    ],
+    "other_cluster": [
+      3,
+      21
+    ],
+    "group": [
+      "67905",
+      "23274",
+      "38548",
+      "3258",
+      "57272"
+    ],
+    "outlier_id": "57272"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      15,
+      17
+    ],
+    "other_cluster": [
+      3,
+      26
+    ],
+    "group": [
+      "47834",
+      "11908",
+      "1225",
+      "60915",
+      "9147"
+    ],
+    "outlier_id": "9147"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      15,
+      17
+    ],
+    "other_cluster": [
+      3,
+      26
+    ],
+    "group": [
+      "11908",
+      "1225",
+      "60915",
+      "47834",
+      "19246"
+    ],
+    "outlier_id": "19246"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      17,
+      21
+    ],
+    "other_cluster": [
+      7,
+      1
+    ],
+    "group": [
+      "9795",
+      "62454",
+      "40487",
+      "62549",
+      "3536"
+    ],
+    "outlier_id": "3536"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      18,
+      23
+    ],
+    "other_cluster": [
+      0,
+      14
+    ],
+    "group": [
+      "5909",
+      "37360",
+      "59794",
+      "25667",
+      "42604"
+    ],
+    "outlier_id": "42604"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      21
+    ],
+    "other_cluster": [
+      15,
+      13
+    ],
+    "group": [
+      "57272",
+      "53064",
+      "42206",
+      "14038",
+      "42684"
+    ],
+    "outlier_id": "42684"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      15,
+      28
+    ],
+    "other_cluster": [
+      3,
+      17
+    ],
+    "group": [
+      "67905",
+      "23274",
+      "3258",
+      "38548",
+      "54792"
+    ],
+    "outlier_id": "54792"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      17
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "54792",
+      "64047",
+      "12043",
+      "53579",
+      "20839"
+    ],
+    "outlier_id": "20839"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      17
+    ],
+    "other_cluster": [
+      15,
+      17
+    ],
+    "group": [
+      "54792",
+      "38478",
+      "64047",
+      "12043",
+      "60915"
+    ],
+    "outlier_id": "60915"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      0
+    ],
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "8176",
+      "28082",
+      "78009",
+      "14834",
+      "25711"
+    ],
+    "outlier_id": "25711"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      17,
+      21
+    ],
+    "other_cluster": [
+      7,
+      3
+    ],
+    "group": [
+      "62549",
+      "69704",
+      "62454",
+      "9795",
+      "75828"
+    ],
+    "outlier_id": "75828"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      5
+    ],
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "12162",
+      "74226",
+      "64",
+      "63514",
+      "38548"
+    ],
+    "outlier_id": "38548"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      6
+    ],
+    "other_cluster": [
+      18,
+      23
+    ],
+    "group": [
+      "75880",
+      "41154",
+      "43036",
+      "25447",
+      "40817"
+    ],
+    "outlier_id": "40817"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      21
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "57272",
+      "47060",
+      "42206",
+      "53064",
+      "13497"
+    ],
+    "outlier_id": "13497"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      6
+    ],
+    "other_cluster": [
+      18,
+      23
+    ],
+    "group": [
+      "59474",
+      "49395",
+      "25447",
+      "43036",
+      "20502"
+    ],
+    "outlier_id": "20502"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      7,
+      22
+    ],
+    "other_cluster": [
+      17,
+      5
+    ],
+    "group": [
+      "23132",
+      "40679",
+      "31113",
+      "79411",
+      "50221"
+    ],
+    "outlier_id": "50221"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      3
+    ],
+    "other_cluster": [
+      15,
+      13
+    ],
+    "group": [
+      "22002",
+      "10131",
+      "10017",
+      "994",
+      "42684"
+    ],
+    "outlier_id": "42684"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      3
+    ],
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "994",
+      "10131",
+      "22002",
+      "72700",
+      "67905"
+    ],
+    "outlier_id": "67905"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      26
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "72586",
+      "32729",
+      "9147",
+      "68096",
+      "13497"
+    ],
+    "outlier_id": "13497"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      0
+    ],
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "78009",
+      "14834",
+      "8176",
+      "28082",
+      "4132"
+    ],
+    "outlier_id": "4132"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      7,
+      1
+    ],
+    "other_cluster": [
+      17,
+      18
+    ],
+    "group": [
+      "17550",
+      "8109",
+      "12376",
+      "12421",
+      "31693"
+    ],
+    "outlier_id": "31693"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      5
+    ],
+    "other_cluster": [
+      15,
+      13
+    ],
+    "group": [
+      "12162",
+      "63514",
+      "74226",
+      "64",
+      "53137"
+    ],
+    "outlier_id": "53137"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      18,
+      23
+    ],
+    "other_cluster": [
+      0,
+      7
+    ],
+    "group": [
+      "78682",
+      "61353",
+      "6216",
+      "59794",
+      "65801"
+    ],
+    "outlier_id": "65801"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      21
+    ],
+    "other_cluster": [
+      15,
+      13
+    ],
+    "group": [
+      "53064",
+      "57272",
+      "47060",
+      "42206",
+      "53137"
+    ],
+    "outlier_id": "53137"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      14
+    ],
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "42604",
+      "80522",
+      "1261",
+      "17291",
+      "25711"
+    ],
+    "outlier_id": "25711"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      7
+    ],
+    "other_cluster": [
+      15,
+      17
+    ],
+    "group": [
+      "73164",
+      "4286",
+      "30859",
+      "19992",
+      "11908"
+    ],
+    "outlier_id": "11908"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      7,
+      1
+    ],
+    "other_cluster": [
+      17,
+      5
+    ],
+    "group": [
+      "10825",
+      "8109",
+      "17550",
+      "16951",
+      "50221"
+    ],
+    "outlier_id": "50221"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      15,
+      13
+    ],
+    "other_cluster": [
+      3,
+      21
+    ],
+    "group": [
+      "42684",
+      "34763",
+      "24364",
+      "68970",
+      "14038"
+    ],
+    "outlier_id": "14038"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      26
+    ],
+    "other_cluster": [
+      15,
+      13
+    ],
+    "group": [
+      "50906",
+      "18887",
+      "11033",
+      "40031",
+      "53137"
+    ],
+    "outlier_id": "53137"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      18,
+      23
+    ],
+    "other_cluster": [
+      0,
+      0
+    ],
+    "group": [
+      "72978",
+      "32105",
+      "26052",
+      "65195",
+      "8176"
+    ],
+    "outlier_id": "8176"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      4
+    ],
+    "other_cluster": [
+      15,
+      13
+    ],
+    "group": [
+      "20671",
+      "35787",
+      "11039",
+      "9383",
+      "53137"
+    ],
+    "outlier_id": "53137"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      18,
+      23
+    ],
+    "other_cluster": [
+      0,
+      6
+    ],
+    "group": [
+      "37360",
+      "59794",
+      "72365",
+      "64247",
+      "59474"
+    ],
+    "outlier_id": "59474"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      17,
+      18
+    ],
+    "other_cluster": [
+      7,
+      3
+    ],
+    "group": [
+      "31693",
+      "66935",
+      "46660",
+      "21543",
+      "75828"
+    ],
+    "outlier_id": "75828"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      7,
+      20
+    ],
+    "other_cluster": [
+      17,
+      5
+    ],
+    "group": [
+      "54372",
+      "55305",
+      "2277",
+      "2425",
+      "50221"
+    ],
+    "outlier_id": "50221"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      7,
+      20
+    ],
+    "other_cluster": [
+      17,
+      18
+    ],
+    "group": [
+      "54372",
+      "2425",
+      "2277",
+      "55305",
+      "6955"
+    ],
+    "outlier_id": "6955"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      7,
+      22
+    ],
+    "other_cluster": [
+      17,
+      21
+    ],
+    "group": [
+      "23132",
+      "79411",
+      "31113",
+      "40679",
+      "62454"
+    ],
+    "outlier_id": "62454"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      28
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "55090",
+      "12683",
+      "42226",
+      "73823",
+      "20839"
+    ],
+    "outlier_id": "20839"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      4
+    ],
+    "other_cluster": [
+      15,
+      17
+    ],
+    "group": [
+      "9383",
+      "11039",
+      "20671",
+      "35787",
+      "1225"
+    ],
+    "outlier_id": "1225"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      7
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "30859",
+      "19992",
+      "4286",
+      "37907",
+      "20839"
+    ],
+    "outlier_id": "20839"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      2
+    ],
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "67465",
+      "63508",
+      "54867",
+      "44125",
+      "73827"
+    ],
+    "outlier_id": "73827"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      2
+    ],
+    "other_cluster": [
+      18,
+      23
+    ],
+    "group": [
+      "9836",
+      "54867",
+      "63508",
+      "43629",
+      "64247"
+    ],
+    "outlier_id": "64247"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      7
+    ],
+    "other_cluster": [
+      15,
+      17
+    ],
+    "group": [
+      "73164",
+      "4286",
+      "19796",
+      "37907",
+      "47834"
+    ],
+    "outlier_id": "47834"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      3
+    ],
+    "other_cluster": [
+      15,
+      17
+    ],
+    "group": [
+      "22002",
+      "10131",
+      "10017",
+      "30004",
+      "60915"
+    ],
+    "outlier_id": "60915"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      16
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "56017",
+      "59100",
+      "177",
+      "11746",
+      "13497"
+    ],
+    "outlier_id": "13497"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      15,
+      17
+    ],
+    "other_cluster": [
+      3,
+      12
+    ],
+    "group": [
+      "1225",
+      "60915",
+      "11908",
+      "47834",
+      "20968"
+    ],
+    "outlier_id": "20968"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      12
+    ],
+    "other_cluster": [
+      15,
+      17
+    ],
+    "group": [
+      "1181",
+      "37955",
+      "27821",
+      "20968",
+      "11908"
+    ],
+    "outlier_id": "11908"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      17,
+      5
+    ],
+    "other_cluster": [
+      7,
+      22
+    ],
+    "group": [
+      "72055",
+      "7913",
+      "33045",
+      "50221",
+      "31113"
+    ],
+    "outlier_id": "31113"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      3
+    ],
+    "other_cluster": [
+      15,
+      17
+    ],
+    "group": [
+      "994",
+      "22002",
+      "30004",
+      "10017",
+      "11908"
+    ],
+    "outlier_id": "11908"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      5
+    ],
+    "other_cluster": [
+      15,
+      13
+    ],
+    "group": [
+      "63514",
+      "74226",
+      "12162",
+      "64",
+      "25079"
+    ],
+    "outlier_id": "25079"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      15,
+      21
+    ],
+    "other_cluster": [
+      3,
+      28
+    ],
+    "group": [
+      "7489",
+      "13497",
+      "3384",
+      "20839",
+      "42226"
+    ],
+    "outlier_id": "42226"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      17,
+      18
+    ],
+    "other_cluster": [
+      7,
+      20
+    ],
+    "group": [
+      "66316",
+      "46660",
+      "6955",
+      "70105",
+      "2277"
+    ],
+    "outlier_id": "2277"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      7,
+      3
+    ],
+    "other_cluster": [
+      17,
+      18
+    ],
+    "group": [
+      "75828",
+      "61767",
+      "64781",
+      "52457",
+      "21408"
+    ],
+    "outlier_id": "21408"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      18,
+      23
+    ],
+    "other_cluster": [
+      0,
+      24
+    ],
+    "group": [
+      "14167",
+      "26755",
+      "12104",
+      "64247",
+      "48780"
+    ],
+    "outlier_id": "48780"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      3
+    ],
+    "other_cluster": [
+      15,
+      13
+    ],
+    "group": [
+      "10131",
+      "994",
+      "10017",
+      "72700",
+      "42684"
+    ],
+    "outlier_id": "42684"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      16
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "177",
+      "63317",
+      "56017",
+      "59100",
+      "13497"
+    ],
+    "outlier_id": "13497"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      7,
+      22
+    ],
+    "other_cluster": [
+      17,
+      18
+    ],
+    "group": [
+      "79411",
+      "31113",
+      "23132",
+      "40679",
+      "70105"
+    ],
+    "outlier_id": "70105"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      17,
+      18
+    ],
+    "other_cluster": [
+      7,
+      1
+    ],
+    "group": [
+      "31693",
+      "51240",
+      "66316",
+      "6955",
+      "3536"
+    ],
+    "outlier_id": "3536"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      18,
+      23
+    ],
+    "other_cluster": [
+      0,
+      24
+    ],
+    "group": [
+      "6216",
+      "26052",
+      "5909",
+      "32105",
+      "74418"
+    ],
+    "outlier_id": "74418"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      18,
+      25
+    ],
+    "other_cluster": [
+      0,
+      24
+    ],
+    "group": [
+      "3282",
+      "25711",
+      "62071",
+      "73827",
+      "31926"
+    ],
+    "outlier_id": "31926"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      28
+    ],
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "42226",
+      "12683",
+      "55090",
+      "8257",
+      "38548"
+    ],
+    "outlier_id": "38548"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      21
+    ],
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "53064",
+      "57272",
+      "42206",
+      "14038",
+      "10526"
+    ],
+    "outlier_id": "10526"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      17,
+      5
+    ],
+    "other_cluster": [
+      7,
+      20
+    ],
+    "group": [
+      "50221",
+      "7913",
+      "33045",
+      "72055",
+      "55305"
+    ],
+    "outlier_id": "55305"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      15,
+      28
+    ],
+    "other_cluster": [
+      3,
+      21
+    ],
+    "group": [
+      "10526",
+      "23274",
+      "3258",
+      "67905",
+      "42206"
+    ],
+    "outlier_id": "42206"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      15,
+      13
+    ],
+    "other_cluster": [
+      3,
+      5
+    ],
+    "group": [
+      "25079",
+      "53137",
+      "20590",
+      "34763",
+      "64"
+    ],
+    "outlier_id": "64"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      15,
+      28
+    ],
+    "other_cluster": [
+      3,
+      5
+    ],
+    "group": [
+      "10526",
+      "38548",
+      "3258",
+      "23274",
+      "64"
+    ],
+    "outlier_id": "64"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      7,
+      22
+    ],
+    "other_cluster": [
+      17,
+      21
+    ],
+    "group": [
+      "40679",
+      "23132",
+      "79411",
+      "31113",
+      "40487"
+    ],
+    "outlier_id": "40487"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      5
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "64",
+      "63514",
+      "74226",
+      "12162",
+      "13497"
+    ],
+    "outlier_id": "13497"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      18,
+      25
+    ],
+    "other_cluster": [
+      0,
+      7
+    ],
+    "group": [
+      "4132",
+      "62071",
+      "25711",
+      "73827",
+      "10984"
+    ],
+    "outlier_id": "10984"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      21
+    ],
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "53064",
+      "57272",
+      "42206",
+      "14038",
+      "67905"
+    ],
+    "outlier_id": "67905"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      7,
+      1
+    ],
+    "other_cluster": [
+      17,
+      18
+    ],
+    "group": [
+      "3536",
+      "53652",
+      "10825",
+      "8109",
+      "46660"
+    ],
+    "outlier_id": "46660"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      17,
+      5
+    ],
+    "other_cluster": [
+      7,
+      20
+    ],
+    "group": [
+      "50221",
+      "7913",
+      "72055",
+      "33045",
+      "2277"
+    ],
+    "outlier_id": "2277"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      18,
+      23
+    ],
+    "other_cluster": [
+      0,
+      7
+    ],
+    "group": [
+      "48306",
+      "64148",
+      "37360",
+      "10433",
+      "72266"
+    ],
+    "outlier_id": "72266"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      14
+    ],
+    "other_cluster": [
+      18,
+      23
+    ],
+    "group": [
+      "75707",
+      "39894",
+      "1261",
+      "17291",
+      "10433"
+    ],
+    "outlier_id": "10433"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      6
+    ],
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "75880",
+      "49395",
+      "41154",
+      "59474",
+      "4132"
+    ],
+    "outlier_id": "4132"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      0
+    ],
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "78009",
+      "14834",
+      "28082",
+      "8176",
+      "3282"
+    ],
+    "outlier_id": "3282"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      7,
+      22
+    ],
+    "other_cluster": [
+      17,
+      18
+    ],
+    "group": [
+      "40679",
+      "31113",
+      "23132",
+      "79411",
+      "51240"
+    ],
+    "outlier_id": "51240"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      2
+    ],
+    "other_cluster": [
+      18,
+      23
+    ],
+    "group": [
+      "32703",
+      "67842",
+      "67465",
+      "28242",
+      "15451"
+    ],
+    "outlier_id": "15451"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      21
+    ],
+    "other_cluster": [
+      15,
+      17
+    ],
+    "group": [
+      "53064",
+      "47060",
+      "57272",
+      "42206",
+      "47834"
+    ],
+    "outlier_id": "47834"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      21
+    ],
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "42206",
+      "47060",
+      "57272",
+      "53064",
+      "10526"
+    ],
+    "outlier_id": "10526"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      18,
+      23
+    ],
+    "other_cluster": [
+      0,
+      14
+    ],
+    "group": [
+      "26755",
+      "6216",
+      "67584",
+      "65195",
+      "37963"
+    ],
+    "outlier_id": "37963"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      17
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "38478",
+      "33084",
+      "12043",
+      "64047",
+      "13497"
+    ],
+    "outlier_id": "13497"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      24
+    ],
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "31926",
+      "48780",
+      "37989",
+      "74418",
+      "3282"
+    ],
+    "outlier_id": "3282"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      6
+    ],
+    "other_cluster": [
+      18,
+      23
+    ],
+    "group": [
+      "41154",
+      "49395",
+      "43036",
+      "75880",
+      "59794"
+    ],
+    "outlier_id": "59794"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      17
+    ],
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "53579",
+      "12043",
+      "38478",
+      "64047",
+      "10526"
+    ],
+    "outlier_id": "10526"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      28
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "42226",
+      "8257",
+      "73823",
+      "55090",
+      "3384"
+    ],
+    "outlier_id": "3384"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      14
+    ],
+    "other_cluster": [
+      18,
+      23
+    ],
+    "group": [
+      "17291",
+      "37963",
+      "42604",
+      "1261",
+      "5909"
+    ],
+    "outlier_id": "5909"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      15,
+      13
+    ],
+    "other_cluster": [
+      3,
+      7
+    ],
+    "group": [
+      "42684",
+      "25079",
+      "24364",
+      "20590",
+      "30859"
+    ],
+    "outlier_id": "30859"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      7
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "73164",
+      "4286",
+      "19796",
+      "19992",
+      "3384"
+    ],
+    "outlier_id": "3384"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      3
+    ],
+    "other_cluster": [
+      15,
+      17
+    ],
+    "group": [
+      "10131",
+      "72700",
+      "22487",
+      "10017",
+      "11908"
+    ],
+    "outlier_id": "11908"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      17,
+      5
+    ],
+    "other_cluster": [
+      7,
+      1
+    ],
+    "group": [
+      "33045",
+      "50221",
+      "72055",
+      "7913",
+      "53652"
+    ],
+    "outlier_id": "53652"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      14
+    ],
+    "other_cluster": [
+      18,
+      25
+    ],
+    "group": [
+      "39894",
+      "17291",
+      "42604",
+      "80522",
+      "62071"
+    ],
+    "outlier_id": "62071"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      24
+    ],
+    "other_cluster": [
+      18,
+      23
+    ],
+    "group": [
+      "31926",
+      "48780",
+      "37989",
+      "74418",
+      "5909"
+    ],
+    "outlier_id": "5909"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      7
+    ],
+    "other_cluster": [
+      15,
+      21
+    ],
+    "group": [
+      "73164",
+      "30859",
+      "19992",
+      "37907",
+      "7489"
+    ],
+    "outlier_id": "7489"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      17,
+      5
+    ],
+    "other_cluster": [
+      7,
+      1
+    ],
+    "group": [
+      "50221",
+      "72055",
+      "33045",
+      "7913",
+      "12421"
+    ],
+    "outlier_id": "12421"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      0,
+      24
+    ],
+    "other_cluster": [
+      18,
+      23
+    ],
+    "group": [
+      "37989",
+      "48780",
+      "31926",
+      "74418",
+      "65195"
+    ],
+    "outlier_id": "65195"
+  },
+  {
+    "dataset": "difficult",
+    "base_cluster": [
+      3,
+      4
+    ],
+    "other_cluster": [
+      15,
+      28
+    ],
+    "group": [
+      "35787",
+      "9383",
+      "20671",
+      "11039",
+      "23274"
+    ],
+    "outlier_id": "23274"
+  }
+]
